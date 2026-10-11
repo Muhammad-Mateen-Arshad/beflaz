@@ -8137,3 +8137,5 @@
 [2026-10-11 04:55:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf6937ba43ca9cbdea53764eebb
 [2026-10-11 04:55:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Human ancestors shared their migration route out of Africa with enormo
 [2026-10-11 04:55:05 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 8}
+[2026-10-11 07:29:48 PM] [NEWS_BOT] [SUCCESS] Published: Riyadh airport hit by fresh Houthi strike day after deadly attack
+[2026-10-11 07:29:49 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1517 in / 543 out tokens
