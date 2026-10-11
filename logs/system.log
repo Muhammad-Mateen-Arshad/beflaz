@@ -7927,3 +7927,15 @@
 [2026-10-11 10:24:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb63c7c3a647a78876f568c8e8b11
 [2026-10-11 10:24:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 121/800 chars, resolved=True): YMCA healthy aging event helps area seniors stay active and build comm
 [2026-10-11 10:24:07 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-10-11 10:24:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb63c720c2484e83b073c697401eb
+[2026-10-11 10:24:07 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): University of Alberta researchers find evidence raptor may have fed on
+[2026-10-11 10:24:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb63c720c2484e83b073c697401eb
+[2026-10-11 10:24:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Meet the tiny Jurassic predator that could help explain the rise of ma
+[2026-10-11 10:24:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb63c861804f288117262e80d3fea
+[2026-10-11 10:24:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 166/400 chars, resolved=True): Jurassic Park's 'Impossible Cliff' isn't a plot hole, and other Spielb
+[2026-10-11 10:24:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb63c861804f288117262e80d3fea
+[2026-10-11 10:24:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-11 10:24:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb63c861804f288117262e80d3fea
+[2026-10-11 10:24:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-11 10:24:27 AM] [HISTORY_BOT] [SUCCESS] Published: Alexandria, Egypt: A ring featuring the ancient Lighthouse resurfaces from the sea along with new artifacts
+[2026-10-11 10:24:27 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1702 in / 522 out tokens
