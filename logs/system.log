@@ -8072,3 +8072,18 @@
 [2026-10-11 04:52:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-10-11 04:53:30 PM] [NEWS_BOT] [SUCCESS] Published: New attack hits Riyadh airport, says Saudi coalition
 [2026-10-11 04:53:30 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 584 in / 375 out tokens
+[2026-10-11 04:53:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf0b96a3431b8b195c09af887d1
+[2026-10-11 04:53:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): Inside Delhi’s Sujan Singh Park: From Khushwant Singh’s adda to a batt
+[2026-10-11 04:53:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf0b96a3431b8b195c09af887d1
+[2026-10-11 04:53:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): From theatre to streets, Gen Z protester Neha Bora a new face of India
+[2026-10-11 04:53:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf0b96a3431b8b195c09af887d1
+[2026-10-11 04:53:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Israeli president invites Indian pilot Machchhar to receive civilian h
+[2026-10-11 04:53:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf0c2f3c477cb0cc3a0ee6faef3
+[2026-10-11 04:53:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Balochistan cabinet approves, economic, health, education reforms
+[2026-10-11 04:53:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf0dbac643e681e864a5c333248
+[2026-10-11 04:53:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): PPSC Jobs 2026 Apply Online Advertisement No 11/2026 Latest Vacancies 
+[2026-10-11 04:53:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf0dbac643e681e864a5c333248
+[2026-10-11 04:53:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
+[2026-10-11 04:53:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 04:53:51 PM] [JOBS_BOT] [SUCCESS] Published: Jobs at Public Health
+[2026-10-11 04:53:52 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 452 in / 417 out tokens
