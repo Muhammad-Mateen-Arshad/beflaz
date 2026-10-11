@@ -8236,3 +8236,6 @@
 [2026-10-11 11:17:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc191f71a444da9d3c14beaff9487
 [2026-10-11 11:17:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 121/800 chars, resolved=True): YMCA healthy aging event helps area seniors stay active and build comm
 [2026-10-11 11:17:51 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-11 11:17:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 11:18:16 PM] [HISTORY_BOT] [SUCCESS] Published: Four fossil footprints found by a high school teacher may be the first recorded consecutive steps made by an adult T. rex
+[2026-10-11 11:18:17 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1539 in / 514 out tokens
