@@ -8298,3 +8298,7 @@
 [2026-10-11 11:33:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1ce5d39d48bdad583ae51355777
 [2026-10-11 11:33:58 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 121/800 chars, resolved=True): YMCA healthy aging event helps area seniors stay active and build comm
 [2026-10-11 11:33:58 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-11 11:33:59 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 11:34:01 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-11 11:34:21 PM] [HISTORY_BOT] [SUCCESS] Published: Inside Mesa’s Arizona Museum Of Natural History, Kids Come Face To Face With Towering Dinosaurs
+[2026-10-11 11:34:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1600 in / 464 out tokens
