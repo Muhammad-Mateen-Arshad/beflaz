@@ -7859,3 +7859,14 @@
 [2026-10-11 07:29:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): Inside Delhi’s Sujan Singh Park: From Khushwant Singh’s adda to a batt
 [2026-10-11 07:30:07 AM] [JOBS_BOT] [SUCCESS] Published: Foreign media on Kazakhstan: Oman, Kazakhstan launch $150M joint fund in push for deeper Central Asia-Gulf ties; Kazakhstan nuclear emergency center opens with U.S. support
 [2026-10-11 07:30:07 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1451 in / 391 out tokens
+[2026-10-11 07:30:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-11 07:30:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb3b0177574aca9662494b5d0d3ba
+[2026-10-11 07:30:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-11 07:30:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 239/300 chars, resolved=True): What Italy need to do to be seeded for the Euro 2028 qualifying draw
+[2026-10-11 07:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 272/300 chars, resolved=True): Montella: ‘I want to continue as Turkiye coach, we inflated expectatio
+[2026-10-11 07:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb3b024dc84a1cbdca69a132a702a
+[2026-10-11 07:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 91/300 chars, resolved=True): Netflix release list for November 2026: Every show, movie, and documen
+[2026-10-11 07:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb3b024dc84a1cbdca69a132a702a
+[2026-10-11 07:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 142/300 chars, resolved=True): Netflix's 3 Body Problem has a 3-season problem
+[2026-10-11 07:30:25 AM] [DRAMAS_BOT] [SUCCESS] Published: 'The Diplomat' Season 4: Release date, plot, cast and filming locations
+[2026-10-11 07:30:26 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1055 in / 587 out tokens
