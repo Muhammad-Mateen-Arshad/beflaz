@@ -7870,3 +7870,17 @@
 [2026-10-11 07:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 142/300 chars, resolved=True): Netflix's 3 Body Problem has a 3-season problem
 [2026-10-11 07:30:25 AM] [DRAMAS_BOT] [SUCCESS] Published: 'The Diplomat' Season 4: Release date, plot, cast and filming locations
 [2026-10-11 07:30:26 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1055 in / 587 out tokens
+[2026-10-11 07:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb3b128c984fc78cc34d4b6e41e19
+[2026-10-11 07:30:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Bulletin: Re-examined Egyptian Fossil Reveals New Crocodile Genus; Qas
+[2026-10-11 07:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb3b128c984fc78cc34d4b6e41e19
+[2026-10-11 07:30:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): CUE Releases List of Universities Approved to Operate in Kenya in 2026
+[2026-10-11 07:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb3b130a2d432c8e5a2f2bd86dbf8
+[2026-10-11 07:30:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Pakistan issues new directives for Afghan medical students, doctors
+[2026-10-11 07:30:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb3b130a2d432c8e5a2f2bd86dbf8
+[2026-10-11 07:30:28 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): Iranian lawmaker praises Afghanistan’s support, accuses Pakistan of ‘h
+[2026-10-11 07:30:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb3b1413364f308f68b7c70a3afd7
+[2026-10-11 07:30:28 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Pakistan issues new directives for Afghan medical students, doctors
+[2026-10-11 07:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb3b1413364f308f68b7c70a3afd7
+[2026-10-11 07:30:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): HEC, USEFP announce Fulbright Scholar Program 2027 for Pakistani acade
+[2026-10-11 07:30:44 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC announces Fulbright Scholar Program 2027 for academics, professionals
+[2026-10-11 07:30:44 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 454 in / 362 out tokens
