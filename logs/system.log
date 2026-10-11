@@ -8285,3 +8285,16 @@
 [2026-10-11 11:33:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-11 11:33:54 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Exclusive: Pakistani Gold Medalist’s Death Sparks Fraud Investigation Over Fake US Scholarship
 [2026-10-11 11:33:55 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1471 in / 514 out tokens
+[2026-10-11 11:33:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-11 11:33:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-11 11:33:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1ce4ccf6417cbf7b0b9e0e54213
+[2026-10-11 11:33:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): The business of living longer: Why India’s ageing population is creati
+[2026-10-11 11:33:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1ce4ccf6417cbf7b0b9e0e54213
+[2026-10-11 11:33:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 72/800 chars, resolved=True): Older Adults Ate Peanuts Every Day and Scientists Found a Surprising B
+[2026-10-11 11:33:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1ce4ccf6417cbf7b0b9e0e54213
+[2026-10-11 11:33:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 146/800 chars, resolved=True): Stop trying to hack your feelings. Mental health takes work | Opinion
+[2026-10-11 11:33:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1ce5d39d48bdad583ae51355777
+[2026-10-11 11:33:58 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 115/800 chars, resolved=True): Why you wake up earlier as you get older
+[2026-10-11 11:33:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1ce5d39d48bdad583ae51355777
+[2026-10-11 11:33:58 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 121/800 chars, resolved=True): YMCA healthy aging event helps area seniors stay active and build comm
+[2026-10-11 11:33:58 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
