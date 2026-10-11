@@ -7941,3 +7941,25 @@
 [2026-10-11 10:24:27 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1702 in / 522 out tokens
 [2026-10-11 11:29:44 AM] [NEWS_BOT] [SUCCESS] Published: Naqvi says Centre tried to take KP govt on board in counterterror fight
 [2026-10-11 11:29:45 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1314 in / 473 out tokens
+[2026-10-11 11:29:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-11 11:30:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-11 11:30:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-11 11:30:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-11 11:30:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-11 11:31:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-11 11:31:53 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 11:31:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-11 11:32:36 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Recognising women as Shakti important part of our culture: CM Dhami on
+[2026-10-11 11:32:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb732a987846b5ba94619eb859569
+[2026-10-11 11:32:36 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): Inside Delhi’s Sujan Singh Park: From Khushwant Singh’s adda to a batt
+[2026-10-11 11:32:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb732a987846b5ba94619eb859569
+[2026-10-11 11:32:36 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): From theatre to streets, Gen Z protester Neha Bora a new face of India
+[2026-10-11 11:32:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb73d4b6144cb7a3e87f8d02dc571
+[2026-10-11 11:32:37 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Balochistan cabinet approves, economic, health, education reforms
+[2026-10-11 11:32:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb73d5cf584704b67e020fa2ce795
+[2026-10-11 11:32:38 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): PPSC Jobs 2026 Apply Online Advertisement No 11/2026 Latest Vacancies 
+[2026-10-11 11:32:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb73d5cf584704b67e020fa2ce795
+[2026-10-11 11:32:38 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
+[2026-10-11 11:32:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-11 11:32:56 AM] [JOBS_BOT] [SUCCESS] Published: Lahore Literary Festival in New York 2026
+[2026-10-11 11:32:57 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3161 in / 912 out tokens
