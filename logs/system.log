@@ -8063,3 +8063,6 @@
 [2026-10-11 03:32:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-11 03:32:59 PM] [HEALTH_BOT] [SUCCESS] Published: YMCAs Promote Healthy Aging Through Community Events
 [2026-10-11 03:33:00 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 580 in / 505 out tokens
+[2026-10-11 03:33:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 03:33:23 PM] [HISTORY_BOT] [SUCCESS] Published: Lake Vostok: The ancient lake no one on Earth has ever seen
+[2026-10-11 03:33:24 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1067 in / 553 out tokens
