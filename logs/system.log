@@ -8262,3 +8262,19 @@
 [2026-10-11 11:30:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c1c9f134dfbb091a7ee1a8fc29
 [2026-10-11 11:30:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
 [2026-10-11 11:30:36 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 8}
+[2026-10-11 11:30:37 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-11 11:30:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c1db8934014afae0f24ed9f4ed
+[2026-10-11 11:30:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-11 11:30:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c1db8934014afae0f24ed9f4ed
+[2026-10-11 11:30:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-11 11:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 239/300 chars, resolved=True): What Italy need to do to be seeded for the Euro 2028 qualifying draw
+[2026-10-11 11:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c1f2c2f46babf12d2b573c1a52
+[2026-10-11 11:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 76/300 chars, resolved=True): Josh Hartnett’s New Show Below Reaches No. 1 on Netflix Two Days After
+[2026-10-11 11:30:40 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 11:30:42 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-11 11:30:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-11 11:31:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-11 11:31:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-11 11:31:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-11 11:32:42 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Quietly Renews Controversial Drama for Season 3 After 2 Billion Minutes Watched
+[2026-10-11 11:32:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 778 in / 462 out tokens
