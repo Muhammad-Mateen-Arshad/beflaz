@@ -8050,3 +8050,16 @@
 [2026-10-11 03:31:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-11 03:31:46 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: DAAD EPOS Scholarship 2026/2027 at Charité Berlin: Fully Funded MSc International Health in Germany
 [2026-10-11 03:31:47 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1517 in / 653 out tokens
+[2026-10-11 03:31:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-11 03:31:47 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-11 03:31:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbabe4e97d465795cd262a8820db4
+[2026-10-11 03:31:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): The business of living longer: Why India’s ageing population is creati
+[2026-10-11 03:31:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbabe4e97d465795cd262a8820db4
+[2026-10-11 03:31:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 72/800 chars, resolved=True): Older Adults Ate Peanuts Every Day and Scientists Found a Surprising B
+[2026-10-11 03:31:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbabe4e97d465795cd262a8820db4
+[2026-10-11 03:31:49 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 146/800 chars, resolved=True): Stop trying to hack your feelings. Mental health takes work | Opinion
+[2026-10-11 03:32:01 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 03:32:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-11 03:32:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-11 03:32:59 PM] [HEALTH_BOT] [SUCCESS] Published: YMCAs Promote Healthy Aging Through Community Events
+[2026-10-11 03:33:00 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 580 in / 505 out tokens
