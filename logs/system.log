@@ -8087,3 +8087,17 @@
 [2026-10-11 04:53:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-11 04:53:51 PM] [JOBS_BOT] [SUCCESS] Published: Jobs at Public Health
 [2026-10-11 04:53:52 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 452 in / 417 out tokens
+[2026-10-11 04:53:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-11 04:53:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf226ddc4637a280e01aa1ff6c9
+[2026-10-11 04:53:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-11 04:53:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 239/300 chars, resolved=True): What Italy need to do to be seeded for the Euro 2028 qualifying draw
+[2026-10-11 04:53:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 272/300 chars, resolved=True): Montella: ‘I want to continue as Turkiye coach, we inflated expectatio
+[2026-10-11 04:53:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf24aef74f3c9d70699d147dc0e
+[2026-10-11 04:53:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 76/300 chars, resolved=True): Josh Hartnett’s New Show Below Reaches No. 1 on Netflix Two Days After
+[2026-10-11 04:53:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf24aef74f3c9d70699d147dc0e
+[2026-10-11 04:53:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Netflix new releases this week (October 12-18, 2026): The Diplomat sea
+[2026-10-11 04:53:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbbf24aef74f3c9d70699d147dc0e
+[2026-10-11 04:53:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 175/300 chars, resolved=True): 100 days of deception episode 2 release date: When and where to watch 
+[2026-10-11 04:53:57 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 04:54:16 PM] [DRAMAS_BOT] [SUCCESS] Published: Dragon Ball Super Returns After 8 Years With Epic New Anime Opening – Watch Now
+[2026-10-11 04:54:17 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1293 in / 479 out tokens
