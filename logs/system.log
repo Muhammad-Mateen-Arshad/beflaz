@@ -8187,3 +8187,22 @@
 [2026-10-11 07:30:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3d3660d49508fa19282bcaee7b
 [2026-10-11 07:30:28 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 121/800 chars, resolved=True): YMCA healthy aging event helps area seniors stay active and build comm
 [2026-10-11 07:30:28 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-11 07:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3d4448f46afb9c3899f9e355a3
+[2026-10-11 07:30:29 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-11 07:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3d4448f46afb9c3899f9e355a3
+[2026-10-11 07:30:29 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-11 07:30:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3d5fe074222b0cd03ce77926ac
+[2026-10-11 07:30:30 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 95/400 chars, resolved=True): Archaeologists Discovered Not One, Not Two, But Six Sacrificial Pits—a
+[2026-10-11 07:30:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3d5fe074222b0cd03ce77926ac
+[2026-10-11 07:30:30 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 182/400 chars, resolved=True): Massive 2,000-year-old discovery from time of Jesus emerges remarkably
+[2026-10-11 07:30:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3d5fe074222b0cd03ce77926ac
+[2026-10-11 07:30:30 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 2,000-year-old ring engraved with a lost wonder of the ancient world u
+[2026-10-11 07:30:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3d5fe074222b0cd03ce77926ac
+[2026-10-11 07:30:30 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Meet Cleopatra, the 30-Year-Old Archeologist with a Historic Name Who 
+[2026-10-11 07:30:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3d65c304f1fa691c5f2bb48211
+[2026-10-11 07:30:30 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Plague was killing humans 5,500 years ago! New study rewrites history 
+[2026-10-11 07:30:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 07:30:34 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-11 07:30:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-11 07:31:17 PM] [HISTORY_BOT] [SUCCESS] Published: This prehistoric cow roamed Europe thousands of years ago. Scientists now know why it perished
+[2026-10-11 07:31:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1238 in / 548 out tokens
