@@ -8245,3 +8245,20 @@
 [2026-10-11 11:29:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-10-11 11:30:31 PM] [NEWS_BOT] [SUCCESS] Published: Authorities impose Section 144 in Karachi, ban gatherings of more than 5 people till Oct 20
 [2026-10-11 11:30:32 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 737 in / 456 out tokens
+[2026-10-11 11:30:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c18a5fe4fe0af6cf8886bdcf5c
+[2026-10-11 11:30:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): AAP govt focused on working for people: Mann
+[2026-10-11 11:30:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c19c6d549699a6acbf4b6421a2
+[2026-10-11 11:30:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): Inside Delhi’s Sujan Singh Park: From Khushwant Singh’s adda to a batt
+[2026-10-11 11:30:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c19c6d549699a6acbf4b6421a2
+[2026-10-11 11:30:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): From theatre to streets, Gen Z protester Neha Bora a new face of India
+[2026-10-11 11:30:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c19c6d549699a6acbf4b6421a2
+[2026-10-11 11:30:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Man posing as CISF cop arrested in Gujarat for promising airport jobs,
+[2026-10-11 11:30:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c1a281d4b43b4c1aca67769674
+[2026-10-11 11:30:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): PPSC Jobs 2026 Apply Online Advertisement No 11/2026 Latest Vacancies 
+[2026-10-11 11:30:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c1a281d4b43b4c1aca67769674
+[2026-10-11 11:30:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
+[2026-10-11 11:30:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c1a281d4b43b4c1aca67769674
+[2026-10-11 11:30:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Newspaper - Lahore - October 11, 2026
+[2026-10-11 11:30:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c1c9f134dfbb091a7ee1a8fc29
+[2026-10-11 11:30:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
+[2026-10-11 11:30:36 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 8}
