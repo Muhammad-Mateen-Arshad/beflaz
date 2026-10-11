@@ -8155,3 +8155,17 @@
 [2026-10-11 07:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3ba04c849999ad8a9f4ce9be13
 [2026-10-11 07:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
 [2026-10-11 07:30:02 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 8}
+[2026-10-11 07:30:04 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-11 07:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3bc69d948968965e4696b9d405
+[2026-10-11 07:30:04 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-11 07:30:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 239/300 chars, resolved=True): What Italy need to do to be seeded for the Euro 2028 qualifying draw
+[2026-10-11 07:30:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 272/300 chars, resolved=True): Montella: ‘I want to continue as Turkiye coach, we inflated expectatio
+[2026-10-11 07:30:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3be417c4546abb3464931bc681
+[2026-10-11 07:30:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 189/300 chars, resolved=True): When will The New Stanford Prison Experiment premiere on Netflix? Rele
+[2026-10-11 07:30:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3be417c4546abb3464931bc681
+[2026-10-11 07:30:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 76/300 chars, resolved=True): Josh Hartnett’s New Show Below Reaches No. 1 on Netflix Two Days After
+[2026-10-11 07:30:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3be417c4546abb3464931bc681
+[2026-10-11 07:30:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Netflix new releases this week (October 12-18, 2026): The Diplomat sea
+[2026-10-11 07:30:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3be417c4546abb3464931bc681
+[2026-10-11 07:30:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 175/300 chars, resolved=True): 100 days of deception episode 2 release date: When and where to watch 
+[2026-10-11 07:30:07 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
