@@ -8239,3 +8239,9 @@
 [2026-10-11 11:17:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-11 11:18:16 PM] [HISTORY_BOT] [SUCCESS] Published: Four fossil footprints found by a high school teacher may be the first recorded consecutive steps made by an adult T. rex
 [2026-10-11 11:18:17 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1539 in / 514 out tokens
+[2026-10-11 11:29:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-11 11:29:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-11 11:29:44 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 11:29:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-11 11:30:31 PM] [NEWS_BOT] [SUCCESS] Published: Authorities impose Section 144 in Karachi, ban gatherings of more than 5 people till Oct 20
+[2026-10-11 11:30:32 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 737 in / 456 out tokens
