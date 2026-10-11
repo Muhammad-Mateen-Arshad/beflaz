@@ -7998,3 +7998,16 @@
 [2026-10-11 11:34:55 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Top 30 scholarships available to Africans seeking studies in US, Europ
 [2026-10-11 11:35:08 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Chevening Scholarships
 [2026-10-11 11:35:09 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 1967 in / 624 out tokens
+[2026-10-11 11:35:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-11 11:35:11 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-11 11:35:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb746f13f544bd82fa225997e1305
+[2026-10-11 11:35:11 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): The business of living longer: Why India’s ageing population is creati
+[2026-10-11 11:35:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb746f13f544bd82fa225997e1305
+[2026-10-11 11:35:11 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 67/800 chars, resolved=True): Your Favorite Song Might Make Pain Hurt Less
+[2026-10-11 11:35:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb746f13f544bd82fa225997e1305
+[2026-10-11 11:35:11 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 146/800 chars, resolved=True): Stop trying to hack your feelings. Mental health takes work | Opinion
+[2026-10-11 11:35:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb746fc5a6433fa616a878b6970b1
+[2026-10-11 11:35:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 115/800 chars, resolved=True): Why you wake up earlier as you get older
+[2026-10-11 11:35:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb746fc5a6433fa616a878b6970b1
+[2026-10-11 11:35:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): Canadian doctor cracks the science of a healthy, happy retirement — an
+[2026-10-11 11:35:12 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
