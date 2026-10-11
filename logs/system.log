@@ -8210,3 +8210,9 @@
 [2026-10-11 11:16:29 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1525 in / 580 out tokens
 [2026-10-11 11:16:46 PM] [JOBS_BOT] [SUCCESS] Published: From stabilisation to growth
 [2026-10-11 11:16:47 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1373 in / 451 out tokens
+[2026-10-11 11:16:48 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-11 11:16:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc18e02ace4c97bbbe500528a9bcf
+[2026-10-11 11:16:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-11 11:16:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 11:17:12 PM] [DRAMAS_BOT] [SUCCESS] Published: Inside Guy Ritchie and Steven Knight’s TV turf war – and who wins when their hit shows go head to head
+[2026-10-11 11:17:13 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1698 in / 636 out tokens
