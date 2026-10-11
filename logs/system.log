@@ -7907,3 +7907,10 @@
 [2026-10-11 10:23:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1480 in / 439 out tokens
 [2026-10-11 10:23:21 AM] [JOBS_BOT] [SUCCESS] Published: Punjab approves Rs8.7bn cancer hospital in DG Khan
 [2026-10-11 10:23:21 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 746 in / 507 out tokens
+[2026-10-11 10:23:23 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-11 10:23:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb639b9cc04f8286d8f6b3cd6a2ad
+[2026-10-11 10:23:23 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-11 10:23:24 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 239/300 chars, resolved=True): What Italy need to do to be seeded for the Euro 2028 qualifying draw
+[2026-10-11 10:23:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 272/300 chars, resolved=True): Montella: ‘I want to continue as Turkiye coach, we inflated expectatio
+[2026-10-11 10:23:45 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix's New Thriller Series Becomes the Streamer's No. 1 Show in the World Two Days After Its Release
+[2026-10-11 10:23:46 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 793 in / 462 out tokens
