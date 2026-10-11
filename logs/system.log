@@ -8278,3 +8278,10 @@
 [2026-10-11 11:31:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-11 11:32:42 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Quietly Renews Controversial Drama for Season 3 After 2 Billion Minutes Watched
 [2026-10-11 11:32:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 778 in / 462 out tokens
+[2026-10-11 11:32:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc1c9ca94d4f5aa78fe4fb097481f
+[2026-10-11 11:32:44 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Bulletin: Re-examined Egyptian Fossil Reveals New Crocodile Genus; Qas
+[2026-10-11 11:32:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 11:32:48 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-11 11:33:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-11 11:33:54 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Exclusive: Pakistani Gold Medalist’s Death Sparks Fraud Investigation Over Fake US Scholarship
+[2026-10-11 11:33:55 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1471 in / 514 out tokens
