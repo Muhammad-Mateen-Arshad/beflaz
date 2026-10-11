@@ -8139,3 +8139,19 @@
 [2026-10-11 04:55:05 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 8}
 [2026-10-11 07:29:48 PM] [NEWS_BOT] [SUCCESS] Published: Riyadh airport hit by fresh Houthi strike day after deadly attack
 [2026-10-11 07:29:49 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1517 in / 543 out tokens
+[2026-10-11 07:29:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3ae31374973b91665a6b7ba628
+[2026-10-11 07:29:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): Inside Delhi’s Sujan Singh Park: From Khushwant Singh’s adda to a batt
+[2026-10-11 07:29:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3ae31374973b91665a6b7ba628
+[2026-10-11 07:29:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): From theatre to streets, Gen Z protester Neha Bora a new face of India
+[2026-10-11 07:29:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3ae31374973b91665a6b7ba628
+[2026-10-11 07:29:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): Kharge, Rahul Gandhi to meet CJI on Oct 12 over alleged irregularities
+[2026-10-11 07:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3afd26a469a84cc5ccbfa48302
+[2026-10-11 07:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Balochistan cabinet approves, economic, health, education reforms
+[2026-10-11 07:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3b8ccdc4b74a8b89748696e147
+[2026-10-11 07:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): PPSC Jobs 2026 Apply Online Advertisement No 11/2026 Latest Vacancies 
+[2026-10-11 07:30:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3b8ccdc4b74a8b89748696e147
+[2026-10-11 07:30:01 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
+[2026-10-11 07:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 277/400 chars, resolved=True): Centre weighs ‘last resort’ in KP as PTI march rolls on; emergency thr
+[2026-10-11 07:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3ba04c849999ad8a9f4ce9be13
+[2026-10-11 07:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
+[2026-10-11 07:30:02 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 8}
