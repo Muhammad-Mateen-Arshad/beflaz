@@ -8216,3 +8216,10 @@
 [2026-10-11 11:16:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-11 11:17:12 PM] [DRAMAS_BOT] [SUCCESS] Published: Inside Guy Ritchie and Steven Knight’s TV turf war – and who wins when their hit shows go head to head
 [2026-10-11 11:17:13 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1698 in / 636 out tokens
+[2026-10-11 11:17:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc18f92ea0459f899a33eb792f327
+[2026-10-11 11:17:14 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Bulletin: Re-examined Egyptian Fossil Reveals New Crocodile Genus; Qas
+[2026-10-11 11:17:15 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 11:17:18 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-11 11:17:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-11 11:17:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: NAVTTC Shares List of All Recognized Technical Training Institutions
+[2026-10-11 11:17:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 767 in / 437 out tokens
