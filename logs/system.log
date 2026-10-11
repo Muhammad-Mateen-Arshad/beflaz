@@ -8169,3 +8169,6 @@
 [2026-10-11 07:30:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe3be417c4546abb3464931bc681
 [2026-10-11 07:30:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 175/300 chars, resolved=True): 100 days of deception episode 2 release date: When and where to watch 
 [2026-10-11 07:30:07 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-11 07:30:09 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 07:30:24 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistani Students Can Apply for Master’s and PhD Eiffel Scholarships in France
+[2026-10-11 07:30:25 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1060 in / 592 out tokens
