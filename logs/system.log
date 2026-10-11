@@ -7977,3 +7977,24 @@
 [2026-10-11 11:33:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb73ed1c57452ea22b26b8c4c79ed
 [2026-10-11 11:33:01 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): ‘Blade Runner 2099' Trailer: Michelle Yeoh, Hunter Schafer Fugitives
 [2026-10-11 11:33:01 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-10-11 11:33:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb73ee58094397bf349c6f4d5a4e2
+[2026-10-11 11:33:02 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Bulletin: Re-examined Egyptian Fossil Reveals New Crocodile Genus; Qas
+[2026-10-11 11:33:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb73ee58094397bf349c6f4d5a4e2
+[2026-10-11 11:33:02 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Kenya, UK target early 2027 deadline for new BATUK defence agreement a
+[2026-10-11 11:33:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb73eed5274260b49a8f3ec857ca5
+[2026-10-11 11:33:03 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Pakistan issues new directives for Afghan medical students, doctors
+[2026-10-11 11:33:06 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-11 11:33:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-11 11:33:24 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-11 11:33:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-11 11:34:11 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 11:34:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-11 11:34:54 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (122 words, need 150)): Afghanistan placed in Tier 3 in US human trafficking report
+[2026-10-11 11:34:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb745e3d3a4241a8519f383d77a05
+[2026-10-11 11:34:54 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Pakistan issues new directives for Afghan medical students, doctors
+[2026-10-11 11:34:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb745e3d3a4241a8519f383d77a05
+[2026-10-11 11:34:55 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): HEC, USEFP announce Fulbright Scholar Program 2027 for Pakistani acade
+[2026-10-11 11:34:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb745f21dd407eafcdce562d16385
+[2026-10-11 11:34:55 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Top 30 scholarships available to Africans seeking studies in US, Europ
+[2026-10-11 11:35:08 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Chevening Scholarships
+[2026-10-11 11:35:09 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 1967 in / 624 out tokens
