@@ -8033,3 +8033,17 @@
 [2026-10-11 03:30:46 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1491 in / 520 out tokens
 [2026-10-11 03:31:02 PM] [JOBS_BOT] [SUCCESS] Published: Dhami highlights 30% horizontal reservation for women at Balika Shiksha Protsahan Programme
 [2026-10-11 03:31:03 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1215 in / 357 out tokens
+[2026-10-11 03:31:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-11 03:31:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbabb946804897abe416e87097604
+[2026-10-11 03:31:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-11 03:31:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 239/300 chars, resolved=True): What Italy need to do to be seeded for the Euro 2028 qualifying draw
+[2026-10-11 03:31:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 272/300 chars, resolved=True): Montella: ‘I want to continue as Turkiye coach, we inflated expectatio
+[2026-10-11 03:31:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbabbba47c4095bfd7588cc275e3c
+[2026-10-11 03:31:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 76/300 chars, resolved=True): Josh Hartnett’s New Show Below Reaches No. 1 on Netflix Two Days After
+[2026-10-11 03:31:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbabbba47c4095bfd7588cc275e3c
+[2026-10-11 03:31:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Netflix new releases this week (October 12-18, 2026): The Diplomat sea
+[2026-10-11 03:31:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbabbba47c4095bfd7588cc275e3c
+[2026-10-11 03:31:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 142/300 chars, resolved=True): Netflix's 3 Body Problem has a 3-season problem
+[2026-10-11 03:31:09 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 03:31:27 PM] [DRAMAS_BOT] [SUCCESS] Published: GTA 6 Leaks: Rockstar Stays Silent 3 Days Straight [2026]
+[2026-10-11 03:31:29 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1574 in / 545 out tokens
