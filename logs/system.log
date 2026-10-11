@@ -8066,3 +8066,9 @@
 [2026-10-11 03:33:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-11 03:33:23 PM] [HISTORY_BOT] [SUCCESS] Published: Lake Vostok: The ancient lake no one on Earth has ever seen
 [2026-10-11 03:33:24 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1067 in / 553 out tokens
+[2026-10-11 04:52:10 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-11 04:52:15 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-11 04:52:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-11 04:52:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-11 04:53:30 PM] [NEWS_BOT] [SUCCESS] Published: New attack hits Riyadh airport, says Saudi coalition
+[2026-10-11 04:53:30 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 584 in / 375 out tokens
