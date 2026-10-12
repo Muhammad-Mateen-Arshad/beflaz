@@ -8368,3 +8368,7 @@
 [2026-10-12 02:55:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc4c2201574023b5eda86d2cd9f27
 [2026-10-12 02:55:30 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Ancient cave paintings reveal thousands of years of religious activity
 [2026-10-12 02:55:30 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-12 03:29:28 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 03:29:30 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 03:29:49 AM] [NEWS_BOT] [SUCCESS] Published: Another slain MT Honour 25 seaman’s family seeks return of his remains
+[2026-10-12 03:29:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1651 in / 486 out tokens
