@@ -8769,3 +8769,15 @@
 [2026-10-12 08:07:59 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-12 08:08:18 PM] [HISTORY_BOT] [SUCCESS] Published: Experience 4.6 Billion Years of Earth and Life! Visiting the Earth Museum with Elementary School Children
 [2026-10-12 08:08:19 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1627 in / 418 out tokens
+[2026-10-12 08:29:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-12 08:29:29 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 08:29:31 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 08:29:33 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-12 08:29:35 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-12 08:29:37 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
+[2026-10-12 08:30:18 PM] [AI_BOT] [INFO] Switched to Gemini key 1 of 5
+[2026-10-12 08:30:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 08:30:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 08:30:55 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 08:30:57 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-12 08:31:00 PM] [NEWS_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
