@@ -8528,3 +8528,20 @@
 [2026-10-12 11:28:16 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-12 11:28:40 AM] [HEALTH_BOT] [SUCCESS] Published: 5 signs you're not getting enough vitamin D, especially in winter
 [2026-10-12 11:28:41 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1620 in / 499 out tokens
+[2026-10-12 11:28:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc46a7f0343158f6e1e169427a8b
+[2026-10-12 11:28:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A dinosaur found on a Montana ranch is headed to auction for $6 millio
+[2026-10-12 11:28:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc46a7f0343158f6e1e169427a8b
+[2026-10-12 11:28:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Everyone knows the T rex... but how much do we really know about this 
+[2026-10-12 11:28:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc46a18774223a962bd323491ae8
+[2026-10-12 11:28:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-12 11:28:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc46a18774223a962bd323491ae8
+[2026-10-12 11:28:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-12 11:28:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc46b12eb45e8ab45af8968d462f
+[2026-10-12 11:28:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 182/400 chars, resolved=True): Massive 2,000-year-old discovery from time of Jesus emerges remarkably
+[2026-10-12 11:28:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc46b12eb45e8ab45af8968d462f
+[2026-10-12 11:28:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 2,000-year-old ring engraved with a lost wonder of the ancient world u
+[2026-10-12 11:28:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc46b12eb45e8ab45af8968d462f
+[2026-10-12 11:28:44 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 95/400 chars, resolved=True): Archaeologists Discovered Not One, Not Two, But Six Sacrificial Pits—a
+[2026-10-12 11:28:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc46b12eb45e8ab45af8968d462f
+[2026-10-12 11:28:44 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Meet Cleopatra, the 30-Year-Old Archeologist with a Historic Name Who 
+[2026-10-12 11:28:44 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
