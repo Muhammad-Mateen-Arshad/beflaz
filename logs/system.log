@@ -8479,3 +8479,20 @@
 [2026-10-12 07:31:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce8c2804c80b2603c3cf5fb828
 [2026-10-12 07:31:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 115/800 chars, resolved=True): Why you wake up earlier as you get older
 [2026-10-12 07:31:52 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-12 07:31:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce895bb4649aef59c5581b0108
+[2026-10-12 07:31:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A dinosaur found on a Montana ranch is headed to auction for $6 millio
+[2026-10-12 07:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce8b58f449c9647dbdcda01226
+[2026-10-12 07:31:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Colorado scientists make history, uncover Tyrannosaurus rex footprints
+[2026-10-12 07:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce8b58f449c9647dbdcda01226
+[2026-10-12 07:31:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-12 07:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce8b58f449c9647dbdcda01226
+[2026-10-12 07:31:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-12 07:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce9c7a54dc5b3ba32f3d5e80f7
+[2026-10-12 07:31:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 95/400 chars, resolved=True): Archaeologists Discovered Not One, Not Two, But Six Sacrificial Pits—a
+[2026-10-12 07:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce9c7a54dc5b3ba32f3d5e80f7
+[2026-10-12 07:31:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 182/400 chars, resolved=True): Massive 2,000-year-old discovery from time of Jesus emerges remarkably
+[2026-10-12 07:31:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce9c7a54dc5b3ba32f3d5e80f7
+[2026-10-12 07:31:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 2,000-year-old ring engraved with a lost wonder of the ancient world u
+[2026-10-12 07:31:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce9c7a54dc5b3ba32f3d5e80f7
+[2026-10-12 07:31:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Meet Cleopatra, the 30-Year-Old Archeologist with a Historic Name Who 
+[2026-10-12 07:31:54 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
