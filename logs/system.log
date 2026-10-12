@@ -8591,3 +8591,20 @@
 [2026-10-12 11:32:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc53e91824a45b28303ab3421167
 [2026-10-12 11:32:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 68/800 chars, resolved=True): How to take care of your knees in your 20s, 30s, 40s and beyond
 [2026-10-12 11:32:15 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-12 11:32:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc53fbb82445a9fda3b7994fbf05
+[2026-10-12 11:32:16 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A dinosaur found on a Montana ranch is headed to auction for $6 millio
+[2026-10-12 11:32:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc53fbb82445a9fda3b7994fbf05
+[2026-10-12 11:32:16 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Everyone knows the T Rex... but how much do we really know about this 
+[2026-10-12 11:32:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc540e0d04d12b6a63ae1ca66d48
+[2026-10-12 11:32:16 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Colorado scientists make history, uncover Tyrannosaurus rex footprints
+[2026-10-12 11:32:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc540e0d04d12b6a63ae1ca66d48
+[2026-10-12 11:32:16 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-12 11:32:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc540e0d04d12b6a63ae1ca66d48
+[2026-10-12 11:32:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-12 11:32:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc541935a479789d09bb7960f0b6
+[2026-10-12 11:32:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 182/400 chars, resolved=True): Massive 2,000-year-old discovery from time of Jesus emerges remarkably
+[2026-10-12 11:32:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc541935a479789d09bb7960f0b6
+[2026-10-12 11:32:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 2,000-year-old ring engraved with a lost wonder of the ancient world u
+[2026-10-12 11:32:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc541935a479789d09bb7960f0b6
+[2026-10-12 11:32:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 95/400 chars, resolved=True): Archaeologists Discovered Not One, Not Two, But Six Sacrificial Pits—a
+[2026-10-12 11:32:17 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
