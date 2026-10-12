@@ -8545,3 +8545,6 @@
 [2026-10-12 11:28:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc46b12eb45e8ab45af8968d462f
 [2026-10-12 11:28:44 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Meet Cleopatra, the 30-Year-Old Archeologist with a Historic Name Who 
 [2026-10-12 11:28:44 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-10-12 11:29:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 11:29:51 AM] [NEWS_BOT] [SUCCESS] Published: 2 Pakistan Army pilots martyred as training aircraft crashes in Quetta: ISPR
+[2026-10-12 11:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 644 in / 411 out tokens
