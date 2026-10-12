@@ -8565,3 +8565,14 @@
 [2026-10-12 11:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc4c5354c4743bc8626c5b33c793
 [2026-10-12 11:30:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Netflix new releases this week (October 12-18, 2026): The Diplomat sea
 [2026-10-12 11:30:14 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-12 11:30:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc4c6f5154c88bdeb7a9d52bba79
+[2026-10-12 11:30:15 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Three Kenyan chickens and the human side of diplomacy
+[2026-10-12 11:30:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc4c7ac754545ac85202a1780d89
+[2026-10-12 11:30:15 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Pakistani woman dies in Harvard study-abroad scam
+[2026-10-12 11:30:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-12 11:30:31 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 11:30:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-12 11:31:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-12 11:31:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-12 11:32:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: KEDGE brings its MBA to India, making it the highest ranked MBA in India, for executives
+[2026-10-12 11:32:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1684 in / 453 out tokens
