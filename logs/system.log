@@ -8433,3 +8433,7 @@
 [2026-10-12 03:34:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc5528677c442090f356f3c3879ac
 [2026-10-12 03:34:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Meet Cleopatra, the 30-Year-Old Archeologist with a Historic Name Who 
 [2026-10-12 03:34:01 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-12 07:29:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-12 07:29:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-12 07:30:24 AM] [NEWS_BOT] [SUCCESS] Published: Peshawar becomes city of containers
+[2026-10-12 07:30:25 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1549 in / 467 out tokens
