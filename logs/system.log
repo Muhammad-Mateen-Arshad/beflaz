@@ -8576,3 +8576,18 @@
 [2026-10-12 11:31:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
 [2026-10-12 11:32:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: KEDGE brings its MBA to India, making it the highest ranked MBA in India, for executives
 [2026-10-12 11:32:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1684 in / 453 out tokens
+[2026-10-12 11:32:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-12 11:32:13 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-12 11:32:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc53dd3674e5aa0034b8dd1a9013
+[2026-10-12 11:32:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 68/800 chars, resolved=True): I tried eating 30 plants a week. It was surprisingly easy
+[2026-10-12 11:32:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc53dd3674e5aa0034b8dd1a9013
+[2026-10-12 11:32:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): The business of living longer: Why India’s ageing population is creati
+[2026-10-12 11:32:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc53dd3674e5aa0034b8dd1a9013
+[2026-10-12 11:32:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 146/800 chars, resolved=True): Stop trying to hack your feelings. Mental health takes work | Opinion
+[2026-10-12 11:32:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc53e91824a45b28303ab3421167
+[2026-10-12 11:32:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 121/800 chars, resolved=True): YMCA healthy aging event helps area seniors stay active and build comm
+[2026-10-12 11:32:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc53e91824a45b28303ab3421167
+[2026-10-12 11:32:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 115/800 chars, resolved=True): Why you wake up earlier as you get older
+[2026-10-12 11:32:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc53e91824a45b28303ab3421167
+[2026-10-12 11:32:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 68/800 chars, resolved=True): How to take care of your knees in your 20s, 30s, 40s and beyond
+[2026-10-12 11:32:15 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
