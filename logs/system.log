@@ -8647,3 +8647,8 @@
 [2026-10-12 03:38:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-12 03:39:27 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘The Twin’: Jamie Dornan’s Upcoming Netflix Noir Series Sets New Year’s Day Release
 [2026-10-12 03:39:29 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1367 in / 595 out tokens
+[2026-10-12 03:39:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 03:39:32 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 03:39:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-12 03:40:06 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: A Moment For The Future Of Irish Fashion, Please
+[2026-10-12 03:40:08 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1407 in / 391 out tokens
