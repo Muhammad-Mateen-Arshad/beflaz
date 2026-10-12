@@ -8659,3 +8659,10 @@
 [2026-10-12 03:40:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-12 03:41:02 PM] [HEALTH_BOT] [SUCCESS] Published: This Centuries-Old Game Is Having A Major Moment — And It's Genuinely Good For Your Brain
 [2026-10-12 03:41:03 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1572 in / 568 out tokens
+[2026-10-12 03:41:04 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 03:41:06 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 03:41:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-12 03:41:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-12 03:41:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-12 03:42:24 PM] [HISTORY_BOT] [SUCCESS] Published: A Dinosaur Found on a Montana Ranch Is Headed to Auction for $6 Million to $9 Million. A One-Off Fossil Sale Can Be Taxable Without Counting Against His Social Security’s ...
+[2026-10-12 03:42:25 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1491 in / 490 out tokens
