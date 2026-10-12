@@ -8393,3 +8393,13 @@
 [2026-10-12 03:32:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-10-12 03:33:33 AM] [DRAMAS_BOT] [SUCCESS] Published: All You Need to Know about 47 CIFF
 [2026-10-12 03:33:33 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1629 in / 580 out tokens
+[2026-10-12 03:33:36 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 306/400 chars, resolved=True): Three Kenyan chickens and the human side of diplomacy
+[2026-10-12 03:33:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc55110bf74acd89fa43336edb40e
+[2026-10-12 03:33:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): HEC, USEFP announce Fulbright Scholar Program 2027 for Pakistani acade
+[2026-10-12 03:33:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc55110bf74acd89fa43336edb40e
+[2026-10-12 03:33:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Pakistan issues new directives for Afghan medical students, doctors
+[2026-10-12 03:33:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc5512f11245478c9cb836a5218d8
+[2026-10-12 03:33:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Top 30 scholarships available to Africans seeking studies in US, Europ
+[2026-10-12 03:33:40 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 03:33:55 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Graduate Student Resources Hub
+[2026-10-12 03:33:57 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1005 in / 576 out tokens
