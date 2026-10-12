@@ -8712,3 +8712,34 @@
 [2026-10-12 07:56:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b8279404f16b9246df36c71e8d
 [2026-10-12 07:56:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): Ava DuVernay’s New Movie 14th Faces AI Backlash Over Historical Photos
 [2026-10-12 07:56:51 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-10-12 07:56:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 07:56:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-12 07:57:05 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 07:57:08 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-12 07:57:10 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-12 07:57:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 07:57:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 07:58:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 07:59:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 08:00:00 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (115 words, need 150)): Garissa University Graduate Lands Job 11 Years After Surving Attack
+[2026-10-12 08:00:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b83599e4240b5b4b713ab26ca4
+[2026-10-12 08:00:00 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 134/400 chars, resolved=True): Meet JCPS school board candidates running in 2026 election
+[2026-10-12 08:00:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b83599e4240b5b4b713ab26ca4
+[2026-10-12 08:00:01 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Three Kenyan chickens and the human side of diplomacy
+[2026-10-12 08:00:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3c41848c463e8a3b4bc6c7ae6ee
+[2026-10-12 08:00:01 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Pakistani woman dies in Harvard study-abroad scam
+[2026-10-12 08:00:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-12 08:00:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-12 08:00:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-12 08:00:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-12 08:01:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-12 08:01:44 PM] [AI_BOT] [INFO] Switched to Gemini key 1 of 5
+[2026-10-12 08:01:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 08:01:48 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 08:01:50 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-12 08:01:53 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
+[2026-10-12 08:02:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 08:03:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 08:03:39 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-12 08:03:41 PM] [AI_BOT] [INFO] Switched to Gemini key 1 of 5
+[2026-10-12 08:03:43 PM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
