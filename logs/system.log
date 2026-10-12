@@ -8302,3 +8302,12 @@
 [2026-10-11 11:34:01 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-11 11:34:21 PM] [HISTORY_BOT] [SUCCESS] Published: Inside Mesa’s Arizona Museum Of Natural History, Kids Come Face To Face With Towering Dinosaurs
 [2026-10-11 11:34:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1600 in / 464 out tokens
+[2026-10-12 02:52:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-12 02:52:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-12 02:52:19 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 02:52:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-12 02:52:43 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 02:52:46 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 02:53:17 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 02:54:05 AM] [NEWS_BOT] [SUCCESS] Published: Pakistani national killed, 11 wounded as Riyadh airport hit by fresh Houthi strike day after deadly attack
+[2026-10-12 02:54:06 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1545 in / 445 out tokens
