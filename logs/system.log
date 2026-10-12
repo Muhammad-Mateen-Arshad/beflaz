@@ -8521,3 +8521,10 @@
 [2026-10-12 11:27:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-12 11:28:13 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Sindh Talent Hunt Program 2027 Opens With Fully-Funded Scholarships
 [2026-10-12 11:28:14 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1447 in / 672 out tokens
+[2026-10-12 11:28:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-12 11:28:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-12 11:28:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc44f33ed40159c61be3a952f15c
+[2026-10-12 11:28:16 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 68/800 chars, resolved=True): I tried eating 30 plants a week. It was surprisingly easy
+[2026-10-12 11:28:16 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 11:28:40 AM] [HEALTH_BOT] [SUCCESS] Published: 5 signs you're not getting enough vitamin D, especially in winter
+[2026-10-12 11:28:41 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1620 in / 499 out tokens
