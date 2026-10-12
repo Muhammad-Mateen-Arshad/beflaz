@@ -8612,3 +8612,20 @@
 [2026-10-12 03:29:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-12 03:30:18 PM] [NEWS_BOT] [SUCCESS] Published: 'No compromise on police': Kundi pledges enhanced support, pay raise for KP law enforcers
 [2026-10-12 03:30:19 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1588 in / 572 out tokens
+[2026-10-12 03:30:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accfd0b5e1e4951bb3b1a330ce2806
+[2026-10-12 03:30:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): World in Brief: Trump’s “energy ceasefire” has little effect; another 
+[2026-10-12 03:30:21 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 03:30:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-12 03:30:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-12 03:30:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-12 03:31:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-12 03:31:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 03:32:17 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 03:32:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 03:33:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 03:33:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 03:34:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 03:34:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 03:35:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 03:35:58 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 03:36:00 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
