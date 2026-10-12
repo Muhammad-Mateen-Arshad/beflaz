@@ -8550,3 +8550,18 @@
 [2026-10-12 11:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 644 in / 411 out tokens
 [2026-10-12 11:30:09 AM] [JOBS_BOT] [SUCCESS] Published: Street vendors can be accommodated
 [2026-10-12 11:30:10 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1374 in / 441 out tokens
+[2026-10-12 11:30:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-12 11:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc4c4af6448b9aecde7db893a163
+[2026-10-12 11:30:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-12 11:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc4c4af6448b9aecde7db893a163
+[2026-10-12 11:30:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-12 11:30:13 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 239/300 chars, resolved=True): What Italy need to do to be seeded for the Euro 2028 qualifying draw
+[2026-10-12 11:30:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc4c5354c4743bc8626c5b33c793
+[2026-10-12 11:30:13 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 189/300 chars, resolved=True): When will The New Stanford Prison Experiment premiere on Netflix? Rele
+[2026-10-12 11:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc4c5354c4743bc8626c5b33c793
+[2026-10-12 11:30:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Over 2 Billion Viewing Minutes Lead to Early Season 3 Renewal for The 
+[2026-10-12 11:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc4c5354c4743bc8626c5b33c793
+[2026-10-12 11:30:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 141/300 chars, resolved=True): Netflix's new Willy Wonka series turns into instant streaming hit
+[2026-10-12 11:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc4c5354c4743bc8626c5b33c793
+[2026-10-12 11:30:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Netflix new releases this week (October 12-18, 2026): The Diplomat sea
+[2026-10-12 11:30:14 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
