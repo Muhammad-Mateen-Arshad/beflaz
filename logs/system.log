@@ -8439,3 +8439,19 @@
 [2026-10-12 07:30:25 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1549 in / 467 out tokens
 [2026-10-12 07:30:38 AM] [JOBS_BOT] [SUCCESS] Published: Ensuring marine sustainability
 [2026-10-12 07:30:39 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1338 in / 393 out tokens
+[2026-10-12 07:30:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-12 07:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8c9f0df04da498e7377e017c4ff
+[2026-10-12 07:30:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Mehmed: Fetihler Sultanı Haberleri
+[2026-10-12 07:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ca0392a49bfb5d7761d385f017
+[2026-10-12 07:30:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-12 07:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ca0392a49bfb5d7761d385f017
+[2026-10-12 07:30:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-12 07:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ca0392a49bfb5d7761d385f017
+[2026-10-12 07:30:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): A presentation of the feature film "44" will take place.
+[2026-10-12 07:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ca1e5b54a3fb96f06105ca75ce
+[2026-10-12 07:30:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 189/300 chars, resolved=True): When will The New Stanford Prison Experiment premiere on Netflix? Rele
+[2026-10-12 07:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ca1e5b54a3fb96f06105ca75ce
+[2026-10-12 07:30:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Netflix new releases this week (October 12-18, 2026): The Diplomat sea
+[2026-10-12 07:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ca1e5b54a3fb96f06105ca75ce
+[2026-10-12 07:30:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Over 2 Billion Viewing Minutes Lead to Early Season 3 Renewal for The 
+[2026-10-12 07:30:41 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
