@@ -8333,3 +8333,8 @@
 [2026-10-12 02:54:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-12 02:55:01 AM] [DRAMAS_BOT] [SUCCESS] Published: TRT 1 canlı nasıl izlenir? (TRT1 frekans bilgileri 2026)
 [2026-10-12 02:55:02 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1216 in / 500 out tokens
+[2026-10-12 02:55:04 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 306/400 chars, resolved=True): Three Kenyan chickens and the human side of diplomacy
+[2026-10-12 02:55:07 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 02:55:09 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 02:55:25 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Africa and India are Writing a Practical New Chapter in South-South Partnership
+[2026-10-12 02:55:26 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1516 in / 420 out tokens
