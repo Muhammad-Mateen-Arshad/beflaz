@@ -8466,3 +8466,16 @@
 [2026-10-12 07:31:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-12 07:31:49 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Fully-Funded PhD Opportunity at Durham University in UK
 [2026-10-12 07:31:50 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1048 in / 547 out tokens
+[2026-10-12 07:31:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-12 07:31:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-12 07:31:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce7a30c466798618e0e61ebac7
+[2026-10-12 07:31:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): The business of living longer: Why India’s ageing population is creati
+[2026-10-12 07:31:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce7a30c466798618e0e61ebac7
+[2026-10-12 07:31:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 146/800 chars, resolved=True): Stop trying to hack your feelings. Mental health takes work | Opinion
+[2026-10-12 07:31:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce7a30c466798618e0e61ebac7
+[2026-10-12 07:31:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 72/800 chars, resolved=True): Older Adults Ate Peanuts Every Day and Scientists Found a Surprising B
+[2026-10-12 07:31:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce8c2804c80b2603c3cf5fb828
+[2026-10-12 07:31:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 121/800 chars, resolved=True): YMCA healthy aging event helps area seniors stay active and build comm
+[2026-10-12 07:31:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce8c2804c80b2603c3cf5fb828
+[2026-10-12 07:31:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 115/800 chars, resolved=True): Why you wake up earlier as you get older
+[2026-10-12 07:31:52 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
