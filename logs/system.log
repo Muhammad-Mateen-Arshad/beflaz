@@ -8512,3 +8512,12 @@
 [2026-10-12 11:25:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-12 11:25:28 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix's Beloved Spy Thriller Officially Confirms Its Long-Awaited Season 2 Date
 [2026-10-12 11:25:29 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1539 in / 428 out tokens
+[2026-10-12 11:25:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-12 11:25:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-12 11:26:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-12 11:26:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-12 11:26:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-12 11:27:17 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 11:27:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 11:28:13 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Sindh Talent Hunt Program 2027 Opens With Fully-Funded Scholarships
+[2026-10-12 11:28:14 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1447 in / 672 out tokens
