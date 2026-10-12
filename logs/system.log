@@ -8696,3 +8696,19 @@
 [2026-10-12 07:56:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-12 07:56:45 PM] [JOBS_BOT] [SUCCESS] Published: India-UK trade deal's success to be measured by exports, investments, not legal text: UK Business and Trade Secretary
 [2026-10-12 07:56:46 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1250 in / 411 out tokens
+[2026-10-12 07:56:48 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-12 07:56:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b7f420f449eab40b976ba7bb6d
+[2026-10-12 07:56:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Mehmed: Fetihler Sultanı Haberleri
+[2026-10-12 07:56:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b81ab5e4e87ac032b27bf5a605
+[2026-10-12 07:56:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-12 07:56:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b81ab5e4e87ac032b27bf5a605
+[2026-10-12 07:56:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 155/300 chars, resolved=True): Mipcom 2026 Kicks Off on an Optimistic Note in Sunny Cannes
+[2026-10-12 07:56:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b81ab5e4e87ac032b27bf5a605
+[2026-10-12 07:56:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-12 07:56:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b8279404f16b9246df36c71e8d
+[2026-10-12 07:56:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Greta Gerwig’s Narnia: The Magician’s Nephew Drops New Poster & Major 
+[2026-10-12 07:56:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b8279404f16b9246df36c71e8d
+[2026-10-12 07:56:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 142/300 chars, resolved=True): What To Watch This Week: New Shows And Movies To Stream On Netflix, Hu
+[2026-10-12 07:56:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3b8279404f16b9246df36c71e8d
+[2026-10-12 07:56:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): Ava DuVernay’s New Movie 14th Faces AI Backlash Over Historical Photos
+[2026-10-12 07:56:51 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
