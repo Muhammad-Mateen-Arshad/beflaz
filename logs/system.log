@@ -8681,3 +8681,18 @@
 [2026-10-12 07:52:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-12 07:53:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-12 07:53:37 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-12 07:53:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3ac33e904338a369c01c64e759c
+[2026-10-12 07:53:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Bengal CM Suvendu assures transparent recruitment to state govt jobs
+[2026-10-12 07:53:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3ac3fb1f401598b1a39f9fd1a45
+[2026-10-12 07:53:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-12 07:53:41 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 07:53:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-12 07:53:56 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 07:53:58 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-12 07:54:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-12 07:54:33 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-12 07:54:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 07:55:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 07:56:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 07:56:45 PM] [JOBS_BOT] [SUCCESS] Published: India-UK trade deal's success to be measured by exports, investments, not legal text: UK Business and Trade Secretary
+[2026-10-12 07:56:46 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1250 in / 411 out tokens
