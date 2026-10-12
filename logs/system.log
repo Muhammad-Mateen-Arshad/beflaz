@@ -8608,3 +8608,7 @@
 [2026-10-12 11:32:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accc541935a479789d09bb7960f0b6
 [2026-10-12 11:32:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 95/400 chars, resolved=True): Archaeologists Discovered Not One, Not Two, But Six Sacrificial Pits—a
 [2026-10-12 11:32:17 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-12 03:29:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-12 03:29:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-12 03:30:18 PM] [NEWS_BOT] [SUCCESS] Published: 'No compromise on police': Kundi pledges enhanced support, pay raise for KP law enforcers
+[2026-10-12 03:30:19 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1588 in / 572 out tokens
