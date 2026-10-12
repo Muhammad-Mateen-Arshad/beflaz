@@ -8496,3 +8496,6 @@
 [2026-10-12 07:31:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc8ce9c7a54dc5b3ba32f3d5e80f7
 [2026-10-12 07:31:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Meet Cleopatra, the 30-Year-Old Archeologist with a Historic Name Who 
 [2026-10-12 07:31:54 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-12 11:23:39 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-12 11:24:01 AM] [NEWS_BOT] [SUCCESS] Published: 'Can sacrifice development, not security': Governor Kundi, Naqvi chair KP apex committee meeting
+[2026-10-12 11:24:02 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1366 in / 482 out tokens
