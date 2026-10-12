@@ -8311,3 +8311,19 @@
 [2026-10-12 02:53:17 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-12 02:54:05 AM] [NEWS_BOT] [SUCCESS] Published: Pakistani national killed, 11 wounded as Riyadh airport hit by fresh Houthi strike day after deadly attack
 [2026-10-12 02:54:06 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1545 in / 445 out tokens
+[2026-10-12 02:54:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc4bcfd6884a7297449b7d6ec3087
+[2026-10-12 02:54:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): AAP govt focused on working for people: Mann
+[2026-10-12 02:54:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc4bcf223345029b030193b05c332
+[2026-10-12 02:54:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): Inside Delhi’s Sujan Singh Park: From Khushwant Singh’s adda to a batt
+[2026-10-12 02:54:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc4bcf223345029b030193b05c332
+[2026-10-12 02:54:08 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan imposes emergency rule over Imran Khan's provincial governmen
+[2026-10-12 02:54:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc4bcf223345029b030193b05c332
+[2026-10-12 02:54:08 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): From theatre to streets, Gen Z protester Neha Bora a new face of India
+[2026-10-12 02:54:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc4bd09d364b81a272615794cac3f
+[2026-10-12 02:54:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): PPSC Jobs 2026 Apply Online Advertisement No 11/2026 Latest Vacancies 
+[2026-10-12 02:54:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc4bd09d364b81a272615794cac3f
+[2026-10-12 02:54:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
+[2026-10-12 02:54:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 299/400 chars, resolved=True): Centre imposes emergency, governor’s rule in KP; Army deployed, new CS
+[2026-10-12 02:54:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc4bd1fa8a4bae8762898d72839f3
+[2026-10-12 02:54:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Centre of Excellence for Autism Spectrum Disorder Company Jobs 2026 Ap
+[2026-10-12 02:54:09 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'thin': 8}
