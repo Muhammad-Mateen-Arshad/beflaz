@@ -8382,3 +8382,14 @@
 [2026-10-12 03:32:05 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Pakistan’s missing manufacturing scale
 [2026-10-12 03:32:18 AM] [JOBS_BOT] [SUCCESS] Published: Charity school opens new avenues for visually impaired children
 [2026-10-12 03:32:20 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2716 in / 798 out tokens
+[2026-10-12 03:32:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-12 03:32:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc54c5690e4f19a85a8da74e64a12
+[2026-10-12 03:32:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-12 03:32:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc54c5690e4f19a85a8da74e64a12
+[2026-10-12 03:32:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-12 03:32:23 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 03:32:26 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 03:32:28 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-12 03:32:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-12 03:33:33 AM] [DRAMAS_BOT] [SUCCESS] Published: All You Need to Know about 47 CIFF
+[2026-10-12 03:33:33 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1629 in / 580 out tokens
