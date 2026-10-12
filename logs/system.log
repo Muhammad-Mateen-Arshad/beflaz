@@ -8863,3 +8863,16 @@
 [2026-10-12 08:35:06 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-12 08:35:09 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-12 08:35:11 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-12 11:29:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-12 11:29:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-12 11:29:45 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-12 11:29:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-12 11:30:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-12 11:30:34 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-12 11:30:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 11:31:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 11:32:00 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-12 11:32:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-12 11:32:43 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-12 11:33:01 PM] [NEWS_BOT] [SUCCESS] Published: Petrol price down by Rs2.93 per litre, high-speed diesel rate up by Re0.61
+[2026-10-12 11:33:02 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 912 in / 564 out tokens
