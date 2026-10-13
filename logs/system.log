@@ -9287,3 +9287,20 @@
 [2026-10-13 08:01:16 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-13 08:01:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 08:01:51 AM] [HEALTH_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-13 08:01:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde5708a304c13b8b5d4a610a0ee9
+[2026-10-13 08:01:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 63/400 chars, resolved=True): Scientists find 'giant' dinosaur spider fossil in Australia
+[2026-10-13 08:01:55 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 08:01:57 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 08:01:59 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 08:02:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-13 08:02:24 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 08:02:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:03:24 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:03:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:04:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:04:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:05:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:06:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:06:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:07:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:07:31 AM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
