@@ -9185,3 +9185,18 @@
 [2026-10-13 04:20:02 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-13 04:20:04 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-13 04:20:07 AM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-13 07:29:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-13 07:29:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-13 07:29:55 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-13 07:30:12 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-13 07:30:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 07:31:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:31:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:32:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:32:47 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:33:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:33:55 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:34:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:34:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:35:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:36:00 AM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
