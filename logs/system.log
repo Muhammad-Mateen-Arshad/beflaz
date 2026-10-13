@@ -9405,3 +9405,12 @@
 [2026-10-13 03:24:52 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
 [2026-10-13 03:25:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 03:25:31 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-13 03:25:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-13 03:25:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-13 03:26:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-13 03:26:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 03:26:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 03:26:47 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 03:27:23 PM] [IMAGES_BOT] [WARN] Unsplash failed: HTTPSConnectionPool(host='api.unsplash.com', port=443): Read timed out. (read timeout=15)
+[2026-10-13 03:27:31 PM] [JOBS_BOT] [SUCCESS] Published: IRSA Announces Jobs With Salaries Up to Rs. 157,500 Per Month
+[2026-10-13 03:27:31 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1312 in / 686 out tokens
