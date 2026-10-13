@@ -9319,3 +9319,28 @@
 [2026-10-13 11:34:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 11:34:58 AM] [NEWS_BOT] [SUCCESS] Published: Govt says people of KP ‘welcomed’ governor's rule as it gave them ‘hope’
 [2026-10-13 11:35:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1529 in / 560 out tokens
+[2026-10-13 11:35:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace176463634f53bf2facafc200dd6
+[2026-10-13 11:35:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Bengal CM Suvendu assures transparent recruitment to state govt jobs
+[2026-10-13 11:35:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace17651e2c47bfb4541bf92aa240d
+[2026-10-13 11:35:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-13 11:35:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace1765f5244ecdbb25f606ccdbe78
+[2026-10-13 11:35:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan Army training aircraft crashes in Balochistan, both pilots ki
+[2026-10-13 11:35:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace1765f5244ecdbb25f606ccdbe78
+[2026-10-13 11:35:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Trump’s approval rating crashes ahead of US midterms; Rising living co
+[2026-10-13 11:35:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace1765f5244ecdbb25f606ccdbe78
+[2026-10-13 11:35:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 134/400 chars, resolved=True): UK Trade Mission in India: Announces £1bn worth deal in AI, agricultur
+[2026-10-13 11:35:04 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 11:35:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-13 11:35:25 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 11:35:27 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 11:35:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 11:36:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:36:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:37:03 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-13 11:37:11 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (105 words, need 150)): Service on Dec. 9 for Kit Dreier, 1930–2026
+[2026-10-13 11:37:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace1765f5244ecdbb25f606ccdbe78
+[2026-10-13 11:37:11 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 190/400 chars, resolved=True): Pakistani physics gold medallist dies by suicide: How a Harvard dream 
+[2026-10-13 11:37:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace17e799484b57993c7297aa7a154
+[2026-10-13 11:37:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): World Bank mobilises nearly $3.2 billion in private capital for Pakist
+[2026-10-13 11:37:12 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1645 in / 253 out tokens
+[2026-10-13 11:37:12 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'rejected': 1}
