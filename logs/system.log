@@ -9264,3 +9264,26 @@
 [2026-10-13 07:54:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 07:55:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 07:55:46 AM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-13 07:55:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-13 07:55:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-13 07:55:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde405c10b4de29fff3106c64b9af
+[2026-10-13 07:55:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 68/800 chars, resolved=True): I tried eating 30 plants a week. It was surprisingly easy
+[2026-10-13 07:55:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde405c10b4de29fff3106c64b9af
+[2026-10-13 07:55:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 146/800 chars, resolved=True): Stop trying to hack your feelings. Mental health takes work | Opinion
+[2026-10-13 07:55:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde405c10b4de29fff3106c64b9af
+[2026-10-13 07:55:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): The business of living longer: Why India’s ageing population is creati
+[2026-10-13 07:55:51 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 07:55:53 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 07:55:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-13 07:56:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-13 07:56:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 07:57:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:57:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:58:25 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:58:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:59:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:00:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:00:46 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:01:16 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 08:01:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 08:01:51 AM] [HEALTH_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
