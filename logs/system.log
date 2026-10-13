@@ -9584,3 +9584,20 @@
 [2026-10-13 07:03:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 07:04:24 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-13 07:04:26 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-13 07:04:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-13 07:04:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace80bdc7a84486bd383ab2a0102b1
+[2026-10-13 07:04:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-13 07:04:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace80bdc7a84486bd383ab2a0102b1
+[2026-10-13 07:04:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-13 07:04:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 07:04:33 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 07:04:35 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 07:04:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-13 07:04:59 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-13 07:05:01 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
+[2026-10-13 07:05:41 PM] [AI_BOT] [INFO] Switched to Gemini key 1 of 5
+[2026-10-13 07:05:43 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 07:05:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:06:20 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 07:06:22 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 07:06:24 PM] [DRAMAS_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
