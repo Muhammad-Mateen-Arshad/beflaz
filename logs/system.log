@@ -9451,3 +9451,11 @@
 [2026-10-13 03:36:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 03:37:00 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-13 03:37:02 PM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-13 03:37:05 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 03:37:07 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 03:37:09 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 03:37:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-13 03:37:31 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-13 03:38:06 PM] [IMAGES_BOT] [WARN] Unsplash failed: HTTPSConnectionPool(host='api.unsplash.com', port=443): Read timed out. (read timeout=15)
+[2026-10-13 03:38:07 PM] [HEALTH_BOT] [SUCCESS] Published: Patients engage with epilepsy monitor in real time, improving seizure detection
+[2026-10-13 03:38:08 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1526 in / 519 out tokens
