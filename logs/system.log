@@ -9078,3 +9078,9 @@
 [2026-10-13 03:41:29 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-13 03:41:31 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-13 03:41:34 AM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-13 04:07:48 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 04:07:50 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 04:07:52 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 04:08:12 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-13 04:08:49 AM] [NEWS_BOT] [SUCCESS] Published: ‘Pakistan’s poverty rate higher than India, B’desh’
+[2026-10-13 04:08:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1555 in / 582 out tokens
