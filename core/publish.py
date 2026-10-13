@@ -150,7 +150,7 @@ def update_rss(niche, title, url, image_url):
     store = _niche_feed_path(niche.name)
     store.parent.mkdir(parents=True, exist_ok=True)
     items = _read_feed_store(store)
-    caption = f"{niche.emoji} {niche.rss_heading}: {title}\n\n👇 Read full details here:\n{url}"
+    caption = f"{niche.emoji} {niche.rss_heading}: {title}\n\n🔗 Read full details at the Link in our Bio! 👇\n{url}"
     items.insert(0, {
         "title": title, "url": url, "image": image_url, "caption": caption,
         "date": format_datetime(datetime.now(timezone.utc), usegmt=True),
