@@ -8965,3 +8965,15 @@
 [2026-10-12 11:39:10 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-12 11:39:13 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-12 11:39:15 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-13 03:29:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-13 03:30:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-13 03:30:15 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 03:30:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-13 03:30:43 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 03:30:46 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 03:31:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 03:31:50 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 03:31:58 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 03:32:28 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-13 03:32:46 AM] [NEWS_BOT] [SUCCESS] Published: Dar-led body to oversee KP affairs
+[2026-10-13 03:32:47 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1126 in / 475 out tokens
