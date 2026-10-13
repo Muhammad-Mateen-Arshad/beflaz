@@ -9200,3 +9200,28 @@
 [2026-10-13 07:34:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 07:35:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 07:36:00 AM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-13 07:36:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acddf61f0684d8ea0452c7074b284b
+[2026-10-13 07:36:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Bengal CM Suvendu assures transparent recruitment to state govt jobs
+[2026-10-13 07:36:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acddf6292034b3db5929811f446253
+[2026-10-13 07:36:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-13 07:36:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acddf63e574403db554ce6e379dd9f
+[2026-10-13 07:36:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan Army training aircraft crashes in Balochistan, both pilots ki
+[2026-10-13 07:36:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acddf63e574403db554ce6e379dd9f
+[2026-10-13 07:36:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Trump’s approval rating crashes ahead of US midterms; Rising living co
+[2026-10-13 07:36:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acddf63e574403db554ce6e379dd9f
+[2026-10-13 07:36:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 134/400 chars, resolved=True): UK Trade Mission in India: Announces £1bn worth deal in AI, agricultur
+[2026-10-13 07:36:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-13 07:36:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-13 07:36:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-13 07:36:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-13 07:37:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 07:37:43 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:38:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 07:38:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:39:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:40:07 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:40:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:41:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:41:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:42:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:42:52 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
