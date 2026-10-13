@@ -9304,3 +9304,18 @@
 [2026-10-13 08:06:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 08:07:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 08:07:31 AM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-13 11:29:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-13 11:29:46 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 11:29:52 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-13 11:30:07 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 11:30:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 11:30:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:31:18 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 11:31:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:32:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:32:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:33:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:33:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:34:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:34:58 AM] [NEWS_BOT] [SUCCESS] Published: Govt says people of KP ‘welcomed’ governor's rule as it gave them ‘hope’
+[2026-10-13 11:35:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1529 in / 560 out tokens
