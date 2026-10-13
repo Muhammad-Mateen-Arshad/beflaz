@@ -9381,3 +9381,12 @@
 [2026-10-13 11:39:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 11:40:39 AM] [HEALTH_BOT] [SUCCESS] Published: Scientists Found a Brain Skill Linked to Living Longer and It's Not Memory
 [2026-10-13 11:40:40 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 866 in / 502 out tokens
+[2026-10-13 11:40:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace18b8da984a39b9d1d003cb7a76e
+[2026-10-13 11:40:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 63/400 chars, resolved=True): Scientists find 'giant' dinosaur spider fossil in Australia
+[2026-10-13 11:40:43 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 11:40:45 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 11:40:47 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 11:40:49 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-13 11:41:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 11:41:42 AM] [HISTORY_BOT] [SUCCESS] Published: Nearly 100 Years in a Drawer: Fossil Turns Out to Be a New Species of Dinosaur
+[2026-10-13 11:41:43 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1173 in / 504 out tokens
