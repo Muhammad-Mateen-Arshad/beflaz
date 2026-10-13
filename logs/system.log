@@ -9225,3 +9225,25 @@
 [2026-10-13 07:41:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 07:42:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-13 07:42:52 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-13 07:42:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-13 07:42:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde0ffe30e444384d370ec3f49e18
+[2026-10-13 07:42:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-13 07:42:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde0ffe30e444384d370ec3f49e18
+[2026-10-13 07:42:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-13 07:42:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde0ffe30e444384d370ec3f49e18
+[2026-10-13 07:42:56 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Landmark Azerbaijani feature film '44' makes its premiere
+[2026-10-13 07:42:57 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 07:43:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-13 07:43:12 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-13 07:43:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-13 07:44:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 07:44:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:45:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:45:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:46:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:46:43 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:47:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:47:44 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:48:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:48:55 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 07:49:25 AM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
