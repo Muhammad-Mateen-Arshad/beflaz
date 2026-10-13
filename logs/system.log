@@ -9357,3 +9357,11 @@
 [2026-10-13 11:37:22 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
 [2026-10-13 11:37:41 AM] [DRAMAS_BOT] [SUCCESS] Published: Watch: "The Devil's Plan: Dead Again" Announces Release Date With New Teasers
 [2026-10-13 11:37:42 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 735 in / 473 out tokens
+[2026-10-13 11:37:44 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-13 11:37:46 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-13 11:37:48 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-13 11:37:50 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-13 11:38:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-13 11:38:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-13 11:39:18 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: QS Top-100 US Universities to Give Fully-Funded Scholarships to Pakistani Students
+[2026-10-13 11:39:19 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1448 in / 755 out tokens
