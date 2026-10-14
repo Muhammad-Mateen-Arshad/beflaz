@@ -10337,3 +10337,11 @@
 [2026-10-14 11:39:44 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-14 11:39:46 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-14 11:39:48 AM] [HEALTH_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-14 11:39:52 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 11:39:54 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-14 11:39:57 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-14 11:40:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-14 11:40:29 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-14 11:40:31 AM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
+[2026-10-14 11:41:27 AM] [HISTORY_BOT] [SUCCESS] Published: New species of dinosaur discovered from fossil ‘overlooked’ for over 100 years
+[2026-10-14 11:41:28 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 778 in / 531 out tokens
