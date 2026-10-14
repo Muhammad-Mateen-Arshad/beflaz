@@ -10558,3 +10558,13 @@
 [2026-10-14 07:38:27 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-14 07:38:29 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-14 07:38:31 PM] [DRAMAS_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-14 07:38:33 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 07:38:36 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-14 07:38:38 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-14 07:38:40 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-14 07:38:42 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
+[2026-10-14 07:39:22 PM] [AI_BOT] [INFO] Switched to Gemini key 1 of 5
+[2026-10-14 07:39:24 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 07:39:27 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-14 07:39:29 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-14 07:39:31 PM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
