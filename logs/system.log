@@ -10204,3 +10204,21 @@
 [2026-10-14 09:15:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-14 09:16:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-14 09:16:35 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-14 09:16:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-14 09:16:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf48755f884357ae81d1a9182982e
+[2026-10-14 09:16:38 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-14 09:16:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-14 09:16:45 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 09:16:47 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-14 09:16:49 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-14 09:16:51 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-14 09:16:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:17:25 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:17:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:18:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:19:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:19:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:20:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:20:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:21:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:21:34 AM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
