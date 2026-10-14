@@ -10187,3 +10187,20 @@
 [2026-10-14 09:09:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-14 09:10:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-14 09:10:48 AM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-14 09:10:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf471bc7db4bb49700b65ba36ef62
+[2026-10-14 09:10:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan continue to diversify its funding sources, says finminPublish
+[2026-10-14 09:10:52 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 09:10:55 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-14 09:10:57 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-14 09:11:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-14 09:11:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-14 09:11:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:12:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:13:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:13:45 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:14:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:14:50 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-14 09:14:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:15:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:16:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 09:16:35 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
