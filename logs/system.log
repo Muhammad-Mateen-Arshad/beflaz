@@ -10076,3 +10076,22 @@
 [2026-10-14 07:34:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-14 07:35:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-14 07:35:53 AM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-14 07:36:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf30df667e4569b2708a0cd8de5b6
+[2026-10-14 07:36:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan’s demographic time bomb
+[2026-10-14 07:36:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf30df667e4569b2708a0cd8de5b6
+[2026-10-14 07:36:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan continue to diversify its funding sources, says finminPublish
+[2026-10-14 07:36:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-14 07:36:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-14 07:36:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-14 07:36:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-14 07:37:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-14 07:37:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:38:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:38:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:39:12 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:39:42 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 07:39:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:40:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:40:52 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:41:24 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:41:54 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
