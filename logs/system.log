@@ -10268,3 +10268,5 @@
 [2026-10-14 09:29:32 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-14 09:29:34 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-14 09:29:36 AM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-14 11:29:49 AM] [NEWS_BOT] [SUCCESS] Published: National Assembly passes resolution endorsing Centre's imposition of emergency in KP
+[2026-10-14 11:29:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1517 in / 489 out tokens
