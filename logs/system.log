@@ -10012,3 +10012,12 @@
 [2026-10-14 03:34:00 AM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
 [2026-10-14 03:34:56 AM] [JOBS_BOT] [SUCCESS] Published: CDA Announces Jobs for Engineers
 [2026-10-14 03:34:56 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1081 in / 637 out tokens
+[2026-10-14 03:34:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-14 03:34:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acef862919046fdb7e3c962443fad5
+[2026-10-14 03:34:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-14 03:34:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acef862919046fdb7e3c962443fad5
+[2026-10-14 03:34:59 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-14 03:35:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-14 03:35:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 03:35:33 AM] [DRAMAS_BOT] [SUCCESS] Published: Landmark Azerbaijani feature film "44" makes its premiere
+[2026-10-14 03:35:34 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1563 in / 617 out tokens
