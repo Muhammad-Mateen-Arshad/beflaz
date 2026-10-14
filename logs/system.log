@@ -9997,3 +9997,18 @@
 [2026-10-14 03:30:02 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-14 03:30:21 AM] [NEWS_BOT] [SUCCESS] Published: Joint opposition flays move to ‘usurp KP govt mandate’
 [2026-10-14 03:30:22 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1246 in / 503 out tokens
+[2026-10-14 03:30:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acef74e9d724cf79bb7978bb52d93a
+[2026-10-14 03:30:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan continue to diversify its funding sources, says finminPublish
+[2026-10-14 03:30:24 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 03:30:26 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-14 03:30:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-14 03:31:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-14 03:31:26 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-14 03:31:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 03:32:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 03:32:50 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-14 03:33:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 03:33:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 03:34:00 AM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
+[2026-10-14 03:34:56 AM] [JOBS_BOT] [SUCCESS] Published: CDA Announces Jobs for Engineers
+[2026-10-14 03:34:56 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1081 in / 637 out tokens
