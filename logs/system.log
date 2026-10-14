@@ -10151,3 +10151,24 @@
 [2026-10-14 07:58:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-14 07:59:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-14 07:59:58 AM] [HEALTH_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-14 08:00:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf36803e3042a3813355b75725caa
+[2026-10-14 08:00:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 146/400 chars, resolved=True): New species of dinosaur discovered from fossil overlooked for over 100
+[2026-10-14 08:00:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf36803e3042a3813355b75725caa
+[2026-10-14 08:00:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 170/400 chars, resolved=True): New dinosaur species discovered from fossil ‘overlooked’ for a century
+[2026-10-14 08:00:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf36803e3042a3813355b75725caa
+[2026-10-14 08:00:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): New dinosaur species discovered from fossil overlooked in Natural Hist
+[2026-10-14 08:00:01 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 08:00:03 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-14 08:00:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-14 08:00:25 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-14 08:00:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-14 08:01:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 08:01:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 08:02:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 08:02:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 08:03:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 08:03:52 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 08:04:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 08:04:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 08:05:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 08:06:00 AM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
