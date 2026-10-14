@@ -9993,3 +9993,7 @@
 [2026-10-14 02:34:39 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-14 02:34:41 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-14 02:34:44 AM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-14 03:29:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-14 03:30:02 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 03:30:21 AM] [NEWS_BOT] [SUCCESS] Published: Joint opposition flays move to ‘usurp KP govt mandate’
+[2026-10-14 03:30:22 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1246 in / 503 out tokens
