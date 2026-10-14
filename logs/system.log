@@ -10524,3 +10524,22 @@
 [2026-10-14 07:33:00 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-14 07:33:30 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
 [2026-10-14 07:34:10 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-14 07:34:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfd934235e42d1a709146a6d82f18
+[2026-10-14 07:34:12 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan continue to diversify its funding sources, says finminPublish
+[2026-10-14 07:34:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfd934235e42d1a709146a6d82f18
+[2026-10-14 07:34:12 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Govt could issue more Chinese yuan-based bonds: Aurangzeb
+[2026-10-14 07:34:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-14 07:34:18 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 07:34:21 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-14 07:34:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-14 07:34:43 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-14 07:34:45 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-14 07:34:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:35:21 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
+[2026-10-14 07:36:01 PM] [AI_BOT] [INFO] Switched to Gemini key 1 of 5
+[2026-10-14 07:36:03 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-14 07:36:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:36:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-14 07:37:06 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-14 07:37:08 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-14 07:37:10 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
