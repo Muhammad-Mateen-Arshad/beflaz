@@ -11198,3 +11198,14 @@
 [2026-10-15 03:36:04 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
 [2026-10-15 03:36:51 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘The Storm’: Gustaf Skarsgård’s Chaotic Thriller Is The Most Bonkers Netflix Release of 2026
 [2026-10-15 03:36:52 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1027 in / 484 out tokens
+[2026-10-15 03:36:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f31403a24bda87156b041c773f3
+[2026-10-15 03:36:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 146/400 chars, resolved=True): Florida's attorney general fights for religious freedom. Has he crosse
+[2026-10-15 03:36:54 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 03:36:56 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 03:36:58 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 03:37:01 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-15 03:37:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 03:37:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 03:38:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 03:39:54 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: FROM CONCORD TO WORLD’S LEADING UNIS
+[2026-10-15 03:39:55 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1398 in / 492 out tokens
