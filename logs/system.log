@@ -11184,3 +11184,17 @@
 [2026-10-15 03:35:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-15 03:35:44 PM] [JOBS_BOT] [SUCCESS] Published: Trump calls off livestream for Fort Hood shooter's execution by firing squad
 [2026-10-15 03:35:45 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1966 in / 735 out tokens
+[2026-10-15 03:35:47 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-15 03:35:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f2d3d1084e3ea470afe5fb40537
+[2026-10-15 03:35:48 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-15 03:35:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f2d3d1084e3ea470afe5fb40537
+[2026-10-15 03:35:48 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-15 03:35:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f2d477fd468c9e10fabb9b9fd52
+[2026-10-15 03:35:48 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix fans are binging this 'incredible' new 90s revival series in o
+[2026-10-15 03:35:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 03:35:58 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 03:36:00 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 03:36:02 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 03:36:04 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-15 03:36:51 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘The Storm’: Gustaf Skarsgård’s Chaotic Thriller Is The Most Bonkers Netflix Release of 2026
+[2026-10-15 03:36:52 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1027 in / 484 out tokens
