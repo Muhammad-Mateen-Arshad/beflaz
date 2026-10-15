@@ -11426,3 +11426,14 @@
 [2026-10-15 10:45:14 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (136 words, need 150)): Barlinnie water disruption shows 'ageing' prison problems - watchdog
 [2026-10-15 10:45:35 PM] [JOBS_BOT] [SUCCESS] Published: NewsHawks October 15: Global Risks, Alberta’s Referendum and the Stories Shaping Thunder Bay
 [2026-10-15 10:45:35 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2528 in / 738 out tokens
+[2026-10-15 10:45:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad15790879b4b02aeedc908d0ebf71
+[2026-10-15 10:45:36 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-15 10:45:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad15790879b4b02aeedc908d0ebf71
+[2026-10-15 10:45:37 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-15 10:45:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 10:45:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 10:45:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 10:46:10 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 10:46:13 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 10:46:32 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix's New Mike Tyson Docuseries Jumps to No. 2 in the U.S. Days After Its Release
+[2026-10-15 10:46:33 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 819 in / 520 out tokens
