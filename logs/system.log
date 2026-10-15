@@ -11042,3 +11042,20 @@
 [2026-10-15 08:46:47 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-15 08:47:20 AM] [HEALTH_BOT] [SUCCESS] Published: A blood-pressure drug may activate health-promoting brown fat
 [2026-10-15 08:47:21 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1560 in / 559 out tokens
+[2026-10-15 08:47:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad09319b4f84b38a751116ce539826
+[2026-10-15 08:47:22 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): Fossil overlooked for 100 years ID'd as new dinosaur species
+[2026-10-15 08:47:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad09319b4f84b38a751116ce539826
+[2026-10-15 08:47:22 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): Dinosaur Fossil Sat in Museum Drawer for Nearly 100 Years. Scientists 
+[2026-10-15 08:47:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad09319b4f84b38a751116ce539826
+[2026-10-15 08:47:22 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): ‘More dangerous than T-rex’: Tiger-sized dinosaur discovered in 100-ye
+[2026-10-15 08:47:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad09319b4f84b38a751116ce539826
+[2026-10-15 08:47:22 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): NEW DINOSAUR DISCOVERED AFTER ISLE OF WIGHT FOSSIL SPENDS 100 YEARS IN
+[2026-10-15 08:47:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad09319b4f84b38a751116ce539826
+[2026-10-15 08:47:22 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Montana rancher’s rare Nanotyrannus fossil goes on display ahead of $9
+[2026-10-15 08:47:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0931aec0041cdb1a53e5f1b7bf84
+[2026-10-15 08:47:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-15 08:47:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0931aec0041cdb1a53e5f1b7bf84
+[2026-10-15 08:47:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-15 08:47:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0931b968c4ca9bde8ed36a46888e
+[2026-10-15 08:47:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 88/400 chars, resolved=True): ​World's oldest shipwreck found off Turkey's coast, archaeologists say
+[2026-10-15 08:47:23 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8}
