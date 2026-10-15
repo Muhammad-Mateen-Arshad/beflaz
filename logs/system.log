@@ -11089,3 +11089,20 @@
 [2026-10-15 11:36:39 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-15 11:37:33 AM] [DRAMAS_BOT] [SUCCESS] Published: The Diplomat Season 4: Netflix Release Time, Cast, Trailer & What to Expect
 [2026-10-15 11:37:34 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1781 in / 451 out tokens
+[2026-10-15 11:37:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0bafe59e548beb09e45d143bce4b
+[2026-10-15 11:37:50 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 146/400 chars, resolved=True): Florida’s attorney general fights for religious freedom. Has he crosse
+[2026-10-15 11:37:51 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 11:37:54 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 11:37:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 11:38:11 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 11:38:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 11:38:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:39:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:39:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:40:39 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:41:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:41:52 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:42:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:42:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:43:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:43:53 AM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
