@@ -11327,3 +11327,7 @@
 [2026-10-15 04:01:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c33e7941c2863225d7da46fa9
 [2026-10-15 04:01:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
 [2026-10-15 04:01:07 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8}
+[2026-10-15 07:29:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 07:29:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 07:30:30 PM] [NEWS_BOT] [SUCCESS] Published: FBR extends deadline for filing income tax returns to Oct 31
+[2026-10-15 07:30:32 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 919 in / 587 out tokens
