@@ -11254,3 +11254,25 @@
 [2026-10-15 03:56:23 PM] [AI_BOT] [INFO] Switched to Gemini key 1 of 5
 [2026-10-15 03:56:26 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-15 03:56:28 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-15 03:56:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f7ae715440ab8d5a5634fd3402a
+[2026-10-15 03:56:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-15 03:56:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f7ae715440ab8d5a5634fd3402a
+[2026-10-15 03:56:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-15 03:56:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f7aec2ab49f28b31a5f0fe20a40
+[2026-10-15 03:56:31 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix fans are binging this 'incredible' new 90s revival series in o
+[2026-10-15 03:56:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f7aec2ab49f28b31a5f0fe20a40
+[2026-10-15 03:56:31 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 132/300 chars, resolved=True): All 4 Seasons of Will Trent Just Got a New Streaming Home Ahead of Sea
+[2026-10-15 03:56:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f7aec2ab49f28b31a5f0fe20a40
+[2026-10-15 03:56:31 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 118/300 chars, resolved=True): Netflix’s Beloved Cyberpunk TV Show With 100% RT Score Returns With Ne
+[2026-10-15 03:56:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 03:56:35 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 03:57:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 03:57:38 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 03:57:40 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-15 03:57:42 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
+[2026-10-15 03:58:22 PM] [AI_BOT] [INFO] Switched to Gemini key 1 of 5
+[2026-10-15 03:58:25 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 03:58:27 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 03:58:29 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 03:58:59 PM] [DRAMAS_BOT] [SUCCESS] Published: Review of Turkish Netflix series 'Not a Stranger'
+[2026-10-15 03:59:00 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1608 in / 547 out tokens
