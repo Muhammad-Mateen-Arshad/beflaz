@@ -11400,3 +11400,17 @@
 [2026-10-15 07:39:20 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
 [2026-10-15 07:40:25 PM] [HEALTH_BOT] [SUCCESS] Published: Centro Hispano CASA Senior Center supporting older adults in Reading, PA for over 35 years
 [2026-10-15 07:40:26 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 904 in / 484 out tokens
+[2026-10-15 07:40:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad12c2ad59c4c7097184a42bacbc01
+[2026-10-15 07:40:27 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): Fossil overlooked for 100 years ID'd as new dinosaur species
+[2026-10-15 07:40:28 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 07:40:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 07:40:43 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 07:40:46 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 07:40:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 07:41:15 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-15 07:41:17 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
+[2026-10-15 07:41:57 PM] [AI_BOT] [INFO] Switched to Gemini key 1 of 5
+[2026-10-15 07:42:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 07:42:02 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 07:42:04 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 07:42:06 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
