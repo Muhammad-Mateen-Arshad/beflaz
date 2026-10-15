@@ -11006,3 +11006,18 @@
 [2026-10-15 08:38:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-10-15 08:39:33 AM] [NEWS_BOT] [SUCCESS] Published: At least 28 killed, including 27 students, in Peshawar school roof collapse
 [2026-10-15 08:39:34 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1533 in / 446 out tokens
+[2026-10-15 08:39:36 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 08:39:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 08:39:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 08:40:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-15 08:40:25 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 08:40:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 08:41:24 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 08:41:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 08:42:24 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 08:42:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 08:43:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 08:43:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 08:44:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 08:44:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 08:45:06 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
