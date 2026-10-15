@@ -10983,3 +10983,20 @@
 [2026-10-15 07:45:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-15 07:45:29 AM] [HEALTH_BOT] [SUCCESS] Published: Older Adults Ate Walnuts Every Day for 2 Years, and Researchers Found One Key Change
 [2026-10-15 07:45:30 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 885 in / 495 out tokens
+[2026-10-15 07:45:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0849bafbb4ec886ed940d893edf5
+[2026-10-15 07:45:31 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): Fossil overlooked for 100 years ID'd as new dinosaur species
+[2026-10-15 07:45:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0849bafbb4ec886ed940d893edf5
+[2026-10-15 07:45:31 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): Dinosaur Fossil Sat in Museum Drawer for Nearly 100 Years. Scientists 
+[2026-10-15 07:45:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0849bafbb4ec886ed940d893edf5
+[2026-10-15 07:45:31 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): ‘More dangerous than T-rex’: Tiger-sized dinosaur discovered in 100-ye
+[2026-10-15 07:45:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0849bafbb4ec886ed940d893edf5
+[2026-10-15 07:45:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Montana rancher’s rare Nanotyrannus fossil goes on display ahead of $9
+[2026-10-15 07:45:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0849bafbb4ec886ed940d893edf5
+[2026-10-15 07:45:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 169/400 chars, resolved=True): Meet Invictibellatrix, a new dinosaur species discovered in the UK
+[2026-10-15 07:45:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0849c38fe4143832695273e4b124
+[2026-10-15 07:45:34 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-15 07:45:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0849c38fe4143832695273e4b124
+[2026-10-15 07:45:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-15 07:45:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0849f56b44310b2f4b2831e6a921
+[2026-10-15 07:45:36 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): What to see in Egypt? The most beautiful places to visit during your t
+[2026-10-15 07:45:36 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8}
