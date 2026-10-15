@@ -11416,3 +11416,13 @@
 [2026-10-15 07:42:06 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
 [2026-10-15 10:44:32 PM] [NEWS_BOT] [SUCCESS] Published: Govt reduces petrol price by Rs3.63 per litre, raises high-speed diesel rate by Re0.31
 [2026-10-15 10:44:33 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 913 in / 633 out tokens
+[2026-10-15 10:44:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad15751adc14cf299673e9fd354478
+[2026-10-15 10:44:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Burnham to urge Swinney to work with him on devolution during Scottish
+[2026-10-15 10:44:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad15751adc14cf299673e9fd354478
+[2026-10-15 10:44:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Opinion: Iran persecuted me for my faith — the US offered me the Ameri
+[2026-10-15 10:44:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 10:44:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 10:44:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 10:45:14 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (136 words, need 150)): Barlinnie water disruption shows 'ageing' prison problems - watchdog
+[2026-10-15 10:45:35 PM] [JOBS_BOT] [SUCCESS] Published: NewsHawks October 15: Global Risks, Alberta’s Referendum and the Stories Shaping Thunder Bay
+[2026-10-15 10:45:35 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2528 in / 738 out tokens
