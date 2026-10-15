@@ -11165,3 +11165,22 @@
 [2026-10-15 03:32:49 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
 [2026-10-15 03:33:38 PM] [NEWS_BOT] [SUCCESS] Published: Joint sitting of Parliament endorses emergency, governor's rule in KP amid opposition outcry
 [2026-10-15 03:33:39 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1576 in / 574 out tokens
+[2026-10-15 03:33:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f253fed747f4b99cc68239427b1
+[2026-10-15 03:33:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Pakistan firms move to set up electric bus manufacturing venture
+[2026-10-15 03:33:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f253fed747f4b99cc68239427b1
+[2026-10-15 03:33:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): BOC’s new unit tasked to work with other govt agencies
+[2026-10-15 03:33:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f253fed747f4b99cc68239427b1
+[2026-10-15 03:33:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): The last place in the world where Afghan girls can go to learn
+[2026-10-15 03:33:41 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 03:33:43 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 03:33:45 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 03:33:47 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-15 03:33:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 03:34:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 03:35:04 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (149 words, need 150); too many 'not specified' (source too thin)): 'Bring it on': Flynn challenges Burnham on independence referendum
+[2026-10-15 03:35:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f2a85540439dad3dba0b8b62ab9
+[2026-10-15 03:35:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-15 03:35:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 03:35:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 03:35:44 PM] [JOBS_BOT] [SUCCESS] Published: Trump calls off livestream for Fort Hood shooter's execution by firing squad
+[2026-10-15 03:35:45 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1966 in / 735 out tokens
