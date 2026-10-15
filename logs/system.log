@@ -11134,3 +11134,20 @@
 [2026-10-15 11:50:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
 [2026-10-15 11:51:16 AM] [HEALTH_BOT] [SUCCESS] Published: Scientists discover a surprising paradox in how our cells age
 [2026-10-15 11:51:17 AM] [HEALTH_BOT] [INFO] AI usage: 2 calls, 3096 in / 953 out tokens
+[2026-10-15 11:51:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0be369cd84b938663f5d15dbee9a
+[2026-10-15 11:51:18 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): Fossil overlooked for 100 years ID'd as new dinosaur species
+[2026-10-15 11:51:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0be369cd84b938663f5d15dbee9a
+[2026-10-15 11:51:18 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): Dinosaur Fossil Sat in Museum Drawer for Nearly 100 Years. Scientists 
+[2026-10-15 11:51:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0be369cd84b938663f5d15dbee9a
+[2026-10-15 11:51:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): ‘More dangerous than T-rex’: Tiger-sized dinosaur discovered in 100-ye
+[2026-10-15 11:51:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0be369cd84b938663f5d15dbee9a
+[2026-10-15 11:51:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): New dinosaur with eight-inch claws could have been more dangerous to h
+[2026-10-15 11:51:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0be369cd84b938663f5d15dbee9a
+[2026-10-15 11:51:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): NEW DINOSAUR DISCOVERED AFTER ISLE OF WIGHT FOSSIL SPENDS 100 YEARS IN
+[2026-10-15 11:51:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0be3851684781b8a4d5e51604f2e
+[2026-10-15 11:51:21 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-15 11:51:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0be3851684781b8a4d5e51604f2e
+[2026-10-15 11:51:21 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-15 11:51:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0be39b9a444f2be655fb0ff60fe9
+[2026-10-15 11:51:21 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Divers find world’s oldest shipwreck off coast of Turkey
+[2026-10-15 11:51:21 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8}
