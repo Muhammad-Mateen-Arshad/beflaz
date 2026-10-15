@@ -11310,3 +11310,20 @@
 [2026-10-15 04:00:57 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-15 04:01:00 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-15 04:01:02 PM] [HEALTH_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-15 04:01:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c17d99470e985508e5f42e09f
+[2026-10-15 04:01:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): Fossil overlooked for 100 years ID'd as new dinosaur species
+[2026-10-15 04:01:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c17d99470e985508e5f42e09f
+[2026-10-15 04:01:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): Dinosaur fossil sat in museum drawer for nearly 100 years. Scientists 
+[2026-10-15 04:01:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c17d99470e985508e5f42e09f
+[2026-10-15 04:01:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): NEW DINOSAUR DISCOVERED AFTER ISLE OF WIGHT FOSSIL SPENDS 100 YEARS IN
+[2026-10-15 04:01:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c17d99470e985508e5f42e09f
+[2026-10-15 04:01:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Jurassic fossil reveals early birds that abandoned flight entirely
+[2026-10-15 04:01:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c17d99470e985508e5f42e09f
+[2026-10-15 04:01:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 169/400 chars, resolved=True): Meet Invictibellatrix, a new dinosaur species discovered in the UK
+[2026-10-15 04:01:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c3cb70436c95e09e283c40cc9
+[2026-10-15 04:01:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-15 04:01:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c3cb70436c95e09e283c40cc9
+[2026-10-15 04:01:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-15 04:01:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c33e7941c2863225d7da46fa9
+[2026-10-15 04:01:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
+[2026-10-15 04:01:07 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8}
