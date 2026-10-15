@@ -11073,3 +11073,19 @@
 [2026-10-15 11:33:23 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-15 11:33:45 AM] [JOBS_BOT] [SUCCESS] Published: Senate Panel Seeks Record of 5,000 Jobs Under Balochistan Package
 [2026-10-15 11:33:46 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 811 in / 548 out tokens
+[2026-10-15 11:33:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-15 11:33:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0ba1b09fc49abbf3694a05739d33
+[2026-10-15 11:33:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-15 11:33:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0ba1b09fc49abbf3694a05739d33
+[2026-10-15 11:33:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-15 11:33:49 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 11:33:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 11:34:01 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 11:34:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-15 11:34:24 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 11:34:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:35:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:35:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:36:39 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:37:33 AM] [DRAMAS_BOT] [SUCCESS] Published: The Diplomat Season 4: Netflix Release Time, Cast, Trailer & What to Expect
+[2026-10-15 11:37:34 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1781 in / 451 out tokens
