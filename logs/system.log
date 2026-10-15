@@ -11106,3 +11106,31 @@
 [2026-10-15 11:42:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-15 11:43:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-15 11:43:53 AM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-15 11:43:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-15 11:43:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-15 11:43:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0bc7c1c624238ae844867ea019ba
+[2026-10-15 11:43:57 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-15 11:43:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0bc7c1c624238ae844867ea019ba
+[2026-10-15 11:43:57 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 171/800 chars, resolved=True): One child, many nutrition risks: Maharashtra develops tool to measure 
+[2026-10-15 11:43:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 11:44:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 11:44:14 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 11:44:16 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 11:44:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 11:45:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:45:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:46:17 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:47:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:47:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 11:48:20 AM] [HEALTH_BOT] [INFO] Rejected by quality gate (risky health claim wording): ‘Try to eat really well, 80% of the time’: nutrition expert says healt
+[2026-10-15 11:48:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0bd84b2d24773a6b2920c55bacbf
+[2026-10-15 11:48:20 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 130/800 chars, resolved=True): Fitness industry embraces healthy aging as experts warn on longevity c
+[2026-10-15 11:48:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0bd84b2d24773a6b2920c55bacbf
+[2026-10-15 11:48:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Long-Term Tai Chi Practice Linked to Better Vascular Health in Middle-
+[2026-10-15 11:48:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 11:48:41 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-15 11:48:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 11:49:12 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-15 11:50:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 11:51:16 AM] [HEALTH_BOT] [SUCCESS] Published: Scientists discover a surprising paradox in how our cells age
+[2026-10-15 11:51:17 AM] [HEALTH_BOT] [INFO] AI usage: 2 calls, 3096 in / 953 out tokens
