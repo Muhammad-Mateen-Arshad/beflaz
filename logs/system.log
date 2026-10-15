@@ -10944,3 +10944,20 @@
 [2026-10-15 07:34:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-15 07:35:25 AM] [NEWS_BOT] [SUCCESS] Published: At least 21 killed as school roof collapses in Peshawar
 [2026-10-15 07:35:27 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1548 in / 540 out tokens
+[2026-10-15 07:35:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0823f7ccc4fefab5674849988395
+[2026-10-15 07:35:28 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Govt could issue more Chinese yuan-based bonds: Aurangzeb
+[2026-10-15 07:35:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 07:35:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 07:35:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 07:36:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-15 07:36:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 07:37:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:37:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:38:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:38:50 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 07:38:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:41:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:42:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:42:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:43:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:43:33 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
