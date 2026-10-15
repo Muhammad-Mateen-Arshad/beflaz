@@ -10970,3 +10970,8 @@
 [2026-10-15 07:43:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-15 07:44:17 AM] [DRAMAS_BOT] [SUCCESS] Published: 7 Must-Watch Turkish Dramas On Netflix Packed With Romance And Emotional Turmoil
 [2026-10-15 07:44:17 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1110 in / 535 out tokens
+[2026-10-15 07:44:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 07:44:31 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 07:44:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 07:45:07 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Fully-Funded Zoology Scholarships in Canada for Pakistan Students
+[2026-10-15 07:45:09 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1380 in / 680 out tokens
