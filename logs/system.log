@@ -11069,3 +11069,7 @@
 [2026-10-15 11:31:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-15 11:33:06 AM] [NEWS_BOT] [SUCCESS] Published: Teacher, 32 students killed in Peshawar school roof collapse
 [2026-10-15 11:33:07 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1495 in / 481 out tokens
+[2026-10-15 11:33:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 11:33:23 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 11:33:45 AM] [JOBS_BOT] [SUCCESS] Published: Senate Panel Seeks Record of 5,000 Jobs Under Balochistan Package
+[2026-10-15 11:33:46 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 811 in / 548 out tokens
