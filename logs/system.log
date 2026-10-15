@@ -10961,3 +10961,12 @@
 [2026-10-15 07:42:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-15 07:43:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-15 07:43:33 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-15 07:43:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-15 07:43:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad08428d6674b3a985ab6967101e8c
+[2026-10-15 07:43:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-15 07:43:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad08428d6674b3a985ab6967101e8c
+[2026-10-15 07:43:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-15 07:43:39 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 07:43:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 07:44:17 AM] [DRAMAS_BOT] [SUCCESS] Published: 7 Must-Watch Turkish Dramas On Netflix Packed With Romance And Emotional Turmoil
+[2026-10-15 07:44:17 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1110 in / 535 out tokens
