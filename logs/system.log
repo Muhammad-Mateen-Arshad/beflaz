@@ -11209,3 +11209,10 @@
 [2026-10-15 03:38:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-15 03:39:54 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: FROM CONCORD TO WORLD’S LEADING UNIS
 [2026-10-15 03:39:55 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1398 in / 492 out tokens
+[2026-10-15 03:39:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-15 03:39:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-15 03:39:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f3cc64fc436c8f9e1086963c1f2
+[2026-10-15 03:39:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-15 03:40:28 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-15 03:40:29 PM] [HEALTH_BOT] [SUCCESS] Published: Many 'sleep foods' are overhyped. Here's what experts say to eat at night instead
+[2026-10-15 03:40:30 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1586 in / 509 out tokens
