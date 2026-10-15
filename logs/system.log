@@ -11485,3 +11485,20 @@
 [2026-10-15 11:30:24 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-15 11:30:26 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-15 11:30:29 PM] [NEWS_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-15 11:30:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad16216b59440fb8de7c17f259fd7d
+[2026-10-15 11:30:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Burnham to urge Swinney to work with him on devolution during Scottish
+[2026-10-15 11:30:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad16216b59440fb8de7c17f259fd7d
+[2026-10-15 11:30:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Opinion: Iran persecuted me for my faith — the US offered me the Ameri
+[2026-10-15 11:30:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad16216b59440fb8de7c17f259fd7d
+[2026-10-15 11:30:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 103/400 chars, resolved=True): Labour could end local coalitions with Greens over Zionism policy
+[2026-10-15 11:30:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad162172e16456699c4b0afe0e0034
+[2026-10-15 11:30:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-15 11:30:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad16217514d468f80768e34390d943
+[2026-10-15 11:30:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): BLA’s Anti-People Agenda: How Terrorism Undermines Balochistan’s Futur
+[2026-10-15 11:30:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad16217514d468f80768e34390d943
+[2026-10-15 11:30:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): BOC’s new unit tasked to work with other govt agencies
+[2026-10-15 11:30:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad16217514d468f80768e34390d943
+[2026-10-15 11:30:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): Firing squad execution of mass killer will not be livestreamed, Trump 
+[2026-10-15 11:30:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad16217514d468f80768e34390d943
+[2026-10-15 11:30:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): At least 28 pupils and teacher killed after school roof collapses - mo
+[2026-10-15 11:30:32 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
