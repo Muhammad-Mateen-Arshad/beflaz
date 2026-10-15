@@ -11414,3 +11414,5 @@
 [2026-10-15 07:42:02 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-15 07:42:04 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-15 07:42:06 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-15 10:44:32 PM] [NEWS_BOT] [SUCCESS] Published: Govt reduces petrol price by Rs3.63 per litre, raises high-speed diesel rate by Re0.31
+[2026-10-15 10:44:33 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 913 in / 633 out tokens
