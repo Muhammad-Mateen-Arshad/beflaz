@@ -11462,3 +11462,16 @@
 [2026-10-15 10:48:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad15828edcb474db147ffe56382ab2
 [2026-10-15 10:48:10 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Long-Term Tai Chi Practice Linked to Better Vascular Health in Middle-
 [2026-10-15 10:48:10 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-15 10:48:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1582a57844f11ac4096257ba3138
+[2026-10-15 10:48:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): Fossil overlooked for 100 years ID'd as new dinosaur species
+[2026-10-15 10:48:12 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 10:48:14 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 10:48:16 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 10:48:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-15 10:48:44 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 10:49:09 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-15 10:49:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 10:49:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 10:50:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 10:51:06 PM] [HISTORY_BOT] [SUCCESS] Published: New long-clawed dinosaur species identified from century-old fossil in museum drawer
+[2026-10-15 10:51:07 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 884 in / 452 out tokens
