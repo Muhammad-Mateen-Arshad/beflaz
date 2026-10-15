@@ -11151,3 +11151,17 @@
 [2026-10-15 11:51:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0be39b9a444f2be655fb0ff60fe9
 [2026-10-15 11:51:21 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Divers find world’s oldest shipwreck off coast of Turkey
 [2026-10-15 11:51:21 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8}
+[2026-10-15 03:29:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 03:29:36 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 03:29:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 03:29:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-15 03:30:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 03:30:43 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 03:30:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 03:31:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 03:31:46 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-15 03:31:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 03:32:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 03:32:49 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-15 03:33:38 PM] [NEWS_BOT] [SUCCESS] Published: Joint sitting of Parliament endorses emergency, governor's rule in KP amid opposition outcry
+[2026-10-15 03:33:39 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1576 in / 574 out tokens
