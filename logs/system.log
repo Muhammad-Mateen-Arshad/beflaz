@@ -11031,3 +11031,9 @@
 [2026-10-15 08:45:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-15 08:45:48 AM] [DRAMAS_BOT] [SUCCESS] Published: Yedikule: The Overwhelming Roman Ruins in Istanbul's Old City
 [2026-10-15 08:45:49 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1050 in / 480 out tokens
+[2026-10-15 08:45:51 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 08:45:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 08:46:04 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-15 08:46:06 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-15 08:46:41 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Fully-Funded Master’s in Chemistry Scholarships in Canada
+[2026-10-15 08:46:41 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1425 in / 591 out tokens
