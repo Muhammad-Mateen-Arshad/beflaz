@@ -10930,3 +10930,17 @@
 [2026-10-15 03:39:26 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-15 03:39:28 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-15 03:39:30 AM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-15 07:29:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 07:29:43 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-15 07:29:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 07:30:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-15 07:30:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-15 07:31:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:31:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:32:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:32:46 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:33:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:33:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:34:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-15 07:35:25 AM] [NEWS_BOT] [SUCCESS] Published: At least 21 killed as school roof collapses in Peshawar
+[2026-10-15 07:35:27 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1548 in / 540 out tokens
