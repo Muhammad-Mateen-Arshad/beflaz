@@ -11000,3 +11000,9 @@
 [2026-10-15 07:45:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0849f56b44310b2f4b2831e6a921
 [2026-10-15 07:45:36 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): What to see in Egypt? The most beautiful places to visit during your t
 [2026-10-15 07:45:36 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8}
+[2026-10-15 08:38:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-15 08:38:41 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-15 08:38:43 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-15 08:38:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-15 08:39:33 AM] [NEWS_BOT] [SUCCESS] Published: At least 28 killed, including 27 students, in Peshawar school roof collapse
+[2026-10-15 08:39:34 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1533 in / 446 out tokens
