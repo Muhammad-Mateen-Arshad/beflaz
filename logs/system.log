@@ -12049,3 +12049,12 @@
 [2026-10-16 07:07:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-16 07:08:33 PM] [DRAMAS_BOT] [SUCCESS] Published: A Terror-Free Turkey? – OpEd
 [2026-10-16 07:08:34 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1594 in / 468 out tokens
+[2026-10-16 07:08:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 07:08:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 07:08:48 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 07:08:59 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (139 words, need 150)): Bank of Ireland digital payments rise as app logins increase 3.4%
+[2026-10-16 07:08:59 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-16 07:09:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 07:10:11 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-16 07:10:12 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: The first graduating class of the Alfond Grant
+[2026-10-16 07:10:13 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2410 in / 747 out tokens
