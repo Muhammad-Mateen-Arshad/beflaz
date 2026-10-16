@@ -11799,3 +11799,11 @@
 [2026-10-16 08:38:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-16 08:39:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-16 08:39:46 AM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-16 08:39:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-16 08:39:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 08:39:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-16 08:40:12 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-16 08:40:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-16 08:40:58 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:41:50 AM] [JOBS_BOT] [SUCCESS] Published: Hospital doctors to strike as pay dispute continues
+[2026-10-16 08:41:50 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1210 in / 645 out tokens
