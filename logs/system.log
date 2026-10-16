@@ -11820,3 +11820,9 @@
 [2026-10-16 08:41:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1e35069244b7dbdd342cd4ee9dda
 [2026-10-16 08:41:53 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): Greta Gerwig reveals how she wooed Led Zeppelin for 'Narnia' trailer
 [2026-10-16 08:41:53 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 6, 'thin': 6}
+[2026-10-16 08:41:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1e35146d04a3aa13d93c0557b268
+[2026-10-16 08:41:53 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 146/400 chars, resolved=True): Florida's attorney general fights for religious freedom. Has he crosse
+[2026-10-16 08:41:57 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 08:42:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 08:42:30 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Master’s Scholarships in Canada for Pakistani BS Graduates
+[2026-10-16 08:42:31 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1151 in / 617 out tokens
