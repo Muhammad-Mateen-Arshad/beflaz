@@ -11923,3 +11923,8 @@
 [2026-10-16 11:37:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-10-16 11:38:38 AM] [HEALTH_BOT] [SUCCESS] Published: Richer Indians May Face Higher Heart Disease Risk, Study Finds: What Explains the Link?
 [2026-10-16 11:38:39 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1423 in / 597 out tokens
+[2026-10-16 11:38:41 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 11:38:43 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 11:38:45 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-16 11:39:05 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur fossil hidden in London’s Natural History Museum for 100 years identified as new species
+[2026-10-16 11:39:06 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 974 in / 560 out tokens
