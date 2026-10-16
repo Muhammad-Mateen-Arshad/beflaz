@@ -11962,3 +11962,28 @@
 [2026-10-16 03:38:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-16 03:39:04 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
 [2026-10-16 03:39:06 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-16 03:39:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2451d2bce4ebeaf8d7ec6c10465b
+[2026-10-16 03:39:09 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-16 03:39:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2451d2bce4ebeaf8d7ec6c10465b
+[2026-10-16 03:39:09 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-16 03:39:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2451d2bce4ebeaf8d7ec6c10465b
+[2026-10-16 03:39:09 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-16 03:39:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2451dbde04878a67182525a75152
+[2026-10-16 03:39:10 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 115/300 chars, resolved=True): Keira Knightley’s Epic Netflix Thriller Finally Returns as Season 2 Re
+[2026-10-16 03:39:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2451dbde04878a67182525a75152
+[2026-10-16 03:39:10 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 40/300 chars, resolved=True): New thriller 'The Trap' becomes Netflix's No. 2 show in the world 3 da
+[2026-10-16 03:39:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-16 03:39:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 03:39:19 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 03:39:21 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-16 03:39:23 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-16 03:39:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:39:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:40:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:40:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:41:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:41:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:42:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:42:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:43:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:44:01 PM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
