@@ -12039,3 +12039,13 @@
 [2026-10-16 07:06:37 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Pakistan’s Global Role, Economic Diplomacy and the Future of Khyber Pa
 [2026-10-16 07:07:30 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan, OPEC Fund discuss M-6 financing
 [2026-10-16 07:07:31 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2361 in / 892 out tokens
+[2026-10-16 07:07:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad275f38f7744a9882a2b9ffaba241
+[2026-10-16 07:07:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-16 07:07:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad275f38f7744a9882a2b9ffaba241
+[2026-10-16 07:07:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-16 07:07:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad275f38f7744a9882a2b9ffaba241
+[2026-10-16 07:07:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-16 07:07:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-16 07:07:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 07:08:33 PM] [DRAMAS_BOT] [SUCCESS] Published: A Terror-Free Turkey? – OpEd
+[2026-10-16 07:08:34 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1594 in / 468 out tokens
