@@ -11764,3 +11764,20 @@
 [2026-10-16 07:32:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-16 07:32:44 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Animal Biology Scholarships in Canada for Pakistani Students
 [2026-10-16 07:32:46 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 3016 in / 1166 out tokens
+[2026-10-16 07:32:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-16 07:32:47 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-16 07:32:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d31f0c0248e18f26a44e6cfb90c
+[2026-10-16 07:32:47 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-16 07:32:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d31f0c0248e18f26a44e6cfb90c
+[2026-10-16 07:32:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-16 07:32:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d31f0c0248e18f26a44e6cfb90c
+[2026-10-16 07:32:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): 9 Tips to Get a Good Night’s Sleep With CLL
+[2026-10-16 07:32:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d3219fb74ba1b1d3f1e04af6bc7
+[2026-10-16 07:32:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 130/800 chars, resolved=True): Fitness industry embraces healthy aging as experts warn on longevity c
+[2026-10-16 07:32:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-16 07:32:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 07:33:07 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-16 07:33:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-16 07:33:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-16 07:34:32 AM] [HEALTH_BOT] [SUCCESS] Published: Longevity and Health: Can 20 Minutes Twice a Week Make a Difference?
+[2026-10-16 07:34:32 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1673 in / 540 out tokens
