@@ -12147,3 +12147,9 @@
 [2026-10-16 07:36:35 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
 [2026-10-16 10:17:02 PM] [NEWS_BOT] [SUCCESS] Published: Kohat Police Lines attack mastermind killed in joint operation in KP's Lakki Marwat: CTD
 [2026-10-16 10:17:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1057 in / 489 out tokens
+[2026-10-16 10:17:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a25f6c1f4b64a8889793df32e06
+[2026-10-16 10:17:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Sindh pitches investment potential to Chinese business leadersPublishe
+[2026-10-16 10:17:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a25f6c1f4b64a8889793df32e06
+[2026-10-16 10:17:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Aurangzeb calls for replacing costly borrowing with longer-maturity fi
+[2026-10-16 10:17:27 PM] [JOBS_BOT] [SUCCESS] Published: Geo Pakistan
+[2026-10-16 10:17:27 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 675 in / 413 out tokens
