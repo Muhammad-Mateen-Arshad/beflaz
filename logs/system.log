@@ -11826,3 +11826,16 @@
 [2026-10-16 08:42:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-16 08:42:30 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Master’s Scholarships in Canada for Pakistani BS Graduates
 [2026-10-16 08:42:31 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1151 in / 617 out tokens
+[2026-10-16 08:42:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-16 08:42:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-16 08:42:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1e3780c04443bb15a78479fe4990
+[2026-10-16 08:42:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-16 08:42:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1e3780c04443bb15a78479fe4990
+[2026-10-16 08:42:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-16 08:42:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1e3780c04443bb15a78479fe4990
+[2026-10-16 08:42:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): 9 Tips to Get a Good Night’s Sleep With CLL
+[2026-10-16 08:42:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1e379c9e2494097ed92d387735b6
+[2026-10-16 08:42:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 130/800 chars, resolved=True): Fitness industry embraces healthy aging as experts warn on longevity c
+[2026-10-16 08:42:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1e379c9e2494097ed92d387735b6
+[2026-10-16 08:42:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
+[2026-10-16 08:42:34 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
