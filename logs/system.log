@@ -12075,3 +12075,10 @@
 [2026-10-16 07:14:38 PM] [AI_BOT] [WARN] All keys rate-limited, waiting 40s once
 [2026-10-16 07:15:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-16 07:15:49 PM] [HEALTH_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-16 07:15:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad277e625e349119af33ea82063322
+[2026-10-16 07:15:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Fossil of 'unconquered female warrior' dinosaur with long claws found 
+[2026-10-16 07:15:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 07:16:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 07:16:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-16 07:17:11 PM] [HISTORY_BOT] [SUCCESS] Published: Museum Fossil Reveals a Long Clawed Dinosaur Never Before Found in Europe
+[2026-10-16 07:17:12 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 992 in / 509 out tokens
