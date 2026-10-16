@@ -12192,3 +12192,18 @@
 [2026-10-16 11:30:53 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-16 11:30:54 PM] [JOBS_BOT] [SUCCESS] Published: CM Saini’s Sweden visit yields Rs 4,000-cr LoIs
 [2026-10-16 11:30:55 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 950 in / 463 out tokens
+[2026-10-16 11:30:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3af22f941b3b1cb2255cefb19b
+[2026-10-16 11:30:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-16 11:30:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3af22f941b3b1cb2255cefb19b
+[2026-10-16 11:30:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-16 11:30:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3af22f941b3b1cb2255cefb19b
+[2026-10-16 11:30:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-16 11:30:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3b09a6d429ea67e205a764a309
+[2026-10-16 11:30:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): Netflix unveils Kuwaiti horror series Obsess ahead of Halloween
+[2026-10-16 11:30:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3b09a6d429ea67e205a764a309
+[2026-10-16 11:30:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): Will Forte & Skyler Gisondo’s Spooky Netflix Horror Show Scores Great 
+[2026-10-16 11:30:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3b09a6d429ea67e205a764a309
+[2026-10-16 11:30:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 101/300 chars, resolved=True): 7 new movies and shows to watch on Netflix, Prime Video, and more this
+[2026-10-16 11:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3b2cc89463092852d064534eec
+[2026-10-16 11:30:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
+[2026-10-16 11:30:59 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 7, 'thin': 7}
