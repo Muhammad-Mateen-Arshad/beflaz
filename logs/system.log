@@ -12207,3 +12207,7 @@
 [2026-10-16 11:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3b2cc89463092852d064534eec
 [2026-10-16 11:30:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-16 11:30:59 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 7, 'thin': 7}
+[2026-10-16 11:31:03 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 11:31:05 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 11:31:31 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Dalda Foundation Announces Scholarships for Students Across Pakistan
+[2026-10-16 11:31:32 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1124 in / 621 out tokens
