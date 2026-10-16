@@ -11889,3 +11889,18 @@
 [2026-10-16 11:35:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-16 11:36:37 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan: The Next Critical Minerals Destination
 [2026-10-16 11:36:38 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1619 in / 444 out tokens
+[2026-10-16 11:36:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c4634734cb19d7ae1598175ed9
+[2026-10-16 11:36:38 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-16 11:36:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c4634734cb19d7ae1598175ed9
+[2026-10-16 11:36:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-16 11:36:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c4634734cb19d7ae1598175ed9
+[2026-10-16 11:36:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-16 11:36:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c47d8d3490b99435ace6aaa02a
+[2026-10-16 11:36:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 115/300 chars, resolved=True): Keira Knightley’s Epic Netflix Thriller Finally Returns as Season 2 Re
+[2026-10-16 11:36:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c47d8d3490b99435ace6aaa02a
+[2026-10-16 11:36:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): The Diplomat season 5: Renewal status, potential release date, cast an
+[2026-10-16 11:36:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c471f234c66b0963f4cd240cd0
+[2026-10-16 11:36:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
+[2026-10-16 11:36:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c471f234c66b0963f4cd240cd0
+[2026-10-16 11:36:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): Greta Gerwig reveals how she wooed Led Zeppelin for 'Narnia' trailer
+[2026-10-16 11:36:39 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 7, 'thin': 7}
