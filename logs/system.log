@@ -11881,3 +11881,11 @@
 [2026-10-16 11:33:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-16 11:35:01 AM] [NEWS_BOT] [SUCCESS] Published: FO condemns Indian minister’s ‘provocative’ remarks threatening aggression against Pakistan
 [2026-10-16 11:35:03 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1456 in / 548 out tokens
+[2026-10-16 11:35:05 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 11:35:08 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 11:35:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-16 11:35:25 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-16 11:35:46 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-16 11:35:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 11:36:37 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan: The Next Critical Minerals Destination
+[2026-10-16 11:36:38 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1619 in / 444 out tokens
