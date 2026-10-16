@@ -11678,3 +11678,20 @@
 [2026-10-16 03:34:27 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-16 03:34:29 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-16 03:34:31 AM] [JOBS_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-16 03:34:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad19b49ca384f308e0975749bbe5b0
+[2026-10-16 03:34:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-16 03:34:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad19b49ca384f308e0975749bbe5b0
+[2026-10-16 03:34:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-16 03:34:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad19b4a9e754ec1a0c093abf95f090
+[2026-10-16 03:34:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 115/300 chars, resolved=True): Keira Knightley’s Epic Netflix Thriller Finally Returns as Season 2 Re
+[2026-10-16 03:34:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad19b4a9e754ec1a0c093abf95f090
+[2026-10-16 03:34:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix fans are binging this 'incredible' new 90s revival series in o
+[2026-10-16 03:34:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad19b4a50ad49fea8120544ea602f1
+[2026-10-16 03:34:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
+[2026-10-16 03:34:36 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 03:34:38 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 03:34:44 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-16 03:35:00 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-16 03:35:02 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-16 03:35:21 AM] [DRAMAS_BOT] [SUCCESS] Published: What To Watch This Week: New And Returning Shows On Netflix, Prime Video, Hulu, Disney+ And More
+[2026-10-16 03:35:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1708 in / 692 out tokens
