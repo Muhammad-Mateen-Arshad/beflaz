@@ -11904,3 +11904,10 @@
 [2026-10-16 11:36:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c471f234c66b0963f4cd240cd0
 [2026-10-16 11:36:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): Greta Gerwig reveals how she wooed Led Zeppelin for 'Narnia' trailer
 [2026-10-16 11:36:39 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 7, 'thin': 7}
+[2026-10-16 11:36:41 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 11:36:43 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 11:36:45 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-16 11:36:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-16 11:37:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-16 11:37:48 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Why Kenyans are looking to China for higher education
+[2026-10-16 11:37:50 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1386 in / 491 out tokens
