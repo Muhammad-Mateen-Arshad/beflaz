@@ -12181,3 +12181,14 @@
 [2026-10-16 10:19:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 935 in / 477 out tokens
 [2026-10-16 11:29:56 PM] [NEWS_BOT] [SUCCESS] Published: 'I am a normal human being': Khawaja Asif brushes off online trolling over AI-generated Marilyn Monroe riddle
 [2026-10-16 11:29:58 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 658 in / 432 out tokens
+[2026-10-16 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b376fd844a5996b1cd69feceaad
+[2026-10-16 11:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Sindh pitches investment potential to Chinese business leadersPublishe
+[2026-10-16 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b376fd844a5996b1cd69feceaad
+[2026-10-16 11:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Aurangzeb calls for replacing costly borrowing with longer-maturity fi
+[2026-10-16 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3778a7242fe9e83d95175f890a
+[2026-10-16 11:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-16 11:30:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-16 11:30:11 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 11:30:53 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-16 11:30:54 PM] [JOBS_BOT] [SUCCESS] Published: CM Saini’s Sweden visit yields Rs 4,000-cr LoIs
+[2026-10-16 11:30:55 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 950 in / 463 out tokens
