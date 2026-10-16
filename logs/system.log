@@ -12087,3 +12087,11 @@
 [2026-10-16 07:29:59 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-16 07:30:33 PM] [NEWS_BOT] [SUCCESS] Published: Govt cuts petrol price by Rs3.93 per litre
 [2026-10-16 07:30:34 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 894 in / 543 out tokens
+[2026-10-16 07:30:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad27b5ae2a44479a660491847061a0
+[2026-10-16 07:30:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Sindh pitches investment potential to Chinese business leadersPublishe
+[2026-10-16 07:30:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad27b5ae2a44479a660491847061a0
+[2026-10-16 07:30:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Aurangzeb calls for replacing costly borrowing with longer-maturity fi
+[2026-10-16 07:30:36 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 07:30:38 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 07:31:11 PM] [JOBS_BOT] [SUCCESS] Published: Canada changes Express Entry rules for high-paying jobs and removes LMIA requirement
+[2026-10-16 07:31:12 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 810 in / 527 out tokens
