@@ -12095,3 +12095,22 @@
 [2026-10-16 07:30:38 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-16 07:31:11 PM] [JOBS_BOT] [SUCCESS] Published: Canada changes Express Entry rules for high-paying jobs and removes LMIA requirement
 [2026-10-16 07:31:12 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 810 in / 527 out tokens
+[2026-10-16 07:31:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad27b80c8c34217ad9556d63ee971c
+[2026-10-16 07:31:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-16 07:31:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad27b80c8c34217ad9556d63ee971c
+[2026-10-16 07:31:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-16 07:31:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad27b80c8c34217ad9556d63ee971c
+[2026-10-16 07:31:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-16 07:31:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad27b81b1594ac9bcb866a7f26c773
+[2026-10-16 07:31:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): Netflix unveils Kuwaiti horror series Obsess ahead of Halloween
+[2026-10-16 07:31:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad27b81b1594ac9bcb866a7f26c773
+[2026-10-16 07:31:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): Will Forte & Skyler Gisondo’s Spooky Netflix Horror Show Scores Great 
+[2026-10-16 07:31:15 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 07:31:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 07:31:33 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 07:31:35 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-16 07:31:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-16 07:32:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 07:32:52 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-16 07:33:29 PM] [DRAMAS_BOT] [SUCCESS] Published: 7 new movies and TV shows to watch on Netflix, Disney+, and more this weekend (October 16) — VisionQuest, Sacrifice, and more
+[2026-10-16 07:33:30 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1577 in / 579 out tokens
