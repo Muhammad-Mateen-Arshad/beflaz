@@ -11781,3 +11781,6 @@
 [2026-10-16 07:33:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
 [2026-10-16 07:34:32 AM] [HEALTH_BOT] [SUCCESS] Published: Longevity and Health: Can 20 Minutes Twice a Week Make a Difference?
 [2026-10-16 07:34:32 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1673 in / 540 out tokens
+[2026-10-16 07:34:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-16 07:34:59 AM] [HISTORY_BOT] [SUCCESS] Published: New dinosaur species discovered on the Isle of Wight after 100 years in a museum drawer
+[2026-10-16 07:35:00 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1117 in / 525 out tokens
