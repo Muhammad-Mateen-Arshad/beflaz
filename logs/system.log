@@ -11784,3 +11784,18 @@
 [2026-10-16 07:34:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-16 07:34:59 AM] [HISTORY_BOT] [SUCCESS] Published: New dinosaur species discovered on the Isle of Wight after 100 years in a museum drawer
 [2026-10-16 07:35:00 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1117 in / 525 out tokens
+[2026-10-16 08:33:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-16 08:33:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 08:33:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-16 08:33:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-16 08:34:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-16 08:34:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:35:06 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:35:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:36:06 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:37:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:37:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:38:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:38:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:39:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 08:39:46 AM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
