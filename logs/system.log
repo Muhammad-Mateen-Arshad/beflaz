@@ -12153,3 +12153,17 @@
 [2026-10-16 10:17:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Aurangzeb calls for replacing costly borrowing with longer-maturity fi
 [2026-10-16 10:17:27 PM] [JOBS_BOT] [SUCCESS] Published: Geo Pakistan
 [2026-10-16 10:17:27 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 675 in / 413 out tokens
+[2026-10-16 10:17:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a2786fae43b1ac14c826522f078
+[2026-10-16 10:17:28 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-16 10:17:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a2786fae43b1ac14c826522f078
+[2026-10-16 10:17:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-16 10:17:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a2786fae43b1ac14c826522f078
+[2026-10-16 10:17:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-16 10:17:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a2790ebd47169d33e0e9c80ce54
+[2026-10-16 10:17:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): Netflix unveils Kuwaiti horror series Obsess ahead of Halloween
+[2026-10-16 10:17:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a2790ebd47169d33e0e9c80ce54
+[2026-10-16 10:17:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): Will Forte & Skyler Gisondo’s Spooky Netflix Horror Show Scores Great 
+[2026-10-16 10:17:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a2790ebd47169d33e0e9c80ce54
+[2026-10-16 10:17:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 41/300 chars, resolved=True): Has ‘The Diplomat’ Been Renewed for Season 5? Here’s Where Things Stan
+[2026-10-16 10:17:56 PM] [DRAMAS_BOT] [SUCCESS] Published: Money Trap on Netflix turns Yılmaz Erdoğan’s caper films into an eight-episode hunt for the Karun treasure
+[2026-10-16 10:17:57 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1319 in / 515 out tokens
