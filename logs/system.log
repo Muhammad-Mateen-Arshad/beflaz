@@ -11866,3 +11866,18 @@
 [2026-10-16 08:47:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-16 08:48:31 AM] [HISTORY_BOT] [SUCCESS] Published: Mysterious Ring Discovered Beneath the Sea May Reveal Who Controlled One of the Seven Wonders of the Ancient World
 [2026-10-16 08:48:32 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1423 in / 567 out tokens
+[2026-10-16 11:29:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-16 11:29:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 11:29:51 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 11:29:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-16 11:30:13 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 11:30:17 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 11:30:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 11:31:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 11:31:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 11:32:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 11:32:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 11:33:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 11:33:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 11:35:01 AM] [NEWS_BOT] [SUCCESS] Published: FO condemns Indian minister’s ‘provocative’ remarks threatening aggression against Pakistan
+[2026-10-16 11:35:03 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1456 in / 548 out tokens
