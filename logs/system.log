@@ -12082,3 +12082,8 @@
 [2026-10-16 07:16:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-16 07:17:11 PM] [HISTORY_BOT] [SUCCESS] Published: Museum Fossil Reveals a Long Clawed Dinosaur Never Before Found in Europe
 [2026-10-16 07:17:12 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 992 in / 509 out tokens
+[2026-10-16 07:29:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-16 07:29:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 07:29:59 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 07:30:33 PM] [NEWS_BOT] [SUCCESS] Published: Govt cuts petrol price by Rs3.93 per litre
+[2026-10-16 07:30:34 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 894 in / 543 out tokens
