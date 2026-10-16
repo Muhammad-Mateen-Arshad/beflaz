@@ -11911,3 +11911,15 @@
 [2026-10-16 11:37:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
 [2026-10-16 11:37:48 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Why Kenyans are looking to China for higher education
 [2026-10-16 11:37:50 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1386 in / 491 out tokens
+[2026-10-16 11:37:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-16 11:37:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-16 11:37:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c8f71c6405ca1825703b91c87d
+[2026-10-16 11:37:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-16 11:37:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad20c8f71c6405ca1825703b91c87d
+[2026-10-16 11:37:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-16 11:37:53 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 11:37:55 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 11:37:57 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-16 11:37:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-16 11:38:38 AM] [HEALTH_BOT] [SUCCESS] Published: Richer Indians May Face Higher Heart Disease Risk, Study Finds: What Explains the Link?
+[2026-10-16 11:38:39 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1423 in / 597 out tokens
