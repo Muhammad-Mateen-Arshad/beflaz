@@ -11738,3 +11738,16 @@
 [2026-10-16 07:29:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1478 in / 518 out tokens
 [2026-10-16 07:30:08 AM] [JOBS_BOT] [SUCCESS] Published: Playground staff say they are fighting 'tooth and nail' to stay open
 [2026-10-16 07:30:09 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1641 in / 377 out tokens
+[2026-10-16 07:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d2817eec4f9598e715529b4feee
+[2026-10-16 07:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-16 07:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d2817eec4f9598e715529b4feee
+[2026-10-16 07:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-16 07:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d2823662496fbb1d5955483ed3d
+[2026-10-16 07:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 115/300 chars, resolved=True): Keira Knightley’s Epic Netflix Thriller Finally Returns as Season 2 Re
+[2026-10-16 07:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d2823662496fbb1d5955483ed3d
+[2026-10-16 07:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix fans are binging this 'incredible' new 90s revival series in o
+[2026-10-16 07:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d283008e4b5582ce59276004698
+[2026-10-16 07:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
+[2026-10-16 07:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1d283008e4b5582ce59276004698
+[2026-10-16 07:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): Greta Gerwig reveals how she wooed Led Zeppelin for 'Narnia' trailer
+[2026-10-16 07:30:11 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 6, 'thin': 6}
