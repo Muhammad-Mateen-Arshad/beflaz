@@ -12173,3 +12173,9 @@
 [2026-10-16 10:18:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
 [2026-10-16 10:18:44 PM] [HEALTH_BOT] [SUCCESS] Published: Natural Remedies' Bacomind Advances Research on Memory and Cognitive Health With New 600-Participant Study
 [2026-10-16 10:18:44 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1182 in / 537 out tokens
+[2026-10-16 10:18:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a2c5b9964b7386f7d38b59b6261
+[2026-10-16 10:18:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Fossil of 'unconquered female warrior' dinosaur with long claws found 
+[2026-10-16 10:18:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2a2c5b9964b7386f7d38b59b6261
+[2026-10-16 10:18:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Scientists uncover fossilized blood vessels in 66-million-year-old din
+[2026-10-16 10:19:12 PM] [HISTORY_BOT] [SUCCESS] Published: A 165 Million Year Old Fossil Reveals Clues to How Mammals Drink Milk
+[2026-10-16 10:19:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 935 in / 477 out tokens
