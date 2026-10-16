@@ -12211,3 +12211,12 @@
 [2026-10-16 11:31:05 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-16 11:31:31 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Dalda Foundation Announces Scholarships for Students Across Pakistan
 [2026-10-16 11:31:32 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1124 in / 621 out tokens
+[2026-10-16 11:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-16 11:31:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-16 11:31:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3d62b114f5fa1025f387225608
+[2026-10-16 11:31:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-16 11:31:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2b3d62b114f5fa1025f387225608
+[2026-10-16 11:31:36 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-16 11:31:37 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 11:32:04 PM] [HEALTH_BOT] [SUCCESS] Published: Body Pain Rises Fastest Before 55, Global Study Finds: Why You Should Not Ignore the Early Signs
+[2026-10-16 11:32:05 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1364 in / 533 out tokens
