@@ -12145,3 +12145,5 @@
 [2026-10-16 07:36:31 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-16 07:36:33 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-16 07:36:35 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-16 10:17:02 PM] [NEWS_BOT] [SUCCESS] Published: Kohat Police Lines attack mastermind killed in joint operation in KP's Lakki Marwat: CTD
+[2026-10-16 10:17:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1057 in / 489 out tokens
