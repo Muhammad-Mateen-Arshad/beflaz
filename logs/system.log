@@ -11943,3 +11943,22 @@
 [2026-10-16 03:33:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-16 03:33:44 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-16 03:34:14 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-16 03:34:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad243f87e6f45f6aa9211083a5b36a
+[2026-10-16 03:34:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Sindh pitches investment potential to Chinese business leadersPublishe
+[2026-10-16 03:34:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad243f919c4495ea8d19bf3379c836
+[2026-10-16 03:34:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-16 03:34:18 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-16 03:34:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-16 03:34:31 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-16 03:34:33 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-16 03:34:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-16 03:35:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:35:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:36:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:36:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:37:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:37:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:38:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:38:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-16 03:39:04 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-16 03:39:06 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
