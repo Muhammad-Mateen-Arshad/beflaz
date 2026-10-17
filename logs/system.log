@@ -12956,3 +12956,18 @@
 [2026-10-17 07:31:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-17 07:31:49 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Countries with Easiest Student Visa Processes for Pakistanis: Visa Requirements, Costs and Scholarships
 [2026-10-17 07:31:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1369 in / 560 out tokens
+[2026-10-17 07:31:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-17 07:31:50 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-17 07:31:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3cd262eb5412692c4285ca346d71
+[2026-10-17 07:31:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-17 07:31:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3cd262eb5412692c4285ca346d71
+[2026-10-17 07:31:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-17 07:31:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3cd2863f444ca81f352927b16291
+[2026-10-17 07:31:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-17 07:31:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3cd2863f444ca81f352927b16291
+[2026-10-17 07:31:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Move More, Sit Less: How a 24-Hour Movement Budget Shapes Aging Bodies
+[2026-10-17 07:31:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3cd2863f444ca81f352927b16291
+[2026-10-17 07:31:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-17 07:31:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3cd2863f444ca81f352927b16291
+[2026-10-17 07:31:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
+[2026-10-17 07:31:53 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
