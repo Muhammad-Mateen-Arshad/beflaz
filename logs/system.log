@@ -12524,3 +12524,15 @@
 [2026-10-17 10:55:53 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
 [2026-10-17 11:24:13 AM] [NEWS_BOT] [SUCCESS] Published: Armed men abduct 20 under-training police personnel in Mastung: officials
 [2026-10-17 11:24:14 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 691 in / 433 out tokens
+[2026-10-17 11:24:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35ade389c42dca8c2cb0d2e49e38
+[2026-10-17 11:24:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-17 11:24:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35ade389c42dca8c2cb0d2e49e38
+[2026-10-17 11:24:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Aurangzeb calls for replacing costly borrowing with longer-maturity fi
+[2026-10-17 11:24:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35adf826c4b038aceefd7bfb4dc9
+[2026-10-17 11:24:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): No accessibility upgrade planned for Haverfordwest station despite Pla
+[2026-10-17 11:24:31 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (139 words, need 150); too many 'not specified' (source too thin)): Kazakh President sends condolences to Pakistan after deadly roof colla
+[2026-10-17 11:24:39 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-17 11:24:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-17 11:25:35 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-17 11:25:35 AM] [JOBS_BOT] [SUCCESS] Published: NDMA advises PDMA Sindh to evacuate vulnerable communities residing along Katcha areas
+[2026-10-17 11:25:36 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2720 in / 846 out tokens
