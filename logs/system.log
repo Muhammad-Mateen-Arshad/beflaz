@@ -12346,3 +12346,18 @@
 [2026-10-17 07:29:46 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1437 in / 472 out tokens
 [2026-10-17 07:30:07 AM] [JOBS_BOT] [SUCCESS] Published: Minor offences cannot bar government jobs, says FCC
 [2026-10-17 07:30:08 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1200 in / 517 out tokens
+[2026-10-17 07:30:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3240124a0435bac8251b417567d1
+[2026-10-17 07:30:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-17 07:30:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3240124a0435bac8251b417567d1
+[2026-10-17 07:30:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-17 07:30:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3240124a0435bac8251b417567d1
+[2026-10-17 07:30:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-17 07:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad324019f5d485aab7d98a8cb9c838
+[2026-10-17 07:30:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): Netflix unveils Kuwaiti horror series Obsess ahead of Halloween
+[2026-10-17 07:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad324019f5d485aab7d98a8cb9c838
+[2026-10-17 07:30:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): Will Forte & Skyler Gisondo’s Spooky Netflix Horror Show Scores Great 
+[2026-10-17 07:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad324019f5d485aab7d98a8cb9c838
+[2026-10-17 07:30:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 101/300 chars, resolved=True): 7 new movies and shows to watch on Netflix, Prime Video, and more this
+[2026-10-17 07:30:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-17 07:30:45 AM] [DRAMAS_BOT] [SUCCESS] Published: Disney+ Dumped Them, Netflix Walked Away, and Now Amazon Wants the Power Rangers
+[2026-10-17 07:30:45 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1330 in / 570 out tokens
