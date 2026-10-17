@@ -12397,3 +12397,6 @@
 [2026-10-17 07:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32442b37b4357a0be6543f129d07
 [2026-10-17 07:31:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Mastodon tusk found underwater: Diver hauls 4-foot fossil off Florida’
 [2026-10-17 07:31:14 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-10-17 08:05:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-17 08:05:53 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan has enough energy supplies to last through November, planning for winter spike: Aurangzeb
+[2026-10-17 08:05:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1548 in / 408 out tokens
