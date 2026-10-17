@@ -12735,3 +12735,5 @@
 [2026-10-17 11:49:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad360b25d0641da9a34410ba6d8984
 [2026-10-17 11:49:07 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
 [2026-10-17 11:49:07 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-17 02:31:26 PM] [NEWS_BOT] [SUCCESS] Published: Centre was compelled to impose emergency in KP, PM reiterates
+[2026-10-17 02:31:27 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1120 in / 516 out tokens
