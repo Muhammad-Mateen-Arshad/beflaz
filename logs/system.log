@@ -13043,3 +13043,7 @@
 [2026-10-17 09:50:21 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-17 09:50:22 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 323/800 chars, resolved=True): Creatine boosts lean mass sans exercise, study shows
 [2026-10-17 09:50:22 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-17 09:50:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed9e576e4402ac6cb20fa4798ce
+[2026-10-17 09:50:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 119/400 chars, resolved=True): 100-year-old museum fossil identified as Europe’s first known megarapt
+[2026-10-17 09:50:42 PM] [HISTORY_BOT] [SUCCESS] Published: Forgotten Fossil Reveals Never Seen Before Dinosaur Species
+[2026-10-17 09:50:43 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1501 in / 528 out tokens
