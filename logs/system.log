@@ -12559,3 +12559,16 @@
 [2026-10-17 11:26:01 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-17 11:26:29 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PhD in Economics Scholarships in Canada With CAD $40,000 Annual Funding
 [2026-10-17 11:26:30 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1489 in / 699 out tokens
+[2026-10-17 11:26:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-17 11:26:30 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-17 11:26:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35b6711b94a0e9f4cf36de3ff67c
+[2026-10-17 11:26:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-17 11:26:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35b6711b94a0e9f4cf36de3ff67c
+[2026-10-17 11:26:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-17 11:26:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35b68eefd46e28dd2af7c5e06e2b
+[2026-10-17 11:26:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-17 11:26:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35b68eefd46e28dd2af7c5e06e2b
+[2026-10-17 11:26:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-17 11:26:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35b68eefd46e28dd2af7c5e06e2b
+[2026-10-17 11:26:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
+[2026-10-17 11:26:33 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
