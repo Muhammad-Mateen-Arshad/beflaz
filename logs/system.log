@@ -12626,3 +12626,12 @@
 [2026-10-17 11:31:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c8965af41349815946b6601a95
 [2026-10-17 11:31:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-17 11:31:21 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
+[2026-10-17 11:31:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c89821f476db5a321c95f4a77e
+[2026-10-17 11:31:22 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 11:31:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c8a11b84953831c8a929bc1577
+[2026-10-17 11:31:22 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Govt considers raising university professors' retirement age to 65Publ
+[2026-10-17 11:31:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c8aa28a4d579cad30adec97825
+[2026-10-17 11:31:22 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Pakistan issues new directives for Afghan medical students, doctors
+[2026-10-17 11:31:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c8aa28a4d579cad30adec97825
+[2026-10-17 11:31:23 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Gold medalist student's suicide exposes alleged multi-million-rupee ed
+[2026-10-17 11:31:23 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 4, 'thin': 4, 'already_seen': 11}
