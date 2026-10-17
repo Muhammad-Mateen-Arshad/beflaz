@@ -12243,3 +12243,11 @@
 [2026-10-16 11:33:56 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1464 in / 546 out tokens
 [2026-10-17 01:47:42 AM] [NEWS_BOT] [SUCCESS] Published: White House spokeswoman Katie Zacharia 'let go' from role, official says
 [2026-10-17 01:47:43 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1608 in / 499 out tokens
+[2026-10-17 01:47:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3bfe1f24ded96450dd46e3fd8a
+[2026-10-17 01:47:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Sindh pitches investment potential to Chinese business leadersPublishe
+[2026-10-17 01:47:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3bfe1f24ded96450dd46e3fd8a
+[2026-10-17 01:47:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Aurangzeb calls for replacing costly borrowing with longer-maturity fi
+[2026-10-17 01:47:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3c09ff2469490795e38719d2da
+[2026-10-17 01:47:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-17 01:48:03 AM] [JOBS_BOT] [SUCCESS] Published: Morocco Security and Crime Explained 2026
+[2026-10-17 01:48:03 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1795 in / 405 out tokens
