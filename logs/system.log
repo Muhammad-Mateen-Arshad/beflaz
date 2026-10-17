@@ -12795,3 +12795,13 @@
 [2026-10-17 02:33:06 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
 [2026-10-17 03:29:53 PM] [NEWS_BOT] [SUCCESS] Published: Fazl clarifies he criticised policies, not institutions after ministers allege he sought 'share' in KP governance
 [2026-10-17 03:29:53 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1539 in / 491 out tokens
+[2026-10-17 03:29:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39472a9a545bab5133311643745c
+[2026-10-17 03:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-17 03:29:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39472e2ce47baa9f27987bcc5001
+[2026-10-17 03:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): Two years of Omar Abdullah government: Unfulfilled promises, governanc
+[2026-10-17 03:29:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39472e2ce47baa9f27987bcc5001
+[2026-10-17 03:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): No accessibility upgrade planned for Haverfordwest station despite Pla
+[2026-10-17 03:29:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 279/400 chars, resolved=True): SPS Commerce, Inc. (SPSC)
+[2026-10-17 03:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 327/400 chars, resolved=True): Hyderabad, Sindh, Pakistan Weather Conditionsstar_ratehome
+[2026-10-17 03:30:29 PM] [JOBS_BOT] [SUCCESS] Published: At least 27 children, 1 teacher killed in Pakistan school collapse
+[2026-10-17 03:30:30 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 784 in / 369 out tokens
