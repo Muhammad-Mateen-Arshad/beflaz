@@ -13098,3 +13098,20 @@
 [2026-10-17 11:35:37 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-17 11:35:58 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Selling Dreams
 [2026-10-17 11:35:59 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 859 in / 400 out tokens
+[2026-10-17 11:36:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-17 11:36:00 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-17 11:36:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406603edb44ef9d9b03080d6a525
+[2026-10-17 11:36:01 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-17 11:36:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406603edb44ef9d9b03080d6a525
+[2026-10-17 11:36:01 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 93/800 chars, resolved=True): What Actually Happens to Your Body When You Work Out at Different Time
+[2026-10-17 11:36:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406603edb44ef9d9b03080d6a525
+[2026-10-17 11:36:02 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-17 11:36:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406603edb44ef9d9b03080d6a525
+[2026-10-17 11:36:02 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 100/800 chars, resolved=True): The Dog Breeds With the Longest Lifespans and How to Help Your Dog Liv
+[2026-10-17 11:36:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4066286ee4f02b806998c1df04b3
+[2026-10-17 11:36:03 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-17 11:36:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4066286ee4f02b806998c1df04b3
+[2026-10-17 11:36:03 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
+[2026-10-17 11:36:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4066286ee4f02b806998c1df04b3
+[2026-10-17 11:36:03 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-17 11:36:03 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
