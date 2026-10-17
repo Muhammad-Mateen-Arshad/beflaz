@@ -12667,3 +12667,13 @@
 [2026-10-17 11:31:30 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
 [2026-10-17 11:48:30 AM] [NEWS_BOT] [SUCCESS] Published: Trump waives several Russia sanctions as row with Zelensky intensifies
 [2026-10-17 11:48:31 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1480 in / 483 out tokens
+[2026-10-17 11:48:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad36090af694847ba3d99804a5bf17
+[2026-10-17 11:48:33 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-17 11:48:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad36090af694847ba3d99804a5bf17
+[2026-10-17 11:48:33 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Aurangzeb calls for replacing costly borrowing with longer-maturity fi
+[2026-10-17 11:48:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3609184b640149ee2e1f6607fb0a
+[2026-10-17 11:48:33 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): No accessibility upgrade planned for Haverfordwest station despite Pla
+[2026-10-17 11:48:34 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 279/400 chars, resolved=True): SPS Commerce, Inc. (SPSC)
+[2026-10-17 11:48:35 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 274/400 chars, resolved=True): Hyderabad, Sindh, Pakistan Weather Conditionsstar_ratehome
+[2026-10-17 11:48:57 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan eyes more IFC backing for private-sector-led growth
+[2026-10-17 11:48:57 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 923 in / 444 out tokens
