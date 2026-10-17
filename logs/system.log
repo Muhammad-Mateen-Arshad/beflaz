@@ -12380,3 +12380,20 @@
 [2026-10-17 07:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3243fd6f2455b9bc9df880e52748
 [2026-10-17 07:31:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
 [2026-10-17 07:31:12 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-17 07:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32440114449cab9ee25683bd72b5
+[2026-10-17 07:31:12 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Fossil of 'unconquered female warrior' dinosaur with long claws found 
+[2026-10-17 07:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad324404eed40b8bb7e48c2993461d
+[2026-10-17 07:31:13 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-17 07:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad324404eed40b8bb7e48c2993461d
+[2026-10-17 07:31:13 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-17 07:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad324416e41423eb75df1852ef6b65
+[2026-10-17 07:31:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Archaeologists in Turkey believe they just found the world’s oldest sh
+[2026-10-17 07:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad324416e41423eb75df1852ef6b65
+[2026-10-17 07:31:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 88/400 chars, resolved=True): ​World's oldest shipwreck found off Turkey's coast, archaeologists say
+[2026-10-17 07:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad324416e41423eb75df1852ef6b65
+[2026-10-17 07:31:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Divers find world’s oldest shipwreck off coast of Turkey
+[2026-10-17 07:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad324416e41423eb75df1852ef6b65
+[2026-10-17 07:31:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
+[2026-10-17 07:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32442b37b4357a0be6543f129d07
+[2026-10-17 07:31:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Mastodon tusk found underwater: Diver hauls 4-foot fossil off Florida’
+[2026-10-17 07:31:14 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
