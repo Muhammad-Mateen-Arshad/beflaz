@@ -13115,3 +13115,20 @@
 [2026-10-17 11:36:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4066286ee4f02b806998c1df04b3
 [2026-10-17 11:36:03 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-17 11:36:03 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-10-17 11:36:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40664f1b34303998db4239eee8c5
+[2026-10-17 11:36:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 119/400 chars, resolved=True): 100-year-old museum fossil identified as Europe’s first known megarapt
+[2026-10-17 11:36:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40664f1b34303998db4239eee8c5
+[2026-10-17 11:36:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Boffins discover frightening new baby T Rex dinosaur that lived on the
+[2026-10-17 11:36:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406642e0a470ea787d5e3dea4b77
+[2026-10-17 11:36:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Colorado scientists make history, uncover Tyrannosaurus rex footprints
+[2026-10-17 11:36:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406642e0a470ea787d5e3dea4b77
+[2026-10-17 11:36:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-17 11:36:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40665a5b545c88e644055876b035
+[2026-10-17 11:36:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Archaeologists in Turkey believe they just found the world’s oldest sh
+[2026-10-17 11:36:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40665a5b545c88e644055876b035
+[2026-10-17 11:36:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Divers find world’s oldest shipwreck off coast of Turkey
+[2026-10-17 11:36:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40665a5b545c88e644055876b035
+[2026-10-17 11:36:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 88/400 chars, resolved=True): ​World's oldest shipwreck found off Turkey's coast, archaeologists say
+[2026-10-17 11:36:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40665a5b545c88e644055876b035
+[2026-10-17 11:36:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
+[2026-10-17 11:36:06 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
