@@ -12473,3 +12473,20 @@
 [2026-10-17 10:54:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
 [2026-10-17 10:55:07 AM] [JOBS_BOT] [SUCCESS] Published: The Government is dangerously behind the curve on AI data centres
 [2026-10-17 10:55:08 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1295 in / 419 out tokens
+[2026-10-17 10:55:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3540d842e464eb3d28f9e76b2ec9
+[2026-10-17 10:55:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-17 10:55:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3540d842e464eb3d28f9e76b2ec9
+[2026-10-17 10:55:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-17 10:55:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3540d842e464eb3d28f9e76b2ec9
+[2026-10-17 10:55:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-17 10:55:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3540d66e74c4992a7c320637370e
+[2026-10-17 10:55:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): Netflix holiday movies coming in 2026: Release dates, casts & everythi
+[2026-10-17 10:55:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3540d66e74c4992a7c320637370e
+[2026-10-17 10:55:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): Netflix unveils Kuwaiti horror series Obsess ahead of Halloween
+[2026-10-17 10:55:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3540d66e74c4992a7c320637370e
+[2026-10-17 10:55:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): Will Forte & Skyler Gisondo’s Spooky Netflix Horror Show Scores Great 
+[2026-10-17 10:55:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3540d66e74c4992a7c320637370e
+[2026-10-17 10:55:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 41/300 chars, resolved=True): Has ‘The Diplomat’ Been Renewed for Season 5? Here’s Where Things Stan
+[2026-10-17 10:55:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3541d45434e4c8a9897af9a1cbd0
+[2026-10-17 10:55:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
+[2026-10-17 10:55:26 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
