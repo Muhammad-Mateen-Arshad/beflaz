@@ -12918,3 +12918,8 @@
 [2026-10-17 06:01:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3b7f3b31544229f7bfe518bf5eff
 [2026-10-17 06:01:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
 [2026-10-17 06:01:24 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-10-17 07:29:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-17 07:29:37 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 07:29:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-17 07:30:22 PM] [NEWS_BOT] [SUCCESS] Published: Indian airlines barred from using Pakistani airspace until Nov 24 as ban extended
+[2026-10-17 07:30:23 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 806 in / 457 out tokens
