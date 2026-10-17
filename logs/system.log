@@ -12424,3 +12424,16 @@
 [2026-10-17 08:06:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c9049e749658e3f45eae4a5b5e
 [2026-10-17 08:06:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-17 08:06:40 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
+[2026-10-17 08:06:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c90c1454334a9d14c2d2f0f216
+[2026-10-17 08:06:41 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 08:06:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c90c1454334a9d14c2d2f0f216
+[2026-10-17 08:06:41 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Column: Concilio has a long tradition of aiding minorities
+[2026-10-17 08:06:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c919d6d449eba8a5d1f9e3de0f
+[2026-10-17 08:06:41 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Govt considers raising university professors' retirement age to 65Publ
+[2026-10-17 08:06:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c919d6d449eba8a5d1f9e3de0f
+[2026-10-17 08:06:41 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): After my dad died, I discovered a lost history of Iranian Jews in the 
+[2026-10-17 08:06:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c91e68d46b293f9a8d83c2f93b
+[2026-10-17 08:06:42 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Pakistan issues new directives for Afghan medical students, doctors
+[2026-10-17 08:07:12 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-17 08:07:13 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: The Cost Of A Promise That Was Never Kept
+[2026-10-17 08:07:14 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1418 in / 491 out tokens
