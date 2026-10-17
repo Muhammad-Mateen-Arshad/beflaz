@@ -12321,3 +12321,9 @@
 [2026-10-17 03:30:43 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-17 03:30:44 AM] [DRAMAS_BOT] [SUCCESS] Published: Things to do on Saturday, October 17
 [2026-10-17 03:30:45 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1825 in / 318 out tokens
+[2026-10-17 03:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebe57a504d208289342869f9a4a
+[2026-10-17 03:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Column: Concilio has a long tradition of aiding minorities
+[2026-10-17 03:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebe6c8a94ecea2a81c34b1c2347
+[2026-10-17 03:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): After my dad died, I discovered a lost history of Iranian Jews in the 
+[2026-10-17 03:31:30 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 3 Pakistanis Fail to Come Back After Completing PhD on HEC Scholarship
+[2026-10-17 03:31:31 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 752 in / 471 out tokens
