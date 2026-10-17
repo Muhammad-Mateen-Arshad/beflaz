@@ -12992,3 +12992,22 @@
 [2026-10-17 09:48:40 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-17 09:48:59 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan suspends Iran trade corridors over 'security, smuggling concerns'
 [2026-10-17 09:49:00 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1153 in / 454 out tokens
+[2026-10-17 09:49:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed4c02ee47bcbc749865ca96209
+[2026-10-17 09:49:01 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-17 09:49:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed4c02ee47bcbc749865ca96209
+[2026-10-17 09:49:01 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-17 09:49:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed4df8d840c081af5ed587d5039
+[2026-10-17 09:49:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): IHC dismisses 38 petitions regarding regularisation of teaching staff 
+[2026-10-17 09:49:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed4df8d840c081af5ed587d5039
+[2026-10-17 09:49:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-17 09:49:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed4e440b489b8623fe339e95ee4
+[2026-10-17 09:49:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-17 09:49:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed4e440b489b8623fe339e95ee4
+[2026-10-17 09:49:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): Two years of Omar Abdullah government: Unfulfilled promises, governanc
+[2026-10-17 09:49:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed4e440b489b8623fe339e95ee4
+[2026-10-17 09:49:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): No accessibility upgrade planned for Haverfordwest station despite Pla
+[2026-10-17 09:49:03 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 09:49:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-17 09:49:26 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (142 words, need 150)): K-P’s hidden mineral wealth could create jobs, boost economy, says Gov
+[2026-10-17 09:49:26 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 931 in / 323 out tokens
+[2026-10-17 09:49:26 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 2, 'tried': 8, 'thin': 7, 'rejected': 1}
