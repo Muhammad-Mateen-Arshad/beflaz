@@ -12758,3 +12758,8 @@
 [2026-10-17 02:31:59 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-17 02:32:24 PM] [DRAMAS_BOT] [SUCCESS] Published: Doctor X Mafia In White Episode 4 Release Time Today: When, Where Will New Ep Premiere Online Amid Backlash?
 [2026-10-17 02:32:25 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1008 in / 519 out tokens
+[2026-10-17 02:32:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad386f9c19f411b8da1aaee6de47e5
+[2026-10-17 02:32:26 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 02:32:28 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 02:32:58 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Who pays for African AI Research as Microsoft closes its Nairobi Engineering Hub
+[2026-10-17 02:32:59 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1730 in / 552 out tokens
