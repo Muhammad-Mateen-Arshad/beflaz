@@ -12407,3 +12407,20 @@
 [2026-10-17 08:06:05 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (148 words, need 150); too many 'not specified' (source too thin)): Pakistan Says Attacks on Gulf Energy Infrastructure 'Worrying' for Out
 [2026-10-17 08:06:37 AM] [JOBS_BOT] [SUCCESS] Published: Al-Jadaan: Wars and Supply Disruptions Heighten Risks to Global Economy
 [2026-10-17 08:06:38 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2435 in / 797 out tokens
+[2026-10-17 08:06:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c8eaa834798a855388b1174ea4
+[2026-10-17 08:06:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-17 08:06:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c8eaa834798a855388b1174ea4
+[2026-10-17 08:06:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-17 08:06:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c8eaa834798a855388b1174ea4
+[2026-10-17 08:06:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-17 08:06:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c8ff0a1414c84c9640292546b6
+[2026-10-17 08:06:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): Netflix unveils Kuwaiti horror series Obsess ahead of Halloween
+[2026-10-17 08:06:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c8ff0a1414c84c9640292546b6
+[2026-10-17 08:06:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): Will Forte & Skyler Gisondo’s Spooky Netflix Horror Show Scores Great 
+[2026-10-17 08:06:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c8ff0a1414c84c9640292546b6
+[2026-10-17 08:06:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 101/300 chars, resolved=True): 7 new movies and shows to watch on Netflix, Prime Video, and more this
+[2026-10-17 08:06:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c8ff0a1414c84c9640292546b6
+[2026-10-17 08:06:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 41/300 chars, resolved=True): Has ‘The Diplomat’ Been Renewed for Season 5? Here’s Where Things Stan
+[2026-10-17 08:06:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c9049e749658e3f45eae4a5b5e
+[2026-10-17 08:06:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
+[2026-10-17 08:06:40 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
