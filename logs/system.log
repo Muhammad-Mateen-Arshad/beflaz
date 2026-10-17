@@ -13062,3 +13062,18 @@
 [2026-10-17 11:33:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-17 11:34:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-17 11:34:58 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-17 11:35:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406245bf547bea648d072592a1f0
+[2026-10-17 11:35:01 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-17 11:35:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406245bf547bea648d072592a1f0
+[2026-10-17 11:35:01 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-17 11:35:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40625b39c43e2b3e5e6baf5a3acf
+[2026-10-17 11:35:01 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): IHC dismisses 38 petitions regarding regularisation of teaching staff 
+[2026-10-17 11:35:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406253b6943dcbecd4ab5dbb07bf
+[2026-10-17 11:35:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-17 11:35:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406253b6943dcbecd4ab5dbb07bf
+[2026-10-17 11:35:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): Two years of Omar Abdullah government: Unfulfilled promises, governanc
+[2026-10-17 11:35:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad406253b6943dcbecd4ab5dbb07bf
+[2026-10-17 11:35:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): No accessibility upgrade planned for Haverfordwest station despite Pla
+[2026-10-17 11:35:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 279/400 chars, resolved=True): SPS Commerce, Inc. (SPSC)
+[2026-10-17 11:35:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 272/400 chars, resolved=True): Hyderabad, Sindh, Pakistan Weather Conditionsstar_ratehome
+[2026-10-17 11:35:04 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
