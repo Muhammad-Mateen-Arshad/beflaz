@@ -13027,3 +13027,19 @@
 [2026-10-17 09:49:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-17 09:50:14 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Peshawar Board Releases List of Class 9 Students for |Free| Chromebooks
 [2026-10-17 09:50:15 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 950 in / 574 out tokens
+[2026-10-17 09:50:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-17 09:50:16 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-17 09:50:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed9809894c588b83e6b64075327
+[2026-10-17 09:50:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-17 09:50:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed9809894c588b83e6b64075327
+[2026-10-17 09:50:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-17 09:50:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed9809894c588b83e6b64075327
+[2026-10-17 09:50:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): 9 Tips to Get a Good Night’s Sleep With CLL
+[2026-10-17 09:50:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed9b57ef4cb7ad8bbd00c56190c
+[2026-10-17 09:50:20 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-17 09:50:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed9b57ef4cb7ad8bbd00c56190c
+[2026-10-17 09:50:20 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
+[2026-10-17 09:50:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed9b57ef4cb7ad8bbd00c56190c
+[2026-10-17 09:50:21 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-17 09:50:22 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 323/800 chars, resolved=True): Creatine boosts lean mass sans exercise, study shows
+[2026-10-17 09:50:22 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
