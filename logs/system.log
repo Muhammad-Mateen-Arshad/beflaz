@@ -12938,3 +12938,14 @@
 [2026-10-17 07:30:26 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 279/400 chars, resolved=True): SPS Commerce, Inc. (SPSC)
 [2026-10-17 07:30:27 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 328/400 chars, resolved=True): Hyderabad, Sindh, Pakistan Weather Conditionsstar_ratehome
 [2026-10-17 07:30:27 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-10-17 07:30:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ccd4d28a4dd4be4370b8901e2ce
+[2026-10-17 07:30:28 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-17 07:30:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ccd4d28a4dd4be4370b8901e2ce
+[2026-10-17 07:30:28 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-17 07:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ccd444fa4f06a017e1e3988293e
+[2026-10-17 07:30:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): Netflix holiday movies coming in 2026: Release dates, casts & everythi
+[2026-10-17 07:30:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-17 07:30:40 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 07:30:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-17 07:31:26 PM] [DRAMAS_BOT] [SUCCESS] Published: Sandbox VR's Times Square Venue Leads With the Zombie Series Behind 2.66 Million of Its 6 Million Tickets
+[2026-10-17 07:31:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1594 in / 445 out tokens
