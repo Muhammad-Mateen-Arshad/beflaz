@@ -12737,3 +12737,11 @@
 [2026-10-17 11:49:07 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
 [2026-10-17 02:31:26 PM] [NEWS_BOT] [SUCCESS] Published: Centre was compelled to impose emergency in KP, PM reiterates
 [2026-10-17 02:31:27 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1120 in / 516 out tokens
+[2026-10-17 02:31:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad386bf8a724130b055f015e2e1e62
+[2026-10-17 02:31:28 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Govt seeks US investment in minerals
+[2026-10-17 02:31:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad386c0f79c426aa410def8472b191
+[2026-10-17 02:31:28 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-17 02:31:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad386c0ab824c1a97481de98305abf
+[2026-10-17 02:31:28 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): Two years of Omar Abdullah government: Unfulfilled promises, governanc
+[2026-10-17 02:31:54 PM] [JOBS_BOT] [SUCCESS] Published: ‘Spent 5 years cracking jokes’: Haryana CM Saini takes a jibe at Bhagwant Mann on his birthday
+[2026-10-17 02:31:54 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1265 in / 463 out tokens
