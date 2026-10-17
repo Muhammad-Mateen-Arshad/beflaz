@@ -126,5 +126,54 @@
             document.querySelectorAll('.fade-up').forEach((el) => observer.observe(el));
         });
     </script>
+
+    <!-- Service Promo Popup -->
+<div id="beflaz-promo-overlay" style="display:none; position:fixed; inset:0; background:rgba(5,5,6,0.75); backdrop-filter: blur(4px); z-index:9999; align-items:center; justify-content:center; padding:20px;">
+  <div style="background: var(--bg-dark, #0b0c10); border:1px solid rgba(212,175,55,0.3); border-radius:16px; max-width:420px; width:100%; padding:32px; position:relative; box-shadow:0 20px 60px rgba(0,0,0,0.5); text-align:center;">
+    <button onclick="document.getElementById('beflaz-promo-overlay').style.display='none'" aria-label="Close" style="position:absolute; top:14px; right:14px; background:none; border:none; color:var(--text-muted,#b8b8ad); font-size:24px; cursor:pointer; line-height:1;">&times;</button>
+
+    <h3 style="font-family:'Playfair Display', serif; background:var(--accent-gradient); -webkit-background-clip:text; background-clip:text; color:transparent; font-size:1.6rem; margin-bottom:0.5rem;">
+      Need Something Built?
+    </h3>
+    <p style="color:var(--text-muted,#b8b8ad); font-size:0.95rem; margin-bottom:1.5rem;">
+      We also build digital products for businesses:
+    </p>
+
+    <ul style="list-style:none; padding:0; margin:0 0 1.5rem 0; text-align:left; color:var(--text-primary,#f5f5f0); font-size:0.95rem; line-height:2;">
+      <li>📱 App for Business</li>
+      <li>💻 Web for Business</li>
+      <li>🤖 Business Chatbot</li>
+      <li>🌐 Website Development</li>
+      <li>📲 Mobile Apps</li>
+      <li>📺 IPTV Services</li>
+      <li>💬 Any other query — just ask</li>
+    </ul>
+
+    <a href="contact.html" class="btn-primary" style="display:inline-block; text-decoration:none; padding:12px 28px; border-radius:8px; margin-bottom:1rem;">
+      Get in Touch
+    </a>
+
+    <p style="font-size:0.85rem; color:var(--text-muted,#b8b8ad); margin-top:0.5rem;">
+      Not interested right now?
+      <a href="https://substack.com/@beflaz" style="color:var(--gold,#D4AF37);">Subscribe to our newsletter</a> instead.
+    </p>
+  </div>
+</div>
+
+<script>
+(function() {
+  if (sessionStorage.getItem('beflaz_promo_shown')) return;
+  var prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  setTimeout(function() {
+    var overlay = document.getElementById('beflaz-promo-overlay');
+    overlay.style.display = 'flex';
+    sessionStorage.setItem('beflaz_promo_shown', '1');
+  }, prefersReduced ? 0 : 4000);
+
+  document.getElementById('beflaz-promo-overlay').addEventListener('click', function(e) {
+    if (e.target === this) this.style.display = 'none';
+  });
+})();
+</script>
 </body>
 </html>
