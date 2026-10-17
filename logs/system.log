@@ -13086,3 +13086,15 @@
 [2026-10-17 11:35:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40629ebfc4dc18a56b7b0dd0a2a2
 [2026-10-17 11:35:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-17 11:35:06 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 4, 'thin': 4}
+[2026-10-17 11:35:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4062a973d40f3997d8fe280102a6
+[2026-10-17 11:35:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 11:35:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4062a973d40f3997d8fe280102a6
+[2026-10-17 11:35:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Oxford alumna donates $2.5m to fund scholarships for Afghan women
+[2026-10-17 11:35:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4062a973d40f3997d8fe280102a6
+[2026-10-17 11:35:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): Russia Invites Kenyan Students to Compete for Tuition-Free University 
+[2026-10-17 11:35:09 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 11:35:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-17 11:35:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-17 11:35:37 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-17 11:35:58 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Selling Dreams
+[2026-10-17 11:35:59 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 859 in / 400 out tokens
