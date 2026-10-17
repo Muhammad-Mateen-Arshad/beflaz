@@ -12267,3 +12267,9 @@
 [2026-10-17 01:48:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-17 01:48:46 AM] [DRAMAS_BOT] [SUCCESS] Published: Doctor X Mafia In White Episode 3 Release Time Today: When, Where Will New Ep Premiere Online Amid Criticism?
 [2026-10-17 01:48:47 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 938 in / 516 out tokens
+[2026-10-17 01:48:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3fffbc94676859a6510d033332
+[2026-10-17 01:48:47 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Column: Concilio has a long tradition of aiding minorities
+[2026-10-17 01:48:49 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 01:48:51 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-17 01:49:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Nutrition Scholarships in Canada
+[2026-10-17 01:49:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1461 in / 625 out tokens
