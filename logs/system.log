@@ -13047,3 +13047,18 @@
 [2026-10-17 09:50:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 119/400 chars, resolved=True): 100-year-old museum fossil identified as Europe’s first known megarapt
 [2026-10-17 09:50:42 PM] [HISTORY_BOT] [SUCCESS] Published: Forgotten Fossil Reveals Never Seen Before Dinosaur Species
 [2026-10-17 09:50:43 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1501 in / 528 out tokens
+[2026-10-17 11:29:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-17 11:29:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-17 11:29:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-17 11:30:01 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 11:30:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-17 11:30:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-17 11:30:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-17 11:31:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-17 11:32:00 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-17 11:32:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-17 11:33:01 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-17 11:33:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-17 11:33:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-17 11:34:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-17 11:34:58 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
