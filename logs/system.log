@@ -12848,3 +12848,7 @@
 [2026-10-17 03:31:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad394b9cd674b4e87eec41673574e7
 [2026-10-17 03:31:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
 [2026-10-17 03:31:06 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-17 06:00:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-17 06:00:17 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 06:00:41 PM] [NEWS_BOT] [SUCCESS] Published: Security forces respond to unprovoked firing by Afghan Taliban along Kurram border: state media
+[2026-10-17 06:00:42 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1465 in / 426 out tokens
