@@ -12553,3 +12553,9 @@
 [2026-10-17 11:25:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35b41b01c4443b0737ab824b04d4
 [2026-10-17 11:25:53 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-17 11:25:53 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
+[2026-10-17 11:25:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35b42eab343c3b6e9cfbb9862d28
+[2026-10-17 11:25:54 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 11:25:55 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-17 11:26:01 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 11:26:29 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PhD in Economics Scholarships in Canada With CAD $40,000 Annual Funding
+[2026-10-17 11:26:30 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1489 in / 699 out tokens
