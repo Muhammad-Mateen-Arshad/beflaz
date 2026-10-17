@@ -12251,3 +12251,19 @@
 [2026-10-17 01:47:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
 [2026-10-17 01:48:03 AM] [JOBS_BOT] [SUCCESS] Published: Morocco Security and Crime Explained 2026
 [2026-10-17 01:48:03 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1795 in / 405 out tokens
+[2026-10-17 01:48:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3d4ed4a4c7697141a42d1a14a0
+[2026-10-17 01:48:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-17 01:48:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3d4ed4a4c7697141a42d1a14a0
+[2026-10-17 01:48:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-17 01:48:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3d4ed4a4c7697141a42d1a14a0
+[2026-10-17 01:48:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-17 01:48:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3d5ef3e4af2ab26f64466ab54a
+[2026-10-17 01:48:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): Netflix unveils Kuwaiti horror series Obsess ahead of Halloween
+[2026-10-17 01:48:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3d5ef3e4af2ab26f64466ab54a
+[2026-10-17 01:48:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): Will Forte & Skyler Gisondo’s Spooky Netflix Horror Show Scores Great 
+[2026-10-17 01:48:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d3d5ef3e4af2ab26f64466ab54a
+[2026-10-17 01:48:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 101/300 chars, resolved=True): 7 new movies and shows to watch on Netflix, Prime Video, and more this
+[2026-10-17 01:48:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 01:48:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-17 01:48:46 AM] [DRAMAS_BOT] [SUCCESS] Published: Doctor X Mafia In White Episode 3 Release Time Today: When, Where Will New Ep Premiere Online Amid Criticism?
+[2026-10-17 01:48:47 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 938 in / 516 out tokens
