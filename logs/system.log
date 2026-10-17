@@ -12490,3 +12490,5 @@
 [2026-10-17 10:55:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3541d45434e4c8a9897af9a1cbd0
 [2026-10-17 10:55:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-17 10:55:26 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
+[2026-10-17 10:55:47 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: IUB Vice Chancellor Strengthens China-Pakistan Academic and Research Collaboration During China Visit
+[2026-10-17 10:55:47 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 877 in / 461 out tokens
