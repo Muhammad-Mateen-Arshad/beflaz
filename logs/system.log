@@ -12522,3 +12522,5 @@
 [2026-10-17 10:55:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35439e4424a198efd764bfed1aa7
 [2026-10-17 10:55:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
 [2026-10-17 10:55:53 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-17 11:24:13 AM] [NEWS_BOT] [SUCCESS] Published: Armed men abduct 20 under-training police personnel in Mastung: officials
+[2026-10-17 11:24:14 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 691 in / 433 out tokens
