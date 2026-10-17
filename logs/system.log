@@ -12337,3 +12337,8 @@
 [2026-10-17 03:31:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
 [2026-10-17 03:31:58 AM] [HEALTH_BOT] [SUCCESS] Published: Is Exercise the Fountain of Youth for Your Muscles? Science Says Maybe
 [2026-10-17 03:31:59 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 925 in / 468 out tokens
+[2026-10-17 03:32:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ec2f54334a65b040cdec0da7c67
+[2026-10-17 03:32:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Fossil of 'unconquered female warrior' dinosaur with long claws found 
+[2026-10-17 03:32:00 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 03:32:18 AM] [HISTORY_BOT] [SUCCESS] Published: Rare fossil of T. rex cousin goes on display in New York before heading to auction
+[2026-10-17 03:32:19 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1528 in / 589 out tokens
