@@ -12694,3 +12694,14 @@
 [2026-10-17 11:49:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad360ab4b194ea483c2988eb2f8d58
 [2026-10-17 11:49:00 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-17 11:49:00 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
+[2026-10-17 11:49:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad360ac20a74db39897cb6f3eb3c00
+[2026-10-17 11:49:00 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 11:49:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad360ac20a74db39897cb6f3eb3c00
+[2026-10-17 11:49:00 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Column: Concilio has a long tradition of aiding minorities
+[2026-10-17 11:49:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad360ac9cf14453a68cc7dfdc0ebea
+[2026-10-17 11:49:01 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Govt considers raising university professors' retirement age to 65Publ
+[2026-10-17 11:49:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad360adc0fe454d856c3ceb731a712
+[2026-10-17 11:49:01 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Pakistan issues new directives for Afghan medical students, doctors
+[2026-10-17 11:49:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad360adc0fe454d856c3ceb731a712
+[2026-10-17 11:49:01 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Gold medalist student's suicide exposes alleged multi-million-rupee ed
+[2026-10-17 11:49:01 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 5, 'thin': 5}
