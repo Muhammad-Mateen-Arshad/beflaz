@@ -12288,3 +12288,12 @@
 [2026-10-17 01:49:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
 [2026-10-17 01:50:26 AM] [HEALTH_BOT] [SUCCESS] Published: Fitness Industry Embraces Healthy Aging as Experts Warn on Longevity Claims
 [2026-10-17 01:50:27 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1436 in / 550 out tokens
+[2026-10-17 01:50:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d463eee8417f8d447c1c37004f0
+[2026-10-17 01:50:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Fossil of 'unconquered female warrior' dinosaur with long claws found 
+[2026-10-17 01:50:29 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 01:50:31 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-17 01:50:33 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-17 01:50:35 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-17 01:50:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-17 01:51:21 AM] [HISTORY_BOT] [SUCCESS] Published: Scientists Discover a Terrifying New Dinosaur Hidden for 100 Years
+[2026-10-17 01:51:22 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1506 in / 536 out tokens
