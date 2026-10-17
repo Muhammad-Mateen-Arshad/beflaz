@@ -12595,3 +12595,17 @@
 [2026-10-17 11:30:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-10-17 11:31:12 AM] [NEWS_BOT] [SUCCESS] Published: Pope to return to Vatican after cancer surgery
 [2026-10-17 11:31:13 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1342 in / 438 out tokens
+[2026-10-17 11:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c81aad74eafa887b439df5b702
+[2026-10-17 11:31:13 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-17 11:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c81aad74eafa887b439df5b702
+[2026-10-17 11:31:13 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Aurangzeb calls for replacing costly borrowing with longer-maturity fi
+[2026-10-17 11:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c820acb4729b32c49f83728f85
+[2026-10-17 11:31:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-17 11:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c82048949b7a2843a9a92c6bf6
+[2026-10-17 11:31:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): No accessibility upgrade planned for Haverfordwest station despite Pla
+[2026-10-17 11:31:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c83f96c4ed3a649b819a310bdb
+[2026-10-17 11:31:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Newspaper - Lahore - October 17, 2026
+[2026-10-17 11:31:16 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 274/400 chars, resolved=True): Lahore, Punjab, Pakistan Weather Conditionsstar_ratehome
+[2026-10-17 11:31:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 279/400 chars, resolved=True): SPS Commerce, Inc. (SPSC)
+[2026-10-17 11:31:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 274/400 chars, resolved=True): Hyderabad, Sindh, Pakistan Weather Conditionsstar_ratehome
+[2026-10-17 11:31:17 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
