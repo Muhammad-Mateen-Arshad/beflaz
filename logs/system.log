@@ -12299,3 +12299,16 @@
 [2026-10-17 01:51:22 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1506 in / 536 out tokens
 [2026-10-17 03:29:49 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan rules out unconditional talks with Afghanistan
 [2026-10-17 03:29:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1369 in / 477 out tokens
+[2026-10-17 03:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebaf01d6400eb179e835584e459
+[2026-10-17 03:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Sindh pitches investment potential to Chinese business leadersPublishe
+[2026-10-17 03:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebaf01d6400eb179e835584e459
+[2026-10-17 03:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-17 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebafdb004e75b9637de287762c5
+[2026-10-17 03:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): World News | Pakistani Forces Accused of Surging Menace as Baloch Teac
+[2026-10-17 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebafdb004e75b9637de287762c5
+[2026-10-17 03:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): French soldiers show visitors inside an armored vehicle (4K)
+[2026-10-17 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebafdb004e75b9637de287762c5
+[2026-10-17 03:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Laramie County flags to be lowered Monday in soldier's honor
+[2026-10-17 03:29:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 03:30:13 AM] [JOBS_BOT] [SUCCESS] Published: PERA Announces Jobs
+[2026-10-17 03:30:15 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 960 in / 540 out tokens
