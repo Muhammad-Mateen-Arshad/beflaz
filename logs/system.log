@@ -12469,3 +12469,7 @@
 [2026-10-17 08:07:20 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
 [2026-10-17 10:54:44 AM] [NEWS_BOT] [SUCCESS] Published: Minister rebukes JUI-F chief for seeking ‘share’ in KP governance after imposition of governor’s rule, emergency
 [2026-10-17 10:54:44 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1599 in / 469 out tokens
+[2026-10-17 10:54:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad353f50d6e4d47800da231f8a207d
+[2026-10-17 10:54:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-17 10:55:07 AM] [JOBS_BOT] [SUCCESS] Published: The Government is dangerously behind the curve on AI data centres
+[2026-10-17 10:55:08 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1295 in / 419 out tokens
