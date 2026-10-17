@@ -12400,3 +12400,10 @@
 [2026-10-17 08:05:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-17 08:05:53 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan has enough energy supplies to last through November, planning for winter spike: Aurangzeb
 [2026-10-17 08:05:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1548 in / 408 out tokens
+[2026-10-17 08:05:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c62fc42499c93f37e5c487512e
+[2026-10-17 08:05:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Sindh pitches investment potential to Chinese business leadersPublishe
+[2026-10-17 08:05:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad32c62fc42499c93f37e5c487512e
+[2026-10-17 08:05:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-17 08:06:05 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (148 words, need 150); too many 'not specified' (source too thin)): Pakistan Says Attacks on Gulf Energy Infrastructure 'Worrying' for Out
+[2026-10-17 08:06:37 AM] [JOBS_BOT] [SUCCESS] Published: Al-Jadaan: Wars and Supply Disruptions Heighten Risks to Global Economy
+[2026-10-17 08:06:38 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2435 in / 797 out tokens
