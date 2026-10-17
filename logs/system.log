@@ -13018,3 +13018,12 @@
 [2026-10-17 09:49:29 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-17 09:49:49 PM] [DRAMAS_BOT] [SUCCESS] Published: Everything Coming to Netflix This Week, Including a New Season of ‘Pokémon’
 [2026-10-17 09:49:50 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1362 in / 540 out tokens
+[2026-10-17 09:49:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed7f708043d694079512732051b
+[2026-10-17 09:49:51 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 09:49:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed7f708043d694079512732051b
+[2026-10-17 09:49:51 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Oxford alumna donates $2.5m to fund scholarships for Afghan women
+[2026-10-17 09:49:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ed8072674653ae4950336a50cee
+[2026-10-17 09:49:52 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Govt considers raising university professors' retirement age to 65Publ
+[2026-10-17 09:49:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 09:50:14 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Peshawar Board Releases List of Class 9 Students for |Free| Chromebooks
+[2026-10-17 09:50:15 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 950 in / 574 out tokens
