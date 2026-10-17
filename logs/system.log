@@ -12312,3 +12312,12 @@
 [2026-10-17 03:29:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-17 03:30:13 AM] [JOBS_BOT] [SUCCESS] Published: PERA Announces Jobs
 [2026-10-17 03:30:15 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 960 in / 540 out tokens
+[2026-10-17 03:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebc7f6f04e029ccb3d5363296f7
+[2026-10-17 03:30:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu'
+[2026-10-17 03:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebc7f6f04e029ccb3d5363296f7
+[2026-10-17 03:30:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-17 03:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ebc7f6f04e029ccb3d5363296f7
+[2026-10-17 03:30:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-17 03:30:43 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-17 03:30:44 AM] [DRAMAS_BOT] [SUCCESS] Published: Things to do on Saturday, October 17
+[2026-10-17 03:30:45 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1825 in / 318 out tokens
