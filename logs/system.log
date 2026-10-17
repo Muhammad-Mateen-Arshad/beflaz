@@ -12949,3 +12949,10 @@
 [2026-10-17 07:30:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-17 07:31:26 PM] [DRAMAS_BOT] [SUCCESS] Published: Sandbox VR's Times Square Venue Leads With the Zombie Series Behind 2.66 Million of Its 6 Million Tickets
 [2026-10-17 07:31:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1594 in / 445 out tokens
+[2026-10-17 07:31:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3cd10771744148eb0e2b519335d6
+[2026-10-17 07:31:28 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 07:31:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3cd10771744148eb0e2b519335d6
+[2026-10-17 07:31:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Oxford alumna donates $2.5m to fund scholarships for Afghan women
+[2026-10-17 07:31:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 07:31:49 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Countries with Easiest Student Visa Processes for Pakistanis: Visa Requirements, Costs and Scholarships
+[2026-10-17 07:31:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1369 in / 560 out tokens
