@@ -12988,3 +12988,7 @@
 [2026-10-17 07:31:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3cd2b541e4cff926c5ed0efe3336
 [2026-10-17 07:31:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Divers find world’s oldest shipwreck off coast of Turkey
 [2026-10-17 07:31:56 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-10-17 09:48:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-17 09:48:40 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-17 09:48:59 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan suspends Iran trade corridors over 'security, smuggling concerns'
+[2026-10-17 09:49:00 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1153 in / 454 out tokens
