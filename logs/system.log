@@ -12665,3 +12665,5 @@
 [2026-10-17 11:31:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad35c91b49f4fec8910cb355b552b8
 [2026-10-17 11:31:29 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
 [2026-10-17 11:31:30 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-17 11:48:30 AM] [NEWS_BOT] [SUCCESS] Published: Trump waives several Russia sanctions as row with Zelensky intensifies
+[2026-10-17 11:48:31 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1480 in / 483 out tokens
