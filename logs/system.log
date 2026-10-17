@@ -12793,3 +12793,5 @@
 [2026-10-17 02:33:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad38721e3b044c9a54527dc93cb261
 [2026-10-17 02:33:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
 [2026-10-17 02:33:06 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-17 03:29:53 PM] [NEWS_BOT] [SUCCESS] Published: Fazl clarifies he criticised policies, not institutions after ministers allege he sought 'share' in KP governance
+[2026-10-17 03:29:53 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1539 in / 491 out tokens
