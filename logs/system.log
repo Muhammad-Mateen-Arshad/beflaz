@@ -12361,3 +12361,9 @@
 [2026-10-17 07:30:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-17 07:30:45 AM] [DRAMAS_BOT] [SUCCESS] Published: Disney+ Dumped Them, Netflix Walked Away, and Now Amazon Wants the Power Rangers
 [2026-10-17 07:30:45 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1330 in / 570 out tokens
+[2026-10-17 07:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3242647744088905b97ce0ce74a4
+[2026-10-17 07:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 07:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3242647744088905b97ce0ce74a4
+[2026-10-17 07:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Column: Concilio has a long tradition of aiding minorities
+[2026-10-17 07:31:06 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Govt considers raising university professors’ retirement age to 65
+[2026-10-17 07:31:07 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1297 in / 488 out tokens
