@@ -12327,3 +12327,13 @@
 [2026-10-17 03:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): After my dad died, I discovered a lost history of Iranian Jews in the 
 [2026-10-17 03:31:30 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 3 Pakistanis Fail to Come Back After Completing PhD on HEC Scholarship
 [2026-10-17 03:31:31 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 752 in / 471 out tokens
+[2026-10-17 03:31:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-17 03:31:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-17 03:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ec13236646e090577d5d199663e
+[2026-10-17 03:31:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-17 03:31:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ec13236646e090577d5d199663e
+[2026-10-17 03:31:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-17 03:31:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2ec15276b44a192a225e58c94dbf
+[2026-10-17 03:31:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-17 03:31:58 AM] [HEALTH_BOT] [SUCCESS] Published: Is Exercise the Fountain of Youth for Your Muscles? Science Says Maybe
+[2026-10-17 03:31:59 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 925 in / 468 out tokens
