@@ -12807,3 +12807,14 @@
 [2026-10-17 03:30:30 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 784 in / 369 out tokens
 [2026-10-17 03:30:57 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘4 Blocks Zero’ Episode 4 Recap & Ending Explained: The Hamadys Meet Their Turning Point
 [2026-10-17 03:30:58 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1431 in / 517 out tokens
+[2026-10-17 03:30:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad394b267034a16988c499c2092466
+[2026-10-17 03:30:58 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Oxford alumna donates $2.5m to fund scholarships for Afghan women
+[2026-10-17 03:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad394b267034a16988c499c2092466
+[2026-10-17 03:30:59 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-17 03:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad394b3ff124abcac927f948caeac4
+[2026-10-17 03:30:59 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Govt considers raising university professors' retirement age to 65Publ
+[2026-10-17 03:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad394b357594562bec07e167303d12
+[2026-10-17 03:30:59 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Pakistan issues new directives for Afghan medical students, doctors
+[2026-10-17 03:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad394b357594562bec07e167303d12
+[2026-10-17 03:31:00 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Gold medalist student's suicide exposes alleged multi-million-rupee ed
+[2026-10-17 03:31:00 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 10}
