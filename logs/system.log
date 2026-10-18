@@ -13556,3 +13556,6 @@
 [2026-10-18 11:32:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4ae380abd4384945c3c1bd3da9b8
 [2026-10-18 11:32:09 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Divers find world’s oldest shipwreck off coast of Turkey
 [2026-10-18 11:32:09 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-10-18 02:57:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 02:58:36 PM] [NEWS_BOT] [SUCCESS] Published: Bilawal says KP governor's rule could end if opposition agrees to fight against terrorism
+[2026-10-18 02:58:37 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1565 in / 555 out tokens
