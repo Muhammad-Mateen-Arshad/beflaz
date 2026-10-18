@@ -13622,3 +13622,12 @@
 [2026-10-18 03:30:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-18 03:31:13 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s Next WWII Blockbuster Officially Arrives This Month
 [2026-10-18 03:31:14 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1536 in / 463 out tokens
+[2026-10-18 03:31:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e642ba18477eb3f28995f35058d
+[2026-10-18 03:31:15 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 122/400 chars, resolved=True): International Medical Aid Foundation (IMA) Highlights HOSA Members Lea
+[2026-10-18 03:31:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e642ba18477eb3f28995f35058d
+[2026-10-18 03:31:15 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 86/400 chars, resolved=True): Solving Papua New Guinea's education crisis
+[2026-10-18 03:31:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e642ba18477eb3f28995f35058d
+[2026-10-18 03:31:16 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Free tuition at Ohio colleges on the rise, though most eligible studen
+[2026-10-18 03:31:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e64463954c35b1c82e07e8d5960
+[2026-10-18 03:31:16 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan News | Latest Headlines & Stories | Reuters
+[2026-10-18 03:31:17 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 4, 'thin': 4, 'already_seen': 10}
