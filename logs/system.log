@@ -13221,3 +13221,17 @@
 [2026-10-18 03:31:18 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (112 words, need 150); too many 'not specified' (source too thin)): Kazakhstan to brace for dust storms, ice slick and ground frosts
 [2026-10-18 03:31:19 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3604 in / 668 out tokens
 [2026-10-18 03:31:19 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 6, 'already_seen': 6, 'rejected': 2}
+[2026-10-18 03:31:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-18 03:31:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d885b03440f97de956191dfac2
+[2026-10-18 03:31:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-18 03:31:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d885b03440f97de956191dfac2
+[2026-10-18 03:31:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-18 03:31:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d885b03440f97de956191dfac2
+[2026-10-18 03:31:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-18 03:31:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d899ca943c192d3452eec0ebdb
+[2026-10-18 03:31:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Netflix’s dealies to feature a comedy-centric Joe Bennett series
+[2026-10-18 03:31:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d899ca943c192d3452eec0ebdb
+[2026-10-18 03:31:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 158/300 chars, resolved=True): Meghan Markle was 'used' by Netflix to promote Guy Ritchie's series Th
+[2026-10-18 03:31:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d8a33c548ef9ef24e0bf84b01e
+[2026-10-18 03:31:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
+[2026-10-18 03:31:22 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
