@@ -13401,3 +13401,12 @@
 [2026-10-18 07:42:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4786933ae4bfab23a3fb6c4002a9
 [2026-10-18 07:42:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Exercise Plus Nutrition May Sharpen Aging Minds, Meta-Analysis Finds
 [2026-10-18 07:42:35 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-18 07:42:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4786b4f7d44fc8b63d51537312ce
+[2026-10-18 07:42:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 119/400 chars, resolved=True): 100-year-old museum fossil identified as Europe’s first known megarapt
+[2026-10-18 07:42:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4786b4f7d44fc8b63d51537312ce
+[2026-10-18 07:42:36 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Boffins discover frightening new 'baby T. Rex' dinosaur that lived on 
+[2026-10-18 07:42:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 07:42:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-18 07:43:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-18 07:43:42 AM] [HISTORY_BOT] [SUCCESS] Published: 9 Indiana Road Trip Destinations So Affordable You Will Think There Must Be A Catch
+[2026-10-18 07:43:43 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1519 in / 349 out tokens
