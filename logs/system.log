@@ -13806,3 +13806,7 @@
 [2026-10-18 07:32:31 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'thin': 8}
 [2026-10-18 09:59:35 PM] [NEWS_BOT] [SUCCESS] Published: 'Was not sure I'll make it ​out alive': Captain of flydubai flight to Tel Aviv recalls blocking axe blows from co-pilot
 [2026-10-18 09:59:36 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 840 in / 456 out tokens
+[2026-10-18 09:59:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 09:59:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 10:00:11 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan: Sindh's Tharparkar reports rise in suicide deaths
+[2026-10-18 10:00:12 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1480 in / 406 out tokens
