@@ -13563,3 +13563,13 @@
 [2026-10-18 02:58:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
 [2026-10-18 02:59:03 PM] [JOBS_BOT] [SUCCESS] Published: Fresh concerns over 2027 budget
 [2026-10-18 02:59:04 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1499 in / 539 out tokens
+[2026-10-18 02:59:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-18 02:59:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4deb9b66a4ff9842909a3218a654
+[2026-10-18 02:59:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-18 02:59:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4deb9b66a4ff9842909a3218a654
+[2026-10-18 02:59:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-18 02:59:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 02:59:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-18 02:59:44 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 03:00:23 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Dragon Ball Super: Beerus’ Episode 3 Release Date, Time, Where to Watch and Preview
+[2026-10-18 03:00:25 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1241 in / 477 out tokens
