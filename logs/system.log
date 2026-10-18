@@ -13880,3 +13880,17 @@
 [2026-10-18 11:30:35 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-18 11:30:55 PM] [JOBS_BOT] [SUCCESS] Published: Joint Kyrgyzstan-Tatarstan plant to boost industrial cooperation
 [2026-10-18 11:30:55 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1918 in / 341 out tokens
+[2026-10-18 11:30:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-18 11:30:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b144dd46c1ab37dff18db5b41
+[2026-10-18 11:30:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-18 11:30:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b144dd46c1ab37dff18db5b41
+[2026-10-18 11:30:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-18 11:30:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b163824fccbecf2c0651ac460
+[2026-10-18 11:30:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): How many episodes will Cyberpunk: Edgerunners Season 2 have? Here’s wh
+[2026-10-18 11:30:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b163824fccbecf2c0651ac460
+[2026-10-18 11:30:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 164/300 chars, resolved=True): The Gentlemen doesn't need Meghan to boost publicity, source says afte
+[2026-10-18 11:30:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b163824fccbecf2c0651ac460
+[2026-10-18 11:30:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 164/300 chars, resolved=True): The Gentlemen 'doesn't need Meghan to boost publicity', source says af
+[2026-10-18 11:30:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b15c8745319a3288e3bc8bc6c
+[2026-10-18 11:30:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
+[2026-10-18 11:30:58 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
