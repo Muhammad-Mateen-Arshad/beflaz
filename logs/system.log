@@ -13894,3 +13894,10 @@
 [2026-10-18 11:30:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b15c8745319a3288e3bc8bc6c
 [2026-10-18 11:30:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-18 11:30:58 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
+[2026-10-18 11:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b2c1a44122ad176c78f6a15bf
+[2026-10-18 11:30:59 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 122/400 chars, resolved=True): International Medical Aid Foundation (IMA) Highlights HOSA Members Lea
+[2026-10-18 11:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b2c1a44122ad176c78f6a15bf
+[2026-10-18 11:30:59 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Free tuition at Ohio colleges on the rise, though most eligible studen
+[2026-10-18 11:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b2c1a44122ad176c78f6a15bf
+[2026-10-18 11:30:59 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 86/400 chars, resolved=True): Solving Papua New Guinea's education crisis
+[2026-10-18 11:30:59 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 3, 'thin': 3, 'already_seen': 8}
