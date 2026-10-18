@@ -13303,3 +13303,7 @@
 [2026-10-18 07:30:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Netflix’s dealies to feature a comedy-centric Joe Bennett series
 [2026-10-18 07:31:05 AM] [DRAMAS_BOT] [SUCCESS] Published: Dragon Ball Super: Beerus Is Now Streaming With Netflix After New Update
 [2026-10-18 07:31:06 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1281 in / 442 out tokens
+[2026-10-18 07:31:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475bb10c74f30964d54cf6b57d3d
+[2026-10-18 07:31:07 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Oxford alumna donates $2.5m to fund scholarships for Afghan women
+[2026-10-18 07:31:20 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: IUB extends research ties with Chinese varsity
+[2026-10-18 07:31:22 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 630 in / 354 out tokens
