@@ -13663,3 +13663,8 @@
 [2026-10-18 03:31:25 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-18 03:31:59 PM] [HISTORY_BOT] [SUCCESS] Published: The Stones Are Crying Out: Stunning Archaeology Points Back to the Bible
 [2026-10-18 03:32:00 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 926 in / 455 out tokens
+[2026-10-18 06:19:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 06:19:34 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 06:19:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-18 06:20:38 PM] [NEWS_BOT] [SUCCESS] Published: Bilawal says KP governor's rule could end if opposition engages with Centre on counterterrorism
+[2026-10-18 06:20:39 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1592 in / 490 out tokens
