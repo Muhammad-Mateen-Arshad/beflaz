@@ -13559,3 +13559,7 @@
 [2026-10-18 02:57:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-18 02:58:36 PM] [NEWS_BOT] [SUCCESS] Published: Bilawal says KP governor's rule could end if opposition agrees to fight against terrorism
 [2026-10-18 02:58:37 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1565 in / 555 out tokens
+[2026-10-18 02:58:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4de9dc0ba49b4afad2081a640da1
+[2026-10-18 02:58:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-18 02:59:03 PM] [JOBS_BOT] [SUCCESS] Published: Fresh concerns over 2027 budget
+[2026-10-18 02:59:04 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1499 in / 539 out tokens
