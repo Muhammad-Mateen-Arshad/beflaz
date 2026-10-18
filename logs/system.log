@@ -13820,3 +13820,10 @@
 [2026-10-18 10:00:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-18 10:01:02 PM] [DRAMAS_BOT] [SUCCESS] Published: The Gentleman 'doesn't need Meghan Markle to boost publicity', source says after claims that Netflix 'used Duchess to promote series'
 [2026-10-18 10:01:04 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1636 in / 440 out tokens
+[2026-10-18 10:01:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541a1003f4e9097bca802cecff50
+[2026-10-18 10:01:05 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 122/400 chars, resolved=True): International Medical Aid Foundation (IMA) Highlights HOSA Members Lea
+[2026-10-18 10:01:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541a1003f4e9097bca802cecff50
+[2026-10-18 10:01:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 86/400 chars, resolved=True): Solving Papua New Guinea's education crisis
+[2026-10-18 10:01:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541a1003f4e9097bca802cecff50
+[2026-10-18 10:01:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Free tuition at Ohio colleges on the rise, though most eligible studen
+[2026-10-18 10:01:06 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 3, 'thin': 3, 'already_seen': 9}
