@@ -13744,3 +13744,14 @@
 [2026-10-18 07:29:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-18 07:30:22 PM] [NEWS_BOT] [SUCCESS] Published: Two moments of madness cost Sri Lanka as Pakistan win tri-series opener after Salman Ali Agha century
 [2026-10-18 07:30:23 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1734 in / 606 out tokens
+[2026-10-18 07:30:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51e503f6146bc9931f4fe9978f2e
+[2026-10-18 07:30:25 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-18 07:30:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51e503f6146bc9931f4fe9978f2e
+[2026-10-18 07:30:26 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-18 07:30:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51e5219f64078920cd1cdb7b739a
+[2026-10-18 07:30:26 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-18 07:30:33 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 07:30:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-18 07:30:59 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Music, Polish traditions and dears from around world: Dimash fans gath
+[2026-10-18 07:31:35 PM] [JOBS_BOT] [SUCCESS] Published: Uzbekistan to set up Tashkent International Fashion Academy
+[2026-10-18 07:31:36 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3495 in / 933 out tokens
