@@ -13866,3 +13866,17 @@
 [2026-10-18 11:29:56 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-18 11:30:24 PM] [NEWS_BOT] [SUCCESS] Published: PCB allows Rizwan, Imam to play domestic cricket tournament
 [2026-10-18 11:30:25 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 860 in / 519 out tokens
+[2026-10-18 11:30:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556929bd4496088593c7a6225404
+[2026-10-18 11:30:26 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): From Paris to Lisbon: Protests sweep Europe amid cost-of-living anger
+[2026-10-18 11:30:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55692e08f4c308da72d4d8562383
+[2026-10-18 11:30:27 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-18 11:30:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55692e08f4c308da72d4d8562383
+[2026-10-18 11:30:27 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-18 11:30:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55693c95c45408b006f47ecb2e8e
+[2026-10-18 11:30:27 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-18 11:30:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55693c95c45408b006f47ecb2e8e
+[2026-10-18 11:30:27 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Russia Targets Zimbabwean Youth To Fight Against Ukraine
+[2026-10-18 11:30:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 11:30:35 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-18 11:30:55 PM] [JOBS_BOT] [SUCCESS] Published: Joint Kyrgyzstan-Tatarstan plant to boost industrial cooperation
+[2026-10-18 11:30:55 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1918 in / 341 out tokens
