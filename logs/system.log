@@ -13668,3 +13668,20 @@
 [2026-10-18 06:19:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-18 06:20:38 PM] [NEWS_BOT] [SUCCESS] Published: Bilawal says KP governor's rule could end if opposition engages with Centre on counterterrorism
 [2026-10-18 06:20:39 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1592 in / 490 out tokens
+[2026-10-18 06:20:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50df7c0d34feb84618b7f3c6220a
+[2026-10-18 06:20:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-18 06:20:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50df7c0d34feb84618b7f3c6220a
+[2026-10-18 06:20:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-18 06:20:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50df8ea4842c4a98f43ead19d666
+[2026-10-18 06:20:41 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-18 06:20:55 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Japan expected to rank sixth in Global GDP Rankings by 2027, IMF
+[2026-10-18 06:20:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50df8ea4842c4a98f43ead19d666
+[2026-10-18 06:20:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 108/400 chars, resolved=True): J-K Police book Army officer's wife for 'sharing' sensitive info with 
+[2026-10-18 06:20:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50e078d124faa89ddf8c906bbdfa
+[2026-10-18 06:20:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-18 06:20:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50e078d124faa89ddf8c906bbdfa
+[2026-10-18 06:20:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-18 06:20:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50e0826ec46488e482b18199146d
+[2026-10-18 06:20:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-18 06:20:57 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1990 in / 388 out tokens
+[2026-10-18 06:20:57 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 7, 'rejected': 1}
