@@ -13307,3 +13307,20 @@
 [2026-10-18 07:31:07 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Oxford alumna donates $2.5m to fund scholarships for Afghan women
 [2026-10-18 07:31:20 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: IUB extends research ties with Chinese varsity
 [2026-10-18 07:31:22 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 630 in / 354 out tokens
+[2026-10-18 07:31:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-18 07:31:23 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-18 07:31:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475cb64bd4a529601a82ead8956e
+[2026-10-18 07:31:23 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-18 07:31:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475cb64bd4a529601a82ead8956e
+[2026-10-18 07:31:24 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-18 07:31:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475cb64bd4a529601a82ead8956e
+[2026-10-18 07:31:24 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 93/800 chars, resolved=True): What Actually Happens to Your Body When You Work Out at Different Time
+[2026-10-18 07:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475cc0f074b6990ba9aeb156ac2b
+[2026-10-18 07:31:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-18 07:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475cc0f074b6990ba9aeb156ac2b
+[2026-10-18 07:31:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
+[2026-10-18 07:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475cc0f074b6990ba9aeb156ac2b
+[2026-10-18 07:31:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-18 07:31:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475cc0f074b6990ba9aeb156ac2b
+[2026-10-18 07:31:26 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Exercise Plus Nutrition May Sharpen Aging Minds, Meta-Analysis Finds
+[2026-10-18 07:31:26 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
