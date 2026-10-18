@@ -13740,3 +13740,7 @@
 [2026-10-18 06:22:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50e70f49e46dda26e65b01e90752
 [2026-10-18 06:22:42 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): What to see in Egypt? The most beautiful places to visit during your t
 [2026-10-18 06:22:42 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'thin': 8}
+[2026-10-18 07:29:28 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 07:29:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-18 07:30:22 PM] [NEWS_BOT] [SUCCESS] Published: Two moments of madness cost Sri Lanka as Pakistan win tri-series opener after Salman Ali Agha century
+[2026-10-18 07:30:23 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1734 in / 606 out tokens
