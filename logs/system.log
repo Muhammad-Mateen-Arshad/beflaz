@@ -13685,3 +13685,15 @@
 [2026-10-18 06:20:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
 [2026-10-18 06:20:57 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1990 in / 388 out tokens
 [2026-10-18 06:20:57 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 7, 'rejected': 1}
+[2026-10-18 06:20:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-18 06:20:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50e0ab874493bb36077e88c5239b
+[2026-10-18 06:20:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-18 06:20:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50e0ab874493bb36077e88c5239b
+[2026-10-18 06:20:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-18 06:20:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50e0b179c42499e70db7be8797c9
+[2026-10-18 06:20:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 158/300 chars, resolved=True): Meghan was 'used' by Netflix to promote Guy Ritchie's series The Gentl
+[2026-10-18 06:20:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50e0b179c42499e70db7be8797c9
+[2026-10-18 06:20:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Netflix’s dealies to feature a comedy-centric Joe Bennett series
+[2026-10-18 06:21:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 06:21:31 PM] [DRAMAS_BOT] [SUCCESS] Published: New 'Castlevania' Release Is Officially a Return to Form for the Gothic Fantasy Franchise
+[2026-10-18 06:21:33 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1590 in / 495 out tokens
