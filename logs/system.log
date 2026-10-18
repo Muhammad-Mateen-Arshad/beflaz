@@ -13486,3 +13486,19 @@
 [2026-10-18 08:23:55 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
 [2026-10-18 11:29:48 AM] [NEWS_BOT] [SUCCESS] Published: First Pakistani astronaut to undertake space mission from China on Nov 25: Ahsan Iqbal
 [2026-10-18 11:29:49 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 709 in / 456 out tokens
+[2026-10-18 11:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4adad57b440ea82062a04132c5e1
+[2026-10-18 11:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-18 11:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4adad57b440ea82062a04132c5e1
+[2026-10-18 11:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Govt seeks US investment in minerals
+[2026-10-18 11:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4adae77ec4045a2a68c1cfc3c997
+[2026-10-18 11:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): IHC dismisses 38 petitions regarding regularisation of teaching staff 
+[2026-10-18 11:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4adae77ec4045a2a68c1cfc3c997
+[2026-10-18 11:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-18 11:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4adafb171417e92d8241abc97a22
+[2026-10-18 11:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-18 11:30:02 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Wave of enforced disappearances in Balochistan intensifies as families
+[2026-10-18 11:30:14 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (133 words, need 150); too many 'not specified' (source too thin)): Feel Good News: Jason Derulo’s moves, Spider-Man’s get-together, and W
+[2026-10-18 11:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4adafb171417e92d8241abc97a22
+[2026-10-18 11:30:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): In 2017, Hurricane Irma forced around 1,800 Barbuda residents to evacu
+[2026-10-18 11:30:14 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3171 in / 645 out tokens
+[2026-10-18 11:30:14 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 6, 'rejected': 2}
