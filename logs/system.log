@@ -13502,3 +13502,15 @@
 [2026-10-18 11:30:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): In 2017, Hurricane Irma forced around 1,800 Barbuda residents to evacu
 [2026-10-18 11:30:14 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3171 in / 645 out tokens
 [2026-10-18 11:30:14 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 6, 'rejected': 2}
+[2026-10-18 11:30:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-18 11:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4adc8dfe24f94959c7f702524ec8
+[2026-10-18 11:30:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-18 11:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4adc8dfe24f94959c7f702524ec8
+[2026-10-18 11:30:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-18 11:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4adc815e04e8cacd9de066f83bd4
+[2026-10-18 11:30:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 158/300 chars, resolved=True): Meghan Markle was 'used' by Netflix to promote Guy Ritchie's series Th
+[2026-10-18 11:30:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 11:30:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 11:30:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-18 11:31:13 AM] [DRAMAS_BOT] [SUCCESS] Published: All Episodes of Demon Slayer: Kimetsu no Yaiba Arrive on Another Popular Streaming Service, Making It Easier Than Ever to Watch the Anime and Movies With Latin American Spanish ...
+[2026-10-18 11:31:14 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1189 in / 515 out tokens
