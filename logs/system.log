@@ -13514,3 +13514,13 @@
 [2026-10-18 11:30:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-18 11:31:13 AM] [DRAMAS_BOT] [SUCCESS] Published: All Episodes of Demon Slayer: Kimetsu no Yaiba Arrive on Another Popular Streaming Service, Making It Easier Than Ever to Watch the Anime and Movies With Latin American Spanish ...
 [2026-10-18 11:31:14 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1189 in / 515 out tokens
+[2026-10-18 11:31:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4ae03410e43a58c046f424de80e3
+[2026-10-18 11:31:15 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Oxford alumna donates $2.5m to fund scholarships for Afghan women
+[2026-10-18 11:31:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4ae03410e43a58c046f424de80e3
+[2026-10-18 11:31:15 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Free tuition at Ohio colleges on the rise, though most eligible studen
+[2026-10-18 11:31:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4ae03410e43a58c046f424de80e3
+[2026-10-18 11:31:16 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): Russia Invites Kenyan Students to Compete for Tuition-Free University 
+[2026-10-18 11:31:17 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 11:32:01 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-18 11:32:01 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Lahore High Court Issues Key Ruling on MDCAT Question Papers
+[2026-10-18 11:32:02 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 674 in / 424 out tokens
