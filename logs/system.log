@@ -13763,3 +13763,10 @@
 [2026-10-18 07:31:39 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-18 07:32:19 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix's New 'Carrie' Replacement Officially arrives in 1 Month
 [2026-10-18 07:32:20 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1537 in / 480 out tokens
+[2026-10-18 07:32:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51ec4fa2c45aaaa0aa66d7f4feaf
+[2026-10-18 07:32:21 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 122/400 chars, resolved=True): International Medical Aid Foundation (IMA) Highlights HOSA Members Lea
+[2026-10-18 07:32:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51ec4fa2c45aaaa0aa66d7f4feaf
+[2026-10-18 07:32:21 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Free tuition at Ohio colleges on the rise, though most eligible studen
+[2026-10-18 07:32:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51ec4fa2c45aaaa0aa66d7f4feaf
+[2026-10-18 07:32:22 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 86/400 chars, resolved=True): Solving Papua New Guinea's education crisis
+[2026-10-18 07:32:22 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 3, 'thin': 3, 'already_seen': 9}
