@@ -13844,3 +13844,20 @@
 [2026-10-18 10:01:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541a677204ebc8f73d7b28c9d00f
 [2026-10-18 10:01:12 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Gut bacteria is linked to older brain activity in adults
 [2026-10-18 10:01:12 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-10-18 10:01:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541a8baf64d1682b4c80363e9ed4
+[2026-10-18 10:01:12 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Steve Brusatte on the evolution of birds and their dinosaur origins
+[2026-10-18 10:01:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541a8baf64d1682b4c80363e9ed4
+[2026-10-18 10:01:13 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 106/400 chars, resolved=True): Did an eruption of poop trigger the biggest explosion of life and dive
+[2026-10-18 10:01:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541a9408549e8bab1192293705ad
+[2026-10-18 10:01:13 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-18 10:01:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541a9408549e8bab1192293705ad
+[2026-10-18 10:01:14 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-18 10:01:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541aab50d4bcca78193a5ba2f9f1
+[2026-10-18 10:01:14 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Archaeologists in Turkey believe they just found the world’s oldest sh
+[2026-10-18 10:01:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541aab50d4bcca78193a5ba2f9f1
+[2026-10-18 10:01:14 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Divers find world’s oldest shipwreck off coast of Turkey
+[2026-10-18 10:01:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541aab50d4bcca78193a5ba2f9f1
+[2026-10-18 10:01:14 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 88/400 chars, resolved=True): ​World's oldest shipwreck found off Turkey's coast, archaeologists say
+[2026-10-18 10:01:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541aab50d4bcca78193a5ba2f9f1
+[2026-10-18 10:01:14 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): What to see in Egypt? The most beautiful places to visit during your t
+[2026-10-18 10:01:15 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 2, 'tried': 8, 'thin': 8}
