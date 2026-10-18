@@ -13147,3 +13147,15 @@
 [2026-10-18 01:46:49 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-18 01:47:04 AM] [JOBS_BOT] [SUCCESS] Published: Poverty’s vicious cycle
 [2026-10-18 01:47:05 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1422 in / 466 out tokens
+[2026-10-18 01:47:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4251a2091437fa5d60e95084c48e
+[2026-10-18 01:47:06 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-18 01:47:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4251a2091437fa5d60e95084c48e
+[2026-10-18 01:47:06 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-18 01:47:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4251bf03f49aea98f770c98a4323
+[2026-10-18 01:47:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 158/300 chars, resolved=True): Meghan Markle was 'used' by Netflix to promote Guy Ritchie's series Th
+[2026-10-18 01:47:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4251bf03f49aea98f770c98a4323
+[2026-10-18 01:47:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Netflix’s dealies to feature a comedy-centric Joe Bennett series
+[2026-10-18 01:47:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 01:47:10 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-18 01:47:25 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s Dealies will be a more comedy-focused Joe Bennett series
+[2026-10-18 01:47:26 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 771 in / 417 out tokens
