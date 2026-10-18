@@ -13132,3 +13132,10 @@
 [2026-10-17 11:36:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40665a5b545c88e644055876b035
 [2026-10-17 11:36:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Ancient Egyptian remains reveal a disturbing possibility about what ha
 [2026-10-17 11:36:06 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-10-18 01:45:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 01:45:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 01:45:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-18 01:45:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-18 01:45:46 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-18 01:46:44 AM] [NEWS_BOT] [SUCCESS] Published: 17 dead, 25 hurt in stampede at Durga Puja gathering in Kolkata
+[2026-10-18 01:46:44 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 654 in / 478 out tokens
