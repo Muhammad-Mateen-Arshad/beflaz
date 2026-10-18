@@ -13139,3 +13139,11 @@
 [2026-10-18 01:45:46 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-18 01:46:44 AM] [NEWS_BOT] [SUCCESS] Published: 17 dead, 25 hurt in stampede at Durga Puja gathering in Kolkata
 [2026-10-18 01:46:44 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 654 in / 478 out tokens
+[2026-10-18 01:46:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad42505cbc5423d81130e63442db87
+[2026-10-18 01:46:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-18 01:46:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad42505cbc5423d81130e63442db87
+[2026-10-18 01:46:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Resignation and its aftermath
+[2026-10-18 01:46:47 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 01:46:49 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-18 01:47:04 AM] [JOBS_BOT] [SUCCESS] Published: Poverty’s vicious cycle
+[2026-10-18 01:47:05 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1422 in / 466 out tokens
