@@ -13235,3 +13235,17 @@
 [2026-10-18 03:31:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d8a33c548ef9ef24e0bf84b01e
 [2026-10-18 03:31:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-18 03:31:22 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
+[2026-10-18 03:31:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d8a84514ee89dce5aa35b3250a
+[2026-10-18 03:31:23 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Palestinian students more likely to be refused an Irish visa than stud
+[2026-10-18 03:31:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d8a84514ee89dce5aa35b3250a
+[2026-10-18 03:31:23 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Oxford alumna donates $2.5m to fund scholarships for Afghan women
+[2026-10-18 03:31:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43d8a84514ee89dce5aa35b3250a
+[2026-10-18 03:31:23 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): Russia Invites Kenyan Students to Compete for Tuition-Free University 
+[2026-10-18 03:31:24 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 03:31:26 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-18 03:31:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-18 03:31:55 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (118 words, need 150)): Clearwater gets update on downtown development projects
+[2026-10-18 03:31:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43dabcc0b4bd99111867945c6472
+[2026-10-18 03:31:55 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Govt considers raising university professors' retirement age to 65Publ
+[2026-10-18 03:31:56 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1284 in / 256 out tokens
+[2026-10-18 03:31:56 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 4, 'already_seen': 10, 'rejected': 1}
