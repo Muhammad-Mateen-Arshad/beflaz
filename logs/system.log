@@ -13343,3 +13343,21 @@
 [2026-10-18 07:31:27 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
 [2026-10-18 07:41:41 AM] [NEWS_BOT] [SUCCESS] Published: 'Serious incident' at Canada base causes deaths, sparks fire: govt
 [2026-10-18 07:41:42 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 701 in / 418 out tokens
+[2026-10-18 07:41:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad478373de849c5822efcadbab7a3f
+[2026-10-18 07:41:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-18 07:41:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad478373de849c5822efcadbab7a3f
+[2026-10-18 07:41:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Govt seeks US investment in minerals
+[2026-10-18 07:41:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad47837c55142e380576b6bf8fa717
+[2026-10-18 07:41:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): IHC dismisses 38 petitions regarding regularisation of teaching staff 
+[2026-10-18 07:41:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad47837c55142e380576b6bf8fa717
+[2026-10-18 07:41:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-18 07:41:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad47838e5964a3b985f3d302bd7b07
+[2026-10-18 07:41:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-18 07:41:56 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (143 words, need 150); too many 'not specified' (source too thin)): Kazakh Sunkar Kanibek claims World Junior Karate Championships title
+[2026-10-18 07:41:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad47838e5964a3b985f3d302bd7b07
+[2026-10-18 07:41:56 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): In 2017, Hurricane Irma forced around 1,800 Barbuda residents to evacu
+[2026-10-18 07:42:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 07:42:06 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-18 07:42:25 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Tesla Roadster to gain ‘consciousness’ and learn to perform stunts, Mu
+[2026-10-18 07:42:25 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3992 in / 669 out tokens
+[2026-10-18 07:42:25 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 6, 'rejected': 2}
