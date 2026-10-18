@@ -13190,3 +13190,8 @@
 [2026-10-18 01:47:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4254c200747d49f73701ba48ea77
 [2026-10-18 01:47:57 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-18 01:47:57 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-10-18 01:47:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 01:48:00 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-18 01:48:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-18 01:48:34 AM] [HISTORY_BOT] [SUCCESS] Published: Chinese Fossil Reveals an Early Bird That Could Not Fly
+[2026-10-18 01:48:35 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1351 in / 554 out tokens
