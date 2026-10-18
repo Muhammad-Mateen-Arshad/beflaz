@@ -13195,3 +13195,8 @@
 [2026-10-18 01:48:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-18 01:48:34 AM] [HISTORY_BOT] [SUCCESS] Published: Chinese Fossil Reveals an Early Bird That Could Not Fly
 [2026-10-18 01:48:35 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1351 in / 554 out tokens
+[2026-10-18 03:29:25 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 03:29:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-18 03:29:42 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 03:30:00 AM] [NEWS_BOT] [SUCCESS] Published: Egypt ‘ready to defend’ Saudi Arabia against Houthis
+[2026-10-18 03:30:01 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1517 in / 448 out tokens
