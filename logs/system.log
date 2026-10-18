@@ -13614,3 +13614,11 @@
 [2026-10-18 03:30:41 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-18 03:30:41 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan all out for 305 against Sri Lanka in Rawalpindi Tri-Nation ODI series
 [2026-10-18 03:30:42 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 588 in / 362 out tokens
+[2026-10-18 03:30:44 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-18 03:30:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e6242f47428ea9d90ee6cbcdceb
+[2026-10-18 03:30:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-18 03:30:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e6242f47428ea9d90ee6cbcdceb
+[2026-10-18 03:30:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-18 03:30:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 03:31:13 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s Next WWII Blockbuster Officially Arrives This Month
+[2026-10-18 03:31:14 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1536 in / 463 out tokens
