@@ -13861,3 +13861,8 @@
 [2026-10-18 10:01:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad541aab50d4bcca78193a5ba2f9f1
 [2026-10-18 10:01:14 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): What to see in Egypt? The most beautiful places to visit during your t
 [2026-10-18 10:01:15 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 2, 'tried': 8, 'thin': 8}
+[2026-10-18 11:29:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 11:29:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-18 11:29:56 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-18 11:30:24 PM] [NEWS_BOT] [SUCCESS] Published: PCB allows Rizwan, Imam to play domestic cricket tournament
+[2026-10-18 11:30:25 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 860 in / 519 out tokens
