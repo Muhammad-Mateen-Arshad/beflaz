@@ -13573,3 +13573,10 @@
 [2026-10-18 02:59:44 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-18 03:00:23 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Dragon Ball Super: Beerus’ Episode 3 Release Date, Time, Where to Watch and Preview
 [2026-10-18 03:00:25 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1241 in / 477 out tokens
+[2026-10-18 03:00:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4df0912e8424ba32f6a0bcfa93d0
+[2026-10-18 03:00:25 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 122/400 chars, resolved=True): International Medical Aid Foundation (IMA) Highlights HOSA Members Lea
+[2026-10-18 03:00:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4df0912e8424ba32f6a0bcfa93d0
+[2026-10-18 03:00:26 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 86/400 chars, resolved=True): Solving Papua New Guinea's education crisis
+[2026-10-18 03:00:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4df0912e8424ba32f6a0bcfa93d0
+[2026-10-18 03:00:26 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Free tuition at Ohio colleges on the rise, though most eligible studen
+[2026-10-18 03:00:26 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 3, 'thin': 3, 'already_seen': 12}
