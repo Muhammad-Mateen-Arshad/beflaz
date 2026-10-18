@@ -13290,3 +13290,16 @@
 [2026-10-18 07:30:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1405 in / 493 out tokens
 [2026-10-18 07:30:45 AM] [JOBS_BOT] [SUCCESS] Published: STI Jobs Merit List and Interview Schedule 2026 Announced
 [2026-10-18 07:30:45 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 998 in / 526 out tokens
+[2026-10-18 07:30:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-18 07:30:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475a7f651456a87fd3ea6ddbceb7
+[2026-10-18 07:30:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-18 07:30:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475a7f651456a87fd3ea6ddbceb7
+[2026-10-18 07:30:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 122/300 chars, resolved=True): Forget John Wick, Prime Video lands new action thriller epic from a hi
+[2026-10-18 07:30:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475a7f651456a87fd3ea6ddbceb7
+[2026-10-18 07:30:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-18 07:30:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475a80b964e009fc633f3016c3d6
+[2026-10-18 07:30:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 158/300 chars, resolved=True): Meghan Markle was 'used' by Netflix to promote Guy Ritchie's series Th
+[2026-10-18 07:30:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475a80b964e009fc633f3016c3d6
+[2026-10-18 07:30:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Netflix’s dealies to feature a comedy-centric Joe Bennett series
+[2026-10-18 07:31:05 AM] [DRAMAS_BOT] [SUCCESS] Published: Dragon Ball Super: Beerus Is Now Streaming With Netflix After New Update
+[2026-10-18 07:31:06 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1281 in / 442 out tokens
