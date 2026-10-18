@@ -13810,3 +13810,13 @@
 [2026-10-18 09:59:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-18 10:00:11 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan: Sindh's Tharparkar reports rise in suicide deaths
 [2026-10-18 10:00:12 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1480 in / 406 out tokens
+[2026-10-18 10:00:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-18 10:00:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5416e05174782bbf46c20c805bb7
+[2026-10-18 10:00:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-18 10:00:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5416e05174782bbf46c20c805bb7
+[2026-10-18 10:00:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-18 10:00:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5416f39c24306bf0ee1dcc33cb94
+[2026-10-18 10:00:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): How many episodes will Cyberpunk: Edgerunners Season 2 have? Here’s wh
+[2026-10-18 10:00:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 10:01:02 PM] [DRAMAS_BOT] [SUCCESS] Published: The Gentleman 'doesn't need Meghan Markle to boost publicity', source says after claims that Netflix 'used Duchess to promote series'
+[2026-10-18 10:01:04 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1636 in / 440 out tokens
