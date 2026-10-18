@@ -13375,3 +13375,12 @@
 [2026-10-18 07:42:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4786417694083865657442a8485c
 [2026-10-18 07:42:28 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
 [2026-10-18 07:42:28 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
+[2026-10-18 07:42:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad478644d634f3398e2766a1093438
+[2026-10-18 07:42:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Oxford alumna donates $2.5m to fund scholarships for Afghan women
+[2026-10-18 07:42:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad478644d634f3398e2766a1093438
+[2026-10-18 07:42:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): Russia Invites Kenyan Students to Compete for Tuition-Free University 
+[2026-10-18 07:42:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad478659fda4fdea87604d0e10d7c6
+[2026-10-18 07:42:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Govt considers raising university professors' retirement age to 65Publ
+[2026-10-18 07:42:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad478659eb44573bb7e4055ce08d6d
+[2026-10-18 07:42:30 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan News | Latest Headlines & Stories | Reuters
+[2026-10-18 07:42:30 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 4, 'thin': 4, 'already_seen': 11}
