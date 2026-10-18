@@ -13284,3 +13284,7 @@
 [2026-10-18 03:33:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad43e27c16c4ccd92f1f6e9c8fe099
 [2026-10-18 03:33:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 88/400 chars, resolved=True): ​World's oldest shipwreck found off Turkey's coast, archaeologists say
 [2026-10-18 03:33:59 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-10-18 07:29:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-18 07:29:46 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-18 07:30:27 AM] [NEWS_BOT] [SUCCESS] Published: One in three adults in Pakistan lives with psychological disorder: study
+[2026-10-18 07:30:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1405 in / 493 out tokens
