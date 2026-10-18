@@ -13646,3 +13646,20 @@
 [2026-10-18 03:31:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e6487b7c47e1b90112a37a475de
 [2026-10-18 03:31:22 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-18 03:31:22 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-18 03:31:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e64ab3f8438ab2756d0f8e924de
+[2026-10-18 03:31:22 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Steve Brusatte on the evolution of birds and their dinosaur origins
+[2026-10-18 03:31:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e64ab3f8438ab2756d0f8e924de
+[2026-10-18 03:31:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 106/400 chars, resolved=True): Did an eruption of poop trigger the biggest explosion of life and dive
+[2026-10-18 03:31:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e64bd00d4cff96da1606665b440
+[2026-10-18 03:31:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-18 03:31:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e64bd00d4cff96da1606665b440
+[2026-10-18 03:31:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-18 03:31:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e64c11ef4d2fa3758e2d16ed25f
+[2026-10-18 03:31:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Archaeologists in Turkey believe they just found the world’s oldest sh
+[2026-10-18 03:31:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e64c11ef4d2fa3758e2d16ed25f
+[2026-10-18 03:31:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Divers find world’s oldest shipwreck off coast of Turkey
+[2026-10-18 03:31:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4e64c11ef4d2fa3758e2d16ed25f
+[2026-10-18 03:31:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 88/400 chars, resolved=True): ​World's oldest shipwreck found off Turkey's coast, archaeologists say
+[2026-10-18 03:31:25 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-18 03:31:59 PM] [HISTORY_BOT] [SUCCESS] Published: The Stones Are Crying Out: Stunning Archaeology Points Back to the Bible
+[2026-10-18 03:32:00 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 926 in / 455 out tokens
