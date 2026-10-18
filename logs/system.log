@@ -13341,3 +13341,5 @@
 [2026-10-18 07:31:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad475cf6a774517aa3feb10d8fb454
 [2026-10-18 07:31:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Archaeologists in Turkey believe they just found the world’s oldest sh
 [2026-10-18 07:31:27 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-10-18 07:41:41 AM] [NEWS_BOT] [SUCCESS] Published: 'Serious incident' at Canada base causes deaths, sparks fire: govt
+[2026-10-18 07:41:42 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 701 in / 418 out tokens
