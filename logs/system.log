@@ -13484,3 +13484,5 @@
 [2026-10-18 08:23:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4821b01454d5db524e708aacea9a
 [2026-10-18 08:23:55 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Archaeologists in Turkey believe they just found the world’s oldest sh
 [2026-10-18 08:23:55 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-10-18 11:29:48 AM] [NEWS_BOT] [SUCCESS] Published: First Pakistani astronaut to undertake space mission from China on Nov 25: Ahsan Iqbal
+[2026-10-18 11:29:49 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 709 in / 456 out tokens
