@@ -13412,3 +13412,20 @@
 [2026-10-18 07:43:43 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1519 in / 349 out tokens
 [2026-10-18 08:23:02 AM] [NEWS_BOT] [SUCCESS] Published: Saad Baig handed debut as Sri Lanka win toss, bowl first in ODI tri-series opener against Pakistan
 [2026-10-18 08:23:03 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1720 in / 583 out tokens
+[2026-10-18 08:23:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad481e71bb74eb79455c99ae60bd95
+[2026-10-18 08:23:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-18 08:23:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad481e71bb74eb79455c99ae60bd95
+[2026-10-18 08:23:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Govt seeks US investment in minerals
+[2026-10-18 08:23:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad481e85df441f48a720a1bb55f5dc
+[2026-10-18 08:23:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): IHC dismisses 38 petitions regarding regularisation of teaching staff 
+[2026-10-18 08:23:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad481e85df441f48a720a1bb55f5dc
+[2026-10-18 08:23:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-18 08:23:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad481e820e24b8ca7f8af4d65d4308
+[2026-10-18 08:23:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Kundi vows to tap KP's mineral wealth, invites foreign investors
+[2026-10-18 08:23:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad481e820e24b8ca7f8af4d65d4308
+[2026-10-18 08:23:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): In 2017, Hurricane Irma forced around 1,800 Barbuda residents to evacu
+[2026-10-18 08:23:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad481e820e24b8ca7f8af4d65d4308
+[2026-10-18 08:23:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): 60-day pause on Russia sanctions to analyse global impact: US Secretar
+[2026-10-18 08:23:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad481e907374be2a17a7bfec942604
+[2026-10-18 08:23:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Newspaper - Lahore - October 17, 2026
+[2026-10-18 08:23:06 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
