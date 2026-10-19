@@ -14115,3 +14115,20 @@
 [2026-10-19 09:23:06 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1518 in / 756 out tokens
 [2026-10-19 09:23:28 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Ohio again spent more than a billion dollars on private school vouchers during latest fiscal year
 [2026-10-19 09:23:29 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1256 in / 579 out tokens
+[2026-10-19 09:23:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-19 09:23:30 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-19 09:23:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e192c0c24f09ad64e80cb54d653
+[2026-10-19 09:23:30 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-19 09:23:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e192c0c24f09ad64e80cb54d653
+[2026-10-19 09:23:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-19 09:23:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e192c0c24f09ad64e80cb54d653
+[2026-10-19 09:23:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): 9 Tips to Get a Good Night’s Sleep With CLL
+[2026-10-19 09:23:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e19434be4c2dabf5c8f3d684e6a
+[2026-10-19 09:23:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-19 09:23:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e19434be4c2dabf5c8f3d684e6a
+[2026-10-19 09:23:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-19 09:23:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e19434be4c2dabf5c8f3d684e6a
+[2026-10-19 09:23:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
+[2026-10-19 09:23:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e19434be4c2dabf5c8f3d684e6a
+[2026-10-19 09:23:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Gut bacteria is linked to older brain activity in adults
+[2026-10-19 09:23:33 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
