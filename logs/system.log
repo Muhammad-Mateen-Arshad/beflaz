@@ -14260,3 +14260,24 @@
 [2026-10-19 03:45:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-19 03:45:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-19 03:46:17 PM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-19 03:46:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63b4bb975486089f8eeb76dda9ec
+[2026-10-19 03:46:19 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): On the Issues: Tennessee governor candidates on school vouchers
+[2026-10-19 03:46:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63b4bb975486089f8eeb76dda9ec
+[2026-10-19 03:46:20 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Australia Tightens Student Visa Rules, Restricts Onshore Applications 
+[2026-10-19 03:46:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63b4bb975486089f8eeb76dda9ec
+[2026-10-19 03:46:21 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): IUB and China Expand Academic and Research Cooperation
+[2026-10-19 03:46:23 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 03:46:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-19 03:46:35 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-19 03:46:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-19 03:46:58 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-19 03:47:00 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:47:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:48:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:48:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:49:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:49:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:50:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:50:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:51:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:51:35 PM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
