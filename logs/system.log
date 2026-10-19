@@ -14096,3 +14096,9 @@
 [2026-10-19 07:33:46 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1219 in / 489 out tokens
 [2026-10-19 09:22:12 AM] [NEWS_BOT] [SUCCESS] Published: DPM Dar departs for high-level SCO moot in Tajikistan
 [2026-10-19 09:22:13 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 728 in / 504 out tokens
+[2026-10-19 09:22:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e145ab994b1698c9e58ae6dfa75
+[2026-10-19 09:22:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-19 09:22:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e146a2cb4920b73c500264b3816
+[2026-10-19 09:22:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan to participate in Global AI summit in Seoul, highlight digita
+[2026-10-19 09:22:33 AM] [JOBS_BOT] [SUCCESS] Published: Kazakh President Tokayev presents state awards to emergency responders
+[2026-10-19 09:22:33 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1911 in / 372 out tokens
