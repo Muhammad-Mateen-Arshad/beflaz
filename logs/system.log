@@ -14102,3 +14102,14 @@
 [2026-10-19 09:22:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan to participate in Global AI summit in Seoul, highlight digita
 [2026-10-19 09:22:33 AM] [JOBS_BOT] [SUCCESS] Published: Kazakh President Tokayev presents state awards to emergency responders
 [2026-10-19 09:22:33 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1911 in / 372 out tokens
+[2026-10-19 09:22:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-19 09:22:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e15bf53a465a9c0693684f4e8fc
+[2026-10-19 09:22:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-19 09:22:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e15bf53a465a9c0693684f4e8fc
+[2026-10-19 09:22:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-19 09:22:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e15cef5a467981e5cdea6d25e4f
+[2026-10-19 09:22:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 65/300 chars, resolved=True): When does the new season of ‘Mayor of Kingstown’ start? ‘Mayor of King
+[2026-10-19 09:22:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e15cef5a467981e5cdea6d25e4f
+[2026-10-19 09:22:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): How many episodes will Cyberpunk: Edgerunners Season 2 have? Here’s wh
+[2026-10-19 09:23:05 AM] [DRAMAS_BOT] [SUCCESS] Published: OTT Release Of The Week (19th October-25th October 2026): From ‘Chaar Yaar’ To ‘Dorothy’ Movies, Shows To Stream On Netflix, Prime Video And More
+[2026-10-19 09:23:06 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1518 in / 756 out tokens
