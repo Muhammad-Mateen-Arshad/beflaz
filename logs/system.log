@@ -14200,3 +14200,18 @@
 [2026-10-19 11:32:52 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-19 11:32:53 AM] [HISTORY_BOT] [SUCCESS] Published: I actually used AI to create the game 'Path of Reflections' that I imagined a year ago!
 [2026-10-19 11:32:54 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1108 in / 417 out tokens
+[2026-10-19 03:29:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-19 03:29:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-19 03:29:48 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 03:29:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-19 03:30:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-19 03:30:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:31:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:31:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:32:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:32:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:33:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:33:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:34:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:34:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:35:11 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
