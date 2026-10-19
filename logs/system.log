@@ -14142,3 +14142,16 @@
 [2026-10-19 09:25:41 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 631 in / 441 out tokens
 [2026-10-19 11:29:58 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan providing 'whatever support' Saudi Arabia needs for its defence: DG ISPR
 [2026-10-19 11:29:59 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1516 in / 481 out tokens
+[2026-10-19 11:30:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff38876148bd896e8e4ba66dfbf
+[2026-10-19 11:30:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Live: Araghchi accuses Netanyahu of pushing for renewed war on Iran
+[2026-10-19 11:30:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff39a3bd41a7aa08cbaa1d3a717
+[2026-10-19 11:30:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-19 11:30:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff39f362447cbaa0509e638cf2d
+[2026-10-19 11:30:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): China’s Export Boom Masks Deep Economic Problems at Home
+[2026-10-19 11:30:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-19 11:30:15 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 11:30:27 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (128 words, need 150)): Former soldier with PTSD began dealing cocaine after working as pub bo
+[2026-10-19 11:30:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff39f362447cbaa0509e638cf2d
+[2026-10-19 11:30:33 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan to participate in Global AI summit in Seoul, highlight digita
+[2026-10-19 11:31:03 AM] [JOBS_BOT] [SUCCESS] Published: Dimash Qudaibergen embarks on DIMENSIONS world tour with Kraków concert
+[2026-10-19 11:31:04 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3123 in / 688 out tokens
