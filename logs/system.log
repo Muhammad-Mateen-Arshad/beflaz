@@ -14236,3 +14236,27 @@
 [2026-10-19 03:39:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-19 03:40:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-19 03:40:33 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-19 03:40:37 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-19 03:40:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad639f50864475bb42a80ad99d4ef8
+[2026-10-19 03:40:37 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-19 03:40:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad639f50864475bb42a80ad99d4ef8
+[2026-10-19 03:40:37 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-19 03:40:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad639f550cc490a9ee7d02af322c59
+[2026-10-19 03:40:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): New OTT releases this week (October 19 to 23, 2026): Dorothy, The Para
+[2026-10-19 03:40:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad639f550cc490a9ee7d02af322c59
+[2026-10-19 03:40:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 161/300 chars, resolved=True): Meghan could be casualty of shake-up by Netflix boss who will abandon 
+[2026-10-19 03:40:39 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 03:40:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-19 03:40:51 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-19 03:40:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-19 03:41:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-19 03:41:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:42:10 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:42:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:43:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:43:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:44:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:44:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:45:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:45:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:46:17 PM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
