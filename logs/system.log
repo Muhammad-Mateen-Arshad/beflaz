@@ -13935,3 +13935,7 @@
 [2026-10-18 11:31:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad556b9f1c3477ea10f464b471ed30
 [2026-10-18 11:31:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): What to see in Egypt? The most beautiful places to visit during your t
 [2026-10-18 11:31:06 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 2, 'tried': 8, 'thin': 8}
+[2026-10-19 02:02:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-19 02:02:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 02:02:34 AM] [NEWS_BOT] [SUCCESS] Published: Cairo vows support for Riyadh as 2 Saudi officers killed in helicopter crash near Yemen
+[2026-10-19 02:02:35 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1507 in / 492 out tokens
