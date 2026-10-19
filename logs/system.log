@@ -14440,3 +14440,11 @@
 [2026-10-19 07:33:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-19 07:34:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-19 07:34:50 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-19 07:34:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-19 07:34:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad670de51064e2eb4495b4c4a973f8
+[2026-10-19 07:34:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-19 07:34:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad670de51064e2eb4495b4c4a973f8
+[2026-10-19 07:34:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-19 07:34:56 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 07:35:18 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘All of Us Are Dead’ Season 2: Expected Netflix Release Date & Everything We Know
+[2026-10-19 07:35:19 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1842 in / 565 out tokens
