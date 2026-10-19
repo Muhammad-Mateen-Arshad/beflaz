@@ -14167,3 +14167,14 @@
 [2026-10-19 11:31:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7ad133486ebb2799597739799
 [2026-10-19 11:31:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): How many episodes will Cyberpunk: Edgerunners Season 2 have? Here’s wh
 [2026-10-19 11:31:07 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 6, 'already_seen': 10}
+[2026-10-19 11:31:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7c04ca4ee2b2788a073c1fd8f
+[2026-10-19 11:31:08 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): On the Issues: Tennessee governor candidates on school vouchers
+[2026-10-19 11:31:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7c04ca4ee2b2788a073c1fd8f
+[2026-10-19 11:31:08 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): IUB and China Expand Academic and Research Cooperation
+[2026-10-19 11:31:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7c04ca4ee2b2788a073c1fd8f
+[2026-10-19 11:31:08 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 122/400 chars, resolved=True): International Medical Aid Foundation (IMA) Highlights HOSA Members Lea
+[2026-10-19 11:31:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7c182e45469023dc177cc4693
+[2026-10-19 11:31:09 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): IUB and China Expand Academic and Research Cooperation
+[2026-10-19 11:31:10 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 11:31:40 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: The Success Story of TMF
+[2026-10-19 11:31:41 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1551 in / 359 out tokens
