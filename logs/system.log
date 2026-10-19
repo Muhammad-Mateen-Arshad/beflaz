@@ -14038,3 +14038,9 @@
 [2026-10-19 03:31:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad58f12eda24ec3a507a56b80c41b0
 [2026-10-19 03:31:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Gut bacteria is linked to older brain activity in adults
 [2026-10-19 03:31:31 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-19 03:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad58f13cb69440aa53cce1eb6e52b4
+[2026-10-19 03:31:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Steve Brusatte on the evolution of birds and their dinosaur origins
+[2026-10-19 03:31:33 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 03:31:35 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-19 03:32:03 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaurs Uncovered Brings Prehistoric Exhibition to Perth
+[2026-10-19 03:32:04 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 811 in / 547 out tokens
