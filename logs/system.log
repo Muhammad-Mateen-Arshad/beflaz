@@ -13939,3 +13939,22 @@
 [2026-10-19 02:02:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-19 02:02:34 AM] [NEWS_BOT] [SUCCESS] Published: Cairo vows support for Riyadh as 2 Saudi officers killed in helicopter crash near Yemen
 [2026-10-19 02:02:35 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1507 in / 492 out tokens
+[2026-10-19 02:02:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a3cc95e486398189e332210da6
+[2026-10-19 02:02:36 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): From Paris to Lisbon: Protests sweep Europe amid cost-of-living anger
+[2026-10-19 02:02:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a3c09a04dbe8f9707b509d43af
+[2026-10-19 02:02:37 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-19 02:02:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a3daac842ad8a94b01170302d3
+[2026-10-19 02:02:37 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Egypt signals military support for Saudi Arabia as Houthi attacks esca
+[2026-10-19 02:02:41 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 02:02:44 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-19 02:02:54 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (118 words, need 150); too many 'not specified' (source too thin)): E Kazakhstan records 4,479 tick bite cases in 2026 season
+[2026-10-19 02:02:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a3daac842ad8a94b01170302d3
+[2026-10-19 02:02:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): In 2017, Hurricane Irma forced around 1,800 Barbuda residents to evacu
+[2026-10-19 02:02:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a4e9a3a4915a5b11b9e9bd890d
+[2026-10-19 02:02:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-19 02:02:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a4e9a3a4915a5b11b9e9bd890d
+[2026-10-19 02:02:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Newspaper - Lahore - October 18, 2026
+[2026-10-19 02:02:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a4f4bf6467bb4d7b1a432d6082
+[2026-10-19 02:02:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-19 02:02:55 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1912 in / 270 out tokens
+[2026-10-19 02:02:55 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'rejected': 1, 'already_seen': 5}
