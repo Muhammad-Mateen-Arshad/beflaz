@@ -14089,3 +14089,8 @@
 [2026-10-19 07:32:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5c7981bf64980aac00c341bacea3
 [2026-10-19 07:32:41 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
 [2026-10-19 07:32:41 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-19 07:32:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-19 07:33:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-19 07:33:45 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-19 07:33:45 AM] [HISTORY_BOT] [SUCCESS] Published: PRESS RELEASE: Opal Collector Uncovers Remarkable History of Rare Opalised Dinosaur Vertebrae
+[2026-10-19 07:33:46 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1219 in / 489 out tokens
