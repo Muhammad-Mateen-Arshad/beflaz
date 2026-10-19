@@ -14490,3 +14490,17 @@
 [2026-10-19 07:40:43 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
 [2026-10-19 11:10:47 PM] [NEWS_BOT] [SUCCESS] Published: CDF Munir, new Saudi envoy express satisfaction at progress made under Makkah defence pact: ISPR
 [2026-10-19 11:10:48 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 845 in / 493 out tokens
+[2026-10-19 11:10:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6a378ce3a4fd8aac08a2101b2515
+[2026-10-19 11:10:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Businessmen warn industrial slowdown threatens jobs, investment
+[2026-10-19 11:10:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6a379905f4fb8917b57e03935d51
+[2026-10-19 11:10:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-19 11:10:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-19 11:11:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 11:11:10 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (128 words, need 150); too many 'not specified' (source too thin)): Iranian army official warns US, Israel against 'miscalculation'
+[2026-10-19 11:11:11 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-19 11:11:24 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (149 words, need 150); too many 'not specified' (source too thin)): US-Iran War Live Updates: Houthis claim attack on several airports and
+[2026-10-19 11:11:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6a379853c46b2a6dd72bb5935187
+[2026-10-19 11:11:24 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): China’s Export Boom Masks Deep Economic Problems at Home
+[2026-10-19 11:11:25 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-19 11:11:48 PM] [JOBS_BOT] [SUCCESS] Published: Panama Geopolitics Explained 2026
+[2026-10-19 11:11:49 PM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3752 in / 1096 out tokens
