@@ -14132,3 +14132,11 @@
 [2026-10-19 09:23:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5e19434be4c2dabf5c8f3d684e6a
 [2026-10-19 09:23:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Gut bacteria is linked to older brain activity in adults
 [2026-10-19 09:23:33 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-19 09:23:39 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-19 09:23:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-19 09:24:12 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-19 09:24:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-19 09:24:52 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-19 09:25:17 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 09:25:39 AM] [HISTORY_BOT] [SUCCESS] Published: New dinosaur tracks find in Udon Thani
+[2026-10-19 09:25:41 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 631 in / 441 out tokens
