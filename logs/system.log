@@ -14448,3 +14448,13 @@
 [2026-10-19 07:34:56 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-19 07:35:18 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘All of Us Are Dead’ Season 2: Expected Netflix Release Date & Everything We Know
 [2026-10-19 07:35:19 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1842 in / 565 out tokens
+[2026-10-19 07:35:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad670f7362a475ea517c05e859e5e2
+[2026-10-19 07:35:20 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): On the Issues: Tennessee governor candidates on school vouchers
+[2026-10-19 07:35:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad670f7362a475ea517c05e859e5e2
+[2026-10-19 07:35:20 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Australia Tightens Student Visa Rules, Restricts Onshore Applications 
+[2026-10-19 07:35:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad670f7362a475ea517c05e859e5e2
+[2026-10-19 07:35:20 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): IUB and China Expand Academic and Research Cooperation
+[2026-10-19 07:35:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad670f90559416b8f5c07ac6d5b838
+[2026-10-19 07:35:21 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-19 07:35:25 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-10-19 07:35:25 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 5}
