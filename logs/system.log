@@ -14046,3 +14046,13 @@
 [2026-10-19 03:32:04 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 811 in / 547 out tokens
 [2026-10-19 07:29:59 AM] [NEWS_BOT] [SUCCESS] Published: Army major martyred, 4 terrorists killed in Balochistan IBOs: ISPR
 [2026-10-19 07:30:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1573 in / 525 out tokens
+[2026-10-19 07:30:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5c6f9bfc04cbeae470dc67f734b4
+[2026-10-19 07:30:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-19 07:30:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-19 07:30:23 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Last time you wanted to finish the job': Iranian foreign minister chal
+[2026-10-19 07:30:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5c6f9960c4429bcd517926f010cc
+[2026-10-19 07:30:24 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan to participate in Global AI summit in Seoul, highlight digita
+[2026-10-19 07:30:39 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-19 07:31:16 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-19 07:31:17 AM] [JOBS_BOT] [SUCCESS] Published: Kazakhstan proposes 24/7 digital monitoring of vaccine storage
+[2026-10-19 07:31:18 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2526 in / 770 out tokens
