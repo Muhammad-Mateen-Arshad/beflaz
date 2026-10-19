@@ -13958,3 +13958,19 @@
 [2026-10-19 02:02:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
 [2026-10-19 02:02:55 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1912 in / 270 out tokens
 [2026-10-19 02:02:55 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'rejected': 1, 'already_seen': 5}
+[2026-10-19 02:02:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-19 02:02:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a51bffe4255ae8f72ffa6146c9
+[2026-10-19 02:02:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-19 02:02:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a51bffe4255ae8f72ffa6146c9
+[2026-10-19 02:02:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-19 02:02:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a51e5b44fb0ab24dd368f2ebad
+[2026-10-19 02:02:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 65/300 chars, resolved=True): When does the new season of ‘Mayor of Kingstown’ start? ‘Mayor of King
+[2026-10-19 02:02:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a51e5b44fb0ab24dd368f2ebad
+[2026-10-19 02:02:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): How many episodes will Cyberpunk: Edgerunners Season 2 have? Here’s wh
+[2026-10-19 02:02:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a51e5b44fb0ab24dd368f2ebad
+[2026-10-19 02:02:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 164/300 chars, resolved=True): The Gentlemen 'doesn't need Meghan to boost publicity', source says af
+[2026-10-19 02:02:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a51e5b44fb0ab24dd368f2ebad
+[2026-10-19 02:02:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 164/300 chars, resolved=True): The Gentlemen 'doesn't need Meghan to boost publicity', source says af
+[2026-10-19 02:02:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad57a52bbe84c3a8b726e48c2849f1
+[2026-10-19 02:02:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): What To Watch This Week: New And Returning Releases On Netflix, Prime 
+[2026-10-19 02:02:58 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
