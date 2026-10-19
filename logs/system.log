@@ -14155,3 +14155,15 @@
 [2026-10-19 11:30:33 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan to participate in Global AI summit in Seoul, highlight digita
 [2026-10-19 11:31:03 AM] [JOBS_BOT] [SUCCESS] Published: Dimash Qudaibergen embarks on DIMENSIONS world tour with Kraków concert
 [2026-10-19 11:31:04 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3123 in / 688 out tokens
+[2026-10-19 11:31:06 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-19 11:31:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7ad90244f0bdba0ffdb1bdfbd
+[2026-10-19 11:31:06 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-19 11:31:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7ad90244f0bdba0ffdb1bdfbd
+[2026-10-19 11:31:06 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-19 11:31:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7ad133486ebb2799597739799
+[2026-10-19 11:31:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): The Trauma Code heroes on call season 2, 3 confirmed: Netflix reveals 
+[2026-10-19 11:31:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7ad133486ebb2799597739799
+[2026-10-19 11:31:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): OTT release: A lively gathering of friends awaits, and 'Sumo Didi' is 
+[2026-10-19 11:31:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ff7ad133486ebb2799597739799
+[2026-10-19 11:31:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): How many episodes will Cyberpunk: Edgerunners Season 2 have? Here’s wh
+[2026-10-19 11:31:07 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 6, 'already_seen': 10}
