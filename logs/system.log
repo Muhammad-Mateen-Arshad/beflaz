@@ -14195,3 +14195,8 @@
 [2026-10-19 11:31:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ffa0a3464f8285e1457c1fe9757
 [2026-10-19 11:31:46 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Chronic Diseases Raise Fall Risk in Middle-Aged and Older Adults, Stud
 [2026-10-19 11:31:46 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-19 11:31:48 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 11:32:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-19 11:32:52 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-19 11:32:53 AM] [HISTORY_BOT] [SUCCESS] Published: I actually used AI to create the game 'Path of Reflections' that I imagined a year ago!
+[2026-10-19 11:32:54 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1108 in / 417 out tokens
