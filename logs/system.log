@@ -14304,3 +14304,18 @@
 [2026-10-19 03:55:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-19 03:56:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-19 03:56:59 PM] [HEALTH_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-19 03:57:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 03:57:04 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-19 03:57:06 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-19 03:57:09 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-19 03:57:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-19 03:57:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:58:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:58:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:59:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 03:59:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 04:00:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 04:00:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 04:01:10 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 04:01:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-19 04:02:11 PM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
