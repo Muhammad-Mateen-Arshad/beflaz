@@ -14016,3 +14016,8 @@
 [2026-10-19 03:30:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-10-19 03:31:22 AM] [DRAMAS_BOT] [SUCCESS] Published: Akka OTT Release: Know About YRF's New Female-Led Gangster Series With Keerthy Suresh And Radhika Apte
 [2026-10-19 03:31:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 976 in / 459 out tokens
+[2026-10-19 03:31:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad58f0c019749bcaa2556ab32a1b8b
+[2026-10-19 03:31:24 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 122/400 chars, resolved=True): International Medical Aid Foundation (IMA) Highlights HOSA Members Lea
+[2026-10-19 03:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad58f0c019749bcaa2556ab32a1b8b
+[2026-10-19 03:31:25 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Free tuition at Ohio colleges on the rise, though most eligible studen
+[2026-10-19 03:31:25 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 2, 'thin': 2, 'already_seen': 8}
