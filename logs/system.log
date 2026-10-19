@@ -14504,3 +14504,18 @@
 [2026-10-19 11:11:25 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-19 11:11:48 PM] [JOBS_BOT] [SUCCESS] Published: Panama Geopolitics Explained 2026
 [2026-10-19 11:11:49 PM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3752 in / 1096 out tokens
+[2026-10-19 11:11:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-19 11:11:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6a3b6b2db4b38a8760c2f4f2a5ee
+[2026-10-19 11:11:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-19 11:11:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6a3b6b2db4b38a8760c2f4f2a5ee
+[2026-10-19 11:11:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-19 11:11:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6a3b7cdf045f287b7391441c3834
+[2026-10-19 11:11:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 99/300 chars, resolved=True): Netflix, America’s dominant streaming service, has hit a wall
+[2026-10-19 11:11:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6a3b7cdf045f287b7391441c3834
+[2026-10-19 11:11:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 179/300 chars, resolved=True): The Hunting Wives Season 2 Trailer Release Date Set for Beloved Britta
+[2026-10-19 11:11:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6a3b7cdf045f287b7391441c3834
+[2026-10-19 11:11:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): The IMDb Weekly Top 10: 'You Can See Everything' Buzz Grows as "Carrie
+[2026-10-19 11:11:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-19 11:11:55 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-19 11:12:22 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Cyberpunk: Edgerunners 2’ Release Date, Time, Where to Watch and Preview
+[2026-10-19 11:12:24 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1083 in / 508 out tokens
