@@ -14488,3 +14488,5 @@
 [2026-10-19 07:40:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-19 07:40:41 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-19 07:40:43 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-19 11:10:47 PM] [NEWS_BOT] [SUCCESS] Published: CDF Munir, new Saudi envoy express satisfaction at progress made under Makkah defence pact: ISPR
+[2026-10-19 11:10:48 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 845 in / 493 out tokens
