@@ -14094,3 +14094,5 @@
 [2026-10-19 07:33:45 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-19 07:33:45 AM] [HISTORY_BOT] [SUCCESS] Published: PRESS RELEASE: Opal Collector Uncovers Remarkable History of Rare Opalised Dinosaur Vertebrae
 [2026-10-19 07:33:46 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1219 in / 489 out tokens
+[2026-10-19 09:22:12 AM] [NEWS_BOT] [SUCCESS] Published: DPM Dar departs for high-level SCO moot in Tajikistan
+[2026-10-19 09:22:13 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 728 in / 504 out tokens
