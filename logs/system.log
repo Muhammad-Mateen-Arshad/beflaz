@@ -14056,3 +14056,13 @@
 [2026-10-19 07:31:16 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-19 07:31:17 AM] [JOBS_BOT] [SUCCESS] Published: Kazakhstan proposes 24/7 digital monitoring of vaccine storage
 [2026-10-19 07:31:18 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2526 in / 770 out tokens
+[2026-10-19 07:31:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-19 07:31:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5c747bd044b29b233634071b041c
+[2026-10-19 07:31:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-19 07:31:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5c747bd044b29b233634071b041c
+[2026-10-19 07:31:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-19 07:31:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5c748b406451e9b349066b7e99b2
+[2026-10-19 07:31:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 65/300 chars, resolved=True): When does the new season of ‘Mayor of Kingstown’ start? ‘Mayor of King
+[2026-10-19 07:32:05 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-19 07:32:06 AM] [DRAMAS_BOT] [SUCCESS] Published: Will there be a new season of Bluey? What we know about the release date
+[2026-10-19 07:32:07 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1742 in / 524 out tokens
