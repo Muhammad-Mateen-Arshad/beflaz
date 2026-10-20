@@ -14619,3 +14619,11 @@
 [2026-10-20 02:24:30 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 02:24:30 AM] [HISTORY_BOT] [SUCCESS] Published: A 210-Million-Year-Old Dinosaur From Zimbabwe Reveals A Lost World Hidden In Southern Africa
 [2026-10-20 02:24:31 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1166 in / 523 out tokens
+[2026-10-20 03:29:25 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 03:29:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-20 03:29:43 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 03:29:45 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-20 03:29:47 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-20 03:30:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 03:31:40 AM] [NEWS_BOT] [SUCCESS] Published: GDP growth revised down to 3.65pc as country falls short of target
+[2026-10-20 03:31:41 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1942 in / 559 out tokens
