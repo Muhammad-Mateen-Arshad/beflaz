@@ -15149,3 +15149,9 @@
 [2026-10-20 11:35:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
 [2026-10-20 11:36:20 PM] [HEALTH_BOT] [SUCCESS] Published: 2027's Biggest Fitness Trends Are Out, and One Surprising Workout Beat Weightlifting
 [2026-10-20 11:36:21 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 975 in / 517 out tokens
+[2026-10-20 11:36:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7faf69de84104b718ab9ee54c0d2
+[2026-10-20 11:36:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Fossils from Romania revealed a flying reptile from the dinosaur age
+[2026-10-20 11:36:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7faf69de84104b718ab9ee54c0d2
+[2026-10-20 11:36:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): T rex relative discovery rewrites family tree
+[2026-10-20 11:37:04 PM] [HISTORY_BOT] [SUCCESS] Published: Captured Mid-Step: First Continuous Adult T. Rex Trackway Discovered in North Dakota
+[2026-10-20 11:37:06 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1426 in / 524 out tokens
