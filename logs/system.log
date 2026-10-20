@@ -14627,3 +14627,19 @@
 [2026-10-20 03:30:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-20 03:31:40 AM] [NEWS_BOT] [SUCCESS] Published: GDP growth revised down to 3.65pc as country falls short of target
 [2026-10-20 03:31:41 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1942 in / 559 out tokens
+[2026-10-20 03:31:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e09d0fe04b788a3d2a6ba9f2f97
+[2026-10-20 03:31:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Businessmen warn industrial slowdown threatens jobs, investment
+[2026-10-20 03:31:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e09e7f8349a0a5da2f9e00c2f59
+[2026-10-20 03:31:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 03:31:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e09e0aac49c7b57e7638eb1cbde
+[2026-10-20 03:31:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): China’s Export Boom Masks Deep Economic Problems at Home
+[2026-10-20 03:31:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e09fa7394639822c760df849ac1
+[2026-10-20 03:31:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 03:31:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e09f02f44f15a9be8d532a43f91
+[2026-10-20 03:31:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 03:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e0a0a5b54514a2c3a04d531ae19
+[2026-10-20 03:31:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-20 03:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e0a0a5b54514a2c3a04d531ae19
+[2026-10-20 03:31:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): District and Sessions Court Peshawar Jobs 2026 ETEA Online Apply for C
+[2026-10-20 03:31:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Govt cuts petrol price by Rs5.16, diesel by Rs7.69
+[2026-10-20 03:31:46 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
