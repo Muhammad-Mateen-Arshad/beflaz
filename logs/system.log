@@ -14766,3 +14766,12 @@
 [2026-10-20 09:01:42 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 09:01:54 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Cyberpunk: Edgerunners 2’ Release Date, Time, Where to Watch & Trailer
 [2026-10-20 09:01:55 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1409 in / 508 out tokens
+[2026-10-20 09:01:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72e03778547b18353f8b8711446a
+[2026-10-20 09:01:56 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): On the Issues: Tennessee governor candidates on school vouchers
+[2026-10-20 09:01:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72e03778547b18353f8b8711446a
+[2026-10-20 09:01:56 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Australia Tightens Student Visa Rules, Restricts Onshore Applications 
+[2026-10-20 09:01:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72e03778547b18353f8b8711446a
+[2026-10-20 09:01:57 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Senate Panel Advances Accountability Bill, Questions WAPA Over Audit B
+[2026-10-20 09:02:27 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 09:02:28 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Expanded scholarship program ‘a huge relief’ for SC’s college-bound high school seniors
+[2026-10-20 09:02:29 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1644 in / 539 out tokens
