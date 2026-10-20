@@ -14797,3 +14797,15 @@
 [2026-10-20 09:07:42 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1037 in / 474 out tokens
 [2026-10-20 11:30:00 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz ready to build consensus on counterterrorism if opposition willing to: Sanaullah
 [2026-10-20 11:30:01 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1469 in / 519 out tokens
+[2026-10-20 11:30:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad750bafccb4444baa7807a9ab0fcd
+[2026-10-20 11:30:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Businessmen warn industrial slowdown threatens jobs, investment
+[2026-10-20 11:30:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad750ba98b94f228261985ad7659f9
+[2026-10-20 11:30:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 11:30:24 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Promised jobs, trapped by traffickers: 4 missing Jharkhand girls rescu
+[2026-10-20 11:30:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad750bbfc9045d9b462c10b71adfec
+[2026-10-20 11:30:24 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Iran's Foreign Ministry suggested that the country favous diplomacy, t
+[2026-10-20 11:30:25 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 11:30:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-20 11:31:38 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 11:31:39 AM] [JOBS_BOT] [SUCCESS] Published: FTSE 100 Falls as French Unrest and US-Iran Tensions Offset UK Labour Market Data
+[2026-10-20 11:31:40 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2107 in / 1023 out tokens
