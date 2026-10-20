@@ -14706,3 +14706,6 @@
 [2026-10-20 07:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7189a1f5b4261bde80464002b91a
 [2026-10-20 07:30:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): Greta Gerwig reveals how she wooed Led Zeppelin for 'Narnia' trailer
 [2026-10-20 07:30:35 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 2, 'thin': 2, 'already_seen': 4}
+[2026-10-20 07:30:43 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 07:31:18 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Educational Studies PhD Scholarships in Canada With CAD $40,000 Per Year
+[2026-10-20 07:31:19 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1399 in / 649 out tokens
