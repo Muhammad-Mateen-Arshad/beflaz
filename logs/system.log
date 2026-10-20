@@ -14775,3 +14775,17 @@
 [2026-10-20 09:02:27 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 09:02:28 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Expanded scholarship program ‘a huge relief’ for SC’s college-bound high school seniors
 [2026-10-20 09:02:29 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1644 in / 539 out tokens
+[2026-10-20 09:02:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-20 09:02:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-20 09:02:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72e27cbb1409ba63ba60caf90bfe
+[2026-10-20 09:02:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-20 09:03:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 09:03:23 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 09:03:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-20 09:03:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-20 09:04:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-20 09:05:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 09:05:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 09:07:13 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 09:07:14 AM] [HEALTH_BOT] [SUCCESS] Published: As weight-loss drug users turn to dietary supplements, doctors and regulators raise flags
+[2026-10-20 09:07:15 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1707 in / 518 out tokens
