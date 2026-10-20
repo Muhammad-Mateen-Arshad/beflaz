@@ -14858,3 +14858,11 @@
 [2026-10-20 11:38:08 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 11:38:09 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur footprints dating back 120 million years confirmed in Udon Thani
 [2026-10-20 11:38:10 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 752 in / 510 out tokens
+[2026-10-20 03:29:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 03:29:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-20 03:29:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-20 03:30:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-20 03:30:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 03:31:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 03:31:22 PM] [NEWS_BOT] [SUCCESS] Published: Judicial commission points finger at police’s ‘epic failure’, says Mir Raza was murdered
+[2026-10-20 03:31:23 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1434 in / 526 out tokens
