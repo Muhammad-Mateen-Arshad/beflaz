@@ -14889,3 +14889,9 @@
 [2026-10-20 03:37:39 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 03:37:39 PM] [DRAMAS_BOT] [SUCCESS] Published: The 30 Absolute Best TV Episodes of All Time, Ranked by IMDb Score
 [2026-10-20 03:37:40 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1521 in / 515 out tokens
+[2026-10-20 03:37:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad78ac5398a477ca70adb83cae788c
+[2026-10-20 03:37:41 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Can Democratic mayors swing a red state? The Wake Up for Tuesday, Oct.
+[2026-10-20 03:37:42 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 03:38:23 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 03:38:23 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: UCL Urged to Lower Fees for Students Trapped in Gaza
+[2026-10-20 03:38:24 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 858 in / 477 out tokens
