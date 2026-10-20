@@ -15127,3 +15127,14 @@
 [2026-10-20 11:33:00 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-20 11:33:38 PM] [DRAMAS_BOT] [SUCCESS] Published: The James Plays Finale: Munro and Norris Unite for James VI
 [2026-10-20 11:33:39 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1492 in / 457 out tokens
+[2026-10-20 11:33:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7fa54bf994ce9a0afa7e3029084c
+[2026-10-20 11:33:41 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Can Democratic mayors swing a red state? The Wake Up for Tuesday, Oct.
+[2026-10-20 11:33:45 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 11:33:58 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (133 words, need 150)): Education - the "slaughterhouse" for ministers: over 30 changes in 36 
+[2026-10-20 11:34:00 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 11:34:06 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 11:34:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-20 11:34:44 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-20 11:35:04 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-20 11:35:37 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: How to Apply for CM Punjab Honhaar Scholarship 2026 Online
+[2026-10-20 11:35:38 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2880 in / 939 out tokens
