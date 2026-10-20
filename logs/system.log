@@ -14754,3 +14754,15 @@
 [2026-10-20 09:01:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
 [2026-10-20 09:01:02 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1536 in / 366 out tokens
 [2026-10-20 09:01:02 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 4, 'rejected': 1}
+[2026-10-20 09:01:04 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-20 09:01:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dd00c9444cbaba2ac3d9e7e8cf
+[2026-10-20 09:01:04 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-20 09:01:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dd00c9444cbaba2ac3d9e7e8cf
+[2026-10-20 09:01:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-20 09:01:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dd13e6b41e68880efc831e4fd4
+[2026-10-20 09:01:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): 5 new shows to stream this week on Netflix, Prime Video and more
+[2026-10-20 09:01:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dd13e6b41e68880efc831e4fd4
+[2026-10-20 09:01:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): Netflix’s new Gwyneth Paltrow crime thriller series officially renewed
+[2026-10-20 09:01:42 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 09:01:54 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Cyberpunk: Edgerunners 2’ Release Date, Time, Where to Watch & Trailer
+[2026-10-20 09:01:55 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1409 in / 508 out tokens
