@@ -15025,3 +15025,10 @@
 [2026-10-20 07:36:31 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 07:36:32 PM] [JOBS_BOT] [SUCCESS] Published: Sindh Govt Announces Jobs With Monthly Salaries Up to Rs. 350,000
 [2026-10-20 07:36:33 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1083 in / 741 out tokens
+[2026-10-20 07:36:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7c2c1be724f8285fdd4d431cc706
+[2026-10-20 07:36:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-20 07:36:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7c2c1be724f8285fdd4d431cc706
+[2026-10-20 07:36:34 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-20 07:36:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 07:37:08 PM] [DRAMAS_BOT] [SUCCESS] Published: The Museum of Fiction: Materialising Imaginary Worlds as Narratives: Call for chapters
+[2026-10-20 07:37:10 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1668 in / 469 out tokens
