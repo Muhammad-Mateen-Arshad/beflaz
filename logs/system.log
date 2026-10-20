@@ -14877,3 +14877,15 @@
 [2026-10-20 03:34:27 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 03:34:28 PM] [JOBS_BOT] [SUCCESS] Published: Punjab Child Protection Bureau Announces Jobs
 [2026-10-20 03:34:29 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1031 in / 672 out tokens
+[2026-10-20 03:34:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad78a058fd74df3869df65221b903c
+[2026-10-20 03:34:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-20 03:34:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad78a058fd74df3869df65221b903c
+[2026-10-20 03:34:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-20 03:34:31 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 03:34:33 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 03:34:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-20 03:35:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-20 03:36:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-20 03:37:39 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 03:37:39 PM] [DRAMAS_BOT] [SUCCESS] Published: The 30 Absolute Best TV Episodes of All Time, Ranked by IMDb Score
+[2026-10-20 03:37:40 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1521 in / 515 out tokens
