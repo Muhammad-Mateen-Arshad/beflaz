@@ -15120,3 +15120,10 @@
 [2026-10-20 11:32:10 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-20 11:32:50 PM] [JOBS_BOT] [SUCCESS] Published: Peshawar High Court Announces Jobs
 [2026-10-20 11:32:52 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1911 in / 1000 out tokens
+[2026-10-20 11:32:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7fa258eee4985a80d6604f825659
+[2026-10-20 11:32:53 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-20 11:32:55 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 11:32:57 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 11:33:00 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-20 11:33:38 PM] [DRAMAS_BOT] [SUCCESS] Published: The James Plays Finale: Munro and Norris Unite for James VI
+[2026-10-20 11:33:39 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1492 in / 457 out tokens
