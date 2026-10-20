@@ -15032,3 +15032,14 @@
 [2026-10-20 07:36:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-20 07:37:08 PM] [DRAMAS_BOT] [SUCCESS] Published: The Museum of Fiction: Materialising Imaginary Worlds as Narratives: Call for chapters
 [2026-10-20 07:37:10 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1668 in / 469 out tokens
+[2026-10-20 07:37:11 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 07:37:13 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 07:37:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-20 07:37:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-20 07:38:15 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-20 07:38:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 07:39:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 07:39:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 07:40:37 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 07:40:37 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Research & Commentary: Georgia Is Lagging Behind Neighboring States on Education Choice
+[2026-10-20 07:40:39 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1588 in / 460 out tokens
