@@ -15138,3 +15138,14 @@
 [2026-10-20 11:35:04 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-20 11:35:37 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: How to Apply for CM Punjab Honhaar Scholarship 2026 Online
 [2026-10-20 11:35:38 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2880 in / 939 out tokens
+[2026-10-20 11:35:39 PM] [HEALTH_BOT] [WARN] Feed HTTP 403: https://www.nih.gov/news-releases/feed.xml
+[2026-10-20 11:35:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-20 11:35:41 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-20 11:35:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7facdf7b74d4e98daf475d9e42a5
+[2026-10-20 11:35:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 187/800 chars, resolved=True): 9 signs your body is aging faster than you are
+[2026-10-20 11:35:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7facdf7b74d4e98daf475d9e42a5
+[2026-10-20 11:35:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-20 11:35:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7facf5e2b4868882ce886924d78a
+[2026-10-20 11:35:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-20 11:36:20 PM] [HEALTH_BOT] [SUCCESS] Published: 2027's Biggest Fitness Trends Are Out, and One Surprising Workout Beat Weightlifting
+[2026-10-20 11:36:21 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 975 in / 517 out tokens
