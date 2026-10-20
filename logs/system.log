@@ -14848,3 +14848,13 @@
 [2026-10-20 11:36:48 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 11:36:49 AM] [HEALTH_BOT] [SUCCESS] Published: What to eat for younger-looking skin
 [2026-10-20 11:36:50 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1587 in / 561 out tokens
+[2026-10-20 11:36:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad75252dfd34b768431281f84fdea3
+[2026-10-20 11:36:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Fossils from Romania revealed a flying reptile from the dinosaur age
+[2026-10-20 11:36:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad75252dfd34b768431281f84fdea3
+[2026-10-20 11:36:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): ‘A world first’: A new species of prehistoric crocodile was discovered
+[2026-10-20 11:36:53 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 11:37:07 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-20 11:37:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-20 11:38:08 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 11:38:09 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur footprints dating back 120 million years confirmed in Udon Thani
+[2026-10-20 11:38:10 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 752 in / 510 out tokens
