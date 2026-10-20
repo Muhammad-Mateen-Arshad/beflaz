@@ -14924,3 +14924,22 @@
 [2026-10-20 04:01:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-20 04:01:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-20 04:02:25 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-20 04:02:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad79094a0c0498bab1a5fa532ce47c
+[2026-10-20 04:02:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Punjab CM Mann accuses Centre of failing to stop drug trafficking, cal
+[2026-10-20 04:02:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad79095ec504e3f9ad6290b071f5fd
+[2026-10-20 04:02:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 04:02:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad79095ed2c41a8a58828d671336e6
+[2026-10-20 04:02:30 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): British Pound surges to 1.3400 as UK jobs beat, Iran deal hopes grow
+[2026-10-20 04:02:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 04:02:34 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 04:02:46 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Ex-Army man hires 2 hitmen to kill cousin's wife over land deal refusa
+[2026-10-20 04:02:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad790a61aef485a8a0445fc6c138e9
+[2026-10-20 04:02:46 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 04:02:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad790a608da489abce6059243cd24f
+[2026-10-20 04:02:46 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 04:02:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad790a64843482ab39dc6473232259
+[2026-10-20 04:02:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-20 04:02:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad790a64843482ab39dc6473232259
+[2026-10-20 04:02:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): District and Sessions Court Peshawar Jobs 2026 ETEA Online Apply for C
+[2026-10-20 04:02:48 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1173 in / 329 out tokens
+[2026-10-20 04:02:48 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 7, 'rejected': 1}
