@@ -14842,3 +14842,9 @@
 [2026-10-20 11:36:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
 [2026-10-20 11:36:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1536 in / 230 out tokens
 [2026-10-20 11:36:12 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 5, 'already_seen': 7, 'rejected': 1}
+[2026-10-20 11:36:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-20 11:36:13 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-20 11:36:15 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 11:36:48 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 11:36:49 AM] [HEALTH_BOT] [SUCCESS] Published: What to eat for younger-looking skin
+[2026-10-20 11:36:50 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1587 in / 561 out tokens
