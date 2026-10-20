@@ -14828,3 +14828,17 @@
 [2026-10-20 11:35:42 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 11:35:57 AM] [DRAMAS_BOT] [SUCCESS] Published: Where the Mask Ends premieres on Netflix and Youku with Tian Xiwei as both heiresses
 [2026-10-20 11:35:58 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1652 in / 558 out tokens
+[2026-10-20 11:35:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7521f02fa410e99cb7b81905f0d9
+[2026-10-20 11:35:59 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Can Democratic mayors swing a red state? The Wake Up for Tuesday, Oct.
+[2026-10-20 11:36:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7521f02fa410e99cb7b81905f0d9
+[2026-10-20 11:36:00 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): On the Issues: Tennessee governor candidates on school vouchers
+[2026-10-20 11:36:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7521f02fa410e99cb7b81905f0d9
+[2026-10-20 11:36:00 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Australia Tightens Student Visa Rules, Restricts Onshore Applications 
+[2026-10-20 11:36:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7521f02fa410e99cb7b81905f0d9
+[2026-10-20 11:36:00 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Senate Panel Advances Accountability Bill, Questions WAPA Over Audit B
+[2026-10-20 11:36:02 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 11:36:11 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (75 words, need 150)): Briefing October 18-24, 2026
+[2026-10-20 11:36:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7522b3a5143ffb11c83cd6771d5e
+[2026-10-20 11:36:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 11:36:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1536 in / 230 out tokens
+[2026-10-20 11:36:12 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 5, 'already_seen': 7, 'rejected': 1}
