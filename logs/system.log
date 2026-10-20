@@ -15014,3 +15014,14 @@
 [2026-10-20 07:33:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-20 07:34:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-20 07:35:00 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-20 07:35:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7c265e90a4ce49ef80301b974d7d
+[2026-10-20 07:35:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Punjab CM Mann accuses Centre of failing to stop drug trafficking, cal
+[2026-10-20 07:35:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 07:35:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-20 07:35:24 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 07:35:26 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 07:35:28 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-20 07:36:16 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 07:36:31 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 07:36:32 PM] [JOBS_BOT] [SUCCESS] Published: Sindh Govt Announces Jobs With Monthly Salaries Up to Rs. 350,000
+[2026-10-20 07:36:33 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1083 in / 741 out tokens
