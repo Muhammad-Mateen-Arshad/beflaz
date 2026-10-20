@@ -14789,3 +14789,9 @@
 [2026-10-20 09:07:13 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 09:07:14 AM] [HEALTH_BOT] [SUCCESS] Published: As weight-loss drug users turn to dietary supplements, doctors and regulators raise flags
 [2026-10-20 09:07:15 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1707 in / 518 out tokens
+[2026-10-20 09:07:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72f4326bd4a778e8ea29ebf7caf0
+[2026-10-20 09:07:16 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): ‘A world first’: A new species of prehistoric crocodile was discovered
+[2026-10-20 09:07:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72f4326bd4a778e8ea29ebf7caf0
+[2026-10-20 09:07:16 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): T rex relative discovery rewrites family tree
+[2026-10-20 09:07:41 AM] [HISTORY_BOT] [SUCCESS] Published: Discovery of T. rex’s cousin upends our understanding of tyrannosaur evolution
+[2026-10-20 09:07:42 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1037 in / 474 out tokens
