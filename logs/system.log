@@ -14597,3 +14597,11 @@
 [2026-10-20 02:21:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-20 02:22:27 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s Hit Zombie Series Officially Wraps Filming Ahead of Season 2 Return
 [2026-10-20 02:22:28 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1636 in / 532 out tokens
+[2026-10-20 02:22:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6d06596ec4f59b6d2bacac3e2375
+[2026-10-20 02:22:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): On the Issues: Tennessee governor candidates on school vouchers
+[2026-10-20 02:22:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6d06596ec4f59b6d2bacac3e2375
+[2026-10-20 02:22:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Senate Panel Advances Accountability Bill, Questions WAPA Over Audit B
+[2026-10-20 02:22:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6d06596ec4f59b6d2bacac3e2375
+[2026-10-20 02:22:30 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Australia Tightens Student Visa Rules, Restricts Onshore Applications 
+[2026-10-20 02:22:51 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pharmacology Master’s Scholarships in Canada With CAD $25,000 Yearly Allowance
+[2026-10-20 02:22:52 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1474 in / 654 out tokens
