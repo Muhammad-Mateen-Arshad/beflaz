@@ -15058,3 +15058,12 @@
 [2026-10-20 07:40:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7c3baf8f845128af9c19729f99b9
 [2026-10-20 07:40:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-20 07:40:43 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-20 07:40:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7c3bbb0114eb49def857019e434a
+[2026-10-20 07:40:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): ‘A world first’: A new species of prehistoric crocodile was discovered
+[2026-10-20 07:40:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7c3bbb0114eb49def857019e434a
+[2026-10-20 07:40:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Fossils from Romania revealed a flying reptile from the dinosaur age
+[2026-10-20 07:40:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 07:40:56 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 07:41:26 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 07:41:27 PM] [HISTORY_BOT] [SUCCESS] Published: Social media post prompts investigation into ancient tracks in Udon Thani
+[2026-10-20 07:41:28 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 826 in / 527 out tokens
