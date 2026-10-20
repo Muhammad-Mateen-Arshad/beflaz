@@ -14895,3 +14895,14 @@
 [2026-10-20 03:38:23 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 03:38:23 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: UCL Urged to Lower Fees for Students Trapped in Gaza
 [2026-10-20 03:38:24 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 858 in / 477 out tokens
+[2026-10-20 03:38:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-20 03:38:25 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-20 03:38:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad78af1655d4f68aa40251cdd6a81c
+[2026-10-20 03:38:25 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-20 03:38:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad78af1655d4f68aa40251cdd6a81c
+[2026-10-20 03:38:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-20 03:38:28 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 03:38:30 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 03:39:06 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 03:39:07 PM] [HEALTH_BOT] [SUCCESS] Published: The everyday movements that may reveal your longevity, according to a mobility coach
+[2026-10-20 03:39:10 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1600 in / 649 out tokens
