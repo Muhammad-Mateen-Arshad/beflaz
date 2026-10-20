@@ -14738,3 +14738,19 @@
 [2026-10-20 09:00:32 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 09:00:43 AM] [NEWS_BOT] [SUCCESS] Published: Maldives president arrives in Pakistan for three-day visit
 [2026-10-20 09:00:44 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 741 in / 532 out tokens
+[2026-10-20 09:00:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dbc30ac4c178a93a2728926f1d
+[2026-10-20 09:00:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Businessmen warn industrial slowdown threatens jobs, investment
+[2026-10-20 09:00:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dbdd5904037846d6b799dd7510
+[2026-10-20 09:00:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 09:00:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dbdb8684b0998ded969f982fa1
+[2026-10-20 09:00:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): China’s Export Boom Masks Deep Economic Problems at Home
+[2026-10-20 09:00:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 364/400 chars, resolved=True): France protests latest: New curfews to be decided tonight after Italy 
+[2026-10-20 09:00:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dbe993f416986dd9c99b64c87a
+[2026-10-20 09:00:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 09:01:02 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Why is Bangladesh Ahead of Pakistan?A Dinner-Table Discussion
+[2026-10-20 09:01:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dbec6774122a4b02a5be5cea43
+[2026-10-20 09:01:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-20 09:01:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad72dce2fbb49808b1c8e0c40c68da
+[2026-10-20 09:01:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-20 09:01:02 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1536 in / 366 out tokens
+[2026-10-20 09:01:02 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 4, 'rejected': 1}
