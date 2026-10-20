@@ -14702,3 +14702,7 @@
 [2026-10-20 07:30:05 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1251 in / 554 out tokens
 [2026-10-20 07:30:31 AM] [JOBS_BOT] [SUCCESS] Published: Qatar to announce new regional defence partnership and hub
 [2026-10-20 07:30:31 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1424 in / 389 out tokens
+[2026-10-20 07:30:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-20 07:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7189a1f5b4261bde80464002b91a
+[2026-10-20 07:30:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): Greta Gerwig reveals how she wooed Led Zeppelin for 'Narnia' trailer
+[2026-10-20 07:30:35 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 2, 'thin': 2, 'already_seen': 4}
