@@ -14565,3 +14565,5 @@
 [2026-10-19 11:16:39 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-19 11:16:41 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-19 11:16:44 PM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-20 02:19:46 AM] [NEWS_BOT] [SUCCESS] Published: Senate approves bill seeking blue passports for ex-lawmakers with incomplete term
+[2026-10-20 02:19:46 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1550 in / 580 out tokens
