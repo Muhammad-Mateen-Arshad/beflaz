@@ -14809,3 +14809,22 @@
 [2026-10-20 11:31:38 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 11:31:39 AM] [JOBS_BOT] [SUCCESS] Published: FTSE 100 Falls as French Unrest and US-Iran Tensions Offset UK Labour Market Data
 [2026-10-20 11:31:40 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2107 in / 1023 out tokens
+[2026-10-20 11:31:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-20 11:31:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7511d911b435b8142a17225362d5
+[2026-10-20 11:31:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-20 11:31:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7511d911b435b8142a17225362d5
+[2026-10-20 11:31:42 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-20 11:31:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7511e934e4ef78fa5fef5d544c16
+[2026-10-20 11:31:42 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): 5 new shows to stream this week on Netflix, Prime Video and more
+[2026-10-20 11:31:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7511e934e4ef78fa5fef5d544c16
+[2026-10-20 11:31:42 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): Netflix’s new Gwyneth Paltrow crime thriller series officially renewed
+[2026-10-20 11:31:43 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 11:31:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-20 11:32:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-20 11:32:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-20 11:33:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-20 11:33:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 11:34:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 11:35:42 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 11:35:57 AM] [DRAMAS_BOT] [SUCCESS] Published: Where the Mask Ends premieres on Netflix and Youku with Tian Xiwei as both heiresses
+[2026-10-20 11:35:58 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1652 in / 558 out tokens
