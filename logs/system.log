@@ -15075,3 +15075,14 @@
 [2026-10-20 10:46:01 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-20 10:46:29 PM] [JOBS_BOT] [SUCCESS] Published: JI demands job security for 450 Children Hospital employees
 [2026-10-20 10:46:30 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 859 in / 510 out tokens
+[2026-10-20 10:46:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-20 10:46:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7ef487cd84c8c8bf1b37824b588f
+[2026-10-20 10:46:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-20 10:46:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7ef487cd84c8c8bf1b37824b588f
+[2026-10-20 10:46:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-20 10:46:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7ef487a0e45abad2845ab3693cf2
+[2026-10-20 10:46:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 138/300 chars, resolved=True): Cyberpunk: Edgerunners 2 Now Streaming on Netflix, Cyberpunk 2077 Upda
+[2026-10-20 10:46:34 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 10:46:36 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 10:47:02 PM] [DRAMAS_BOT] [SUCCESS] Published: Cyberpunk 2077 announces a major update that will include content from Edgerunners 2 and highly anticipated new features
+[2026-10-20 10:47:03 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 813 in / 443 out tokens
