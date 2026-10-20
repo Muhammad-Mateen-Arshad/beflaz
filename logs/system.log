@@ -14643,3 +14643,12 @@
 [2026-10-20 03:31:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): District and Sessions Court Peshawar Jobs 2026 ETEA Online Apply for C
 [2026-10-20 03:31:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Govt cuts petrol price by Rs5.16, diesel by Rs7.69
 [2026-10-20 03:31:46 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-20 03:31:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e0a394504cc38d9eaed5c902172
+[2026-10-20 03:31:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-20 03:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e0a394504cc38d9eaed5c902172
+[2026-10-20 03:31:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-20 03:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6e0a4f00a470384c5cd3775612e2
+[2026-10-20 03:31:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 99/300 chars, resolved=True): Netflix, America’s dominant streaming service, has hit a wall
+[2026-10-20 03:32:16 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 03:32:17 AM] [DRAMAS_BOT] [SUCCESS] Published: The Hunting Wives Season 2 Trailer Release Date Set for Beloved Brittany Snow Show’s Return
+[2026-10-20 03:32:18 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 802 in / 488 out tokens
