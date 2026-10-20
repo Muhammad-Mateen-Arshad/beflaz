@@ -15106,3 +15106,7 @@
 [2026-10-20 10:49:13 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 10:49:13 PM] [HISTORY_BOT] [SUCCESS] Published: Xinhua Headlines: 90 years after Liangzhu's discovery, a lost city and a civilization brought back to life
 [2026-10-20 10:49:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1509 in / 568 out tokens
+[2026-10-20 11:29:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 11:30:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-20 11:30:58 PM] [NEWS_BOT] [SUCCESS] Published: All-round Arafat Minhas owns the show as Pakistan crush England in tri-series match
+[2026-10-20 11:31:02 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1720 in / 592 out tokens
