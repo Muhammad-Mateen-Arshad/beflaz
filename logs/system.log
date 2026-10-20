@@ -14958,3 +14958,17 @@
 [2026-10-20 04:04:52 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 04:04:53 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘The Hunting Wives’ Season 2 Drops New First Looks and Trailer Ahead of November Release
 [2026-10-20 04:04:54 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1240 in / 515 out tokens
+[2026-10-20 04:04:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad791270c4f4447b7746a2d3c7834c
+[2026-10-20 04:04:55 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Can Democratic mayors swing a red state? The Wake Up for Tuesday, Oct.
+[2026-10-20 04:04:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad791270c4f4447b7746a2d3c7834c
+[2026-10-20 04:04:56 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Senate Panel Advances Accountability Bill, Questions WAPA Over Audit B
+[2026-10-20 04:04:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad791270c4f4447b7746a2d3c7834c
+[2026-10-20 04:04:56 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): An Ohio court’s ruling against $776 million in vouchers reignites the 
+[2026-10-20 04:04:57 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 04:04:59 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 04:05:02 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-20 04:05:10 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-20 04:05:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-20 04:06:27 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 04:06:28 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Rs200bn set aside for Balochistan development projects, NA told
+[2026-10-20 04:06:29 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 847 in / 386 out tokens
