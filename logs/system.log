@@ -14605,3 +14605,12 @@
 [2026-10-20 02:22:30 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Australia Tightens Student Visa Rules, Restricts Onshore Applications 
 [2026-10-20 02:22:51 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pharmacology Master’s Scholarships in Canada With CAD $25,000 Yearly Allowance
 [2026-10-20 02:22:52 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1474 in / 654 out tokens
+[2026-10-20 02:22:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-20 02:22:53 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-20 02:22:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6d07dc078443096ba954b0ff3850
+[2026-10-20 02:22:54 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): A new ultra-processed foods study's surprising results, explained
+[2026-10-20 02:23:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 02:23:20 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 02:23:55 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 02:23:55 AM] [HEALTH_BOT] [SUCCESS] Published: What happens to your body when you stop testosterone therapy? Thousands are searching for answers
+[2026-10-20 02:23:57 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1376 in / 518 out tokens
