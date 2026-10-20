@@ -15071,3 +15071,7 @@
 [2026-10-20 10:45:29 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-20 10:45:47 PM] [NEWS_BOT] [SUCCESS] Published: Govt ups petrol price by Re0.88 per litre, high-speed diesel rate by Re0.53
 [2026-10-20 10:45:48 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 907 in / 555 out tokens
+[2026-10-20 10:45:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 10:46:01 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 10:46:29 PM] [JOBS_BOT] [SUCCESS] Published: JI demands job security for 450 Children Hospital employees
+[2026-10-20 10:46:30 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 859 in / 510 out tokens
