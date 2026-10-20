@@ -14721,3 +14721,10 @@
 [2026-10-20 07:32:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-20 07:32:58 AM] [HEALTH_BOT] [SUCCESS] Published: Veterinarians agree: tailoring exercise to a dog’s age can help them live a healthier, longer life
 [2026-10-20 07:32:58 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 885 in / 480 out tokens
+[2026-10-20 07:33:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7192b0377423f8081c5d1a377a61
+[2026-10-20 07:33:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-20 07:33:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7192b0377423f8081c5d1a377a61
+[2026-10-20 07:33:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Archaeologist debunks viral Noah’s Ark ruins in Lake Van
+[2026-10-20 07:33:41 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 07:33:42 AM] [HISTORY_BOT] [SUCCESS] Published: Fourth Liangzhu Forum Opens in Hangzhou to Facilitate Global Heritage Dialogue
+[2026-10-20 07:33:43 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1188 in / 522 out tokens
