@@ -14909,3 +14909,18 @@
 [2026-10-20 03:39:43 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 03:39:44 PM] [HISTORY_BOT] [SUCCESS] Published: Scientists discover a bizarre Jurassic “squid” unlike anything ever seen
 [2026-10-20 03:39:44 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1488 in / 498 out tokens
+[2026-10-20 03:54:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-20 03:55:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-20 03:55:13 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-20 03:55:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-20 03:56:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-20 03:56:43 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-20 03:56:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 03:57:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 03:58:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 03:59:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 04:00:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 04:00:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 04:01:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 04:01:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-20 04:02:25 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
