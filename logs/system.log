@@ -14614,3 +14614,8 @@
 [2026-10-20 02:23:55 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-20 02:23:55 AM] [HEALTH_BOT] [SUCCESS] Published: What happens to your body when you stop testosterone therapy? Thousands are searching for answers
 [2026-10-20 02:23:57 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1376 in / 518 out tokens
+[2026-10-20 02:23:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6d0bdf2c8455a9d493d328a36c76
+[2026-10-20 02:23:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): ‘A world first’: A new species of prehistoric crocodile was discovered
+[2026-10-20 02:24:30 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-20 02:24:30 AM] [HISTORY_BOT] [SUCCESS] Published: A 210-Million-Year-Old Dinosaur From Zimbabwe Reveals A Lost World Hidden In Southern Africa
+[2026-10-20 02:24:31 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1166 in / 523 out tokens
