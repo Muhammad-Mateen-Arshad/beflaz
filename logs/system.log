@@ -15792,3 +15792,20 @@
 [2026-10-21 11:29:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-21 11:29:54 PM] [NEWS_BOT] [SUCCESS] Published: Maldives president, CDF Munir stress importance of strengthening defence cooperation
 [2026-10-21 11:29:55 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1488 in / 530 out tokens
+[2026-10-21 11:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94af43785447382b19c2fba8390a
+[2026-10-21 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-21 11:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94af43785447382b19c2fba8390a
+[2026-10-21 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-21 11:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94af43785447382b19c2fba8390a
+[2026-10-21 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
+[2026-10-21 11:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94af43785447382b19c2fba8390a
+[2026-10-21 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): Pakistan's Khawaja Asif raises alarm over bureaucrats' exodus to Portu
+[2026-10-21 11:29:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94af6d6904f2d8e139f10b741a7a
+[2026-10-21 11:29:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-21 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94af61e3d414183b4c831e80df0b
+[2026-10-21 11:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-21 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94af7272e4670a4041774fb299f2
+[2026-10-21 11:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-21 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94af7272e4670a4041774fb299f2
+[2026-10-21 11:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): District and Sessions Court Peshawar Jobs 2026 ETEA Online Apply for C
+[2026-10-21 11:29:59 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 8}
