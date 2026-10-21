@@ -15752,3 +15752,7 @@
 [2026-10-21 10:51:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-21 10:51:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): New English Web Series List (2026)
 [2026-10-21 10:51:25 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 7, 'thin': 7}
+[2026-10-21 10:51:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941edfd4943fda1da59f9e45f301
+[2026-10-21 10:51:25 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
+[2026-10-21 10:51:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: The Greg Sharpe Scholarship Game: Kansas State vs. Nebraska Men's Basketball
+[2026-10-21 10:51:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1010 in / 511 out tokens
