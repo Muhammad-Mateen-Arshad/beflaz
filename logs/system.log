@@ -15246,3 +15246,16 @@
 [2026-10-21 03:31:26 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
 [2026-10-21 03:31:44 AM] [JOBS_BOT] [SUCCESS] Published: From illegal mining to Mining Politics in Khyber Pakhtunkhwa
 [2026-10-21 03:31:45 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2966 in / 908 out tokens
+[2026-10-21 03:31:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad832228fba42aca3a71a2203e3f71
+[2026-10-21 03:31:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-21 03:31:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad832228fba42aca3a71a2203e3f71
+[2026-10-21 03:31:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-21 03:31:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad832228fba42aca3a71a2203e3f71
+[2026-10-21 03:31:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 38/300 chars, resolved=True): The original dream girl: Hema Malini
+[2026-10-21 03:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad832233d8142f081f4a1ca796711e
+[2026-10-21 03:31:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 87/300 chars, resolved=True): Netflix's new 'Reacher' substitute series casts Jeff Daniels as a reve
+[2026-10-21 03:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad832233d8142f081f4a1ca796711e
+[2026-10-21 03:31:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 138/300 chars, resolved=True): Cyberpunk: Edgerunners 2 Now Streaming on Netflix, Cyberpunk 2077 Upda
+[2026-10-21 03:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8322462cb49e48ebef97e32bf251
+[2026-10-21 03:31:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-21 03:31:48 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 6, 'thin': 6}
