@@ -15613,3 +15613,8 @@
 [2026-10-21 04:20:00 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-21 04:20:01 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Lupin’ Season 4 Release Date, Episode Schedule, Cast Changes and Plot Details
 [2026-10-21 04:20:02 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1279 in / 584 out tokens
+[2026-10-21 04:20:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e633c88240038b443c0844d2379
+[2026-10-21 04:20:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
+[2026-10-21 04:20:41 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 04:20:41 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Art History Scholarships in Canada With CAD $40,000 Per Year
+[2026-10-21 04:20:42 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1414 in / 588 out tokens
