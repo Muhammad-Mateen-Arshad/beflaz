@@ -15579,3 +15579,9 @@
 [2026-10-21 03:58:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-21 03:58:22 PM] [HISTORY_BOT] [SUCCESS] Published: Polis celebrates CO150, 'Bring Home our Brach' effort at airport
 [2026-10-21 03:58:23 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1486 in / 510 out tokens
+[2026-10-21 04:12:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 04:12:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 04:12:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 04:14:31 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 04:14:32 PM] [NEWS_BOT] [SUCCESS] Published: Suspect should not be deprived of bail in case of 'reasonable doubt' over involvement, SC rules
+[2026-10-21 04:14:33 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1448 in / 549 out tokens
