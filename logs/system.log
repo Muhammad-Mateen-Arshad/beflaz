@@ -15526,3 +15526,17 @@
 [2026-10-21 03:36:28 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-21 03:36:28 PM] [JOBS_BOT] [SUCCESS] Published: Moldova negotiates with Ukraine for natural gas supplies and more favorable contracts
 [2026-10-21 03:36:29 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 863 in / 442 out tokens
+[2026-10-21 03:36:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8dbfebd49429a8dbb332022b0a36
+[2026-10-21 03:36:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-21 03:36:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8dbfebd49429a8dbb332022b0a36
+[2026-10-21 03:36:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-21 03:36:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 03:36:37 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 03:37:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 03:37:41 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 03:38:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-21 03:39:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 03:40:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 03:41:42 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 03:41:43 PM] [DRAMAS_BOT] [SUCCESS] Published: The Most Attractive Actresses Right Now
+[2026-10-21 03:41:44 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1569 in / 453 out tokens
