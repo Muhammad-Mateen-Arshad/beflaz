@@ -15478,3 +15478,11 @@
 [2026-10-21 11:39:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-21 11:40:08 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Fully Funded PhD Scholarships in the UK for 2027: UBEL ESRC Studentships Offer Tuition Fees and £23,805 Annual Stipend
 [2026-10-21 11:40:09 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1472 in / 722 out tokens
+[2026-10-21 11:40:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-21 11:40:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-21 11:40:11 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 11:40:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 11:40:29 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 11:41:14 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 11:41:15 AM] [HEALTH_BOT] [SUCCESS] Published: Virta Health Reports 37% Greater Weight Loss When GLP-1s are Paired with its AI-enabled Personalized Nutrition
+[2026-10-21 11:41:15 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1818 in / 492 out tokens
