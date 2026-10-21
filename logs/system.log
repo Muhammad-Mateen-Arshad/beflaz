@@ -15232,3 +15232,17 @@
 [2026-10-21 03:29:51 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-21 03:30:17 AM] [NEWS_BOT] [SUCCESS] Published: Makkah alliance binds partners to decade-long pact
 [2026-10-21 03:30:18 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1494 in / 482 out tokens
+[2026-10-21 03:30:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad831cadc3c46c689efd3f3738fbf9
+[2026-10-21 03:30:19 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Punjab cabinet approves Rs 1.99tr industrial, export programmePublishe
+[2026-10-21 03:30:21 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 03:30:23 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 03:30:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 03:30:47 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-21 03:31:00 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Dollar falls as record Japanese bond auction lifts yen, pound surges o
+[2026-10-21 03:31:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad831cadc3c46c689efd3f3738fbf9
+[2026-10-21 03:31:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Tasmania approved high-risk Liberty Bell Bay loan amid smelter shutdow
+[2026-10-21 03:31:06 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 03:31:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 03:31:26 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-21 03:31:44 AM] [JOBS_BOT] [SUCCESS] Published: From illegal mining to Mining Politics in Khyber Pakhtunkhwa
+[2026-10-21 03:31:45 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2966 in / 908 out tokens
