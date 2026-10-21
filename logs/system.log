@@ -15295,3 +15295,9 @@
 [2026-10-21 03:34:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-21 03:35:10 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-21 03:35:12 AM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-21 07:29:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 07:29:46 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 07:30:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 07:30:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-21 07:31:27 AM] [NEWS_BOT] [SUCCESS] Published: Man accused of running over Multan teenager killed in alleged CCD encounter
+[2026-10-21 07:31:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 796 in / 463 out tokens
