@@ -15600,3 +15600,16 @@
 [2026-10-21 04:19:16 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-21 04:19:17 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan army chief discussed Houthis, de-escalation in Tehran - Al Arabiya
 [2026-10-21 04:19:18 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 457 in / 325 out tokens
+[2026-10-21 04:19:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-21 04:19:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e608a893479b96841db24fc7640
+[2026-10-21 04:19:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-21 04:19:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e608a893479b96841db24fc7640
+[2026-10-21 04:19:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-21 04:19:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e6089ea44c1bb60db9ed8c1e9f1
+[2026-10-21 04:19:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): All of us are dead season 2: Netflix eyes early 2027 release; filming 
+[2026-10-21 04:19:22 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 04:19:24 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 04:19:26 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-21 04:20:00 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 04:20:01 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Lupin’ Season 4 Release Date, Episode Schedule, Cast Changes and Plot Details
+[2026-10-21 04:20:02 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1279 in / 584 out tokens
