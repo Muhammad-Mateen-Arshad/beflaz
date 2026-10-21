@@ -15353,3 +15353,11 @@
 [2026-10-21 07:34:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86b1d8cd54b64b9abf5fef20e1d8
 [2026-10-21 07:34:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 187/800 chars, resolved=True): 9 signs your body is aging faster than you are
 [2026-10-21 07:34:55 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-21 07:34:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86b1f13e6492e959a993924f9bbf
+[2026-10-21 07:34:55 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Opal Collector Uncovers Remarkable History of Rare Opalised Dinosaur V
+[2026-10-21 07:34:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86b1f13e6492e959a993924f9bbf
+[2026-10-21 07:34:55 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Fossils from Romania revealed a flying reptile from the dinosaur age
+[2026-10-21 07:34:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86b1f13e6492e959a993924f9bbf
+[2026-10-21 07:34:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New T Rex relative blurs evolutionary lineage boundaries
+[2026-10-21 07:35:15 AM] [HISTORY_BOT] [SUCCESS] Published: Analysis: New long‑clawed British dinosaur is the first of its kind in Europe
+[2026-10-21 07:35:16 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1497 in / 545 out tokens
