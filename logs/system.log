@@ -15301,3 +15301,22 @@
 [2026-10-21 07:30:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-10-21 07:31:27 AM] [NEWS_BOT] [SUCCESS] Published: Man accused of running over Multan teenager killed in alleged CCD encounter
 [2026-10-21 07:31:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 796 in / 463 out tokens
+[2026-10-21 07:31:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86a5187a94494ba087549d69b9f1
+[2026-10-21 07:31:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): Pakistan's mobile phone industry misses localisation target as value a
+[2026-10-21 07:31:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86a5187a94494ba087549d69b9f1
+[2026-10-21 07:31:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Punjab cabinet approves Rs 1.99tr industrial, export programmePublishe
+[2026-10-21 07:31:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86a5187a94494ba087549d69b9f1
+[2026-10-21 07:31:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Tasmania approved high-risk Liberty Bell Bay loan amid smelter shutdow
+[2026-10-21 07:32:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 07:32:30 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (109 words, need 150)): LIVE: CM Mann hits out at Amit Shah, says ‘Stop Cheap Politics’ and lo
+[2026-10-21 07:32:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86a8e632a4c9ba1e35fab8a848a2
+[2026-10-21 07:32:31 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-21 07:32:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86a8f8b3e46efb7ed37e4c3408aa
+[2026-10-21 07:32:31 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
+[2026-10-21 07:32:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86a8f8b3e46efb7ed37e4c3408aa
+[2026-10-21 07:32:31 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Dollar dips as traders weigh Iran, AI risks
+[2026-10-21 07:32:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 07:32:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 07:33:08 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (147 words, need 150); too many 'not specified' (source too thin)): Dollar on back foot as US yields, crude prices dip; Aussie buoyed by h
+[2026-10-21 07:33:08 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2755 in / 589 out tokens
+[2026-10-21 07:33:08 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 6, 'already_seen': 2, 'rejected': 2}
