@@ -15565,3 +15565,17 @@
 [2026-10-21 03:53:32 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-21 03:53:33 PM] [HEALTH_BOT] [SUCCESS] Published: Health Rounds: Researchers find a possible trigger of some preterm births
 [2026-10-21 03:53:34 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1323 in / 546 out tokens
+[2026-10-21 03:53:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8dffe96064936a6e726da8861945
+[2026-10-21 03:53:34 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Opal Collector Uncovers Remarkable History of Rare Opalised Dinosaur V
+[2026-10-21 03:53:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8dffe96064936a6e726da8861945
+[2026-10-21 03:53:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 98/400 chars, resolved=True): Dinosaur fossils dug up in Utah reveal new species
+[2026-10-21 03:53:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 03:53:38 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 03:54:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 03:54:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-21 03:55:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-21 03:56:23 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-21 03:56:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 03:58:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 03:58:22 PM] [HISTORY_BOT] [SUCCESS] Published: Polis celebrates CO150, 'Bring Home our Brach' effort at airport
+[2026-10-21 03:58:23 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1486 in / 510 out tokens
