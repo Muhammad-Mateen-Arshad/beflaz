@@ -15633,3 +15633,20 @@
 [2026-10-21 04:20:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65c0eb0468b86bfbb05008bb02
 [2026-10-21 04:20:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Eating too much protein? The surprising risk experts warn could harm h
 [2026-10-21 04:20:45 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-21 04:20:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65ee86e47909aa3c9fa4e9af59
+[2026-10-21 04:20:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Opal Collector Uncovers Remarkable History of Rare Opalised Dinosaur V
+[2026-10-21 04:20:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65ee86e47909aa3c9fa4e9af59
+[2026-10-21 04:20:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 98/400 chars, resolved=True): Dinosaur fossils dug up in Utah reveal new species
+[2026-10-21 04:20:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65ee86e47909aa3c9fa4e9af59
+[2026-10-21 04:20:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): A fossil discovery in Peru introduced scientists to the predatory whal
+[2026-10-21 04:21:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 04:21:13 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 04:21:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 04:22:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-21 04:22:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-21 04:23:19 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 04:23:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 04:24:05 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-21 04:24:38 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 04:24:39 PM] [HISTORY_BOT] [SUCCESS] Published: Zimbabwe’s ancient riverbanks were hiding a 210-million-year-old dinosaur that doesn’t belong anywhere else on Earth
+[2026-10-21 04:24:40 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1391 in / 539 out tokens
