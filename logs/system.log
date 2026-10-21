@@ -15210,3 +15210,20 @@
 [2026-10-21 02:17:45 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-21 02:17:48 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-21 02:17:50 AM] [HEALTH_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-10-21 02:17:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad820cf997741ae849739a68aa5c69
+[2026-10-21 02:17:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Opal Collector Uncovers Remarkable History of Rare Opalised Dinosaur V
+[2026-10-21 02:17:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad820cf997741ae849739a68aa5c69
+[2026-10-21 02:17:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 98/400 chars, resolved=True): Dinosaur fossils dug up in Utah reveal new species
+[2026-10-21 02:17:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad820cf997741ae849739a68aa5c69
+[2026-10-21 02:17:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Fossils from Romania revealed a flying reptile from the dinosaur age
+[2026-10-21 02:17:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad820d065f046f09f83ec29c876782
+[2026-10-21 02:17:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-21 02:17:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad820d139b54feb955b33b0bf94395
+[2026-10-21 02:17:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-21 02:17:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad820d139b54feb955b33b0bf94395
+[2026-10-21 02:17:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-21 02:17:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad820d139b54feb955b33b0bf94395
+[2026-10-21 02:17:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Archaeologist debunks viral Noah’s Ark ruins in Lake Van
+[2026-10-21 02:17:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad820d139b54feb955b33b0bf94395
+[2026-10-21 02:17:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): 2,500-Year-Old Solar Observatory Identified in Mexico, First of Its Ki
+[2026-10-21 02:17:53 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
