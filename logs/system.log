@@ -15364,3 +15364,26 @@
 [2026-10-21 08:56:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-21 08:57:19 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz vows to strengthen Maldives ties for 'all time to come'; 20 MoUs signed
 [2026-10-21 08:57:20 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1539 in / 546 out tokens
+[2026-10-21 08:57:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad87e71a1ce4f6a9999d3cbc539aa6
+[2026-10-21 08:57:21 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-21 08:57:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad87e72642849819535f2c4e677ced
+[2026-10-21 08:57:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-21 08:57:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad87e72642849819535f2c4e677ced
+[2026-10-21 08:57:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
+[2026-10-21 08:57:24 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 08:57:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 08:57:39 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 08:57:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-21 08:58:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-21 08:58:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 08:59:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 09:00:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 09:00:58 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (149 words, need 150); too many 'not specified' (source too thin)): IBEX 35 opens lower with inflation and earnings in focus
+[2026-10-21 09:01:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 09:01:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 09:01:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 09:01:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-21 09:02:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-21 09:02:46 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): ‘We’ll be under someone else’s rule’: Former officer delivers terrifyi
+[2026-10-21 09:03:24 AM] [JOBS_BOT] [SUCCESS] Published: Illegal migration to Europe from Pakistan down 64pc, says Talal
+[2026-10-21 09:03:24 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3522 in / 1192 out tokens
