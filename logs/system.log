@@ -15789,3 +15789,6 @@
 [2026-10-21 10:52:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9422352d34968b164f31d09bf653
 [2026-10-21 10:52:19 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Prehistoric 'hell ant' found frozen inside amber fossil devouring its 
 [2026-10-21 10:52:19 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-10-21 11:29:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 11:29:54 PM] [NEWS_BOT] [SUCCESS] Published: Maldives president, CDF Munir stress importance of strengthening defence cooperation
+[2026-10-21 11:29:55 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1488 in / 530 out tokens
