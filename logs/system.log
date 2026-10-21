@@ -15665,3 +15665,16 @@
 [2026-10-21 07:33:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-21 07:33:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-21 07:34:17 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-21 07:34:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad913bb236f4949941aecb9df5c6df
+[2026-10-21 07:34:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-21 07:34:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad913bb236f4949941aecb9df5c6df
+[2026-10-21 07:34:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-21 07:34:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad913bb236f4949941aecb9df5c6df
+[2026-10-21 07:34:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
+[2026-10-21 07:34:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 07:34:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 07:34:38 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 07:34:40 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 07:35:09 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 07:35:11 PM] [JOBS_BOT] [SUCCESS] Published: Turkey prepares mandate to deploy military personnel to Saudi Arabia
+[2026-10-21 07:35:11 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 588 in / 372 out tokens
