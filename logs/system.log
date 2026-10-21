@@ -15756,3 +15756,19 @@
 [2026-10-21 10:51:25 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
 [2026-10-21 10:51:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: The Greg Sharpe Scholarship Game: Kansas State vs. Nebraska Men's Basketball
 [2026-10-21 10:51:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1010 in / 511 out tokens
+[2026-10-21 10:51:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-21 10:51:50 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-21 10:51:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad942075f494527bb2e0cdf986726d
+[2026-10-21 10:51:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-21 10:51:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad942075f494527bb2e0cdf986726d
+[2026-10-21 10:51:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 153/800 chars, resolved=True): Popular foods Americans eat every day linked to silent brain damage, a
+[2026-10-21 10:51:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad942075f494527bb2e0cdf986726d
+[2026-10-21 10:51:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-21 10:51:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad942075f494527bb2e0cdf986726d
+[2026-10-21 10:51:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): The Proponents of ‘Dark Nutrition’ Think Everything You Know About Foo
+[2026-10-21 10:51:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94208667e46959073a236525d8ab
+[2026-10-21 10:51:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-21 10:51:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94208667e46959073a236525d8ab
+[2026-10-21 10:51:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-21 10:52:15 PM] [HEALTH_BOT] [SUCCESS] Published: A Personal Trainer Shares Why Weightlifting Matters More as Women Get Older
+[2026-10-21 10:52:16 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1879 in / 538 out tokens
