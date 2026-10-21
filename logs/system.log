@@ -15157,3 +15157,17 @@
 [2026-10-20 11:37:06 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1426 in / 524 out tokens
 [2026-10-21 02:12:58 AM] [NEWS_BOT] [SUCCESS] Published: Main suspect accused of visa fraud in student's suicide case killed in firing by accomplices: police
 [2026-10-21 02:12:59 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1262 in / 567 out tokens
+[2026-10-21 02:13:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81fab909043c2ae7954dd3439970
+[2026-10-21 02:13:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-21 02:13:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81fac894a4402bec2f02d62b628e
+[2026-10-21 02:13:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Dollar dips as traders weigh Iran, AI risks
+[2026-10-21 02:13:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81fade78142d193d2e3ea748ce80
+[2026-10-21 02:13:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-21 02:13:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81fade78142d193d2e3ea748ce80
+[2026-10-21 02:13:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): District and Sessions Court Peshawar Jobs 2026 ETEA Online Apply for C
+[2026-10-21 02:13:04 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 02:13:12 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 02:13:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 02:13:42 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 02:14:12 AM] [JOBS_BOT] [SUCCESS] Published: Dow University orders salary recovery from 27 employees over fake degrees
+[2026-10-21 02:14:14 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 818 in / 491 out tokens
