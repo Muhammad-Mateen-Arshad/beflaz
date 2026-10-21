@@ -15772,3 +15772,20 @@
 [2026-10-21 10:51:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-21 10:52:15 PM] [HEALTH_BOT] [SUCCESS] Published: A Personal Trainer Shares Why Weightlifting Matters More as Women Get Older
 [2026-10-21 10:52:16 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1879 in / 538 out tokens
+[2026-10-21 10:52:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94220478b4aca8316c45b65ff197
+[2026-10-21 10:52:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): You can watch a 75-million-year-old dinosaur emerge from stone in Rale
+[2026-10-21 10:52:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94220478b4aca8316c45b65ff197
+[2026-10-21 10:52:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 102/400 chars, resolved=True): Large dinosaur being moved into downtown Raleigh's NC Museum of Natura
+[2026-10-21 10:52:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94220478b4aca8316c45b65ff197
+[2026-10-21 10:52:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Opal Collector Uncovers Remarkable History of Rare Opalised Dinosaur V
+[2026-10-21 10:52:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94221527947cab390fc600af39b0
+[2026-10-21 10:52:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-21 10:52:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94222ca5c4f878d9cd114ce1cd02
+[2026-10-21 10:52:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-21 10:52:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94222ca5c4f878d9cd114ce1cd02
+[2026-10-21 10:52:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Archaeologist debunks viral Noah’s Ark ruins in Lake Van
+[2026-10-21 10:52:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad94222ca5c4f878d9cd114ce1cd02
+[2026-10-21 10:52:19 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-21 10:52:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9422352d34968b164f31d09bf653
+[2026-10-21 10:52:19 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Prehistoric 'hell ant' found frozen inside amber fossil devouring its 
+[2026-10-21 10:52:19 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
