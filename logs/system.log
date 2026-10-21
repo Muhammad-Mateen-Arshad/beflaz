@@ -15259,3 +15259,7 @@
 [2026-10-21 03:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8322462cb49e48ebef97e32bf251
 [2026-10-21 03:31:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-21 03:31:48 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 6, 'thin': 6}
+[2026-10-21 03:31:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad83224151748ad880a0b158ee933d
+[2026-10-21 03:31:49 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Can Democratic mayors swing a red state? The Wake Up for Tuesday, Oct.
+[2026-10-21 03:32:20 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: AIOU Announces New Assignment Submission Rules
+[2026-10-21 03:32:21 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 690 in / 458 out tokens
