@@ -15428,3 +15428,8 @@
 [2026-10-21 09:05:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8805200d24937a2ff04a65c83d91
 [2026-10-21 09:05:22 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): This is the site of the oldest known dwelling in the Americas – dated 
 [2026-10-21 09:05:22 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-21 11:29:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 11:29:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 11:30:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 11:30:56 AM] [NEWS_BOT] [SUCCESS] Published: 10 killed, 44 injured as passenger bus overturns on highway in Punjab's Rajanpur
+[2026-10-21 11:30:57 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 701 in / 518 out tokens
