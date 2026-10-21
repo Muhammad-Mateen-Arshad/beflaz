@@ -15712,3 +15712,10 @@
 [2026-10-21 07:35:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91411ae5b42f78092620fb6c1bc9
 [2026-10-21 07:35:46 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Eating too much protein? The surprising risk experts warn could harm h
 [2026-10-21 07:35:46 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-21 07:35:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91412f6bd4ee88c7a4bfa71700ea
+[2026-10-21 07:35:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Opal Collector Uncovers Remarkable History of Rare Opalised Dinosaur V
+[2026-10-21 07:35:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91412f6bd4ee88c7a4bfa71700ea
+[2026-10-21 07:35:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): A fossil discovery in Peru introduced scientists to the predatory whal
+[2026-10-21 07:36:20 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 07:36:20 PM] [HISTORY_BOT] [SUCCESS] Published: Anthropology Students Enter the Real Jurassic Park
+[2026-10-21 07:36:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1518 in / 463 out tokens
