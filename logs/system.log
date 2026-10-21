@@ -15454,3 +15454,19 @@
 [2026-10-21 11:32:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
 [2026-10-21 11:33:31 AM] [JOBS_BOT] [SUCCESS] Published: Sindh raises SPSC exam age limit to 33
 [2026-10-21 11:33:32 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 857 in / 457 out tokens
+[2026-10-21 11:33:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a30cca3a46fa88dd8aa9b5feff2
+[2026-10-21 11:33:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-21 11:33:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a30cca3a46fa88dd8aa9b5feff2
+[2026-10-21 11:33:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-21 11:33:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a30df01848a991a3a63b404a2c5
+[2026-10-21 11:33:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 87/300 chars, resolved=True): Netflix's new 'Reacher' substitute series casts Jeff Daniels as a reve
+[2026-10-21 11:33:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 11:33:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 11:34:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 11:34:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-21 11:35:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-21 11:35:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 11:36:06 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 11:36:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 11:37:22 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix's Elite Thriller Series Officially Returns This Week After 3 Years
+[2026-10-21 11:37:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1253 in / 514 out tokens
