@@ -15486,3 +15486,20 @@
 [2026-10-21 11:41:14 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-21 11:41:15 AM] [HEALTH_BOT] [SUCCESS] Published: Virta Health Reports 37% Greater Weight Loss When GLP-1s are Paired with its AI-enabled Personalized Nutrition
 [2026-10-21 11:41:15 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1818 in / 492 out tokens
+[2026-10-21 11:41:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a4dc24454c2da2137c2f9bd6ff2
+[2026-10-21 11:41:16 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Opal Collector Uncovers Remarkable History of Rare Opalised Dinosaur V
+[2026-10-21 11:41:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a4dc24454c2da2137c2f9bd6ff2
+[2026-10-21 11:41:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 137/400 chars, resolved=True): Guide to Sugar Land, one of nation's best places to live
+[2026-10-21 11:41:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a4dc24454c2da2137c2f9bd6ff2
+[2026-10-21 11:41:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 98/400 chars, resolved=True): Dinosaur fossils dug up in Utah reveal new species
+[2026-10-21 11:41:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a4ddf21d4b9db2e08664d61f95e
+[2026-10-21 11:41:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-21 11:41:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a4dd839d4eefbb0292bfc91f8fa
+[2026-10-21 11:41:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-21 11:41:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a4dd839d4eefbb0292bfc91f8fa
+[2026-10-21 11:41:18 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-21 11:41:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a4dd839d4eefbb0292bfc91f8fa
+[2026-10-21 11:41:18 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Archaeologist debunks viral Noah’s Ark ruins in Lake Van
+[2026-10-21 11:41:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a4de40544b568061a621dfb6409
+[2026-10-21 11:41:18 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): This is the site of the oldest known dwelling in the Americas – dated 
+[2026-10-21 11:41:18 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
