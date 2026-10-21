@@ -15396,3 +15396,18 @@
 [2026-10-21 09:04:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 153/400 chars, resolved=True): AI productivity gains open new growth opportunities for developing eco
 [2026-10-21 09:05:14 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Daanish Schools Open Admissions for 2027
 [2026-10-21 09:05:15 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 706 in / 571 out tokens
+[2026-10-21 09:05:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-21 09:05:16 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-21 09:05:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8804c663847dab820834d7cadfe4
+[2026-10-21 09:05:17 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 187/800 chars, resolved=True): 9 signs your body is aging faster than you are
+[2026-10-21 09:05:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8804c663847dab820834d7cadfe4
+[2026-10-21 09:05:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): The role of nutrition in extending health span for senior pets
+[2026-10-21 09:05:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8804ebf2a40f3b65dc74ea8e6e46
+[2026-10-21 09:05:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-21 09:05:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8804ebf2a40f3b65dc74ea8e6e46
+[2026-10-21 09:05:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-21 09:05:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8804ebf2a40f3b65dc74ea8e6e46
+[2026-10-21 09:05:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 187/800 chars, resolved=True): 9 signs your body is aging faster than you are
+[2026-10-21 09:05:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8804ebf2a40f3b65dc74ea8e6e46
+[2026-10-21 09:05:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
+[2026-10-21 09:05:19 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
