@@ -15503,3 +15503,13 @@
 [2026-10-21 11:41:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a4de40544b568061a621dfb6409
 [2026-10-21 11:41:18 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): This is the site of the oldest known dwelling in the Americas – dated 
 [2026-10-21 11:41:18 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-21 03:29:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 03:29:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 03:30:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 03:30:22 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 03:30:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-21 03:31:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-21 03:32:33 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 03:32:49 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 03:32:49 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan, Qatar, Turkiye and Indonesia sign 'Badr' defence cooperation pact
+[2026-10-21 03:32:50 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1139 in / 441 out tokens
