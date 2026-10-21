@@ -15390,3 +15390,9 @@
 [2026-10-21 09:03:47 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-21 09:04:26 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Pulitzer on the Road’: Informing, empowering and inspiring new generations of journalists and creatives
 [2026-10-21 09:04:27 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1282 in / 514 out tokens
+[2026-10-21 09:04:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8801ceac042faa572ed91a4e3c21
+[2026-10-21 09:04:28 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
+[2026-10-21 09:04:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8801ceac042faa572ed91a4e3c21
+[2026-10-21 09:04:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 153/400 chars, resolved=True): AI productivity gains open new growth opportunities for developing eco
+[2026-10-21 09:05:14 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Daanish Schools Open Admissions for 2027
+[2026-10-21 09:05:15 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 706 in / 571 out tokens
