@@ -15361,3 +15361,6 @@
 [2026-10-21 07:34:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New T Rex relative blurs evolutionary lineage boundaries
 [2026-10-21 07:35:15 AM] [HISTORY_BOT] [SUCCESS] Published: Analysis: New long‑clawed British dinosaur is the first of its kind in Europe
 [2026-10-21 07:35:16 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1497 in / 545 out tokens
+[2026-10-21 08:56:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 08:57:19 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz vows to strengthen Maldives ties for 'all time to come'; 20 MoUs signed
+[2026-10-21 08:57:20 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1539 in / 546 out tokens
