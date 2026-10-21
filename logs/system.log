@@ -15738,3 +15738,17 @@
 [2026-10-21 10:51:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941e88a004e15825ecc85d297dd7
 [2026-10-21 10:51:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan, Maldives sign 20 MoUs, set $200m trade target within two yea
 [2026-10-21 10:51:21 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
+[2026-10-21 10:51:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941eaa7f646eaaa681af3014ae46
+[2026-10-21 10:51:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-21 10:51:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941eaa7f646eaaa681af3014ae46
+[2026-10-21 10:51:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-21 10:51:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941eaa5bc401dbd0c339b55ccbc1
+[2026-10-21 10:51:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 98/300 chars, resolved=True): Jon Gosselin to Speak Out in New Netflix Documentary About Family’s ‘C
+[2026-10-21 10:51:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941eaa5bc401dbd0c339b55ccbc1
+[2026-10-21 10:51:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 78/300 chars, resolved=True): Jon Gosselin filming Netflix documentary about the family with kids Co
+[2026-10-21 10:51:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941eaa5bc401dbd0c339b55ccbc1
+[2026-10-21 10:51:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): Netflix docuseries will delve into ‘wide deceiver’ accused of defraudi
+[2026-10-21 10:51:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941eb18c04888a0186b74a27e412
+[2026-10-21 10:51:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-21 10:51:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): New English Web Series List (2026)
+[2026-10-21 10:51:25 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 7, 'thin': 7}
