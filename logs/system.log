@@ -15227,3 +15227,8 @@
 [2026-10-21 02:17:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad820d139b54feb955b33b0bf94395
 [2026-10-21 02:17:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): 2,500-Year-Old Solar Observatory Identified in Mexico, First of Its Ki
 [2026-10-21 02:17:53 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-21 03:29:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 03:29:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 03:29:51 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 03:30:17 AM] [NEWS_BOT] [SUCCESS] Published: Makkah alliance binds partners to decade-long pact
+[2026-10-21 03:30:18 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1494 in / 482 out tokens
