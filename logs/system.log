@@ -15513,3 +15513,16 @@
 [2026-10-21 03:32:49 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-21 03:32:49 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan, Qatar, Turkiye and Indonesia sign 'Badr' defence cooperation pact
 [2026-10-21 03:32:50 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1139 in / 441 out tokens
+[2026-10-21 03:32:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8db23fddc4769af012d48d13773a
+[2026-10-21 03:32:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-21 03:32:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8db23fddc4769af012d48d13773a
+[2026-10-21 03:32:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
+[2026-10-21 03:32:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 03:32:54 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 03:33:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 03:34:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-21 03:34:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-21 03:36:12 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 03:36:28 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 03:36:28 PM] [JOBS_BOT] [SUCCESS] Published: Moldova negotiates with Ukraine for natural gas supplies and more favorable contracts
+[2026-10-21 03:36:29 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 863 in / 442 out tokens
