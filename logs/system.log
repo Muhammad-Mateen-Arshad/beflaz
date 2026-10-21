@@ -15618,3 +15618,18 @@
 [2026-10-21 04:20:41 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-21 04:20:41 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Art History Scholarships in Canada With CAD $40,000 Per Year
 [2026-10-21 04:20:42 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1414 in / 588 out tokens
+[2026-10-21 04:20:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-21 04:20:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-21 04:20:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65b82cc4c54a894564c0b0b4a1
+[2026-10-21 04:20:44 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-21 04:20:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65b82cc4c54a894564c0b0b4a1
+[2026-10-21 04:20:44 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Roadkill, Meat Cereal and Raw Chicken: Inside the World of ‘Dark Nutri
+[2026-10-21 04:20:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65c0eb0468b86bfbb05008bb02
+[2026-10-21 04:20:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-21 04:20:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65c0eb0468b86bfbb05008bb02
+[2026-10-21 04:20:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-21 04:20:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65c0eb0468b86bfbb05008bb02
+[2026-10-21 04:20:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): In adults over 70, more cellular recycling was tied to weaker grip and
+[2026-10-21 04:20:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8e65c0eb0468b86bfbb05008bb02
+[2026-10-21 04:20:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Eating too much protein? The surprising risk experts warn could harm h
+[2026-10-21 04:20:45 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
