@@ -15721,3 +15721,20 @@
 [2026-10-21 07:36:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1518 in / 463 out tokens
 [2026-10-21 10:51:16 PM] [NEWS_BOT] [SUCCESS] Published: Govt reduces petrol price by Rs2.71 per litre, ups high-speed diesel rate by Re0.31
 [2026-10-21 10:51:18 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 910 in / 592 out tokens
+[2026-10-21 10:51:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941e628894bf28a1645776c4868f
+[2026-10-21 10:51:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-21 10:51:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941e628894bf28a1645776c4868f
+[2026-10-21 10:51:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-21 10:51:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941e628894bf28a1645776c4868f
+[2026-10-21 10:51:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
+[2026-10-21 10:51:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941e713c646f3996b8184e3c0b8f
+[2026-10-21 10:51:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-21 10:51:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941e8f4bb48e6a3225e8c836c61d
+[2026-10-21 10:51:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-21 10:51:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941e88a004e15825ecc85d297dd7
+[2026-10-21 10:51:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-21 10:51:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941e88a004e15825ecc85d297dd7
+[2026-10-21 10:51:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): District and Sessions Court Peshawar Jobs 2026 ETEA Online Apply for C
+[2026-10-21 10:51:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad941e88a004e15825ecc85d297dd7
+[2026-10-21 10:51:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan, Maldives sign 20 MoUs, set $200m trade target within two yea
+[2026-10-21 10:51:21 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
