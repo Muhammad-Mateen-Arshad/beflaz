@@ -15690,3 +15690,8 @@
 [2026-10-21 07:35:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-21 07:35:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): New English Web Series List (2026)
 [2026-10-21 07:35:15 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 6, 'thin': 6}
+[2026-10-21 07:35:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad913f382124f6ea336eb966e122cb
+[2026-10-21 07:35:16 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
+[2026-10-21 07:35:41 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 07:35:41 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: With another loss of 8,000 students from public schools, officials examine why
+[2026-10-21 07:35:43 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1575 in / 308 out tokens
