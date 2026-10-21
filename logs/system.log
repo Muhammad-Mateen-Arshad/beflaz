@@ -15320,3 +15320,15 @@
 [2026-10-21 07:33:08 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (147 words, need 150); too many 'not specified' (source too thin)): Dollar on back foot as US yields, crude prices dip; Aussie buoyed by h
 [2026-10-21 07:33:08 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2755 in / 589 out tokens
 [2026-10-21 07:33:08 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 6, 'already_seen': 2, 'rejected': 2}
+[2026-10-21 07:33:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86ab5326e44c686f6b8224239322
+[2026-10-21 07:33:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-21 07:33:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86ab5326e44c686f6b8224239322
+[2026-10-21 07:33:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-21 07:33:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86ab5326e44c686f6b8224239322
+[2026-10-21 07:33:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 38/300 chars, resolved=True): The original dream girl: Hema Malini
+[2026-10-21 07:33:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86ab637454c719a97e7683037127
+[2026-10-21 07:33:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 87/300 chars, resolved=True): Netflix's new 'Reacher' substitute series casts Jeff Daniels as a reve
+[2026-10-21 07:33:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 07:33:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 07:34:00 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Lupin’ Season 4 Release Date, Schedule, Cast, Trailer and Plot Details
+[2026-10-21 07:34:01 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1207 in / 502 out tokens
