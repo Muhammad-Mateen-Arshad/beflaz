@@ -15678,3 +15678,15 @@
 [2026-10-21 07:35:09 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-21 07:35:11 PM] [JOBS_BOT] [SUCCESS] Published: Turkey prepares mandate to deploy military personnel to Saudi Arabia
 [2026-10-21 07:35:11 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 588 in / 372 out tokens
+[2026-10-21 07:35:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad913f0dfb9427ebba0b4941f6a7d3
+[2026-10-21 07:35:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-21 07:35:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad913f0dfb9427ebba0b4941f6a7d3
+[2026-10-21 07:35:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-21 07:35:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad913f1facc457d9a1d74fcd44026f
+[2026-10-21 07:35:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 98/300 chars, resolved=True): Jon Gosselin to Speak Out in New Netflix Documentary About Family’s ‘C
+[2026-10-21 07:35:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad913f1facc457d9a1d74fcd44026f
+[2026-10-21 07:35:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 138/300 chars, resolved=True): Netflix's "House Meets The Pitt" Series Is So Good, Seasons 2 & 3 Are 
+[2026-10-21 07:35:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad913f1d0624a61b7141ce31c8ed3f
+[2026-10-21 07:35:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-21 07:35:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): New English Web Series List (2026)
+[2026-10-21 07:35:15 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 6, 'thin': 6}
