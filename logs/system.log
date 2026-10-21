@@ -15433,3 +15433,24 @@
 [2026-10-21 11:30:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-21 11:30:56 AM] [NEWS_BOT] [SUCCESS] Published: 10 killed, 44 injured as passenger bus overturns on highway in Punjab's Rajanpur
 [2026-10-21 11:30:57 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 701 in / 518 out tokens
+[2026-10-21 11:30:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a2713c924fbd896783fb8840987
+[2026-10-21 11:30:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-21 11:30:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a2713c924fbd896783fb8840987
+[2026-10-21 11:30:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): Pakistan's Khawaja Asif raises alarm over bureaucrats' exodus to Portu
+[2026-10-21 11:30:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a2713c924fbd896783fb8840987
+[2026-10-21 11:30:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-21 11:30:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a2713c924fbd896783fb8840987
+[2026-10-21 11:30:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
+[2026-10-21 11:30:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a2713c924fbd896783fb8840987
+[2026-10-21 11:30:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): Khawaja Asif flags Pakistan bureaucrats' alleged overseas exodus, ques
+[2026-10-21 11:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a27268804a908411584890a4fba
+[2026-10-21 11:30:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-21 11:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8a27268804a908411584890a4fba
+[2026-10-21 11:30:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): District and Sessions Court Peshawar Jobs 2026 ETEA Online Apply for C
+[2026-10-21 11:31:02 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 11:31:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-21 11:31:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-21 11:31:55 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-21 11:32:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-21 11:33:31 AM] [JOBS_BOT] [SUCCESS] Published: Sindh raises SPSC exam age limit to 33
+[2026-10-21 11:33:32 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 857 in / 457 out tokens
