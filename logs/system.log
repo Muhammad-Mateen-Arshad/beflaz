@@ -15387,3 +15387,6 @@
 [2026-10-21 09:02:46 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): ‘We’ll be under someone else’s rule’: Former officer delivers terrifyi
 [2026-10-21 09:03:24 AM] [JOBS_BOT] [SUCCESS] Published: Illegal migration to Europe from Pakistan down 64pc, says Talal
 [2026-10-21 09:03:24 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3522 in / 1192 out tokens
+[2026-10-21 09:03:47 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 09:04:26 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Pulitzer on the Road’: Informing, empowering and inspiring new generations of journalists and creatives
+[2026-10-21 09:04:27 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1282 in / 514 out tokens
