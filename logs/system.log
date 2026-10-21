@@ -15171,3 +15171,17 @@
 [2026-10-21 02:13:42 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-21 02:14:12 AM] [JOBS_BOT] [SUCCESS] Published: Dow University orders salary recovery from 27 employees over fake degrees
 [2026-10-21 02:14:14 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 818 in / 491 out tokens
+[2026-10-21 02:14:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-21 02:14:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81ff8b74f4d9084b42e0ba33f02c
+[2026-10-21 02:14:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-21 02:14:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81ff8b74f4d9084b42e0ba33f02c
+[2026-10-21 02:14:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-21 02:14:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81ff8bf32426e8b7f2e28ff346a3
+[2026-10-21 02:14:17 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 87/300 chars, resolved=True): Netflix's new 'Reacher' substitute series casts Jeff Daniels as a reve
+[2026-10-21 02:14:18 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-21 02:14:20 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-21 02:14:22 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-21 02:14:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-21 02:14:52 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-21 02:15:19 AM] [DRAMAS_BOT] [SUCCESS] Published: Cyberpunk 2077 To Receive New Update To Coincide With Release Of Netflix’s Cyberpunk Edgerunners 2
+[2026-10-21 02:15:21 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 681 in / 499 out tokens
