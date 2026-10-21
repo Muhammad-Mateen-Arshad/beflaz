@@ -15332,3 +15332,9 @@
 [2026-10-21 07:33:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-21 07:34:00 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Lupin’ Season 4 Release Date, Schedule, Cast, Trailer and Plot Details
 [2026-10-21 07:34:01 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1207 in / 502 out tokens
+[2026-10-21 07:34:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad86ae970f74a50a52965ffc3141af
+[2026-10-21 07:34:01 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
+[2026-10-21 07:34:07 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-21 07:34:49 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-21 07:34:49 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: NMU focuses on affordability
+[2026-10-21 07:34:51 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1351 in / 568 out tokens
