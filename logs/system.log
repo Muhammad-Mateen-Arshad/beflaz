@@ -16176,3 +16176,19 @@
 [2026-10-22 11:36:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f53974a647c2b47f8891104bb7f
 [2026-10-22 11:36:27 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-22 11:36:27 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-10-22 11:36:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f53b93614b358dd4ee6cf708b8e
+[2026-10-22 11:36:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 98/400 chars, resolved=True): Tourist’s photo leads to discovery of 120-million-year-old dinosaur fo
+[2026-10-22 11:36:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f53b93614b358dd4ee6cf708b8e
+[2026-10-22 11:36:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): You can watch a 75-million-year-old dinosaur emerge from stone in Rale
+[2026-10-22 11:36:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f53cdd1849359ecc70926ad6630
+[2026-10-22 11:36:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-22 11:36:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f53c1e214a42937d37489426612
+[2026-10-22 11:36:29 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-22 11:36:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f53c1e214a42937d37489426612
+[2026-10-22 11:36:29 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-22 11:36:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f53d0780433f92bdacd8eb5b534
+[2026-10-22 11:36:29 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Prehistoric 'hell ant' found frozen inside amber fossil devouring its 
+[2026-10-22 11:36:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 11:37:01 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 11:37:02 AM] [HISTORY_BOT] [SUCCESS] Published: 0 to 15 MPH in a Single Swipe: New Research Reveals How Ancient Giant Sea Monsters Ambushed Their Prey
+[2026-10-22 11:37:03 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1119 in / 476 out tokens
