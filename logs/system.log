@@ -16310,3 +16310,17 @@
 [2026-10-22 04:11:41 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 04:11:42 PM] [JOBS_BOT] [SUCCESS] Published: Jobs for Agniveers : Ensure timely, dignified transition
 [2026-10-22 04:11:42 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 738 in / 371 out tokens
+[2026-10-22 04:11:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35bf8aba400984c6cbed9db9f85
+[2026-10-22 04:11:44 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-22 04:11:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 287/300 chars, resolved=True): Real Madrid star Thibaut Courtois reveals savage WhatsApp group exit a
+[2026-10-22 04:11:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35bf8aba400984c6cbed9db9f85
+[2026-10-22 04:11:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-22 04:11:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35c1a6ab4f078e571c04273c4a4
+[2026-10-22 04:11:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 98/300 chars, resolved=True): Jon Gosselin to Speak Out in New Netflix Documentary About Family’s ‘C
+[2026-10-22 04:11:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35c1a6ab4f078e571c04273c4a4
+[2026-10-22 04:11:46 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 100/300 chars, resolved=True): The new Grantchester: 7 beyond brilliant mystery series coming to ITV,
+[2026-10-22 04:11:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35c1a6ab4f078e571c04273c4a4
+[2026-10-22 04:11:46 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 47/300 chars, resolved=True): In just 1 day, 4-season horror hit turns into Netflix streaming sensat
+[2026-10-22 04:11:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35c250b343f499e8fbc43e9a30b
+[2026-10-22 04:11:46 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-22 04:11:46 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
