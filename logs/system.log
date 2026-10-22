@@ -16324,3 +16324,15 @@
 [2026-10-22 04:11:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35c250b343f499e8fbc43e9a30b
 [2026-10-22 04:11:46 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-22 04:11:46 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
+[2026-10-22 04:11:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35c39bdb45478f2d9fd0c93cbf8
+[2026-10-22 04:11:47 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Oxford Centre for Islamic Studies Offers Up to Five Fully Funded Schol
+[2026-10-22 04:11:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35c39bdb45478f2d9fd0c93cbf8
+[2026-10-22 04:11:47 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Project Jupiter is an investment in New Mexico’s future
+[2026-10-22 04:11:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35c31c0543a0aae223af0497d6a
+[2026-10-22 04:11:48 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Pakistan, Maldives target $200m bilateral trade within two years
+[2026-10-22 04:11:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35c31c0543a0aae223af0497d6a
+[2026-10-22 04:11:49 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Pakistan, Maldives agree to boost bilateral trade to $200m in two year
+[2026-10-22 04:11:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 04:12:16 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 04:12:17 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Growing cooperation between Pakistan-South Korea
+[2026-10-22 04:12:18 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1312 in / 358 out tokens
