@@ -16192,3 +16192,18 @@
 [2026-10-22 11:37:01 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 11:37:02 AM] [HISTORY_BOT] [SUCCESS] Published: 0 to 15 MPH in a Single Swipe: New Research Reveals How Ancient Giant Sea Monsters Ambushed Their Prey
 [2026-10-22 11:37:03 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1119 in / 476 out tokens
+[2026-10-22 03:29:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 03:29:37 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 03:29:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-22 03:29:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 03:30:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 03:30:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:31:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:31:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:32:13 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 03:32:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:32:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:33:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:33:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:34:17 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:34:47 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
