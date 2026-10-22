@@ -16152,3 +16152,10 @@
 [2026-10-22 11:35:33 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 11:35:34 AM] [DRAMAS_BOT] [SUCCESS] Published: 'Lupin' Part 4: What new mystery is Omar Sy bringing as Netflix heist series returns on October 23?
 [2026-10-22 11:35:35 AM] [DRAMAS_BOT] [INFO] AI usage: 2 calls, 1616 in / 752 out tokens
+[2026-10-22 11:35:37 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 11:35:49 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (128 words, need 150)): Speaker Oboth Moves to Revive Stalled Uganda – Iran Deals
+[2026-10-22 11:35:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f508708349d984e312642d43c1a
+[2026-10-22 11:35:49 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Nigerian universities not doing enough to solve national problems — Ex
+[2026-10-22 11:36:21 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 11:36:22 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Mechanical Engineering Scholarships in Canada With CAD $40,000 Per Year
+[2026-10-22 11:36:23 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2696 in / 959 out tokens
