@@ -16258,3 +16258,24 @@
 [2026-10-22 03:40:29 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 03:40:30 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 19th Chief of CNS Amateur Golf Championship: Over 300 golfers may participate
 [2026-10-22 03:40:31 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 940 in / 473 out tokens
+[2026-10-22 03:40:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-22 03:40:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-22 03:40:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2e716b59438fa45c7cc8817d6e4
+[2026-10-22 03:40:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-22 03:40:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2e716b59438fa45c7cc8817d6e4
+[2026-10-22 03:40:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 122/800 chars, resolved=True): This is what happens to your body when you go on a hike
+[2026-10-22 03:40:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2e716b59438fa45c7cc8817d6e4
+[2026-10-22 03:40:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-22 03:40:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 03:40:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-22 03:40:47 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 03:40:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 03:41:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 03:41:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:42:10 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:42:40 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-22 03:42:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:43:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:44:15 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 03:44:16 PM] [HEALTH_BOT] [SUCCESS] Published: Lee Labrada Explains Why Building and Maintaining Muscle Is Essential to Healthy Aging
+[2026-10-22 03:44:17 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1264 in / 489 out tokens
