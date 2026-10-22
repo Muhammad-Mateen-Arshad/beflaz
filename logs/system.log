@@ -16403,3 +16403,17 @@
 [2026-10-22 07:35:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 348/400 chars, resolved=True): How the Mecca Defense Agreement between Turkey, Pakistan and Saudi Ara
 [2026-10-22 07:35:49 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2681 in / 1035 out tokens
 [2026-10-22 07:35:49 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'rejected': 2, 'thin': 6}
+[2026-10-22 07:35:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-22 07:35:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada65964d684e2cbc18bb7383b6aec
+[2026-10-22 07:35:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-22 07:35:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada65964d684e2cbc18bb7383b6aec
+[2026-10-22 07:35:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-22 07:35:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada65979fb44ae6ba35ec8b94673de
+[2026-10-22 07:35:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): If you use Netflix, you can soon stream Hoichoi's content in Hindi, Ta
+[2026-10-22 07:35:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada65979fb44ae6ba35ec8b94673de
+[2026-10-22 07:35:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 100/300 chars, resolved=True): The new Grantchester: 7 beyond brilliant mystery series coming to ITV,
+[2026-10-22 07:35:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada65979fb44ae6ba35ec8b94673de
+[2026-10-22 07:35:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 157/300 chars, resolved=True): ‘MobLand’ Season 2, Episode 6 Release Time And Preview: Harry And Maev
+[2026-10-22 07:35:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada659750f34986bba9b5aadcc63a4
+[2026-10-22 07:35:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-22 07:35:52 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
