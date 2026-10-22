@@ -15897,3 +15897,7 @@
 [2026-10-22 02:07:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-22 02:08:12 AM] [DRAMAS_BOT] [SUCCESS] Published: Now Playing In Egypt Cinemas
 [2026-10-22 02:08:13 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1735 in / 521 out tokens
+[2026-10-22 02:08:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9700d59004f4fa9a0a34c5d6a7bc
+[2026-10-22 02:08:14 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
+[2026-10-22 02:08:40 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: What does Maryland stand to lose from federal scholarship program? | GUEST COMMENTARY
+[2026-10-22 02:08:41 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1358 in / 481 out tokens
