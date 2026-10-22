@@ -16118,3 +16118,19 @@
 [2026-10-22 11:34:14 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 11:34:14 AM] [NEWS_BOT] [SUCCESS] Published: PM vows to bring back progress to KP, assails PTI's 'callousness' during its tenures
 [2026-10-22 11:34:15 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1512 in / 473 out tokens
+[2026-10-22 11:34:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4b8a1c84337bf4e4f96c447c06
+[2026-10-22 11:34:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-22 11:34:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4b9f6034193b929f32090963d3
+[2026-10-22 11:34:18 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan defence minister Khawaja Asif flags top bureaucrats' secret o
+[2026-10-22 11:34:19 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 370/400 chars, resolved=True): How the Mecca Defense Agreement between Turkey, Pakistan and Saudi Ara
+[2026-10-22 11:34:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4bb0dfa41ca90e467b2e02bbbf
+[2026-10-22 11:34:20 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Cost of Mohmand Dam Hydropower Project escalates by 115pc to Rs665b
+[2026-10-22 11:34:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4bc653746b3be08c065f768fe1
+[2026-10-22 11:34:20 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): DEA issues directives to ensure 100pc teachers attendance
+[2026-10-22 11:34:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4bc653746b3be08c065f768fe1
+[2026-10-22 11:34:20 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): CM Murad orders security, infrastructure reforms at KFH
+[2026-10-22 11:34:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4bc69e346178e085e9c1034fc0
+[2026-10-22 11:34:21 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-22 11:34:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4bc69e346178e085e9c1034fc0
+[2026-10-22 11:34:21 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan, Maldives sign 20 MoUs, set $200m trade target within two yea
+[2026-10-22 11:34:22 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
