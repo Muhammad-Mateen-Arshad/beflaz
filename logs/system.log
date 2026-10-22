@@ -16417,3 +16417,26 @@
 [2026-10-22 07:35:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada659750f34986bba9b5aadcc63a4
 [2026-10-22 07:35:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-22 07:35:52 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
+[2026-10-22 07:35:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada6598e9d9401ca9b0721a4ae2420
+[2026-10-22 07:35:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Oxford Centre for Islamic Studies Offers Up to Five Fully Funded Schol
+[2026-10-22 07:35:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada6598e9d9401ca9b0721a4ae2420
+[2026-10-22 07:35:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 134/400 chars, resolved=True): Guide to JCPS school board candidates running in 2026 election
+[2026-10-22 07:35:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada6598e9d9401ca9b0721a4ae2420
+[2026-10-22 07:35:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Project Jupiter is an investment in New Mexico’s future
+[2026-10-22 07:35:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada65990ad74635b3308fe4c88be4b
+[2026-10-22 07:35:54 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Pakistan, Maldives agree to boost bilateral trade to $200m in two year
+[2026-10-22 07:35:58 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 07:36:00 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 07:36:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-22 07:36:18 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-22 07:36:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 07:36:53 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (124 words, need 150)): TV clash between Bruno Vespa and Sabrina Brizzola: "When you speak, yo
+[2026-10-22 07:36:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 07:37:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-22 07:37:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-22 07:37:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 07:37:57 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (101 words, need 150)): 5,000 scholarships for Balochistan, ex-FATA students
+[2026-10-22 07:37:57 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-10-22 07:38:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-22 07:38:50 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC LAT Result Announced
+[2026-10-22 07:38:51 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 3 calls, 4518 in / 961 out tokens
