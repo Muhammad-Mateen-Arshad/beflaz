@@ -16134,3 +16134,21 @@
 [2026-10-22 11:34:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4bc69e346178e085e9c1034fc0
 [2026-10-22 11:34:21 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan, Maldives sign 20 MoUs, set $200m trade target within two yea
 [2026-10-22 11:34:22 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-22 11:34:23 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-22 11:34:34 AM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (82 words, need 150)): Barcelona adviser takes aim at Real Madrid manager ahead of El Clasico
+[2026-10-22 11:34:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4bf6f734d95b4efb2b81f08c87
+[2026-10-22 11:34:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-22 11:34:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4bf6f734d95b4efb2b81f08c87
+[2026-10-22 11:34:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-22 11:34:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4ca16134eeea7664477c396032
+[2026-10-22 11:34:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 98/300 chars, resolved=True): Jon Gosselin to Speak Out in New Netflix Documentary About Family’s ‘C
+[2026-10-22 11:34:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4ca16134eeea7664477c396032
+[2026-10-22 11:34:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): If you use Netflix, you can soon stream Hoichoi's content in Hindi, Ta
+[2026-10-22 11:34:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f4ca16134eeea7664477c396032
+[2026-10-22 11:34:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 47/300 chars, resolved=True): In just 1 day, 4-season horror hit turns into Netflix streaming sensat
+[2026-10-22 11:34:36 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 11:34:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-22 11:35:18 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 11:35:33 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 11:35:34 AM] [DRAMAS_BOT] [SUCCESS] Published: 'Lupin' Part 4: What new mystery is Omar Sy bringing as Netflix heist series returns on October 23?
+[2026-10-22 11:35:35 AM] [DRAMAS_BOT] [INFO] AI usage: 2 calls, 1616 in / 752 out tokens
