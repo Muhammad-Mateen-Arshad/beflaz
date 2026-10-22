@@ -16244,3 +16244,17 @@
 [2026-10-22 03:37:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 03:37:22 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Is Reopening the Complicated History of ‘Jon & Kate Plus 8’
 [2026-10-22 03:37:23 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 757 in / 490 out tokens
+[2026-10-22 03:37:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2db3749142ddbc359d973690efa
+[2026-10-22 03:37:24 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Oxford Centre for Islamic Studies Offers Up to Five Fully Funded Schol
+[2026-10-22 03:37:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2db3749142ddbc359d973690efa
+[2026-10-22 03:37:24 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Project Jupiter is an investment in New Mexico’s future
+[2026-10-22 03:37:31 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 03:37:33 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 03:37:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-22 03:37:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 03:38:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 03:38:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:39:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:40:29 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 03:40:30 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 19th Chief of CNS Amateur Golf Championship: Over 300 golfers may participate
+[2026-10-22 03:40:31 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 940 in / 473 out tokens
