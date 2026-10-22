@@ -16223,3 +16223,24 @@
 [2026-10-22 03:34:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d1d10e9474d8f81a4c1c87a0f6
 [2026-10-22 03:34:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): DEA issues directives to ensure 100pc teachers attendance
 [2026-10-22 03:34:54 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-10-22 03:34:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-22 03:34:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 287/300 chars, resolved=True): Real Madrid star Thibaut Courtois reveals savage WhatsApp group exit a
+[2026-10-22 03:34:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d201c1a439995fa8675bd1b66f
+[2026-10-22 03:34:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-22 03:34:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d201c1a439995fa8675bd1b66f
+[2026-10-22 03:34:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-22 03:34:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d21810f42fcb89f222f3c1e8ec
+[2026-10-22 03:34:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 98/300 chars, resolved=True): Jon Gosselin to Speak Out in New Netflix Documentary About Family’s ‘C
+[2026-10-22 03:34:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d21810f42fcb89f222f3c1e8ec
+[2026-10-22 03:34:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 100/300 chars, resolved=True): The new Grantchester: 7 beyond brilliant mystery series coming to ITV,
+[2026-10-22 03:34:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d21810f42fcb89f222f3c1e8ec
+[2026-10-22 03:34:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 47/300 chars, resolved=True): In just 1 day, 4-season horror hit turns into Netflix streaming sensat
+[2026-10-22 03:34:59 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 03:35:01 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 03:35:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-22 03:35:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 03:35:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 03:36:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:37:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 03:37:22 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Is Reopening the Complicated History of ‘Jon & Kate Plus 8’
+[2026-10-22 03:37:23 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 757 in / 490 out tokens
