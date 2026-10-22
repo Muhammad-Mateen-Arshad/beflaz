@@ -15984,3 +15984,19 @@
 [2026-10-22 03:31:58 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1322 in / 490 out tokens
 [2026-10-22 07:30:02 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz reaches Peshawar in first visit after imposition of governor's rule
 [2026-10-22 07:30:03 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 985 in / 435 out tokens
+[2026-10-22 07:30:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bb7c9a50469187db5110e468323
+[2026-10-22 07:30:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-22 07:30:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bb7c9a50469187db5110e468323
+[2026-10-22 07:30:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-22 07:30:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bb7deeea48a8afc0b8d2259e63d
+[2026-10-22 07:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-22 07:30:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bb7deeea48a8afc0b8d2259e63d
+[2026-10-22 07:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-22 07:30:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bb7deeea48a8afc0b8d2259e63d
+[2026-10-22 07:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): Pakistan's Khawaja Asif raises alarm over bureaucrats' exodus to Portu
+[2026-10-22 07:30:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 07:30:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-22 07:30:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-22 07:30:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 07:31:32 AM] [JOBS_BOT] [SUCCESS] Published: Four Nations Launch Badr Defense Pact Without Mutual-Defense Commitment
+[2026-10-22 07:31:32 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1352 in / 483 out tokens
