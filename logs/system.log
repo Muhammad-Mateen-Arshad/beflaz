@@ -16351,3 +16351,20 @@
 [2026-10-22 04:12:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e52a3b48ac87ee952fd3fc9ba
 [2026-10-22 04:12:22 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-22 04:12:22 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-22 04:12:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e6985e4748aab5cf9318d46ba
+[2026-10-22 04:12:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): You can watch a 75-million-year-old dinosaur emerge from stone in Rale
+[2026-10-22 04:12:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e6985e4748aab5cf9318d46ba
+[2026-10-22 04:12:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Tourist shares photo of strange marks, experts confirm 120-million-yea
+[2026-10-22 04:12:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e6985e4748aab5cf9318d46ba
+[2026-10-22 04:12:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 98/400 chars, resolved=True): Tourist’s photo leads to discovery of 120-million-year-old dinosaur fo
+[2026-10-22 04:12:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e7784747379bebfbeb7ab13ac
+[2026-10-22 04:12:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-22 04:12:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e80f794169951370201b33b07
+[2026-10-22 04:12:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-22 04:12:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e80f794169951370201b33b07
+[2026-10-22 04:12:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-22 04:12:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e9c2364da5a3a1cc13f74c264
+[2026-10-22 04:12:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Prehistoric 'hell ant' found frozen inside amber fossil devouring its 
+[2026-10-22 04:12:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e9c2364da5a3a1cc13f74c264
+[2026-10-22 04:12:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): How one of Earth's worst volcanic disasters affected societies in preh
+[2026-10-22 04:12:25 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
