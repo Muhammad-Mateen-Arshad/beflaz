@@ -16037,3 +16037,12 @@
 [2026-10-22 07:32:24 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-22 07:32:53 AM] [HEALTH_BOT] [SUCCESS] Published: Elder-care researcher reveals 6 powerful clues older adults will live a long life
 [2026-10-22 07:32:54 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1273 in / 567 out tokens
+[2026-10-22 07:32:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bc27170c4addb49ad77993aa464
+[2026-10-22 07:32:55 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 98/400 chars, resolved=True): Tourist’s photo leads to discovery of 120-million-year-old dinosaur fo
+[2026-10-22 07:32:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bc27170c4addb49ad77993aa464
+[2026-10-22 07:32:55 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): You can watch a 75-million-year-old dinosaur emerge from stone in Rale
+[2026-10-22 07:32:58 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 07:33:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-22 07:33:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-22 07:34:24 AM] [HISTORY_BOT] [SUCCESS] Published: Fossil footprints span 12 Thai provinces with a 120-million-year-old trail in Udon Thani
+[2026-10-22 07:34:25 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1540 in / 557 out tokens
