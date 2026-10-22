@@ -16383,3 +16383,23 @@
 [2026-10-22 07:33:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-22 07:33:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-22 07:34:24 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-22 07:34:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 07:34:32 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 07:34:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-22 07:34:54 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-22 07:34:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 07:35:34 PM] [JOBS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 1000000): Developing nations explore new growth avenues through AI productivity 
+[2026-10-22 07:35:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada6543b759424bae44d388a9cf741
+[2026-10-22 07:35:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-22 07:35:47 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): KP’s road to peace & reconciliation
+[2026-10-22 07:35:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada6543b759424bae44d388a9cf741
+[2026-10-22 07:35:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): IMF says 2027 recovery in Middle East hinges on easing conflict, resum
+[2026-10-22 07:35:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada6543b759424bae44d388a9cf741
+[2026-10-22 07:35:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 89/400 chars, resolved=True): GAO Report Outlines Policy Choices for Improving Textile Circularity
+[2026-10-22 07:35:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada659320a34b7ba73089120e2a9d0
+[2026-10-22 07:35:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan defence minister Khawaja Asif flags top bureaucrats' secret o
+[2026-10-22 07:35:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada659320a34b7ba73089120e2a9d0
+[2026-10-22 07:35:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Trade, H-1B visas, Pak factor: Marco Rubio on key issues in India-US r
+[2026-10-22 07:35:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 348/400 chars, resolved=True): How the Mecca Defense Agreement between Turkey, Pakistan and Saudi Ara
+[2026-10-22 07:35:49 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2681 in / 1035 out tokens
+[2026-10-22 07:35:49 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'rejected': 2, 'thin': 6}
