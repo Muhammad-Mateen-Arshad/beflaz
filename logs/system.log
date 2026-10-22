@@ -16105,3 +16105,16 @@
 [2026-10-22 09:00:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-22 09:01:03 AM] [HISTORY_BOT] [SUCCESS] Published: Exploring Thailand’s Dinosaur Fossil Sites
 [2026-10-22 09:01:04 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1464 in / 499 out tokens
+[2026-10-22 11:29:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 11:29:38 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 11:29:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-22 11:30:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 11:30:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 11:30:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 11:31:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 11:32:07 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 11:32:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 11:33:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 11:34:14 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 11:34:14 AM] [NEWS_BOT] [SUCCESS] Published: PM vows to bring back progress to KP, assails PTI's 'callousness' during its tenures
+[2026-10-22 11:34:15 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1512 in / 473 out tokens
