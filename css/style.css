@@ -395,3 +395,25 @@ a:hover {
         transition: none;
     }
 }
+
+@media (max-width: 768px) {
+  .news-card img {
+    height: 140px;
+    object-fit: cover;
+  }
+  .news-card {
+    padding: 12px;
+  }
+  .news-card h3 {
+    font-size: 1rem;
+    margin: 8px 0;
+  }
+  .news-card p {
+    font-size: 0.85rem;
+    line-clamp: 2;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+  }
+}
