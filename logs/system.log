@@ -15865,3 +15865,18 @@
 [2026-10-21 11:31:25 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1498 in / 488 out tokens
 [2026-10-22 02:07:23 AM] [NEWS_BOT] [SUCCESS] Published: Government websites go dark after AI-discovered flaw sparks security scramble
 [2026-10-22 02:07:24 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1446 in / 455 out tokens
+[2026-10-22 02:07:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fdc8ed94da5b5bbc862af5b90c
+[2026-10-22 02:07:25 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-22 02:07:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fdc8ed94da5b5bbc862af5b90c
+[2026-10-22 02:07:25 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
+[2026-10-22 02:07:25 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 22 – 2026
+[2026-10-22 02:07:26 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 257/400 chars, resolved=True): Iraq plays down Iran border disruption as more closures reported
+[2026-10-22 02:07:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fdc8ed94da5b5bbc862af5b90c
+[2026-10-22 02:07:27 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 153/400 chars, resolved=True): AI productivity gains open new growth opportunities for developing eco
+[2026-10-22 02:07:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fdf74724a059cffc878c87a424
+[2026-10-22 02:07:27 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-22 02:07:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fdf74724a059cffc878c87a424
+[2026-10-22 02:07:27 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-22 02:07:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fdf74724a059cffc878c87a424
+[2026-10-22 02:07:27 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
+[2026-10-22 02:07:27 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 1}
