@@ -15951,3 +15951,22 @@
 [2026-10-22 03:30:36 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
 [2026-10-22 03:31:00 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Linguistics Scholarships in Canada With CAD $40,000 Per Year
 [2026-10-22 03:31:01 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1416 in / 629 out tokens
+[2026-10-22 03:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-22 03:31:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-22 03:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9837606534639b4f8b0e3e46e19e
+[2026-10-22 03:31:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-22 03:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9837606534639b4f8b0e3e46e19e
+[2026-10-22 03:31:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-22 03:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9837606534639b4f8b0e3e46e19e
+[2026-10-22 03:31:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): The Proponents of ‘Dark Nutrition’ Think Everything You Know About Foo
+[2026-10-22 03:31:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 03:31:09 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 03:31:27 AM] [HEALTH_BOT] [INFO] Rejected by quality gate (risky health claim wording): Is Social Security the Only Thing Supporting an Aging Society? (Reflec
+[2026-10-22 03:31:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad983762a9348a793a5edfd3716364
+[2026-10-22 03:31:27 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-22 03:31:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad983762a9348a793a5edfd3716364
+[2026-10-22 03:31:27 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
+[2026-10-22 03:31:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad983762a9348a793a5edfd3716364
+[2026-10-22 03:31:28 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-22 03:31:28 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1653 in / 539 out tokens
+[2026-10-22 03:31:28 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 7, 'rejected': 1}
