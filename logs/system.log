@@ -16279,3 +16279,16 @@
 [2026-10-22 03:44:15 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 03:44:16 PM] [HEALTH_BOT] [SUCCESS] Published: Lee Labrada Explains Why Building and Maintaining Muscle Is Essential to Healthy Aging
 [2026-10-22 03:44:17 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1264 in / 489 out tokens
+[2026-10-22 03:44:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2f51c49446909d187a305527eee
+[2026-10-22 03:44:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): You can watch a 75-million-year-old dinosaur emerge from stone in Rale
+[2026-10-22 03:44:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2f51c49446909d187a305527eee
+[2026-10-22 03:44:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Tourist shares photo of strange marks, experts confirm 120-million-yea
+[2026-10-22 03:44:20 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 03:44:22 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 03:44:24 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-22 03:44:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 03:44:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 03:45:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 03:46:26 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 03:46:27 PM] [HISTORY_BOT] [SUCCESS] Published: What’s happening this weekend in southern Utah? Here are events for Oct. 22-25.
+[2026-10-22 03:46:28 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 2136 in / 359 out tokens
