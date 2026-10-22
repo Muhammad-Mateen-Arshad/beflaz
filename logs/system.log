@@ -16368,3 +16368,18 @@
 [2026-10-22 04:12:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35e9c2364da5a3a1cc13f74c264
 [2026-10-22 04:12:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): How one of Earth's worst volcanic disasters affected societies in preh
 [2026-10-22 04:12:25 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-10-22 07:29:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 07:29:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-22 07:29:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 07:29:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 07:30:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 07:30:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 07:31:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 07:31:41 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 07:31:44 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 07:32:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 07:32:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 07:33:21 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-22 07:33:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 07:33:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-22 07:34:24 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
