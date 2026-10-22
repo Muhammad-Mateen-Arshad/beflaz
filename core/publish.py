@@ -11,7 +11,7 @@ from xml.sax.saxutils import quoteattr
 
 from . import config, notify
 from .niches import NICHES
-from .textutil import esc, html_to_text, shorten
+from .textutil import esc, html_to_text, json_str, shorten
 
 CARD_MARKER = "<!-- NEW_CARD_HERE -->"
 
@@ -63,6 +63,7 @@ def _footer(niche, source_link, publisher, image_credit):
 def build_article(niche, title, body_html, image_url, image_credit, source):
     """Write the article file. Returns (filename, public_url)."""
     filename = make_filename(title, source.link)
+    url = article_url(niche, filename)
     folder = Path(niche.folder)
     folder.mkdir(parents=True, exist_ok=True)
 
@@ -72,14 +73,24 @@ def build_article(niche, title, body_html, image_url, image_credit, source):
         + _button(niche, source.link, source.resolved)
         + _footer(niche, source.link, source.publisher, image_credit)
     )
+    published_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
     page = (
         template.replace("{{TITLE}}", esc(title))
         .replace("{{IMAGE_URL}}", esc(image_url))
         .replace("{{CURRENT_TIME}}", datetime.now().strftime("%B %d, %Y"))
         .replace("{{AI_CONTENT}}", content)
+        # Structured data (NewsArticle / Article schema) placeholders:
+        .replace("{{ARTICLE_URL}}", esc(url))
+        .replace("{{PUBLISH_ISO}}", published_iso)
+        .replace("{{SCHEMA_TYPE}}", niche.schema_type)
+        .replace("{{HEADLINE_JSON}}", json_str(shorten(title, 110)))
+        .replace("{{PUBLISHER_NAME}}", esc(config.SITE_NAME))
+        .replace("{{PUBLISHER_NAME_JSON}}", json_str(config.SITE_NAME))
+        .replace("{{PUBLISHER_LOGO}}", esc(config.SITE_LOGO_URL))
+        .replace("{{SITE_URL}}", esc(config.SITE_URL))
     )
     (folder / filename).write_text(page, encoding="utf-8")
-    return filename, article_url(niche, filename)
+    return filename, url
 
 
 # ------------------------------------------------------------------ category page card
@@ -96,7 +107,7 @@ def add_card(niche, title, image_url, filename, body_html):
     card = (
         f"{CARD_MARKER}\n"
         f'        <div class="news-card">\n'
-        f'            <img src="{esc(image_url)}" alt="{esc(title)}" loading="lazy">\n'
+        f'            <img src="{esc(image_url)}" alt="{esc(title)}" loading="lazy" width="400" height="250">\n'
         f"            <h3>{esc(title)}</h3>\n"
         f"            <p>{esc(hook)}</p>\n"
         f'            <a href="{niche.folder}/{filename}" class="read-more">{esc(niche.card_button)}</a>\n'
@@ -150,7 +161,7 @@ def update_rss(niche, title, url, image_url):
     store = _niche_feed_path(niche.name)
     store.parent.mkdir(parents=True, exist_ok=True)
     items = _read_feed_store(store)
-    caption = f"{niche.emoji} {niche.rss_heading}: {title}\n\n🔗 Read full details at the Link in our Bio! 👇\n{url}"
+    caption = f"{niche.emoji} {niche.rss_heading}: {title}\n\n👇 Read full details here:\n{url}"
     items.insert(0, {
         "title": title, "url": url, "image": image_url, "caption": caption,
         "date": format_datetime(datetime.now(timezone.utc), usegmt=True),
