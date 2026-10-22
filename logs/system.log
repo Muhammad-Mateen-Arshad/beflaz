@@ -16046,3 +16046,6 @@
 [2026-10-22 07:33:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-22 07:34:24 AM] [HISTORY_BOT] [SUCCESS] Published: Fossil footprints span 12 Thai provinces with a 120-million-year-old trail in Udon Thani
 [2026-10-22 07:34:25 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1540 in / 557 out tokens
+[2026-10-22 08:58:41 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 08:58:42 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz chairs apex committee meeting in Peshawar; to review security situation in KP
+[2026-10-22 08:58:43 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 911 in / 474 out tokens
