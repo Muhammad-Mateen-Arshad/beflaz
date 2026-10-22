@@ -16300,3 +16300,13 @@
 [2026-10-22 04:10:59 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 04:11:00 PM] [NEWS_BOT] [SUCCESS] Published: Punjab MPA Hina Parvez Butt defends deleted X post on alleged CCD encounter amid criticism
 [2026-10-22 04:11:01 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1038 in / 413 out tokens
+[2026-10-22 04:11:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada3595a2254e6f8e51d2856006296
+[2026-10-22 04:11:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-22 04:11:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 388/400 chars, resolved=True): How the Mecca Defense Agreement between Turkey, Pakistan and Saudi Ara
+[2026-10-22 04:11:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35970e124abcbc8730f00bad96e
+[2026-10-22 04:11:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif Flags "Bureaucratic Exodus" In Pak Amid Army Chief Asim M
+[2026-10-22 04:11:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada35970e124abcbc8730f00bad96e
+[2026-10-22 04:11:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): INDIA bloc leaders' virtual meeting to discuss roadmap for 'vote chori
+[2026-10-22 04:11:41 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 04:11:42 PM] [JOBS_BOT] [SUCCESS] Published: Jobs for Agniveers : Ensure timely, dignified transition
+[2026-10-22 04:11:42 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 738 in / 371 out tokens
