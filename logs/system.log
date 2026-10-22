@@ -16098,3 +16098,10 @@
 [2026-10-22 09:00:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d0a1ac06423ea538f2e153dc870
 [2026-10-22 09:00:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-22 09:00:19 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-22 09:00:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d0a369154047ac85672b965a397
+[2026-10-22 09:00:19 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 98/400 chars, resolved=True): Tourist’s photo leads to discovery of 120-million-year-old dinosaur fo
+[2026-10-22 09:00:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d0a369154047ac85672b965a397
+[2026-10-22 09:00:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): You can watch a 75-million-year-old dinosaur emerge from stone in Rale
+[2026-10-22 09:00:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 09:01:03 AM] [HISTORY_BOT] [SUCCESS] Published: Exploring Thailand’s Dinosaur Fossil Sites
+[2026-10-22 09:01:04 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1464 in / 499 out tokens
