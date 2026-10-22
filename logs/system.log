@@ -16049,3 +16049,20 @@
 [2026-10-22 08:58:41 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 08:58:42 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz chairs apex committee meeting in Peshawar; to review security situation in KP
 [2026-10-22 08:58:43 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 911 in / 474 out tokens
+[2026-10-22 08:58:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d044a26c4dd3aefb06289f63a9d
+[2026-10-22 08:58:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-22 08:58:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d044a26c4dd3aefb06289f63a9d
+[2026-10-22 08:58:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-22 08:58:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d045218f43af8f48d8bd4c46edc
+[2026-10-22 08:58:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan defence minister Khawaja Asif flags top bureaucrats' secret o
+[2026-10-22 08:58:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d045218f43af8f48d8bd4c46edc
+[2026-10-22 08:58:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-22 08:58:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d045218f43af8f48d8bd4c46edc
+[2026-10-22 08:58:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif Flags "Bureaucratic Exodus" In Pak Amid Army Chief Asim M
+[2026-10-22 08:58:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d045218f43af8f48d8bd4c46edc
+[2026-10-22 08:58:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): Pakistan's Khawaja Asif raises alarm over bureaucrats' exodus to Portu
+[2026-10-22 08:58:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d046539b499da08a23c84acee45
+[2026-10-22 08:58:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): CM Murad orders security, infrastructure reforms at KFH
+[2026-10-22 08:58:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d047620a4be2ae8f8a1a357d1c8
+[2026-10-22 08:58:48 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-22 08:58:48 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
