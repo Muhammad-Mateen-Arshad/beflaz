@@ -16015,3 +16015,7 @@
 [2026-10-22 07:31:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bbd6010f4b9c8e727c3e98bcaeb
 [2026-10-22 07:31:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-22 07:31:35 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
+[2026-10-22 07:31:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bbd7841044369538652550a07e2
+[2026-10-22 07:31:35 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
+[2026-10-22 07:32:04 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: “We are willing to work but the posts are not there”, say young doctors
+[2026-10-22 07:32:05 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1668 in / 374 out tokens
