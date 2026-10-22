@@ -15921,3 +15921,18 @@
 [2026-10-22 02:09:08 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 826 in / 466 out tokens
 [2026-10-22 03:29:48 AM] [NEWS_BOT] [SUCCESS] Published: PTI leadership ‘turns on itself’ after protest debacle
 [2026-10-22 03:29:49 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1538 in / 489 out tokens
+[2026-10-22 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9832daebf4605b599fc998bdca39
+[2026-10-22 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-22 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9832e87124881b5f77d87b70237f
+[2026-10-22 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif flags bureaucratic exodus in Pak amid Army Chief Asim Mun
+[2026-10-22 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9832e87124881b5f77d87b70237f
+[2026-10-22 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Merely in transit?': Khawaja Asif flags Pakistan bureaucrats' plans t
+[2026-10-22 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9832e87124881b5f77d87b70237f
+[2026-10-22 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): Pakistan's Khawaja Asif raises alarm over bureaucrats' exodus to Portu
+[2026-10-22 03:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9832f889c478fa08c36f1be6c479
+[2026-10-22 03:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-22 03:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9832f889c478fa08c36f1be6c479
+[2026-10-22 03:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan, Maldives sign 20 MoUs, set $200m trade target within two yea
+[2026-10-22 03:29:53 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 03:30:13 AM] [JOBS_BOT] [SUCCESS] Published: Sindh Raises SPSC CCE Age Limit Under New Reforms
+[2026-10-22 03:30:13 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 666 in / 552 out tokens
