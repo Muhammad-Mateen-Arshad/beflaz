@@ -16019,3 +16019,21 @@
 [2026-10-22 07:31:35 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
 [2026-10-22 07:32:04 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: “We are willing to work but the posts are not there”, say young doctors
 [2026-10-22 07:32:05 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1668 in / 374 out tokens
+[2026-10-22 07:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-22 07:32:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-22 07:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bbf695cc4c42adcdfd81c3c8f62
+[2026-10-22 07:32:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-22 07:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bbf695cc4c42adcdfd81c3c8f62
+[2026-10-22 07:32:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): The Proponents of ‘Dark Nutrition’ Think Everything You Know About Foo
+[2026-10-22 07:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bbf695cc4c42adcdfd81c3c8f62
+[2026-10-22 07:32:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-22 07:32:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bbf77cac49a6880e6f086feaa1a
+[2026-10-22 07:32:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 193/800 chars, resolved=True): What Healthy Older Adults in China Really Want From Home Care, and How
+[2026-10-22 07:32:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bbf77cac49a6880e6f086feaa1a
+[2026-10-22 07:32:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
+[2026-10-22 07:32:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9bbf77cac49a6880e6f086feaa1a
+[2026-10-22 07:32:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
+[2026-10-22 07:32:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 07:32:24 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-22 07:32:53 AM] [HEALTH_BOT] [SUCCESS] Published: Elder-care researcher reveals 6 powerful clues older adults will live a long life
+[2026-10-22 07:32:54 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1273 in / 567 out tokens
