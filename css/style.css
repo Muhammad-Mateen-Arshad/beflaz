@@ -417,3 +417,48 @@ a:hover {
     -webkit-box-orient: vertical;
   }
 }
+
+/* Fix: Substack embed box overflowing on small screens */
+iframe[src*="substack.com"] {
+  width: 100% !important;
+  max-width: 480px;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/* ===== Responsive card sizing: tablet -> large phone -> phone -> small phone ===== */
+
+@media (max-width: 1024px) {
+  .news-card img { height: 180px; object-fit: cover; }
+}
+
+@media (max-width: 768px) {
+  .news-card { padding: 14px; }
+  .news-card img { height: 150px; object-fit: cover; border-radius: 8px; }
+  .news-card h3 { font-size: 1.05rem; line-height: 1.3; margin: 8px 0 6px; }
+  .news-card p {
+    font-size: 0.88rem;
+     line-height: 1.4;
+    display: -webkit-box; 
+    -webkit-line-clamp:
+     2; line-clamp: 2; 
+     -webkit-box-orient: vertical;
+      overflow: hidden;
+  }
+  .read-more { padding: 8px 16px; font-size: 0.85rem; }
+}
+
+@media (max-width: 480px) {
+  .news-card img { height: 130px; }
+  .news-card h3 { font-size: 0.98rem; }
+    .news-card p { font-size: 0.82rem; -webkit-line-clamp: 2; line-clamp: 2; }
+}
+
+@media (max-width: 360px) {
+  .news-card { padding: 10px; }
+  .news-card img { height: 115px; }
+  .news-card h3 { font-size: 0.92rem; }
+}
