@@ -15970,3 +15970,15 @@
 [2026-10-22 03:31:28 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): What The Sit-To-Stand Test Reveals About How Well You're Aging
 [2026-10-22 03:31:28 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1653 in / 539 out tokens
 [2026-10-22 03:31:28 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 7, 'rejected': 1}
+[2026-10-22 03:31:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9839090894069bbeacef1f391085
+[2026-10-22 03:31:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 98/400 chars, resolved=True): Tourist’s photo leads to discovery of 120-million-year-old dinosaur fo
+[2026-10-22 03:31:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9839090894069bbeacef1f391085
+[2026-10-22 03:31:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): You can watch a 75-million-year-old dinosaur emerge from stone in Rale
+[2026-10-22 03:31:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9839090894069bbeacef1f391085
+[2026-10-22 03:31:29 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 137/400 chars, resolved=True): Guide to Sugar Land, one of nation’s best places to live
+[2026-10-22 03:31:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad983914a35402fbd3e34d51400640
+[2026-10-22 03:31:29 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-22 03:31:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 03:31:32 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 03:31:57 AM] [HISTORY_BOT] [SUCCESS] Published: Archaeologist debunks viral Noah’s Ark ruins in Lake Van
+[2026-10-22 03:31:58 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1322 in / 490 out tokens
