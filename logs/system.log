@@ -16078,3 +16078,8 @@
 [2026-10-22 08:58:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-22 08:59:35 AM] [DRAMAS_BOT] [SUCCESS] Published: Akka On Netflix: Here’s Everything About Keerthy Suresh And Radhika Apte’s Upcoming Gangster Series
 [2026-10-22 08:59:35 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1653 in / 474 out tokens
+[2026-10-22 08:59:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d078f77d469191deb26a1b66455
+[2026-10-22 08:59:36 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
+[2026-10-22 09:00:08 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 09:00:09 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Community School of the Arts Begins a New Chapter After 34 Years
+[2026-10-22 09:00:11 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1493 in / 406 out tokens
