@@ -15936,3 +15936,14 @@
 [2026-10-22 03:29:53 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-22 03:30:13 AM] [JOBS_BOT] [SUCCESS] Published: Sindh Raises SPSC CCE Age Limit Under New Reforms
 [2026-10-22 03:30:13 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 666 in / 552 out tokens
+[2026-10-22 03:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9834505e3457687a7dfc7903bc2c
+[2026-10-22 03:30:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-22 03:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9834505e3457687a7dfc7903bc2c
+[2026-10-22 03:30:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-22 03:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad98346a4fa439e97925bf9c1733d1
+[2026-10-22 03:30:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 98/300 chars, resolved=True): Jon Gosselin to Speak Out in New Netflix Documentary About Family’s ‘C
+[2026-10-22 03:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad98346a4fa439e97925bf9c1733d1
+[2026-10-22 03:30:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): All of us are dead season 2: Netflix eyes early 2027 release; filming 
+[2026-10-22 03:30:15 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 03:30:34 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘All of Us Are Dead’ season 2 filming wraps: Expected Netflix release date, cast and plot
+[2026-10-22 03:30:35 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1638 in / 576 out tokens
