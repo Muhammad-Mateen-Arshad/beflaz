@@ -16292,3 +16292,11 @@
 [2026-10-22 03:46:26 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-22 03:46:27 PM] [HISTORY_BOT] [SUCCESS] Published: What’s happening this weekend in southern Utah? Here are events for Oct. 22-25.
 [2026-10-22 03:46:28 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 2136 in / 359 out tokens
+[2026-10-22 04:09:37 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 04:09:40 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-22 04:09:42 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-22 04:09:44 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-22 04:10:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-22 04:10:59 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-22 04:11:00 PM] [NEWS_BOT] [SUCCESS] Published: Punjab MPA Hina Parvez Butt defends deleted X post on alleged CCD encounter amid criticism
+[2026-10-22 04:11:01 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1038 in / 413 out tokens
