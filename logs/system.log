@@ -15880,3 +15880,20 @@
 [2026-10-22 02:07:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fdf74724a059cffc878c87a424
 [2026-10-22 02:07:27 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Is Pakistan's ruling elite losing faith in country? Minister flags exo
 [2026-10-22 02:07:27 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 1}
+[2026-10-22 02:07:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-22 02:07:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fe1cc0e4df1a267d2f37b1f093
+[2026-10-22 02:07:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-22 02:07:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fe1cc0e4df1a267d2f37b1f093
+[2026-10-22 02:07:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-22 02:07:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fe10aca4e12a66023613a8bd8e
+[2026-10-22 02:07:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 98/300 chars, resolved=True): Jon Gosselin to Speak Out in New Netflix Documentary About Family’s ‘C
+[2026-10-22 02:07:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fe10aca4e12a66023613a8bd8e
+[2026-10-22 02:07:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 78/300 chars, resolved=True): Jon Gosselin filming Netflix documentary about the family with kids Co
+[2026-10-22 02:07:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fe10aca4e12a66023613a8bd8e
+[2026-10-22 02:07:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Everything we know about Cyberpunk: Edgerunners season 3
+[2026-10-22 02:07:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96fe2b3294fb28cc0f5dbd7da8d2
+[2026-10-22 02:07:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-22 02:07:31 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-22 02:07:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-22 02:08:12 AM] [DRAMAS_BOT] [SUCCESS] Published: Now Playing In Egypt Cinemas
+[2026-10-22 02:08:13 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1735 in / 521 out tokens
