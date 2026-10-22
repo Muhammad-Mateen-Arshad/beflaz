@@ -16066,3 +16066,15 @@
 [2026-10-22 08:58:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d047620a4be2ae8f8a1a357d1c8
 [2026-10-22 08:58:48 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
 [2026-10-22 08:58:48 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-22 08:58:49 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-22 08:58:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d049a40e43158583d2fdca06292
+[2026-10-22 08:58:50 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-22 08:58:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d049a40e43158583d2fdca06292
+[2026-10-22 08:58:50 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 156/300 chars, resolved=True): Halit Özgür Sarı and Özge Yağız reunite for ‘Tell Me Troy’ as filming 
+[2026-10-22 08:58:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d04ad4c4456ca6859ce7c3d826d
+[2026-10-22 08:58:50 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 98/300 chars, resolved=True): Jon Gosselin to Speak Out in New Netflix Documentary About Family’s ‘C
+[2026-10-22 08:58:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9d04ad4c4456ca6859ce7c3d826d
+[2026-10-22 08:58:51 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 47/300 chars, resolved=True): In just 1 day, 4-season horror hit turns into Netflix streaming sensat
+[2026-10-22 08:58:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-22 08:59:35 AM] [DRAMAS_BOT] [SUCCESS] Published: Akka On Netflix: Here’s Everything About Keerthy Suresh And Radhika Apte’s Upcoming Gangster Series
+[2026-10-22 08:59:35 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1653 in / 474 out tokens
