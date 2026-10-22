@@ -15947,3 +15947,7 @@
 [2026-10-22 03:30:15 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-22 03:30:34 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘All of Us Are Dead’ season 2 filming wraps: Expected Netflix release date, cast and plot
 [2026-10-22 03:30:35 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1638 in / 576 out tokens
+[2026-10-22 03:30:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9835c98664578a11209a4badb4e8
+[2026-10-22 03:30:36 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Kenyan man who struggled to get passport wins 5 fully-funded scholarsh
+[2026-10-22 03:31:00 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Linguistics Scholarships in Canada With CAD $40,000 Per Year
+[2026-10-22 03:31:01 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1416 in / 629 out tokens
