@@ -16207,3 +16207,19 @@
 [2026-10-22 03:33:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-22 03:34:17 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-22 03:34:47 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-22 03:34:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d19bade4f90ae41664fd28bde9
+[2026-10-22 03:34:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-22 03:34:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d1be41c4f70b5c7ded5c85fb03
+[2026-10-22 03:34:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan defence minister Khawaja Asif flags top bureaucrats' secret o
+[2026-10-22 03:34:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 311/400 chars, resolved=True): How the Mecca Defense Agreement between Turkey, Pakistan and Saudi Ara
+[2026-10-22 03:34:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d1be41c4f70b5c7ded5c85fb03
+[2026-10-22 03:34:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Khawaja Asif Flags "Bureaucratic Exodus" In Pak Amid Army Chief Asim M
+[2026-10-22 03:34:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d1be41c4f70b5c7ded5c85fb03
+[2026-10-22 03:34:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): INDIA bloc leaders' virtual meeting to discuss roadmap for 'vote chori
+[2026-10-22 03:34:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d1c20c24424aa7c36b7147b3b6
+[2026-10-22 03:34:53 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Cost of Mohmand Dam Hydropower Project escalates by 115pc to Rs665b
+[2026-10-22 03:34:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d1d10e9474d8f81a4c1c87a0f6
+[2026-10-22 03:34:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): CM Murad orders security, infrastructure reforms at KFH
+[2026-10-22 03:34:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada2d1d10e9474d8f81a4c1c87a0f6
+[2026-10-22 03:34:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): DEA issues directives to ensure 100pc teachers attendance
+[2026-10-22 03:34:54 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
