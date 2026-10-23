@@ -16679,3 +16679,7 @@
 [2026-10-23 10:44:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe360d64c47d7bbea8363b540779
 [2026-10-23 10:44:48 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): This Unusual-Looking Snake Has a Fake Spider on its Tail, Using It to 
 [2026-10-23 10:44:48 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-23 11:29:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 11:29:34 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-23 11:30:00 PM] [NEWS_BOT] [SUCCESS] Published: 'Will petrol be available in December?': Senate echoes with shortage concerns even as state minister says no supply issues
+[2026-10-23 11:30:01 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1356 in / 451 out tokens
