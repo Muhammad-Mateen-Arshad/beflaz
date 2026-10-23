@@ -16470,3 +16470,7 @@
 [2026-10-22 07:40:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada66a095c549009fcaebe4adc34b2
 [2026-10-22 07:40:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Prehistoric 'hell ant' found frozen inside amber fossil devouring its 
 [2026-10-22 07:40:17 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-10-23 05:27:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-23 05:27:55 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 05:28:27 PM] [NEWS_BOT] [SUCCESS] Published: R4 bloc, European powers discuss developments in the Gulf in Istanbul meeting
+[2026-10-23 05:28:28 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1392 in / 440 out tokens
