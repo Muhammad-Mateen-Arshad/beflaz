@@ -16506,3 +16506,5 @@
 [2026-10-23 05:33:58 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-23 05:33:58 PM] [HISTORY_BOT] [SUCCESS] Published: 120-million-year-old Norellraptor fossil with four wings discovered in the Jiufotang Formation, Liaoning, China
 [2026-10-23 05:33:59 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 898 in / 492 out tokens
+[2026-10-23 07:29:59 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan, Saudi Arabia have completed ratification of Makkah defence pact: FO
+[2026-10-23 07:30:00 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1220 in / 450 out tokens
