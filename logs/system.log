@@ -16492,3 +16492,7 @@
 [2026-10-23 05:31:40 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-23 05:31:41 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Fully Funded Scholarships in Denmark 2027: University of Copenhagen Offers Scholarships to Students from Rwanda and South Africa
 [2026-10-23 05:31:43 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1094 in / 512 out tokens
+[2026-10-23 05:31:45 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 05:32:32 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-23 05:32:33 PM] [HEALTH_BOT] [SUCCESS] Published: A precision T-cell therapy stalls treatment-resistant cancers in clinical trial
+[2026-10-23 05:32:34 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1573 in / 563 out tokens
