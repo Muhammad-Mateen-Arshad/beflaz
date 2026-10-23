@@ -16496,3 +16496,13 @@
 [2026-10-23 05:32:32 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-23 05:32:33 PM] [HEALTH_BOT] [SUCCESS] Published: A precision T-cell therapy stalls treatment-resistant cancers in clinical trial
 [2026-10-23 05:32:34 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1573 in / 563 out tokens
+[2026-10-23 05:32:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb9a3270f94ca6b8df94114bd54a3
+[2026-10-23 05:32:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Dinosaur prints safeguarded
+[2026-10-23 05:32:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb9a3270f94ca6b8df94114bd54a3
+[2026-10-23 05:32:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Raleigh's got a new 75-million-year-old dinosaur skeleton. Could it be
+[2026-10-23 05:32:37 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 05:33:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-23 05:33:42 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-23 05:33:58 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-23 05:33:58 PM] [HISTORY_BOT] [SUCCESS] Published: 120-million-year-old Norellraptor fossil with four wings discovered in the Jiufotang Formation, Liaoning, China
+[2026-10-23 05:33:59 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 898 in / 492 out tokens
