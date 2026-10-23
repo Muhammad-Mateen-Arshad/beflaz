@@ -16577,3 +16577,9 @@
 [2026-10-23 07:49:17 PM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (135 words, need 150)): Wednesday Season 3 OTT release update: When will the next chapter of J
 [2026-10-23 07:49:17 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 391 in / 263 out tokens
 [2026-10-23 07:49:17 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 5, 'rejected': 1}
+[2026-10-23 07:49:19 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 07:49:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-23 07:49:50 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 10000): October 23, 2026
+[2026-10-23 07:49:51 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-23 07:50:16 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Letters to the Editor: Irish celebrities’ open letter to Taoiseach on Gaza
+[2026-10-23 07:50:18 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 3006 in / 908 out tokens
