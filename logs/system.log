@@ -16599,3 +16599,22 @@
 [2026-10-23 07:50:26 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-23 07:50:50 PM] [HEALTH_BOT] [SUCCESS] Published: Experts say this is the best exercise to support healthy aging
 [2026-10-23 07:50:51 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1606 in / 553 out tokens
+[2026-10-23 07:50:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba9bae00470eb3fea25b0accb2e
+[2026-10-23 07:50:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Dinosaur prints safeguarded
+[2026-10-23 07:50:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba9bae00470eb3fea25b0accb2e
+[2026-10-23 07:50:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): 'Big Chunky' fossil reveals bizarre new squid-like species that lived 
+[2026-10-23 07:50:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba9bae00470eb3fea25b0accb2e
+[2026-10-23 07:50:53 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): TCAS Students Take Learning on the Road
+[2026-10-23 07:50:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba9d4db649ca90d7458421473f5
+[2026-10-23 07:50:53 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-23 07:50:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba9decc94b1fa917ce4964e3ed0
+[2026-10-23 07:50:54 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-23 07:50:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba9decc94b1fa917ce4964e3ed0
+[2026-10-23 07:50:54 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-23 07:50:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba9e99c9482185021eff4bf3fa7
+[2026-10-23 07:50:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): It stood 3m tall and was armed with some of the deadliest weaponry of 
+[2026-10-23 07:50:56 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 07:50:58 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-23 07:51:32 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-23 07:51:32 PM] [HISTORY_BOT] [SUCCESS] Published: Horse-Sized Saber-Tooth Lived Millions of Years Past Its Deadline
+[2026-10-23 07:51:33 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1596 in / 574 out tokens
