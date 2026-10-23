@@ -1,24 +1,31 @@
-"""Small text helpers."""
-import html
+import json
 import re
+from xml.sax.saxutils import escape
 
-_TAG = re.compile(r"<[^>]+>")
-_SCRIPTS = re.compile(r"(?is)<(script|style)\b.*?</\1>")
+def esc(text):
+    """Escape text for HTML."""
+    return escape(text or "")
 
+def html_to_text(html):
+    """Strip HTML tags from a string."""
+    if not html:
+        return ""
+    text = re.sub(r'<[^>]+>', ' ', html)
+    return ' '.join(text.split())
 
-def html_to_text(value):
-    """Turn HTML (or plain text) into clean, single-spaced plain text."""
-    value = _SCRIPTS.sub(" ", value or "")
-    value = _TAG.sub(" ", value)
-    value = html.unescape(value)
-    return re.sub(r"\s+", " ", value).strip()
+def shorten(text, max_length):
+    """Shorten text to max_length with an ellipsis."""
+    if not text:
+        return ""
+    text = str(text)
+    if len(text) <= max_length:
+        return text
+    return text[:max_length - 3].rsplit(' ', 1)[0] + '...'
 
-
-def esc(value):
-    """HTML-escape text that goes inside a page or an attribute."""
-    return html.escape(value or "", quote=True)
-
-
-def shorten(value, limit):
-    value = value or ""
-    return value if len(value) <= limit else value[: limit - 3].rstrip() + "..."
+def json_str(text):
+    """Safely escape text for JSON/Schema markup values."""
+    if not text:
+        return ""
+    # json.dumps adds double quotes around the string, e.g., "text"
+    # [1:-1] removes these outer quotes so it fits safely inside your template quotes
+    return json.dumps(str(text))[1:-1]
