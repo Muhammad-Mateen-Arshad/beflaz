@@ -16535,3 +16535,9 @@
 [2026-10-23 07:31:38 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 762 in / 493 out tokens
 [2026-10-23 07:32:05 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Eric Bleumink Fellowship 2027–2028: Fully Funded Master’s Scholarship at the University of Groningen, Netherlands
 [2026-10-23 07:32:05 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1320 in / 520 out tokens
+[2026-10-23 07:32:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 07:32:26 PM] [HEALTH_BOT] [INFO] Rejected by quality gate (numbers not found in source: 0.88): An extra year of secondary school lowered dementia diagnoses later in 
+[2026-10-23 07:32:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-23 07:32:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-23 07:32:59 PM] [HEALTH_BOT] [SUCCESS] Published: 4 supplements a dermatologist takes daily to support healthy aging — and none of them are collagen
+[2026-10-23 07:33:00 PM] [HEALTH_BOT] [INFO] AI usage: 2 calls, 3008 in / 1045 out tokens
