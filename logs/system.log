@@ -16517,3 +16517,19 @@
 [2026-10-23 07:30:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-23 07:30:31 PM] [JOBS_BOT] [SUCCESS] Published: If The Govt Wants More Local Car Parts, Why Propose Cheaper Imports?
 [2026-10-23 07:30:32 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1496 in / 516 out tokens
+[2026-10-23 07:30:47 PM] [DRAMAS_BOT] [WARN] Feed failed (ReadTimeout): https://www.bing.com/news/search?q=kurulus%20osman%20mehmed%20fetihler%20sultani&format=RS
+[2026-10-23 07:30:48 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
+[2026-10-23 07:30:48 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 234/300 chars, resolved=True): Wild Place Young Defenseman Daemon Hunt On Waivers
+[2026-10-23 07:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbb5e7fc0d407b9000752abf98027
+[2026-10-23 07:30:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-23 07:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbb5e951f640b2ae9c7ab16698df1
+[2026-10-23 07:30:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 135/300 chars, resolved=True): Netflix’s One Piece Season 3 Gets a Major Release Date Update From Joe
+[2026-10-23 07:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbb5e951f640b2ae9c7ab16698df1
+[2026-10-23 07:30:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Netflix teams up with Hoichoi to bring Bengali entertainment to Hindi,
+[2026-10-23 07:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbb5e951f640b2ae9c7ab16698df1
+[2026-10-23 07:30:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 82/300 chars, resolved=True): 4 years later, Netflix's forgotten 7-part mystery thriller officially 
+[2026-10-23 07:30:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 07:31:20 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-23 07:31:36 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-23 07:31:37 PM] [DRAMAS_BOT] [SUCCESS] Published: Doctor X Mafia In White Episode 5 Release Time Today: When &Where Will New Ep Premiere Online? What To Expect?
+[2026-10-23 07:31:38 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 762 in / 493 out tokens
