@@ -90,7 +90,7 @@ JOBS = Niche(
     rss_title="Trendify Portal - Jobs",
     rss_description="Latest Government, Private & International Jobs",
     disclaimer="Always confirm deadlines and requirements on the official notice before applying.",
-    min_source_chars=400, risk="high",
+    min_source_chars=400, risk="high", schema_type="JobPosting",
 )
 
 NEWS = Niche(
@@ -116,7 +116,7 @@ NEWS = Niche(
     rss_heading="Latest News",
     rss_title="Trendify Portal - News",
     rss_description="Pakistani and global news",
-    image_from_title=False, min_source_chars=400,
+    image_from_title=False, min_source_chars=400, schema_type="NewsArticle",
 )
 
 DRAMAS = Niche(
