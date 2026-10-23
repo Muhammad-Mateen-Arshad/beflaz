@@ -16646,3 +16646,19 @@
 [2026-10-23 10:43:22 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1230 in / 547 out tokens
 [2026-10-23 10:43:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PARLIAMENTARY DIPLOMACY! Speaker Oboth Commits to Revive Uganda-Iran Ties
 [2026-10-23 10:43:48 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 689 in / 326 out tokens
+[2026-10-23 10:43:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-23 10:43:49 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-23 10:44:08 PM] [HEALTH_BOT] [INFO] Rejected by quality gate (risky health claim wording): Skip the Sugar? Your Non-Dairy Coffee Creamer May Be Worse for Your Di
+[2026-10-23 10:44:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe3251b094e019a39321dd6598e5
+[2026-10-23 10:44:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-23 10:44:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe3251b094e019a39321dd6598e5
+[2026-10-23 10:44:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-23 10:44:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe3251b094e019a39321dd6598e5
+[2026-10-23 10:44:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-23 10:44:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe33978524ef596cfe37b7ac1155
+[2026-10-23 10:44:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 187/800 chars, resolved=True): 9 signs your body is aging faster than you are
+[2026-10-23 10:44:10 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 10:44:12 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-23 10:44:44 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-23 10:44:45 PM] [HEALTH_BOT] [SUCCESS] Published: 7 Myths You’ve Heard About Creatine That Aren’t Actually True, According to Experts
+[2026-10-23 10:44:45 PM] [HEALTH_BOT] [INFO] AI usage: 2 calls, 2618 in / 1080 out tokens
