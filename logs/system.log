@@ -16683,3 +16683,18 @@
 [2026-10-23 11:29:34 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-23 11:30:00 PM] [NEWS_BOT] [SUCCESS] Published: 'Will petrol be available in December?': Senate echoes with shortage concerns even as state minister says no supply issues
 [2026-10-23 11:30:01 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1356 in / 451 out tokens
+[2026-10-23 11:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbedf92a764dbc9f3c8a3a54e805c
+[2026-10-23 11:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan’s job drought leaves millions high and dry
+[2026-10-23 11:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbedf92a764dbc9f3c8a3a54e805c
+[2026-10-23 11:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-23 11:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbedf92a764dbc9f3c8a3a54e805c
+[2026-10-23 11:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-23 11:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbedf92a764dbc9f3c8a3a54e805c
+[2026-10-23 11:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Canada, Ontario announce $9 Billion plan to shield steel, auto jobs fr
+[2026-10-23 11:30:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbedfbb3094b4aafae14af287e604
+[2026-10-23 11:30:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-23 11:30:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbedfbb3094b4aafae14af287e604
+[2026-10-23 11:30:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Khera questions Modi govt over continuing China face-offs, demands ans
+[2026-10-23 11:30:05 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 11:30:27 PM] [JOBS_BOT] [SUCCESS] Published: Beyond Mountains and Seas: From Early Struggle to the Chinese Dream
+[2026-10-23 11:30:28 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1519 in / 456 out tokens
