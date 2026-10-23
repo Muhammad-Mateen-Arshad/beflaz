@@ -16712,3 +16712,5 @@
 [2026-10-23 11:30:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbee1783ea437585647cb4c7617be
 [2026-10-23 11:30:31 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Top Stories for October 22, 2026
 [2026-10-23 11:30:31 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-10-23 11:31:00 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: How to Apply for PM Youth Chromebook Scheme in Pakistan
+[2026-10-23 11:31:01 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1414 in / 595 out tokens
