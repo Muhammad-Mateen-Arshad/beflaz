@@ -16563,3 +16563,17 @@
 [2026-10-23 07:48:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-23 07:49:02 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan eyes investment led growth after $3 billion Eurobond issuance
 [2026-10-23 07:49:03 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1334 in / 384 out tokens
+[2026-10-23 07:49:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-23 07:49:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 234/300 chars, resolved=True): Wild Place Young Defenseman Daemon Hunt On Waivers
+[2026-10-23 07:49:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
+[2026-10-23 07:49:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba3193a847bb8d8bb9b0cdf30f5
+[2026-10-23 07:49:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-23 07:49:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba32dfa34c93b2f97736492f1c6
+[2026-10-23 07:49:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 135/300 chars, resolved=True): Netflix’s One Piece Season 3 Gets a Major Release Date Update From Joe
+[2026-10-23 07:49:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba32dfa34c93b2f97736492f1c6
+[2026-10-23 07:49:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Netflix teams up with Hoichoi to bring Bengali entertainment to Hindi,
+[2026-10-23 07:49:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba32dfa34c93b2f97736492f1c6
+[2026-10-23 07:49:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 82/300 chars, resolved=True): 4 years later, Netflix's forgotten 7-part mystery thriller officially 
+[2026-10-23 07:49:17 PM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (135 words, need 150)): Wednesday Season 3 OTT release update: When will the next chapter of J
+[2026-10-23 07:49:17 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 391 in / 263 out tokens
+[2026-10-23 07:49:17 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 5, 'rejected': 1}
