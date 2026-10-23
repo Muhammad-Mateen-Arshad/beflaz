@@ -49,6 +49,7 @@ class Niche:
     min_words: int = 150
     max_words: int = 400
     risk: str = "normal"            # "high" = stricter niche (jobs, scholarships, health)
+    schema_type: str = "Article"    # Default schema type for SEO
 
 
 JOBS = Niche(
