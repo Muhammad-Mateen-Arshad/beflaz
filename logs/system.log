@@ -16474,3 +16474,9 @@
 [2026-10-23 05:27:55 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-23 05:28:27 PM] [NEWS_BOT] [SUCCESS] Published: R4 bloc, European powers discuss developments in the Gulf in Istanbul meeting
 [2026-10-23 05:28:28 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1392 in / 440 out tokens
+[2026-10-23 05:28:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb993cd413478dae150a1cb0915e6
+[2026-10-23 05:28:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan’s job drought leaves millions high and dry
+[2026-10-23 05:28:31 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 05:29:13 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-23 05:29:13 PM] [JOBS_BOT] [SUCCESS] Published: FinMin Aurangzeb, WB discuss Pakistan's economic reform agenda
+[2026-10-23 05:29:14 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 650 in / 376 out tokens
