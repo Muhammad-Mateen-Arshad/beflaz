@@ -16662,3 +16662,20 @@
 [2026-10-23 10:44:44 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-23 10:44:45 PM] [HEALTH_BOT] [SUCCESS] Published: 7 Myths You’ve Heard About Creatine That Aren’t Actually True, According to Experts
 [2026-10-23 10:44:45 PM] [HEALTH_BOT] [INFO] AI usage: 2 calls, 2618 in / 1080 out tokens
+[2026-10-23 10:44:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe35e9a864ed3875473d91b0e330
+[2026-10-23 10:44:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 182/400 chars, resolved=True): Newly identified dinosaur was a slimmer, more maneuverable cousin to T
+[2026-10-23 10:44:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe35e9a864ed3875473d91b0e330
+[2026-10-23 10:44:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Dinosaur prints safeguarded
+[2026-10-23 10:44:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe35e9a864ed3875473d91b0e330
+[2026-10-23 10:44:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The first dinos that only ate fruit munched like parrots
+[2026-10-23 10:44:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe35e9a864ed3875473d91b0e330
+[2026-10-23 10:44:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Rare bones, a voting surge, more ‘Thunder': Top stories today
+[2026-10-23 10:44:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe35f5eb247c48797c913175a8ab
+[2026-10-23 10:44:48 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-23 10:44:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe360b502417b8540144d13b5fb6
+[2026-10-23 10:44:48 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-23 10:44:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe360b502417b8540144d13b5fb6
+[2026-10-23 10:44:48 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-23 10:44:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe360d64c47d7bbea8363b540779
+[2026-10-23 10:44:48 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): This Unusual-Looking Snake Has a Fake Spider on its Tail, Using It to 
+[2026-10-23 10:44:48 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
