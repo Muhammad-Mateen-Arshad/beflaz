@@ -16631,3 +16631,16 @@
 [2026-10-23 10:42:27 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-23 10:42:48 PM] [JOBS_BOT] [SUCCESS] Published: Sindh job reforms fail to curb merit complaints
 [2026-10-23 10:42:49 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1089 in / 690 out tokens
+[2026-10-23 10:42:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-23 10:42:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 295/300 chars, resolved=True): Palmeiras and Estudiantes to meet in 2026 CONMEBOL Libertadores Final 
+[2026-10-23 10:42:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 196/300 chars, resolved=True): 5 Insights on Timberwolves' Next Opponent With Magic on Tap
+[2026-10-23 10:42:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
+[2026-10-23 10:42:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe2ec1acf4da0bce461a3fc88f9a
+[2026-10-23 10:42:53 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 135/300 chars, resolved=True): Netflix’s One Piece Season 3 Gets a Major Release Date Update From Joe
+[2026-10-23 10:42:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe2ec1acf4da0bce461a3fc88f9a
+[2026-10-23 10:42:53 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 162/300 chars, resolved=True): Inside Netflix’s high-stakes shake-up: Peter Rice’s plans for a new co
+[2026-10-23 10:42:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe2ec1acf4da0bce461a3fc88f9a
+[2026-10-23 10:42:53 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 150/300 chars, resolved=True): Netflix is making sci-fi history with its first Philip K Dick series
+[2026-10-23 10:42:54 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 10:43:21 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix teams up with Hoichoi to bring Bengali entertainment to Hindi, Tamil, Telugu audience; check upcoming releases
+[2026-10-23 10:43:22 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1230 in / 547 out tokens
