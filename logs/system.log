@@ -16620,3 +16620,14 @@
 [2026-10-23 07:51:33 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1596 in / 574 out tokens
 [2026-10-23 10:42:21 PM] [NEWS_BOT] [SUCCESS] Published: German president meets Zardari, praises Pakistan's 'rising diplomatic profile' in dispute resolution
 [2026-10-23 10:42:21 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1255 in / 544 out tokens
+[2026-10-23 10:42:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe2ce873545cfacaa700fdc8255c
+[2026-10-23 10:42:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan’s job drought leaves millions high and dry
+[2026-10-23 10:42:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe2ce873545cfacaa700fdc8255c
+[2026-10-23 10:42:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-23 10:42:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe2ce873545cfacaa700fdc8255c
+[2026-10-23 10:42:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-23 10:42:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbe2ce873545cfacaa700fdc8255c
+[2026-10-23 10:42:23 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Canada, Ontario announce $9 Billion plan to shield steel, auto jobs fr
+[2026-10-23 10:42:27 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 10:42:48 PM] [JOBS_BOT] [SUCCESS] Published: Sindh job reforms fail to curb merit complaints
+[2026-10-23 10:42:49 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1089 in / 690 out tokens
