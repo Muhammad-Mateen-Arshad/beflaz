@@ -16554,3 +16554,12 @@
 [2026-10-23 07:33:57 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1449 in / 474 out tokens
 [2026-10-23 07:48:28 PM] [NEWS_BOT] [SUCCESS] Published: Govt raises high-speed diesel rate by Rs1.91 per litre; petrol price unchanged at Rs377.71
 [2026-10-23 07:48:29 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 908 in / 551 out tokens
+[2026-10-23 07:48:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba0e4d464202a0096550b0985d5
+[2026-10-23 07:48:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan’s job drought leaves millions high and dry
+[2026-10-23 07:48:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba0e4d464202a0096550b0985d5
+[2026-10-23 07:48:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-23 07:48:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbba0e4d464202a0096550b0985d5
+[2026-10-23 07:48:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-23 07:48:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-23 07:49:02 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan eyes investment led growth after $3 billion Eurobond issuance
+[2026-10-23 07:49:03 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1334 in / 384 out tokens
