@@ -17273,3 +17273,20 @@
 [2026-10-24 07:29:42 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-24 07:30:10 PM] [NEWS_BOT] [SUCCESS] Published: In Berlin meeting, Siemens affirms support for strengthening Pakistan's healthcare infrastructure
 [2026-10-24 07:30:11 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1410 in / 498 out tokens
+[2026-10-24 07:30:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add0744e55d459a886cecba0db3f2b
+[2026-10-24 07:30:12 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-24 07:30:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add0745dff44d1398563c8ffaa5662
+[2026-10-24 07:30:13 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-24 07:30:14 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 237/400 chars, resolved=True): Pakistan talks peace with Iran, defends Saudis against Tehran’s proxie
+[2026-10-24 07:30:17 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 07:30:30 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (141 words, need 150)): Work, Naddeo (Aran): "Public sector can be an example for the private 
+[2026-10-24 07:30:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add0745dff44d1398563c8ffaa5662
+[2026-10-24 07:30:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): In 1999, Jordan sank an M42 anti-aircraft tank off Aqaba to create an 
+[2026-10-24 07:30:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add0757cada4734b837ff792bc9047
+[2026-10-24 07:30:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-24 07:30:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add0757cada4734b837ff792bc9047
+[2026-10-24 07:30:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Pakistan rebuts Afghan Taliban over cross-border terrorism
+[2026-10-24 07:30:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add0758440c4cb6b8befcbf2856d90
+[2026-10-24 07:30:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-24 07:30:33 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 2221 in / 328 out tokens
+[2026-10-24 07:30:33 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 4, 'rejected': 1}
