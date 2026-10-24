@@ -16750,3 +16750,12 @@
 [2026-10-24 02:11:04 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-24 02:11:26 AM] [NEWS_BOT] [SUCCESS] Published: Fuel dealers urge consumers to avoid ‘panic buying’
 [2026-10-24 02:11:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1500 in / 507 out tokens
+[2026-10-24 02:11:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13d02a2a4b4588aa8e9c7dc8066
+[2026-10-24 02:11:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan’s job drought leaves millions high and dry
+[2026-10-24 02:11:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13d02a2a4b4588aa8e9c7dc8066
+[2026-10-24 02:11:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-24 02:11:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13d02a2a4b4588aa8e9c7dc8066
+[2026-10-24 02:11:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-24 02:11:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 02:11:52 AM] [JOBS_BOT] [SUCCESS] Published: The budget press releases begin
+[2026-10-24 02:11:53 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1627 in / 381 out tokens
