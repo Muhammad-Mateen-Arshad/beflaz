@@ -16886,3 +16886,21 @@
 [2026-10-24 03:30:31 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
 [2026-10-24 07:29:50 AM] [NEWS_BOT] [SUCCESS] Published: Trump’s threat to strike Iran raises public concerns, congressional questions
 [2026-10-24 07:29:51 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1389 in / 464 out tokens
+[2026-10-24 07:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5e6f269041669bdb5bfddc092f9
+[2026-10-24 07:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-24 07:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5e6f269041669bdb5bfddc092f9
+[2026-10-24 07:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-24 07:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5e6f269041669bdb5bfddc092f9
+[2026-10-24 07:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Government first-time buyer scheme unlikely to launch until 2027
+[2026-10-24 07:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5e70b56c439ba19a56fa02bcb4c
+[2026-10-24 07:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-24 07:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5e70b56c439ba19a56fa02bcb4c
+[2026-10-24 07:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Khera questions Modi govt over continuing China face-offs, demands ans
+[2026-10-24 07:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5e70b56c439ba19a56fa02bcb4c
+[2026-10-24 07:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “NAZA” and Israel’s History of Automated Warfare
+[2026-10-24 07:30:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 07:30:16 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): The 2017 Save Sindh March: A 500-Kilometre Journey For Provincial Righ
+[2026-10-24 07:30:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5e884142472aadfa937227d541e
+[2026-10-24 07:30:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-24 07:30:17 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1636 in / 334 out tokens
+[2026-10-24 07:30:17 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 5, 'rejected': 1}
