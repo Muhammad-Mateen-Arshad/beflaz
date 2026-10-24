@@ -17388,3 +17388,8 @@
 [2026-10-24 11:30:19 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-24 11:30:57 PM] [JOBS_BOT] [SUCCESS] Published: Houthis deny targeting Mecca and Medina, renew threat to Riyadh airport
 [2026-10-24 11:30:57 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 449 in / 389 out tokens
+[2026-10-24 11:30:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 11:31:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 11:31:02 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-24 11:31:27 PM] [DRAMAS_BOT] [SUCCESS] Published: Türkiye, Indonesia to co-produce film on Ottoman-Southeast Asian ties
+[2026-10-24 11:31:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 761 in / 567 out tokens
