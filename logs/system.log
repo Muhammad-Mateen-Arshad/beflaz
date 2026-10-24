@@ -17340,3 +17340,12 @@
 [2026-10-24 10:04:24 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-24 10:04:54 PM] [JOBS_BOT] [SUCCESS] Published: Military reform in Kazakhstan: What changes await the army
 [2026-10-24 10:04:55 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1422 in / 646 out tokens
+[2026-10-24 10:04:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 10:04:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
+[2026-10-24 10:04:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add2b89f00d4f1ab2043fe82e5ba22
+[2026-10-24 10:04:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Netflix Korea 10th anniversary: Solo Leveling, Grand Galaxy Hotel, All
+[2026-10-24 10:04:59 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 10:05:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-24 10:05:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-24 10:06:29 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Korea 10th Anniversary: Solo Leveling, Tantara, All Of Us Are Dead 2 - Actors, New K-Dramas At OTT Mega Event
+[2026-10-24 10:06:30 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1665 in / 549 out tokens
