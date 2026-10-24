@@ -17393,3 +17393,10 @@
 [2026-10-24 11:31:02 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-24 11:31:27 PM] [DRAMAS_BOT] [SUCCESS] Published: Türkiye, Indonesia to co-produce film on Ottoman-Southeast Asian ties
 [2026-10-24 11:31:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 761 in / 567 out tokens
+[2026-10-24 11:31:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd162514040b702fda41a09c36
+[2026-10-24 11:31:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Ohio spent more than a billion dollars on private school vouchers this
+[2026-10-24 11:31:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd162514040b702fda41a09c36
+[2026-10-24 11:31:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): AOC dishes lamebrain reason why she supports men in women’s sports: ‘I
+[2026-10-24 11:31:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd162514040b702fda41a09c36
+[2026-10-24 11:31:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): As Trump fights over what America owes, slavery descendants organize f
+[2026-10-24 11:31:30 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 3, 'thin': 3, 'already_seen': 10}
