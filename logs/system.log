@@ -16907,3 +16907,11 @@
 [2026-10-24 07:30:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-10-24 07:30:44 AM] [DRAMAS_BOT] [SUCCESS] Published: Rome? Done. Cairo? Next. Ahmet Umit is taking his detectives on a world tour
 [2026-10-24 07:30:45 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1487 in / 528 out tokens
+[2026-10-24 07:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ea684b84f8887b2db4115f7b08
+[2026-10-24 07:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): As Trump fights over what America owes, slavery descendants organize f
+[2026-10-24 07:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ea6ac2c4f67bcec6de9512f2f6
+[2026-10-24 07:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan, Maldives sign 20 MoUs, target $200m in trade in two years - 
+[2026-10-24 07:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ea6ac2c4f67bcec6de9512f2f6
+[2026-10-24 07:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan, Maldives agree to boost bilateral trade to $200m in two year
+[2026-10-24 07:31:14 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: OGDCL and NAVTTC Announce New Technical Training Courses in Islamabad
+[2026-10-24 07:31:15 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 789 in / 423 out tokens
