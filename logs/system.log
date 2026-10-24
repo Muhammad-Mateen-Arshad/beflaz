@@ -17329,3 +17329,14 @@
 [2026-10-24 10:02:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-24 10:04:19 PM] [NEWS_BOT] [SUCCESS] Published: Former skipper Shan Masood axed as Pakistan turn to youth for Sri Lanka Tests
 [2026-10-24 10:04:20 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1240 in / 593 out tokens
+[2026-10-24 10:04:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add2b645eb04772bdbaf54415970f5
+[2026-10-24 10:04:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-24 10:04:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add2b651030464d87bea71b8b5c555
+[2026-10-24 10:04:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Youth in revolt: A roundup of protests in Europe and around the world
+[2026-10-24 10:04:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add2b651030464d87bea71b8b5c555
+[2026-10-24 10:04:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Canada Deal Cements Turkey’s Position as a Military-Industrial Power. 
+[2026-10-24 10:04:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add2b651030464d87bea71b8b5c555
+[2026-10-24 10:04:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-24 10:04:24 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 10:04:54 PM] [JOBS_BOT] [SUCCESS] Published: Military reform in Kazakhstan: What changes await the army
+[2026-10-24 10:04:55 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1422 in / 646 out tokens
