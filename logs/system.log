@@ -16928,3 +16928,20 @@
 [2026-10-24 07:31:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ec645554f69869f60db15bf0a9
 [2026-10-24 07:31:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
 [2026-10-24 07:31:18 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-24 07:31:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ec65b5e4934a2019ded2a8347a
+[2026-10-24 07:31:19 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 182/400 chars, resolved=True): Newly identified dinosaur was a slimmer, more maneuverable cousin to T
+[2026-10-24 07:31:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ec65b5e4934a2019ded2a8347a
+[2026-10-24 07:31:19 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Dinosaur prints safeguarded
+[2026-10-24 07:31:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ec65b5e4934a2019ded2a8347a
+[2026-10-24 07:31:19 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The first dinos that only ate fruit munched like parrots
+[2026-10-24 07:31:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ec72614437fa4cd80e1f96fcd0
+[2026-10-24 07:31:19 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-24 07:31:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ec78ac14bf8b545b0301d69e79
+[2026-10-24 07:31:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-24 07:31:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ec78ac14bf8b545b0301d69e79
+[2026-10-24 07:31:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-24 07:31:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ec889c8463a8be2c67aa65785b
+[2026-10-24 07:31:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Prehistoric 'hell ant' found frozen inside amber fossil devouring its 
+[2026-10-24 07:31:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc5ec889c8463a8be2c67aa65785b
+[2026-10-24 07:31:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): It stood 3m tall and was armed with some of the deadliest weaponry of 
+[2026-10-24 07:31:20 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
