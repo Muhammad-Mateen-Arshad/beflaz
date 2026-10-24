@@ -17106,3 +17106,19 @@
 [2026-10-24 02:57:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc76d038c4f7098b425c500704e2
 [2026-10-24 02:57:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Lahore tops global pollution rankings as AQI hits 500 in several areas
 [2026-10-24 02:57:50 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-10-24 02:57:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 02:57:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc770e9d3453c803c93d40588558
+[2026-10-24 02:57:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-24 02:57:53 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
+[2026-10-24 02:57:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc7714b03402db8c1a3c075a954e
+[2026-10-24 02:57:53 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): 2 years later, Netflix's best fantasy series returns with first look a
+[2026-10-24 02:57:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc7714b03402db8c1a3c075a954e
+[2026-10-24 02:57:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): 3 best Netflix series to binge-watch this weekend (Oct 23–25, 2026)
+[2026-10-24 02:57:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc7714b03402db8c1a3c075a954e
+[2026-10-24 02:57:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): A ‘The Gentlemen’ Season 3 Release Date Update, Plus ‘Lord Of The Ring
+[2026-10-24 02:58:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 02:58:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-24 02:58:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-24 02:58:38 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 02:59:09 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Reportedly Offered $500 Million for Xbox Movies and Shows. Microsoft Wanted $800 Million
+[2026-10-24 02:59:10 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 990 in / 480 out tokens
