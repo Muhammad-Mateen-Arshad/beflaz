@@ -17173,3 +17173,13 @@
 [2026-10-24 03:30:27 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-24 03:30:27 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Another Self’ Season 4 Will Never Happen and Here’s Why the Finale Is a Bigger Deal Than Fans Realize
 [2026-10-24 03:30:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1406 in / 517 out tokens
+[2026-10-24 03:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccf1498154bf487329caa3c60dbd
+[2026-10-24 03:30:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Ohio spent more than a billion dollars on private school vouchers this
+[2026-10-24 03:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccf1498154bf487329caa3c60dbd
+[2026-10-24 03:30:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): A review of book on scholarships, grants, opportunities, luck
+[2026-10-24 03:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccf1498154bf487329caa3c60dbd
+[2026-10-24 03:30:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): As Trump fights over what America owes, slavery descendants organize f
+[2026-10-24 03:30:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 03:30:39 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 03:31:04 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Why Choose a Degree in Economics in 2026
+[2026-10-24 03:31:05 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1298 in / 517 out tokens
