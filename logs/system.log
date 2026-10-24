@@ -17145,3 +17145,18 @@
 [2026-10-24 03:01:50 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1687 in / 479 out tokens
 [2026-10-24 03:29:48 PM] [NEWS_BOT] [SUCCESS] Published: Aurangzeb rules out consumption-led growth, says tariff reforms will continue
 [2026-10-24 03:29:49 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1435 in / 526 out tokens
+[2026-10-24 03:29:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcceed85fe4168aa9ecc268743269
+[2026-10-24 03:29:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-24 03:29:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcceed85fe4168aa9ecc268743269
+[2026-10-24 03:29:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Growth to remain moderate at 4.2%
+[2026-10-24 03:29:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcceeed0b04cd9b557143eb90e44c
+[2026-10-24 03:29:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-24 03:29:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 237/400 chars, resolved=True): Pakistan talks peace with Iran, defends Saudis against Tehran’s proxie
+[2026-10-24 03:29:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 234/400 chars, resolved=True): Baluch insurgency tests a war-weakened Islamic Republic as attacks mou
+[2026-10-24 03:29:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcceeed0b04cd9b557143eb90e44c
+[2026-10-24 03:29:53 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): In 1999, Jordan sank an M42 anti-aircraft tank off Aqaba to create an 
+[2026-10-24 03:29:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccef1862a4799bf3f489bb1da43d
+[2026-10-24 03:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
+[2026-10-24 03:29:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccef1862a4799bf3f489bb1da43d
+[2026-10-24 03:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Lahore tops global pollution rankings as AQI hits 500 in several areas
+[2026-10-24 03:29:54 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
