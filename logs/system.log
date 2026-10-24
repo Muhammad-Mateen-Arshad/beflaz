@@ -17379,3 +17379,12 @@
 [2026-10-24 11:29:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-24 11:30:15 PM] [NEWS_BOT] [SUCCESS] Published: 'Missing' Junaid Akbar remains PTI's KP president; Senator Noorul Haq Qadri to assume duties in his absence
 [2026-10-24 11:30:16 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1561 in / 484 out tokens
+[2026-10-24 11:30:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3f89ed2b43bca028a0cdbee331f
+[2026-10-24 11:30:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-24 11:30:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3f898b4f4f0da8f22bd242b3ed2
+[2026-10-24 11:30:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Beyond the Battlefield Goverdhan Singh Jamwal on Past, Present and Fut
+[2026-10-24 11:30:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3f898b4f4f0da8f22bd242b3ed2
+[2026-10-24 11:30:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Youth in revolt: A roundup of protests in Europe and around the world
+[2026-10-24 11:30:19 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 11:30:57 PM] [JOBS_BOT] [SUCCESS] Published: Houthis deny targeting Mecca and Medina, renew threat to Riyadh airport
+[2026-10-24 11:30:57 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 449 in / 389 out tokens
