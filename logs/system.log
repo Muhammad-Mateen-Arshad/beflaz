@@ -17211,3 +17211,5 @@
 [2026-10-24 03:31:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccf3d23e84cb6ba394fc7e4d389c
 [2026-10-24 03:31:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): It stood 3m tall and was armed with some of the deadliest weaponry of 
 [2026-10-24 03:31:09 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-10-24 06:25:11 PM] [NEWS_BOT] [SUCCESS] Published: Islamabad rebuts Kabul's stance on ‘lacking capacity’ to fuel insecurity in Pakistan, slams 'diversionary allegations'
+[2026-10-24 06:25:12 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1430 in / 548 out tokens
