@@ -17089,3 +17089,5 @@
 [2026-10-24 11:32:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc975d0bc24ff1bd2986db7dbbc98
 [2026-10-24 11:32:46 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Prehistoric 'hell ant' found frozen inside amber fossil devouring its 
 [2026-10-24 11:32:46 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-10-24 02:57:44 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan rejects ex-US envoy Khalilzad’s 'baseless' allegations of arming Afghans to fight Taliban
+[2026-10-24 02:57:45 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1004 in / 471 out tokens
