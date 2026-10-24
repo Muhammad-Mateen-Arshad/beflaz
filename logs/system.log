@@ -17063,3 +17063,12 @@
 [2026-10-24 11:32:04 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-24 11:32:05 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Scholarship Universe
 [2026-10-24 11:32:06 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2765 in / 831 out tokens
+[2026-10-24 11:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-24 11:32:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-24 11:32:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9737b51f41139a12d81b373a39a
+[2026-10-24 11:32:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-24 11:32:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9737b51f41139a12d81b373a39a
+[2026-10-24 11:32:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 135/800 chars, resolved=True): The Ingredient in Your Coffee That Is Worse for Your Diet Than Sugar
+[2026-10-24 11:32:14 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 11:32:42 AM] [HEALTH_BOT] [SUCCESS] Published: Body composition scans are the latest health optimisation tool on the market – 3 types to know
+[2026-10-24 11:32:43 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1340 in / 567 out tokens
