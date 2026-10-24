@@ -17413,3 +17413,18 @@
 [2026-10-24 11:31:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd34f4b4fedaa012cbe6d6b9cd
 [2026-10-24 11:31:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
 [2026-10-24 11:31:31 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-24 11:31:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd44ef54a8db03468eca42e3e2
+[2026-10-24 11:31:32 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Rare Nanotyrannus skeleton found in 2019 heads to auction for $9 milli
+[2026-10-24 11:31:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd46c3b4b4f8095996ed736bab
+[2026-10-24 11:31:32 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-24 11:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd435a649d9b298ed4d787991f
+[2026-10-24 11:31:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-24 11:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd435a649d9b298ed4d787991f
+[2026-10-24 11:31:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-24 11:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd5df1149719e03dde8f40fcd1
+[2026-10-24 11:31:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Prehistoric 'hell ant' found frozen inside amber fossil devouring its 
+[2026-10-24 11:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd5df1149719e03dde8f40fcd1
+[2026-10-24 11:31:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): It stood 3m tall and was armed with some of the deadliest weaponry of 
+[2026-10-24 11:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd5df1149719e03dde8f40fcd1
+[2026-10-24 11:31:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): This Unusual-Looking Snake Has a Fake Spider on its Tail, Using It to 
+[2026-10-24 11:31:33 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 7, 'thin': 7}
