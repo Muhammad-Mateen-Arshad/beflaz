@@ -16759,3 +16759,17 @@
 [2026-10-24 02:11:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-24 02:11:52 AM] [JOBS_BOT] [SUCCESS] Published: The budget press releases begin
 [2026-10-24 02:11:53 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1627 in / 381 out tokens
+[2026-10-24 02:11:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 02:11:56 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 295/300 chars, resolved=True): Palmeiras and Estudiantes to meet in 2026 CONMEBOL Libertadores Final 
+[2026-10-24 02:11:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
+[2026-10-24 02:11:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13ed06354331b124759545ea78a
+[2026-10-24 02:11:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 135/300 chars, resolved=True): Netflix’s One Piece Season 3 Gets a Major Release Date Update From Joe
+[2026-10-24 02:11:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13ed06354331b124759545ea78a
+[2026-10-24 02:11:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 162/300 chars, resolved=True): Inside Netflix’s high-stakes shake-up: Peter Rice’s plans for a new co
+[2026-10-24 02:11:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13ed06354331b124759545ea78a
+[2026-10-24 02:11:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 150/300 chars, resolved=True): Netflix is making sci-fi history with its first Philip K Dick series
+[2026-10-24 02:11:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13eee7744833a3ad72d8c6549a6
+[2026-10-24 02:11:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-24 02:11:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13eee7744833a3ad72d8c6549a6
+[2026-10-24 02:11:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Top Stories for October 22, 2026
+[2026-10-24 02:11:58 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
