@@ -16773,3 +16773,15 @@
 [2026-10-24 02:11:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13eee7744833a3ad72d8c6549a6
 [2026-10-24 02:11:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Top Stories for October 22, 2026
 [2026-10-24 02:11:58 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-10-24 02:12:00 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 02:12:26 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (49 words, need 150)): Voter Guide: Here’s where south-central KS legislative candidates stan
+[2026-10-24 02:12:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc13eeeeba4325aa432e05435e9b2
+[2026-10-24 02:12:26 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Irish artists call on Taoiseach to intervene over refusal of study vis
+[2026-10-24 02:12:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc140af124424eaa4be6d6dad30a9
+[2026-10-24 02:12:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan, Maldives sign 20 MoUs, target $200m in trade in two years - 
+[2026-10-24 02:12:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc140af124424eaa4be6d6dad30a9
+[2026-10-24 02:12:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan, Maldives agree to boost bilateral trade to $200m in two year
+[2026-10-24 02:12:28 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-24 02:12:42 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (119 words, need 150)): Bangladesh envoy sees billions in untapped Pakistan trade potential
+[2026-10-24 02:13:05 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab Boards Announce Class 11 and 12 Exam Date Sheet 2026
+[2026-10-24 02:13:06 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 3 calls, 3470 in / 994 out tokens
