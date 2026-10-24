@@ -17228,3 +17228,14 @@
 [2026-10-24 06:26:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-24 06:26:45 PM] [DRAMAS_BOT] [SUCCESS] Published: The Better Men List 2026: Celebrating the Good Guys Defining Positive Masculinity
 [2026-10-24 06:26:47 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1596 in / 502 out tokens
+[2026-10-24 06:26:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcf867187e4780be93ed1df750440
+[2026-10-24 06:26:47 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Ohio spent more than a billion dollars on private school vouchers this
+[2026-10-24 06:26:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcf867187e4780be93ed1df750440
+[2026-10-24 06:26:48 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): As Trump fights over what America owes, slavery descendants organize f
+[2026-10-24 06:26:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcf8686083403e86ca7b46da5e586
+[2026-10-24 06:26:48 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): Pakistan News | Latest Headlines & Stories | Reuters
+[2026-10-24 06:26:49 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 06:27:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-24 06:27:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-24 06:28:18 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Govt increases diesel price by Rs1.91 per litre, keeps petrol unchanged
+[2026-10-24 06:28:19 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 921 in / 334 out tokens
