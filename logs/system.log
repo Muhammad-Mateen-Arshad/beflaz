@@ -16884,3 +16884,5 @@
 [2026-10-24 03:30:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc265733b5480dba6179bd2f1d774
 [2026-10-24 03:30:31 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): This Unusual-Looking Snake Has a Fake Spider on its Tail, Using It to 
 [2026-10-24 03:30:31 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-10-24 07:29:50 AM] [NEWS_BOT] [SUCCESS] Published: Trump’s threat to strike Iran raises public concerns, congressional questions
+[2026-10-24 07:29:51 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1389 in / 464 out tokens
