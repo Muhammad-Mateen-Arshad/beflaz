@@ -17022,3 +17022,19 @@
 [2026-10-24 08:29:10 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
 [2026-10-24 11:29:56 AM] [NEWS_BOT] [SUCCESS] Published: R4, European nations call for dialogue to resolve Middle East conflicts: FO
 [2026-10-24 11:29:57 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 701 in / 464 out tokens
+[2026-10-24 11:29:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96b5c3224d35a6007e2453a174e
+[2026-10-24 11:29:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Kashmiri anger festers seven years after Article 370 was scrapped, ICG
+[2026-10-24 11:29:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96b5c3224d35a6007e2453a174e
+[2026-10-24 11:29:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-24 11:29:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96b5c3224d35a6007e2453a174e
+[2026-10-24 11:29:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-24 11:29:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96b5c3224d35a6007e2453a174e
+[2026-10-24 11:29:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-24 11:29:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96b73d59441ca4db9c089bf2719
+[2026-10-24 11:29:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-24 11:29:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96b73d59441ca4db9c089bf2719
+[2026-10-24 11:29:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-24 11:29:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96b73d59441ca4db9c089bf2719
+[2026-10-24 11:29:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Khera questions Modi govt over continuing China face-offs, demands ans
+[2026-10-24 11:30:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 234/400 chars, resolved=True): Baluch insurgency tests a war-weakened Islamic Republic as attacks mou
+[2026-10-24 11:30:01 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
