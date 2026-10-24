@@ -17301,3 +17301,11 @@
 [2026-10-24 07:31:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add077897f6460d977d96de3d0f03e
 [2026-10-24 07:31:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): As Trump fights over what America owes, slavery descendants organize f
 [2026-10-24 07:31:05 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 3, 'thin': 3, 'already_seen': 10}
+[2026-10-24 07:31:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-24 07:31:06 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-24 07:31:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add077a52ae43f6aad375b88f0d9c4
+[2026-10-24 07:31:07 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-24 07:31:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add077a52ae43f6aad375b88f0d9c4
+[2026-10-24 07:31:07 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 135/800 chars, resolved=True): The Ingredient in Your Coffee That Is Worse for Your Diet Than Sugar
+[2026-10-24 07:32:05 PM] [HEALTH_BOT] [SUCCESS] Published: 6 Surprising Ways to Extend Your Beloved Cat’s Life
+[2026-10-24 07:32:06 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1672 in / 592 out tokens
