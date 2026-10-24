@@ -17294,3 +17294,10 @@
 [2026-10-24 07:30:35 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
 [2026-10-24 07:31:02 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s ‘Cyberpunk’ Universe Is Officially Back With a New Release
 [2026-10-24 07:31:03 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1419 in / 421 out tokens
+[2026-10-24 07:31:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add077897f6460d977d96de3d0f03e
+[2026-10-24 07:31:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Ohio spent more than a billion dollars on private school vouchers this
+[2026-10-24 07:31:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add077897f6460d977d96de3d0f03e
+[2026-10-24 07:31:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): AOC dishes lamebrain reason why she supports men in women’s sports: ‘I
+[2026-10-24 07:31:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add077897f6460d977d96de3d0f03e
+[2026-10-24 07:31:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): As Trump fights over what America owes, slavery descendants organize f
+[2026-10-24 07:31:05 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 3, 'thin': 3, 'already_seen': 10}
