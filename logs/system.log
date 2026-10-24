@@ -16785,3 +16785,19 @@
 [2026-10-24 02:12:42 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (119 words, need 150)): Bangladesh envoy sees billions in untapped Pakistan trade potential
 [2026-10-24 02:13:05 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab Boards Announce Class 11 and 12 Exam Date Sheet 2026
 [2026-10-24 02:13:06 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 3 calls, 3470 in / 994 out tokens
+[2026-10-24 02:13:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-24 02:13:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-24 02:13:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc1433d45147fda6ea58f3e85fffb
+[2026-10-24 02:13:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 135/800 chars, resolved=True): The Ingredient in Your Coffee That Is Worse for Your Diet Than Sugar
+[2026-10-24 02:13:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc1433d45147fda6ea58f3e85fffb
+[2026-10-24 02:13:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-24 02:13:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc1433d45147fda6ea58f3e85fffb
+[2026-10-24 02:13:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-24 02:13:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc1433d45147fda6ea58f3e85fffb
+[2026-10-24 02:13:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-24 02:13:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc1434834042acbae12b690773d32
+[2026-10-24 02:13:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 187/800 chars, resolved=True): 9 signs your body is aging faster than you are
+[2026-10-24 02:13:09 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 02:13:11 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-24 02:13:41 AM] [HEALTH_BOT] [SUCCESS] Published: 10 Simple Ways Seniors Can Keep Their Knees Healthy, Strong and Pain-Free as They Age, According to Experts
+[2026-10-24 02:13:42 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1483 in / 581 out tokens
