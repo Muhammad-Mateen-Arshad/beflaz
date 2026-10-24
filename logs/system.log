@@ -17122,3 +17122,8 @@
 [2026-10-24 02:58:38 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-24 02:59:09 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Reportedly Offered $500 Million for Xbox Movies and Shows. Microsoft Wanted $800 Million
 [2026-10-24 02:59:10 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 990 in / 480 out tokens
+[2026-10-24 02:59:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc7be03de4e058923839a0aa2c79
+[2026-10-24 02:59:11 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Ohio spent more than a billion dollars on private school vouchers this
+[2026-10-24 02:59:24 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 02:59:59 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Tanuj Samaddar Wins the Commonwealth Scholarship in the UK
+[2026-10-24 03:00:01 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 818 in / 458 out tokens
