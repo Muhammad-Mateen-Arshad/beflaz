@@ -17269,3 +17269,7 @@
 [2026-10-24 06:28:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcf8c74e9a48f884819b743a7a3d1
 [2026-10-24 06:28:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): It stood 3m tall and was armed with some of the deadliest weaponry of 
 [2026-10-24 06:28:23 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-10-24 07:29:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 07:29:42 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 07:30:10 PM] [NEWS_BOT] [SUCCESS] Published: In Berlin meeting, Siemens affirms support for strengthening Pakistan's healthcare infrastructure
+[2026-10-24 07:30:11 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1410 in / 498 out tokens
