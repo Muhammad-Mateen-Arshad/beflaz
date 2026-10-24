@@ -17326,3 +17326,6 @@
 [2026-10-24 07:32:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add07b8d8d44bcd8800cdd4ec9c1a7
 [2026-10-24 07:32:08 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): It stood 3m tall and was armed with some of the deadliest weaponry of 
 [2026-10-24 07:32:08 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-10-24 10:02:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 10:04:19 PM] [NEWS_BOT] [SUCCESS] Published: Former skipper Shan Masood axed as Pakistan turn to youth for Sri Lanka Tests
+[2026-10-24 10:04:20 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1240 in / 593 out tokens
