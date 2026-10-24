@@ -17290,3 +17290,7 @@
 [2026-10-24 07:30:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
 [2026-10-24 07:30:33 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 2221 in / 328 out tokens
 [2026-10-24 07:30:33 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 4, 'rejected': 1}
+[2026-10-24 07:30:34 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 07:30:35 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
+[2026-10-24 07:31:02 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s ‘Cyberpunk’ Universe Is Officially Back With a New Release
+[2026-10-24 07:31:03 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1419 in / 421 out tokens
