@@ -17038,3 +17038,12 @@
 [2026-10-24 11:29:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Khera questions Modi govt over continuing China face-offs, demands ans
 [2026-10-24 11:30:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 234/400 chars, resolved=True): Baluch insurgency tests a war-weakened Islamic Republic as attacks mou
 [2026-10-24 11:30:01 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-10-24 11:30:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 11:30:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 295/300 chars, resolved=True): Palmeiras and Estudiantes to meet in 2026 CONMEBOL Libertadores Final 
+[2026-10-24 11:30:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96bae60648a890a3f13b5328265
+[2026-10-24 11:30:04 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 126/300 chars, resolved=True): Population 1: 10 smallest towns in America
+[2026-10-24 11:30:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96bc2e09478894304650e057190
+[2026-10-24 11:30:04 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): 2 years later, Netflix's best fantasy series returns with first look a
+[2026-10-24 11:30:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 11:30:45 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Korea’s 10th Anniversary Showcase: ‘All of Us Are Dead’ Season 2, ‘Solo Leveling’ & 4 More Titles Previewed
+[2026-10-24 11:30:46 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1809 in / 530 out tokens
