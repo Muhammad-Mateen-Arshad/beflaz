@@ -16963,3 +16963,18 @@
 [2026-10-24 08:27:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bf3d5b94ebd984d7b13691dc6c
 [2026-10-24 08:27:32 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
 [2026-10-24 08:27:32 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-10-24 08:27:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 08:27:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 295/300 chars, resolved=True): Palmeiras and Estudiantes to meet in 2026 CONMEBOL Libertadores Final 
+[2026-10-24 08:27:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bf7af3649e692cbdc8c7aca06e
+[2026-10-24 08:27:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): 2 years later, Netflix's best fantasy series returns with first look a
+[2026-10-24 08:27:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bf7af3649e692cbdc8c7aca06e
+[2026-10-24 08:27:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 135/300 chars, resolved=True): Netflix’s One Piece Season 3 Gets a Major Release Date Update From Joe
+[2026-10-24 08:27:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bf7af3649e692cbdc8c7aca06e
+[2026-10-24 08:27:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): A ‘The Gentlemen’ Season 3 Release Date Update, Plus ‘Lord Of The Ring
+[2026-10-24 08:27:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bf7af3649e692cbdc8c7aca06e
+[2026-10-24 08:27:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): Liam Neeson & Bradley Cooper’s $177M remake of ’80s action series offi
+[2026-10-24 08:27:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bf8cbe047c8bd3d4914a38c581
+[2026-10-24 08:27:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-24 08:27:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bf8cbe047c8bd3d4914a38c581
+[2026-10-24 08:27:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Top Stories for October 22, 2026
+[2026-10-24 08:27:37 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
