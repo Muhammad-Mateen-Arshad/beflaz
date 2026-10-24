@@ -17047,3 +17047,19 @@
 [2026-10-24 11:30:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-24 11:30:45 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Korea’s 10th Anniversary Showcase: ‘All of Us Are Dead’ Season 2, ‘Solo Leveling’ & 4 More Titles Previewed
 [2026-10-24 11:30:46 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1809 in / 530 out tokens
+[2026-10-24 11:30:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96e7be9e4df09570c5f16cf09dd
+[2026-10-24 11:30:47 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Ohio spent more than a billion dollars on private school vouchers this
+[2026-10-24 11:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96e7be9e4df09570c5f16cf09dd
+[2026-10-24 11:31:02 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Tanuj Samaddar Wins the Commonwealth Scholarship in the UK
+[2026-10-24 11:31:15 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (136 words, need 150)): The Path to MLB Immediately After High School｜stpete
+[2026-10-24 11:31:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc96e7be9e4df09570c5f16cf09dd
+[2026-10-24 11:31:15 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): As Trump fights over what America owes, slavery descendants organize f
+[2026-10-24 11:31:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc97031e7341da9619708b4837932
+[2026-10-24 11:31:15 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan, Maldives sign 20 MoUs, target $200m in trade in two years - 
+[2026-10-24 11:31:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc97031e7341da9619708b4837932
+[2026-10-24 11:31:15 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan, Maldives agree to boost bilateral trade to $200m in two year
+[2026-10-24 11:31:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 11:31:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-24 11:32:04 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-24 11:32:05 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Scholarship Universe
+[2026-10-24 11:32:06 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2765 in / 831 out tokens
