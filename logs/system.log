@@ -16904,3 +16904,6 @@
 [2026-10-24 07:30:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan Telecommunication Authority PTA Jobs 2026 Apply Online
 [2026-10-24 07:30:17 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1636 in / 334 out tokens
 [2026-10-24 07:30:17 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 5, 'rejected': 1}
+[2026-10-24 07:30:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 07:30:44 AM] [DRAMAS_BOT] [SUCCESS] Published: Rome? Done. Cairo? Next. Ahmet Umit is taking his detectives on a world tour
+[2026-10-24 07:30:45 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1487 in / 528 out tokens
