@@ -16744,3 +16744,9 @@
 [2026-10-23 11:31:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbee39d26b4926ab67662e823498b
 [2026-10-23 11:31:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): This Unusual-Looking Snake Has a Fake Spider on its Tail, Using It to 
 [2026-10-23 11:31:05 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-10-24 02:10:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 02:10:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-24 02:10:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-24 02:11:04 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 02:11:26 AM] [NEWS_BOT] [SUCCESS] Published: Fuel dealers urge consumers to avoid ‘panic buying’
+[2026-10-24 02:11:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1500 in / 507 out tokens
