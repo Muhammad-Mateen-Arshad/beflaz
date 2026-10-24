@@ -16801,3 +16801,13 @@
 [2026-10-24 02:13:11 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-24 02:13:41 AM] [HEALTH_BOT] [SUCCESS] Published: 10 Simple Ways Seniors Can Keep Their Knees Healthy, Strong and Pain-Free as They Age, According to Experts
 [2026-10-24 02:13:42 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1483 in / 581 out tokens
+[2026-10-24 02:13:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc14572d2a41e9881e2d9ad0c939c
+[2026-10-24 02:13:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 182/400 chars, resolved=True): Newly identified dinosaur was a slimmer, more maneuverable cousin to T
+[2026-10-24 02:13:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc14572d2a41e9881e2d9ad0c939c
+[2026-10-24 02:13:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Dinosaur prints safeguarded
+[2026-10-24 02:13:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc14572d2a41e9881e2d9ad0c939c
+[2026-10-24 02:13:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The first dinos that only ate fruit munched like parrots
+[2026-10-24 02:13:44 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 02:13:46 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-24 02:14:15 AM] [HISTORY_BOT] [SUCCESS] Published: Rare Ostrich-like Dinosaur arrives at the North Carolina Museum of Natural Sciences
+[2026-10-24 02:14:16 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 698 in / 451 out tokens
