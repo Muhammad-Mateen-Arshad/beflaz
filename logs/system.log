@@ -17374,3 +17374,8 @@
 [2026-10-24 10:07:39 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-24 10:08:10 PM] [HISTORY_BOT] [SUCCESS] Published: The Most Surprising Prehistoric Fossil Found in the US
 [2026-10-24 10:08:12 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1413 in / 448 out tokens
+[2026-10-24 11:29:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 11:29:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-24 11:29:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 11:30:15 PM] [NEWS_BOT] [SUCCESS] Published: 'Missing' Junaid Akbar remains PTI's KP president; Senator Noorul Haq Qadri to assume duties in his absence
+[2026-10-24 11:30:16 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1561 in / 484 out tokens
