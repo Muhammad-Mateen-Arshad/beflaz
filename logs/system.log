@@ -16813,3 +16813,19 @@
 [2026-10-24 02:14:16 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 698 in / 451 out tokens
 [2026-10-24 03:29:47 AM] [NEWS_BOT] [SUCCESS] Published: WB urges Pakistan to shift from stability to growth
 [2026-10-24 03:29:48 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1307 in / 399 out tokens
+[2026-10-24 03:29:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc262c55314fafb8ad1374f7a81b0
+[2026-10-24 03:29:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): GSP+ continuation vital for textile exports, jobs, livelihoods, EU env
+[2026-10-24 03:29:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc262c55314fafb8ad1374f7a81b0
+[2026-10-24 03:29:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-24 03:29:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc262c55314fafb8ad1374f7a81b0
+[2026-10-24 03:29:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 108/400 chars, resolved=True): Keeping Madhubala alive: The fight for Karachi’s captive elephants
+[2026-10-24 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc262c55314fafb8ad1374f7a81b0
+[2026-10-24 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Qaiser urges youth to embrace entrepreneurship to drive investment-led
+[2026-10-24 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc262e46ca40b6b71879f98a71d50
+[2026-10-24 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): India-US ties beyond trade: What Rubio and Gor said on visas, defence 
+[2026-10-24 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc262e46ca40b6b71879f98a71d50
+[2026-10-24 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Khera questions Modi govt over continuing China face-offs, demands ans
+[2026-10-24 03:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc262e46ca40b6b71879f98a71d50
+[2026-10-24 03:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “NAZA” and Israel’s History of Automated Warfare
+[2026-10-24 03:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 237/400 chars, resolved=True): Pakistan talks peace with Iran, defends Saudis against Tehran’s proxie
+[2026-10-24 03:29:52 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
