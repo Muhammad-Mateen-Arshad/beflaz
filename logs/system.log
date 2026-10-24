@@ -16978,3 +16978,15 @@
 [2026-10-24 08:27:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bf8cbe047c8bd3d4914a38c581
 [2026-10-24 08:27:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Top Stories for October 22, 2026
 [2026-10-24 08:27:37 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-10-24 08:27:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bf94d2a48e591686187f24ff04
+[2026-10-24 08:27:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): As Trump fights over what America owes, slavery descendants organize f
+[2026-10-24 08:27:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bfaa2e44805b67c6a1cba17033
+[2026-10-24 08:27:39 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Pakistan, Maldives sign 20 MoUs, target $200m in trade in two years - 
+[2026-10-24 08:27:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6bfaa2e44805b67c6a1cba17033
+[2026-10-24 08:27:39 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan, Maldives agree to boost bilateral trade to $200m in two year
+[2026-10-24 08:27:39 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 249/400 chars, resolved=True): Find a Theatre Scholarship
+[2026-10-24 08:27:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-24 08:28:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-24 08:28:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-24 08:29:03 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: National Fellowships and Scholar Programs
+[2026-10-24 08:29:04 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 912 in / 538 out tokens
