@@ -16990,3 +16990,16 @@
 [2026-10-24 08:28:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-24 08:29:03 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: National Fellowships and Scholar Programs
 [2026-10-24 08:29:04 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 912 in / 538 out tokens
+[2026-10-24 08:29:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-24 08:29:05 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-24 08:29:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6c52e0b640c7af304ed0cc7f8e3
+[2026-10-24 08:29:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-24 08:29:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6c52e0b640c7af304ed0cc7f8e3
+[2026-10-24 08:29:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 135/800 chars, resolved=True): The Ingredient in Your Coffee That Is Worse for Your Diet Than Sugar
+[2026-10-24 08:29:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6c52e0b640c7af304ed0cc7f8e3
+[2026-10-24 08:29:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-24 08:29:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6c52e0b640c7af304ed0cc7f8e3
+[2026-10-24 08:29:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-24 08:29:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc6c53cabc4404a9ce75c5c8adb09
+[2026-10-24 08:29:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
+[2026-10-24 08:29:07 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
