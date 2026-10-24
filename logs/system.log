@@ -17222,3 +17222,9 @@
 [2026-10-24 06:25:15 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): In 1999, Jordan sank an M42 anti-aircraft tank off Aqaba to create an 
 [2026-10-24 06:25:50 PM] [JOBS_BOT] [SUCCESS] Published: PML SD Public School, Sector 32, Chandigarh
 [2026-10-24 06:25:51 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 691 in / 368 out tokens
+[2026-10-24 06:25:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 06:25:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
+[2026-10-24 06:25:54 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-24 06:26:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-24 06:26:45 PM] [DRAMAS_BOT] [SUCCESS] Published: The Better Men List 2026: Celebrating the Good Guys Defining Positive Masculinity
+[2026-10-24 06:26:47 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1596 in / 502 out tokens
