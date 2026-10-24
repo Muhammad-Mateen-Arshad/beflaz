@@ -17160,3 +17160,16 @@
 [2026-10-24 03:29:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccef1862a4799bf3f489bb1da43d
 [2026-10-24 03:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Lahore tops global pollution rankings as AQI hits 500 in several areas
 [2026-10-24 03:29:54 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-10-24 03:29:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-24 03:29:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 281/300 chars, resolved=True): Barcelona star reveals why he is getting ‘tired’ of Real Madrid ahead 
+[2026-10-24 03:29:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccef4809f420ea2e03400d099565
+[2026-10-24 03:29:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): 2 years later, Netflix's best fantasy series returns with first look a
+[2026-10-24 03:29:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccef4809f420ea2e03400d099565
+[2026-10-24 03:29:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): 3 best Netflix series to binge-watch this weekend (Oct 23–25, 2026)
+[2026-10-24 03:29:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccef4809f420ea2e03400d099565
+[2026-10-24 03:29:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): A ‘The Gentlemen’ Season 3 Release Date Update, Plus ‘Lord Of The Ring
+[2026-10-24 03:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adccef4809f420ea2e03400d099565
+[2026-10-24 03:29:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 184/300 chars, resolved=True): What to know about ‘The Hunting Wives’ Season 2: Release date, cast an
+[2026-10-24 03:30:27 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-24 03:30:27 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Another Self’ Season 4 Will Never Happen and Here’s Why the Finale Is a Bigger Deal Than Fans Realize
+[2026-10-24 03:30:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1406 in / 517 out tokens
