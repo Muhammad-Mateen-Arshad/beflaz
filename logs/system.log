@@ -17681,3 +17681,21 @@
 [2026-10-25 11:32:23 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1607 in / 515 out tokens
 [2026-10-25 03:08:21 PM] [NEWS_BOT] [SUCCESS] Published: Shaheen takes four as Pakistan restrict England to 241 despite Duckett century in tri-series match
 [2026-10-25 03:08:23 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 971 in / 565 out tokens
+[2026-10-25 03:08:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1b67bdf84c1796973bd18910b23
+[2026-10-25 03:08:24 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-25 03:08:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1b681cd14cfe84f8097c096c2e4
+[2026-10-25 03:08:24 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Youth in revolt: A roundup of protests in Europe and around the world
+[2026-10-25 03:08:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1b681cd14cfe84f8097c096c2e4
+[2026-10-25 03:08:24 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Canada Deal Cements Turkey’s Position as a Military-Industrial Power. 
+[2026-10-25 03:08:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-25 03:08:47 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (129 words, need 150); too many 'not specified' (source too thin)): Kurbayev wins Kazakhstan's 1st medal at World Wrestling Championships 
+[2026-10-25 03:08:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 272/400 chars, resolved=True): Iran sends conflicting signals on US deal as Trump raises prospect of 
+[2026-10-25 03:08:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1b817d81460bb9fc44f4723fdc5
+[2026-10-25 03:08:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): R4, European powers pledge diplomacy to defuse regional conflicts, adv
+[2026-10-25 03:08:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1b8294074b7296bb4a650e30f4c
+[2026-10-25 03:08:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): DK Shivakumar's warning to Bengaluru IT firms after 'No jobs for Kanna
+[2026-10-25 03:08:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-25 03:08:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-25 03:09:44 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-25 03:09:45 PM] [JOBS_BOT] [SUCCESS] Published: World Bank warns of jobs crisis as Pakistan poverty rises to 29%
+[2026-10-25 03:09:46 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3529 in / 863 out tokens
