@@ -17948,3 +17948,18 @@
 [2026-10-25 07:31:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade592cf3184b1c98d58ac90db7383
 [2026-10-25 07:31:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
 [2026-10-25 07:31:57 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-25 07:31:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade592ee1424e189671a548ce09d5a
+[2026-10-25 07:31:58 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Public fossil excavation begins: 75-million-year-old dinosaur heads to
+[2026-10-25 07:31:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade592ee1424e189671a548ce09d5a
+[2026-10-25 07:31:58 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Paleontologists name a new dinosaur that lived in Uruguay 86 to 72 mil
+[2026-10-25 07:31:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade592f73724587a4d0d84f09ecb9c
+[2026-10-25 07:31:59 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-25 07:32:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade592f4801458e864f8f1bf23a50a
+[2026-10-25 07:32:00 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-25 07:32:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade592f4801458e864f8f1bf23a50a
+[2026-10-25 07:32:00 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-25 07:32:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade59300fe14dc4abef4e1fa7782ff
+[2026-10-25 07:32:00 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): It stood 3m tall and was armed with some of the deadliest weaponry of 
+[2026-10-25 07:32:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade59300fe14dc4abef4e1fa7782ff
+[2026-10-25 07:32:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A 250-Million-Year-Old Habit May Explain How Crocodiles Outlasted the 
+[2026-10-25 07:32:01 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 7}
