@@ -17925,3 +17925,6 @@
 [2026-10-25 07:30:47 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-25 07:31:18 PM] [JOBS_BOT] [SUCCESS] Published: What is Pakistan really seeking from its new defence alliances?
 [2026-10-25 07:31:19 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1413 in / 536 out tokens
+[2026-10-25 07:31:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-25 07:31:50 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Ertugrul’ star Engin Altan heartbroken by father’s death at 88
+[2026-10-25 07:31:51 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 943 in / 480 out tokens
