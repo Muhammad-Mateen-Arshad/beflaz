@@ -17985,3 +17985,6 @@
 [2026-10-25 10:10:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-25 10:10:35 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Arrivals’ on Netflix: Release Date, Cast, Plot, and Everything to Know About the ‘Manifest’ Spinoff
 [2026-10-25 10:10:36 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1365 in / 491 out tokens
+[2026-10-25 10:10:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade7e5ce9ed4e0e95d148a88dd91cb
+[2026-10-25 10:10:38 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): [World Class] Dongguk looks to Buddhism, Hallyu and AI to shape global
+[2026-10-25 10:10:38 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 1, 'thin': 1}
