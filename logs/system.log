@@ -17870,3 +17870,11 @@
 [2026-10-25 06:47:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-10-25 06:48:41 PM] [DRAMAS_BOT] [SUCCESS] Published: The Beauty Residing in Green | Jade and Emerald
 [2026-10-25 06:48:42 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1037 in / 463 out tokens
+[2026-10-25 06:48:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade4f0a57184951a9c4e6bdaf0ca82
+[2026-10-25 06:48:44 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): [World Class] Dongguk looks to Buddhism, Hallyu and AI to shape global
+[2026-10-25 06:48:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 06:48:48 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 06:48:51 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-25 06:49:07 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (90 words, need 150)): Hydraulic Engineering Consultant Corp II HEC
+[2026-10-25 06:49:08 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 380 in / 226 out tokens
+[2026-10-25 06:49:08 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 2, 'thin': 1, 'rejected': 1}
