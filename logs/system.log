@@ -17553,3 +17553,8 @@
 [2026-10-25 07:30:09 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1075 in / 480 out tokens
 [2026-10-25 07:30:35 AM] [JOBS_BOT] [SUCCESS] Published: China's automation and job creation
 [2026-10-25 07:30:36 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1440 in / 526 out tokens
+[2026-10-25 07:30:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-25 07:30:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addb01e67ba4383ae53046ff5900e3
+[2026-10-25 07:30:38 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Netflix Korea 10th anniversary: Solo Leveling, Grand Galaxy Hotel, All
+[2026-10-25 07:31:00 AM] [DRAMAS_BOT] [SUCCESS] Published: Zoe Kazan takes on her grandfather’s legacy in ‘East of Eden’
+[2026-10-25 07:31:01 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1627 in / 467 out tokens
