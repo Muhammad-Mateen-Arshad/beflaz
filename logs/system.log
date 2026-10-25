@@ -17490,3 +17490,5 @@
 [2026-10-25 01:58:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add625b10134ca19f3b203661d6fef
 [2026-10-25 01:58:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): This Unusual-Looking Snake Has a Fake Spider on its Tail, Using It to 
 [2026-10-25 01:58:51 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
+[2026-10-25 03:29:40 AM] [NEWS_BOT] [SUCCESS] Published: Gabd border crossing with Iran reopened
+[2026-10-25 03:29:41 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 987 in / 418 out tokens
