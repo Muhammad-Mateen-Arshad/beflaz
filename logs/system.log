@@ -17549,3 +17549,5 @@
 [2026-10-25 03:32:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add7833bc5a4215be83ddaa9429202
 [2026-10-25 03:32:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): This Unusual-Looking Snake Has a Fake Spider on its Tail, Using It to 
 [2026-10-25 03:32:04 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
+[2026-10-25 07:30:07 AM] [NEWS_BOT] [SUCCESS] Published: Indian Punjab CM wants to attend Lahore moot
+[2026-10-25 07:30:09 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1075 in / 480 out tokens
