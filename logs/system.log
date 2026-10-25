@@ -17878,3 +17878,23 @@
 [2026-10-25 06:49:07 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (90 words, need 150)): Hydraulic Engineering Consultant Corp II HEC
 [2026-10-25 06:49:08 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 380 in / 226 out tokens
 [2026-10-25 06:49:08 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 2, 'thin': 1, 'rejected': 1}
+[2026-10-25 06:49:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-25 06:49:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-25 06:49:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade4f2565ed4e84bff4f0858265d13
+[2026-10-25 06:49:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-25 06:49:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade4f2565ed4e84bff4f0858265d13
+[2026-10-25 06:49:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-25 06:49:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade4f2565ed4e84bff4f0858265d13
+[2026-10-25 06:49:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-25 06:49:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade4f2584004cbc9b8bb263a83db22
+[2026-10-25 06:49:10 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-25 06:49:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade4f2584004cbc9b8bb263a83db22
+[2026-10-25 06:49:10 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): Skip the keto diet? UConn researchers are testing whether ketones alon
+[2026-10-25 06:49:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade4f2584004cbc9b8bb263a83db22
+[2026-10-25 06:49:10 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): Canadian doctor cracks the science of a healthy, happy retirement — an
+[2026-10-25 06:49:11 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 06:49:13 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 06:49:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-25 06:49:35 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-25 06:50:04 PM] [HEALTH_BOT] [SUCCESS] Published: Your Joints Start Aching More When You Reach This Age
+[2026-10-25 06:50:05 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1204 in / 513 out tokens
