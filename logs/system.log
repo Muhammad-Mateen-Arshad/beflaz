@@ -17761,3 +17761,27 @@
 [2026-10-25 03:30:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
 [2026-10-25 03:31:16 PM] [NEWS_BOT] [SUCCESS] Published: NCCIA busts child pornography network, finds father involved in selling explicit videos of his children
 [2026-10-25 03:31:17 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1508 in / 545 out tokens
+[2026-10-25 03:31:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade20c64f544733ae2d6fd433c3638
+[2026-10-25 03:31:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-25 03:31:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade20c7f5d54b9ab8469ec25db1b25
+[2026-10-25 03:31:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Youth in revolt: A roundup of protests in Europe and around the world
+[2026-10-25 03:31:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade20c7f5d54b9ab8469ec25db1b25
+[2026-10-25 03:31:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Canada Deal Cements Turkey’s Position as a Military-Industrial Power. 
+[2026-10-25 03:31:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 272/400 chars, resolved=True): Iran sends conflicting signals on US deal as Trump raises prospect of 
+[2026-10-25 03:31:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade20c9b8ab48398e62bc483c2bcf6
+[2026-10-25 03:31:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Pakistan rebuts Afghan Taliban over cross-border terrorism
+[2026-10-25 03:31:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-25 03:31:28 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 03:31:31 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 03:31:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-25 03:31:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-25 03:32:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:32:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:33:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:33:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:34:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:34:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:35:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:35:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:36:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:36:56 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
