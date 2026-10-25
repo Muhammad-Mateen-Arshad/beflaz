@@ -17594,3 +17594,8 @@
 [2026-10-25 08:47:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Netflix Korea 10th anniversary: Solo Leveling, Grand Galaxy Hotel, All
 [2026-10-25 08:48:01 AM] [DRAMAS_BOT] [SUCCESS] Published: The Chronicles of Narnia: The Magician's Nephew - Story, Cast, Release Date and Book Order
 [2026-10-25 08:48:01 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1698 in / 516 out tokens
+[2026-10-25 08:48:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addc2421edb48e5985c0e247be97d4
+[2026-10-25 08:48:02 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Ohio spent more than a billion dollars on private school vouchers this
+[2026-10-25 08:49:00 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-25 08:49:00 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: UHS announces 252 MBBS, BDS quota seats in Punjab: Admissions open October 26
+[2026-10-25 08:49:01 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1537 in / 887 out tokens
