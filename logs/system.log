@@ -17675,3 +17675,7 @@
 [2026-10-25 11:31:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adde8abe0ab456082607a8cbca7baf
 [2026-10-25 11:31:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): Skip the keto diet? UConn researchers are testing whether ketones alon
 [2026-10-25 11:31:55 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-25 11:31:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adde8acd32f4d7baafed7d09cc09a2
+[2026-10-25 11:31:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Public fossil excavation begins: 75-million-year-old dinosaur heads to
+[2026-10-25 11:32:22 AM] [HISTORY_BOT] [SUCCESS] Published: The Strange Story About A Wyoming Town Where Dinosaur Bones Changed Everything People Knew About The Area
+[2026-10-25 11:32:23 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1607 in / 515 out tokens
