@@ -17654,3 +17654,7 @@
 [2026-10-25 11:31:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-25 11:31:31 AM] [DRAMAS_BOT] [SUCCESS] Published: Now Playing In Iraq Cinemas
 [2026-10-25 11:31:32 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1745 in / 321 out tokens
+[2026-10-25 11:31:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adde895449843c2bca6d267702be0a
+[2026-10-25 11:31:35 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): [World Class] Dongguk looks to Buddhism, Hallyu and AI to shape global
+[2026-10-25 11:31:51 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Get Started Now Apply for the ISTA Fully Funded PhD Programme 2027 in Austria: Open to Applicants Worldwide who hold a Bachelor’s or Master’s Degree
+[2026-10-25 11:31:52 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1377 in / 564 out tokens
