@@ -18027,3 +18027,9 @@
 [2026-10-25 11:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): DK Shivakumar's warning to Bengaluru IT firms after 'No jobs for Kanna
 [2026-10-25 11:30:17 PM] [JOBS_BOT] [SUCCESS] Published: Cheaper house loans a growth driver
 [2026-10-25 11:30:18 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1493 in / 575 out tokens
+[2026-10-25 11:30:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-25 11:30:21 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 11:30:24 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 11:30:26 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-25 11:30:51 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s New 127-Minute WWII Epic Officially Arrives Next Week
+[2026-10-25 11:30:52 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1537 in / 417 out tokens
