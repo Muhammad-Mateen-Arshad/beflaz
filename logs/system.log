@@ -17633,3 +17633,14 @@
 [2026-10-25 08:49:07 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
 [2026-10-25 11:29:49 AM] [NEWS_BOT] [SUCCESS] Published: Students across country to get 500,000 Chromebooks over 2 years, announces PM Shehbaz
 [2026-10-25 11:29:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 887 in / 481 out tokens
+[2026-10-25 11:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adde82fd8124f63b58e91b49b73eaa
+[2026-10-25 11:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-25 11:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adde82fbdd84ccba779698dfe0afb3
+[2026-10-25 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Beyond the Battlefield Goverdhan Singh Jamwal on Past, Present and Fut
+[2026-10-25 11:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adde82fbdd84ccba779698dfe0afb3
+[2026-10-25 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Youth in revolt: A roundup of protests in Europe and around the world
+[2026-10-25 11:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adde82fbdd84ccba779698dfe0afb3
+[2026-10-25 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Canada Deal Cements Turkey’s Position as a Military-Industrial Power. 
+[2026-10-25 11:30:29 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Rubio Talks Russian Diesel, Then Reveals What It's Really Like Working
+[2026-10-25 11:30:53 AM] [JOBS_BOT] [SUCCESS] Published: How to apply for the US Green Card lottery
+[2026-10-25 11:30:54 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3065 in / 974 out tokens
