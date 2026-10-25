@@ -17576,3 +17576,11 @@
 [2026-10-25 07:31:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addb06d44b7450facbf23a89fc4329
 [2026-10-25 07:31:57 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 187/800 chars, resolved=True): 9 signs your body is aging faster than you are
 [2026-10-25 07:31:57 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-25 07:31:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addb06dc9b2432796628c5eda62596
+[2026-10-25 07:31:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Public fossil excavation begins: 75-million-year-old dinosaur heads to
+[2026-10-25 07:31:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addb06dc9b2432796628c5eda62596
+[2026-10-25 07:31:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Rare Nanotyrannus skeleton found in 2019 heads to auction for $9 milli
+[2026-10-25 07:31:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addb06e4594405da7af587849ddd4a
+[2026-10-25 07:31:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-25 07:32:17 AM] [HISTORY_BOT] [SUCCESS] Published: What Did Atlantis Leave Behind After It Ended? Bashar's View of History and the Inheritance of Knowledge
+[2026-10-25 07:32:18 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1524 in / 458 out tokens
