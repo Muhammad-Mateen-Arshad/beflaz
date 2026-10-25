@@ -17867,3 +17867,6 @@
 [2026-10-25 06:46:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-25 06:47:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-25 06:47:49 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-25 06:47:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-25 06:48:41 PM] [DRAMAS_BOT] [SUCCESS] Published: The Beauty Residing in Green | Jade and Emerald
+[2026-10-25 06:48:42 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1037 in / 463 out tokens
