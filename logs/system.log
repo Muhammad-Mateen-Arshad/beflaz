@@ -17430,3 +17430,19 @@
 [2026-10-24 11:31:33 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 7, 'thin': 7}
 [2026-10-25 01:57:28 AM] [NEWS_BOT] [SUCCESS] Published: North Korea's Kim returns home after visit to Chinese border city
 [2026-10-25 01:57:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1511 in / 462 out tokens
+[2026-10-25 01:57:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add6209f1b5483892b8ce0ba35a1dd
+[2026-10-25 01:57:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-25 01:57:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add62098a0e42fdbf21fc2db1f54ef
+[2026-10-25 01:57:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Beyond the Battlefield Goverdhan Singh Jamwal on Past, Present and Fut
+[2026-10-25 01:57:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add62098a0e42fdbf21fc2db1f54ef
+[2026-10-25 01:57:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Youth in revolt: A roundup of protests in Europe and around the world
+[2026-10-25 01:57:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add62098a0e42fdbf21fc2db1f54ef
+[2026-10-25 01:57:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Canada Deal Cements Turkey’s Position as a Military-Industrial Power. 
+[2026-10-25 01:57:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 272/400 chars, resolved=True): Iran sends conflicting signals on US deal as Trump raises prospect of 
+[2026-10-25 01:57:31 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 391/400 chars, resolved=True): Netanyahu says Iran has revived nuclear program, seeks Israel's destru
+[2026-10-25 01:57:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add620cc1a3400f913d9394a637d6d
+[2026-10-25 01:57:32 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Pakistan rebuts Afghan Taliban over cross-border terrorism
+[2026-10-25 01:57:34 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 01:57:46 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (147 words, need 150); too many 'not specified' (source too thin)): Spectra Systems Corp Shs Reg-S SPSC
+[2026-10-25 01:57:46 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 404 in / 319 out tokens
+[2026-10-25 01:57:46 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 3, 'rejected': 1}
