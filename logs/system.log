@@ -17919,3 +17919,9 @@
 [2026-10-25 07:30:11 PM] [NEWS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 242): Shadab Khan's maiden ODI century steers Pakistan into tri-series final
 [2026-10-25 07:30:40 PM] [NEWS_BOT] [SUCCESS] Published: 6 terrorists killed, 2 soldiers martyred during Dera Ismail Khan IBO: ISPR
 [2026-10-25 07:30:42 PM] [NEWS_BOT] [INFO] AI usage: 2 calls, 3306 in / 1085 out tokens
+[2026-10-25 07:30:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade58e3b76442eead5a14c6f8acc5f
+[2026-10-25 07:30:43 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-25 07:30:45 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 07:30:47 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 07:31:18 PM] [JOBS_BOT] [SUCCESS] Published: What is Pakistan really seeking from its new defence alliances?
+[2026-10-25 07:31:19 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1413 in / 536 out tokens
