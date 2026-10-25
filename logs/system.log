@@ -17587,3 +17587,5 @@
 [2026-10-25 08:46:56 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-25 08:46:57 AM] [NEWS_BOT] [SUCCESS] Published: Terrorist commander killed during IBO in Balochistan's Qila Saifullah: state media
 [2026-10-25 08:46:58 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1014 in / 579 out tokens
+[2026-10-25 08:47:38 AM] [JOBS_BOT] [SUCCESS] Published: Disappointment trails UK’s new policy on foreign student visa
+[2026-10-25 08:47:38 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1420 in / 492 out tokens
