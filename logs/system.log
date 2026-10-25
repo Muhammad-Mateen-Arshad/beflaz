@@ -17515,3 +17515,7 @@
 [2026-10-25 03:31:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Netflix Korea 10th anniversary: Solo Leveling, Grand Galaxy Hotel, All
 [2026-10-25 03:31:29 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Lupin’ Part 5: Is It Renewed? What We Know About the Netflix Show’s Future
 [2026-10-25 03:31:30 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 988 in / 465 out tokens
+[2026-10-25 03:31:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 03:31:34 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 03:31:58 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Hot Opportunities to Apply for by 30 October 2026: Fellowships, Scholarships, Jobs and Global Opportunities
+[2026-10-25 03:31:58 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1375 in / 641 out tokens
