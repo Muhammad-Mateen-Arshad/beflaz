@@ -18033,3 +18033,6 @@
 [2026-10-25 11:30:26 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-25 11:30:51 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s New 127-Minute WWII Epic Officially Arrives Next Week
 [2026-10-25 11:30:52 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1537 in / 417 out tokens
+[2026-10-25 11:30:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade912c5b834f77a320c3819985030
+[2026-10-25 11:30:54 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): [World Class] Dongguk looks to Buddhism, Hallyu and AI to shape global
+[2026-10-25 11:30:54 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 1, 'thin': 1}
