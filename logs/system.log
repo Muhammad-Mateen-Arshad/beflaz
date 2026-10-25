@@ -18020,3 +18020,6 @@
 [2026-10-25 10:10:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade7e63d1804a588141283cd45903a
 [2026-10-25 10:10:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A 250-Million-Year-Old Habit May Explain How Crocodiles Outlasted the 
 [2026-10-25 10:10:44 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 7}
+[2026-10-25 11:29:31 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 11:29:52 PM] [NEWS_BOT] [SUCCESS] Published: Jhang DC removed over use of Pera vehicle for 'non-serious purposes' in jeep rally: CM Maryam
+[2026-10-25 11:29:53 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 981 in / 441 out tokens
