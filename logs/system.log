@@ -17451,3 +17451,12 @@
 [2026-10-25 01:57:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Netflix Korea 10th anniversary: Solo Leveling, Grand Galaxy Hotel, All
 [2026-10-25 01:58:08 AM] [DRAMAS_BOT] [SUCCESS] Published: When Does ‘The Hunting Wives’ Season 2 Come Out? Release Date, Cast and Everything We Know
 [2026-10-25 01:58:09 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1700 in / 567 out tokens
+[2026-10-25 01:58:10 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 01:58:25 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (146 words, need 150)): Nigerian lottery billionaire Kessington Adebutu donates $600,000 offic
+[2026-10-25 01:58:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add623194824c96ac1b1b52547022d
+[2026-10-25 01:58:25 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Ohio spent more than a billion dollars on private school vouchers this
+[2026-10-25 01:58:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add623194824c96ac1b1b52547022d
+[2026-10-25 01:58:26 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): AOC dishes lamebrain reason why she supports men in women’s sports: ‘I
+[2026-10-25 01:58:26 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 01:58:45 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Studying abroad
+[2026-10-25 01:58:46 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2634 in / 777 out tokens
