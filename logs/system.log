@@ -17965,3 +17965,19 @@
 [2026-10-25 07:32:01 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 7}
 [2026-10-25 10:08:11 PM] [NEWS_BOT] [SUCCESS] Published: KP Governor Kundi says Sohail Afridi, assembly speaker 'in safe hands' after house arrest
 [2026-10-25 10:08:12 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1034 in / 481 out tokens
+[2026-10-25 10:08:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade7dcc20a84a7cb715656eb011e9c
+[2026-10-25 10:08:13 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-25 10:08:30 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Secretary of State Marco Rubio and U.S. Ambassador to India Sergio Gor
+[2026-10-25 10:08:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade7dcdc78849818dc79386646026b
+[2026-10-25 10:08:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): PM Modi in Varanasi: Textile Unit and IAF Air Show
+[2026-10-25 10:08:33 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 10:08:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-25 10:09:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-25 10:09:31 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (144 words, need 150); too many 'not specified' (source too thin)): Mikhail Shaidorov finishes tenth at Grand Prix de France 2026
+[2026-10-25 10:09:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade7e1b779e4e39abcff3af2541eca
+[2026-10-25 10:09:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): PM launches 0.5m-Chromebook drive to put technology within talented st
+[2026-10-25 10:09:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade7e1cd36345beb8e03164f832550
+[2026-10-25 10:09:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): DK Shivakumar's warning to Bengaluru IT firms after 'No jobs for Kanna
+[2026-10-25 10:09:34 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 10:10:04 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan urged to prioritise buses over private cars
+[2026-10-25 10:10:05 PM] [JOBS_BOT] [INFO] AI usage: 3 calls, 5184 in / 1138 out tokens
