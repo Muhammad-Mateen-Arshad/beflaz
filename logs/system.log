@@ -17741,3 +17741,16 @@
 [2026-10-25 03:18:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1dc92948490cb7684ae5073f1ec
 [2026-10-25 03:18:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): Skip the keto diet? UConn researchers are testing whether ketones alon
 [2026-10-25 03:18:34 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
+[2026-10-25 03:18:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1dca8aa440f78c4044297d48fa5
+[2026-10-25 03:18:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Public fossil excavation begins: 75-million-year-old dinosaur heads to
+[2026-10-25 03:18:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1dcb1fac43a9a0bd7e87317e3db
+[2026-10-25 03:18:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-25 03:18:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1dcc70094d198a892e92a5fd852
+[2026-10-25 03:18:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-25 03:18:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade1dcc70094d198a892e92a5fd852
+[2026-10-25 03:18:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-25 03:18:37 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 03:18:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-25 03:18:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-25 03:19:35 PM] [HISTORY_BOT] [SUCCESS] Published: New evidence suggests spinosaurus spent most of its life underwater
+[2026-10-25 03:19:37 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1411 in / 511 out tokens
