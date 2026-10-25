@@ -17446,3 +17446,8 @@
 [2026-10-25 01:57:46 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (147 words, need 150); too many 'not specified' (source too thin)): Spectra Systems Corp Shs Reg-S SPSC
 [2026-10-25 01:57:46 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 404 in / 319 out tokens
 [2026-10-25 01:57:46 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 3, 'rejected': 1}
+[2026-10-25 01:57:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-25 01:57:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add621c896042219eb5013f7008650
+[2026-10-25 01:57:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Netflix Korea 10th anniversary: Solo Leveling, Grand Galaxy Hotel, All
+[2026-10-25 01:58:08 AM] [DRAMAS_BOT] [SUCCESS] Published: When Does ‘The Hunting Wives’ Season 2 Come Out? Release Date, Cast and Everything We Know
+[2026-10-25 01:58:09 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1700 in / 567 out tokens
