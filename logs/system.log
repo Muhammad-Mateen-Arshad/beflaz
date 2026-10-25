@@ -17842,3 +17842,28 @@
 [2026-10-25 06:39:36 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-10-25 06:39:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-25 06:40:09 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-25 06:40:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade4d0a14754093b3997f7cdf92c49
+[2026-10-25 06:40:11 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-25 06:40:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-25 06:40:18 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 06:40:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-25 06:40:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-25 06:40:57 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 06:40:59 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-25 06:41:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:41:49 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Terrorism, loans reflect Pakistan's failure as responsible nation: Rep
+[2026-10-25 06:41:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-25 06:41:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-25 06:42:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-25 06:42:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-25 06:42:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-25 06:43:10 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:43:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:44:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:44:44 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:45:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:45:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:46:17 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:46:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:47:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 06:47:49 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
