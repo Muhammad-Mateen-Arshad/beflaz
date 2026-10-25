@@ -17913,3 +17913,9 @@
 [2026-10-25 06:50:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade4f5f66254ae39c2be459e2570a8
 [2026-10-25 06:50:08 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A 250-Million-Year-Old Habit May Explain How Crocodiles Outlasted the 
 [2026-10-25 06:50:08 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 7}
+[2026-10-25 07:29:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-25 07:29:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-25 07:29:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 07:30:11 PM] [NEWS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 242): Shadab Khan's maiden ODI century steers Pakistan into tri-series final
+[2026-10-25 07:30:40 PM] [NEWS_BOT] [SUCCESS] Published: 6 terrorists killed, 2 soldiers martyred during Dera Ismail Khan IBO: ISPR
+[2026-10-25 07:30:42 PM] [NEWS_BOT] [INFO] AI usage: 2 calls, 3306 in / 1085 out tokens
