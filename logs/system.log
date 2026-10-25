@@ -17981,3 +17981,7 @@
 [2026-10-25 10:09:34 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-25 10:10:04 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan urged to prioritise buses over private cars
 [2026-10-25 10:10:05 PM] [JOBS_BOT] [INFO] AI usage: 3 calls, 5184 in / 1138 out tokens
+[2026-10-25 10:10:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-25 10:10:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 10:10:35 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Arrivals’ on Netflix: Release Date, Cast, Plot, and Everything to Know About the ‘Manifest’ Spinoff
+[2026-10-25 10:10:36 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1365 in / 491 out tokens
