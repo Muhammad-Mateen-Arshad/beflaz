@@ -17492,3 +17492,21 @@
 [2026-10-25 01:58:51 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
 [2026-10-25 03:29:40 AM] [NEWS_BOT] [SUCCESS] Published: Gabd border crossing with Iran reopened
 [2026-10-25 03:29:41 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 987 in / 418 out tokens
+[2026-10-25 03:29:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add77a5c3ef45aeade6556c4aa57dc
+[2026-10-25 03:29:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Exclusive interview with Marco Rubio: 'Five years from now, India and 
+[2026-10-25 03:29:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add77a6fcb744979624acf435a28f9
+[2026-10-25 03:29:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Beyond the Battlefield Goverdhan Singh Jamwal on Past, Present and Fut
+[2026-10-25 03:29:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add77a6fcb744979624acf435a28f9
+[2026-10-25 03:29:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Youth in revolt: A roundup of protests in Europe and around the world
+[2026-10-25 03:29:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add77a6fcb744979624acf435a28f9
+[2026-10-25 03:29:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Canada Deal Cements Turkey’s Position as a Military-Industrial Power. 
+[2026-10-25 03:29:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 272/400 chars, resolved=True): Iran sends conflicting signals on US deal as Trump raises prospect of 
+[2026-10-25 03:30:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-25 03:30:10 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 03:30:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-25 03:30:58 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (138 words, need 150); too many 'not specified' (source too thin)): Obama says 'unnecessary' Iran war has left Tehran in a stronger positi
+[2026-10-25 03:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add77f3a4c04b49837fad053957061
+[2026-10-25 03:30:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Lahore tops global pollution rankings as AQI hits 500 in several areas
+[2026-10-25 03:31:08 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (149 words, need 150); too many 'not specified' (source too thin)): SPS Commerce, Inc. (SPSC)
+[2026-10-25 03:31:08 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1437 in / 649 out tokens
+[2026-10-25 03:31:08 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 6, 'rejected': 2, 'already_seen': 5}
