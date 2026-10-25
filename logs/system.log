@@ -17754,3 +17754,10 @@
 [2026-10-25 03:18:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-25 03:19:35 PM] [HISTORY_BOT] [SUCCESS] Published: New evidence suggests spinosaurus spent most of its life underwater
 [2026-10-25 03:19:37 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1411 in / 511 out tokens
+[2026-10-25 03:29:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-25 03:29:58 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 03:30:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-25 03:30:17 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 03:30:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-25 03:31:16 PM] [NEWS_BOT] [SUCCESS] Published: NCCIA busts child pornography network, finds father involved in selling explicit videos of his children
+[2026-10-25 03:31:17 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1508 in / 545 out tokens
