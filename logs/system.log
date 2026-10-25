@@ -17792,3 +17792,6 @@
 [2026-10-25 03:37:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-10-25 03:39:04 PM] [DRAMAS_BOT] [SUCCESS] Published: Best Non-English TV Shows to Watch Right Now
 [2026-10-25 03:39:05 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1608 in / 606 out tokens
+[2026-10-25 03:39:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade2299a02c4c6986cd4ebf16bccef
+[2026-10-25 03:39:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): [World Class] Dongguk looks to Buddhism, Hallyu and AI to shape global
+[2026-10-25 03:39:08 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 1, 'thin': 1}
