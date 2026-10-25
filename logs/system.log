@@ -17428,3 +17428,5 @@
 [2026-10-24 11:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3fd5df1149719e03dde8f40fcd1
 [2026-10-24 11:31:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): This Unusual-Looking Snake Has a Fake Spider on its Tail, Using It to 
 [2026-10-24 11:31:33 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 7, 'thin': 7}
+[2026-10-25 01:57:28 AM] [NEWS_BOT] [SUCCESS] Published: North Korea's Kim returns home after visit to Chinese border city
+[2026-10-25 01:57:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1511 in / 462 out tokens
