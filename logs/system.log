@@ -18023,3 +18023,7 @@
 [2026-10-25 11:29:31 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-25 11:29:52 PM] [NEWS_BOT] [SUCCESS] Published: Jhang DC removed over use of Pera vehicle for 'non-serious purposes' in jeep rally: CM Maryam
 [2026-10-25 11:29:53 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 981 in / 441 out tokens
+[2026-10-25 11:29:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade90f1cf1e4820a99c0ed621b683d
+[2026-10-25 11:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): DK Shivakumar's warning to Bengaluru IT firms after 'No jobs for Kanna
+[2026-10-25 11:30:17 PM] [JOBS_BOT] [SUCCESS] Published: Cheaper house loans a growth driver
+[2026-10-25 11:30:18 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1493 in / 575 out tokens
