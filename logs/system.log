@@ -17785,3 +17785,10 @@
 [2026-10-25 03:35:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-25 03:36:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-10-25 03:36:56 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-10-25 03:36:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-25 03:37:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 03:37:02 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 03:37:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-25 03:37:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-25 03:39:04 PM] [DRAMAS_BOT] [SUCCESS] Published: Best Non-English TV Shows to Watch Right Now
+[2026-10-25 03:39:05 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1608 in / 606 out tokens
