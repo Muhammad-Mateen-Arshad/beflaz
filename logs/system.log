@@ -17963,3 +17963,5 @@
 [2026-10-25 07:32:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade59300fe14dc4abef4e1fa7782ff
 [2026-10-25 07:32:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A 250-Million-Year-Old Habit May Explain How Crocodiles Outlasted the 
 [2026-10-25 07:32:01 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 7}
+[2026-10-25 10:08:11 PM] [NEWS_BOT] [SUCCESS] Published: KP Governor Kundi says Sohail Afridi, assembly speaker 'in safe hands' after house arrest
+[2026-10-25 10:08:12 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1034 in / 481 out tokens
