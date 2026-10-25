@@ -17699,3 +17699,19 @@
 [2026-10-25 03:09:44 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-25 03:09:45 PM] [JOBS_BOT] [SUCCESS] Published: World Bank warns of jobs crisis as Pakistan poverty rises to 29%
 [2026-10-25 03:09:46 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3529 in / 863 out tokens
+[2026-10-25 03:09:47 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-25 03:09:49 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 03:09:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-25 03:10:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-25 03:10:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-25 03:10:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-25 03:11:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:11:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:12:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:12:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:13:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:13:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:14:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:14:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:15:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-25 03:15:57 PM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
