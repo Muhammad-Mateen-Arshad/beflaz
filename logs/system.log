@@ -18036,3 +18036,18 @@
 [2026-10-25 11:30:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade912c5b834f77a320c3819985030
 [2026-10-25 11:30:54 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): [World Class] Dongguk looks to Buddhism, Hallyu and AI to shape global
 [2026-10-25 11:30:54 PM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 1, 'thin': 1}
+[2026-10-25 11:30:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-25 11:30:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-25 11:30:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade9130f9cc4209921db1047061b3c
+[2026-10-25 11:30:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-25 11:30:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade9130f9cc4209921db1047061b3c
+[2026-10-25 11:30:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-25 11:30:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade9130f9cc4209921db1047061b3c
+[2026-10-25 11:30:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-25 11:30:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade9131d3054075b1435290ac3ab63
+[2026-10-25 11:30:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-25 11:30:58 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-25 11:31:00 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-25 11:31:02 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-10-25 11:31:20 PM] [HEALTH_BOT] [SUCCESS] Published: Can 15 Minutes of Gentle Exercise a Day Make a Difference After 60?
+[2026-10-25 11:31:21 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 526 in / 389 out tokens
