@@ -17558,3 +17558,8 @@
 [2026-10-25 07:30:38 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Netflix Korea 10th anniversary: Solo Leveling, Grand Galaxy Hotel, All
 [2026-10-25 07:31:00 AM] [DRAMAS_BOT] [SUCCESS] Published: Zoe Kazan takes on her grandfather’s legacy in ‘East of Eden’
 [2026-10-25 07:31:01 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1627 in / 467 out tokens
+[2026-10-25 07:31:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addb035806241c98923603f8b4ce80
+[2026-10-25 07:31:01 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Ohio spent more than a billion dollars on private school vouchers this
+[2026-10-25 07:31:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-25 07:31:54 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Andhra Pradesh NEET UG 2026: 12 MBBS Seats Converted to Self-Financing at New Colleges
+[2026-10-25 07:31:55 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1609 in / 555 out tokens
