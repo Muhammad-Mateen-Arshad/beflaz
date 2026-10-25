@@ -17510,3 +17510,8 @@
 [2026-10-25 03:31:08 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (149 words, need 150); too many 'not specified' (source too thin)): SPS Commerce, Inc. (SPSC)
 [2026-10-25 03:31:08 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1437 in / 649 out tokens
 [2026-10-25 03:31:08 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 6, 'rejected': 2, 'already_seen': 5}
+[2026-10-25 03:31:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-25 03:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add77febb484e11af9bbf0caa507d5
+[2026-10-25 03:31:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Netflix Korea 10th anniversary: Solo Leveling, Grand Galaxy Hotel, All
+[2026-10-25 03:31:29 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Lupin’ Part 5: Is It Renewed? What We Know About the Netflix Show’s Future
+[2026-10-25 03:31:30 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 988 in / 465 out tokens
