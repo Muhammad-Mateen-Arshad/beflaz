@@ -17631,3 +17631,5 @@
 [2026-10-25 08:49:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addc28223354e339b0863ff73b990d
 [2026-10-25 08:49:07 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A 250-Million-Year-Old Habit May Explain How Crocodiles Outlasted the 
 [2026-10-25 08:49:07 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-10-25 11:29:49 AM] [NEWS_BOT] [SUCCESS] Published: Students across country to get 500,000 Chromebooks over 2 years, announces PM Shehbaz
+[2026-10-25 11:29:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 887 in / 481 out tokens
