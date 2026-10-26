@@ -18397,3 +18397,8 @@
 [2026-10-26 03:35:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf73522e694bafbf91315938eb485
 [2026-10-26 03:35:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
 [2026-10-26 03:35:46 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-10-26 05:12:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-26 05:13:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-26 05:13:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-26 05:16:37 PM] [NEWS_BOT] [SUCCESS] Published: Senate blocks move to withdraw diplomatic passport privileges from state ministers, advisers
+[2026-10-26 05:16:38 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1458 in / 587 out tokens
