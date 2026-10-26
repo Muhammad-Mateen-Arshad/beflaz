@@ -18486,3 +18486,16 @@
 [2026-10-26 05:46:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e20b054e75bacb9f5c579ba89
 [2026-10-26 05:46:11 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): PM launches 0.5m-Chromebook drive to put technology within talented st
 [2026-10-26 05:46:12 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
+[2026-10-26 05:46:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-26 05:46:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e65bea4f40a3cbfac608d558d
+[2026-10-26 05:46:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 131/300 chars, resolved=True): Netflix’s 10-episode sci-fi hit gets new 2027 release
+[2026-10-26 05:46:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e65bea4f40a3cbfac608d558d
+[2026-10-26 05:46:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): Netflix's new 6-part thriller is a streaming hit with 1.1B minutes vie
+[2026-10-26 05:46:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e65bea4f40a3cbfac608d558d
+[2026-10-26 05:46:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 120/300 chars, resolved=True): TIFFANY HADDISH AND ELLIOTT CONNIE LAUNCH THE ELLIOTT CONNIE SHOW ON Y
+[2026-10-26 05:46:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e7d1114eb3b5b2226de409533
+[2026-10-26 05:46:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-26 05:46:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e7d1114eb3b5b2226de409533
+[2026-10-26 05:46:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-26 05:46:16 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): New English Web Series List (2026)
+[2026-10-26 05:46:16 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
