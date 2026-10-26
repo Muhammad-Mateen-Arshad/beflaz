@@ -18608,3 +18608,20 @@
 [2026-10-26 11:25:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-26 11:25:33 PM] [NEWS_BOT] [SUCCESS] Published: Microsoft offers voluntary exit packages to 60,000 staff
 [2026-10-26 11:25:34 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1671 in / 575 out tokens
+[2026-10-26 11:25:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe16e9d2a4080b0b4132590f9210
+[2026-10-26 11:25:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Uttar Pradesh now riot-free: Adityanath
+[2026-10-26 11:25:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe16e9d2a4080b0b4132590f9210
+[2026-10-26 11:25:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): The world is losing patience
+[2026-10-26 11:25:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe16e9d2a4080b0b4132590f9210
+[2026-10-26 11:25:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): PM Shehbaz calls for stronger export-oriented industries, forms commit
+[2026-10-26 11:25:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe16fd185454ca90dce6030d1067
+[2026-10-26 11:25:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-26 11:25:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1705c3f461e90c9111881c3484
+[2026-10-26 11:25:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Mecca allies head to Tehran for high-level talks with Iran leadership 
+[2026-10-26 11:25:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1705c3f461e90c9111881c3484
+[2026-10-26 11:25:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): First batch of 18,300 Agniveers set to leave armed forces by December 
+[2026-10-26 11:25:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1705c3f461e90c9111881c3484
+[2026-10-26 11:25:37 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): On Accession Day, Mehbooba Mufti calls for discussion on Kashmir: ‘Dis
+[2026-10-26 11:25:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1716c6446b88452b0b36a927c3
+[2026-10-26 11:25:37 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-26 11:25:37 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 3, 'tried': 8, 'thin': 8}
