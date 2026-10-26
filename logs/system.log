@@ -18254,3 +18254,13 @@
 [2026-10-26 09:26:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cb982f9415bb9e367a8d050f8b
 [2026-10-26 09:26:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Punjab CM Maryam Nawaz orders country's first film royalty lawPublishe
 [2026-10-26 09:26:17 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 11}
+[2026-10-26 09:26:18 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-26 09:26:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cbad0b84c0aaaf2fa2698826ec
+[2026-10-26 09:26:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): Gundam reverses course on longtime release strategy for new series
+[2026-10-26 09:26:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cbad0b84c0aaaf2fa2698826ec
+[2026-10-26 09:26:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): Anna Sorokin was ordered to repay $199,000 for fraud; she’s now under 
+[2026-10-26 09:26:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cbbb15e4ff4b2282fb694c4e3f
+[2026-10-26 09:26:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-26 09:26:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cbbb15e4ff4b2282fb694c4e3f
+[2026-10-26 09:26:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-26 09:26:20 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 11}
