@@ -18096,3 +18096,20 @@
 [2026-10-26 01:59:50 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-26 02:00:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Dahdaleh Global Health Graduate Scholarship 2027–2028: Up to CA$30,000 for International Students
 [2026-10-26 02:00:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1323 in / 564 out tokens
+[2026-10-26 02:00:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-26 02:00:13 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-26 02:00:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42d42e740368a23e2d7b0b9714
+[2026-10-26 02:00:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-26 02:00:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42d42e740368a23e2d7b0b9714
+[2026-10-26 02:00:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-26 02:00:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42d42e740368a23e2d7b0b9714
+[2026-10-26 02:00:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-26 02:00:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42eba3b47ac8f41fcf069b573d
+[2026-10-26 02:00:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-26 02:00:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42eba3b47ac8f41fcf069b573d
+[2026-10-26 02:00:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): Canadian doctor cracks the science of a healthy, happy retirement — an
+[2026-10-26 02:00:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42eba3b47ac8f41fcf069b573d
+[2026-10-26 02:00:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): Skip the keto diet? UConn researchers are testing whether ketones alon
+[2026-10-26 02:00:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42eba3b47ac8f41fcf069b573d
+[2026-10-26 02:00:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
+[2026-10-26 02:00:15 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
