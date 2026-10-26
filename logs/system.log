@@ -18143,3 +18143,9 @@
 [2026-10-26 03:29:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-26 03:30:16 AM] [JOBS_BOT] [SUCCESS] Published: Probiotics may help protect against early signs of Alzheimer’s
 [2026-10-26 03:30:17 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1468 in / 417 out tokens
+[2026-10-26 03:30:18 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-26 03:30:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec94abceb41c79ff01c6736b21f5
+[2026-10-26 03:30:18 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): Gundam reverses course on longtime release strategy for new series
+[2026-10-26 03:30:19 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 03:30:45 AM] [DRAMAS_BOT] [SUCCESS] Published: A Taylor Sheridan Favorite Officially Returns With a Wild New Western Series
+[2026-10-26 03:30:46 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1583 in / 561 out tokens
