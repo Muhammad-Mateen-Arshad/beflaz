@@ -18376,3 +18376,7 @@
 [2026-10-26 03:34:49 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
 [2026-10-26 03:35:10 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Palestinian student set to begin studies in Waterford after having visa approved
 [2026-10-26 03:35:11 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1005 in / 426 out tokens
+[2026-10-26 03:35:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-26 03:35:12 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-26 03:35:42 PM] [HEALTH_BOT] [SUCCESS] Published: Eating Walnuts Every Day May Make Your Diet Less Inflammatory, Study Finds
+[2026-10-26 03:35:44 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1791 in / 560 out tokens
