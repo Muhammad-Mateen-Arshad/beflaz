@@ -18380,3 +18380,20 @@
 [2026-10-26 03:35:12 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
 [2026-10-26 03:35:42 PM] [HEALTH_BOT] [SUCCESS] Published: Eating Walnuts Every Day May Make Your Diet Less Inflammatory, Study Finds
 [2026-10-26 03:35:44 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1791 in / 560 out tokens
+[2026-10-26 03:35:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf7350d6f34297ae18b08536238bc
+[2026-10-26 03:35:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New long-clawed British dinosaur is first of its kind in Europe
+[2026-10-26 03:35:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf7350d6f34297ae18b08536238bc
+[2026-10-26 03:35:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): At around 26 meters long, Dreadnoughtus still had growing left to do
+[2026-10-26 03:35:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf7351800f46f68eec09a1b9fd1aa
+[2026-10-26 03:35:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-26 03:35:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf7351800f46f68eec09a1b9fd1aa
+[2026-10-26 03:35:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-26 03:35:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf7351ade0497d995d452445d3f5a
+[2026-10-26 03:35:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): These 8 Incredible Pyramids Outside Egypt Are Even Stranger than You’d
+[2026-10-26 03:35:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf7351ade0497d995d452445d3f5a
+[2026-10-26 03:35:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-26 03:35:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf7351ade0497d995d452445d3f5a
+[2026-10-26 03:35:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Atlantis of the Sands: Arabia’s Legendary Lost City of Ubar
+[2026-10-26 03:35:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf73522e694bafbf91315938eb485
+[2026-10-26 03:35:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-10-26 03:35:46 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
