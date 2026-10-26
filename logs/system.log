@@ -18152,3 +18152,20 @@
 [2026-10-26 03:30:48 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-26 03:31:22 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: MTAQ awards scholarships to future automotive trainers
 [2026-10-26 03:31:23 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 769 in / 460 out tokens
+[2026-10-26 03:31:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-26 03:31:24 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-26 03:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec98cd24d4dae9d289c39cffbabb
+[2026-10-26 03:31:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-26 03:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec98cd24d4dae9d289c39cffbabb
+[2026-10-26 03:31:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 135/800 chars, resolved=True): The Ingredient in Your Coffee That Is Worse for Your Diet Than Sugar
+[2026-10-26 03:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec98cd24d4dae9d289c39cffbabb
+[2026-10-26 03:31:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-26 03:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec98cd24d4dae9d289c39cffbabb
+[2026-10-26 03:31:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 59/800 chars, resolved=True): Listening to Just .05 Seconds of This Sound Might Help “Clean” Your Br
+[2026-10-26 03:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec98d4995431586d2da0acc910ce
+[2026-10-26 03:31:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-26 03:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec98d4995431586d2da0acc910ce
+[2026-10-26 03:31:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): Canadian doctor cracks the science of a healthy, happy retirement — an
+[2026-10-26 03:31:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec98d4995431586d2da0acc910ce
+[2026-10-26 03:31:26 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): Skip the keto diet? UConn researchers are testing whether ketones alon
+[2026-10-26 03:31:26 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
