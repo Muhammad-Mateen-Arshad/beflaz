@@ -18091,3 +18091,8 @@
 [2026-10-26 01:59:26 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-26 01:59:46 AM] [DRAMAS_BOT] [SUCCESS] Published: All Of Us Are Dead Season 2 Release Date Update: What Happened Yoon Chan Young’s Character? Netflix Finally Reveals
 [2026-10-26 01:59:47 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 915 in / 565 out tokens
+[2026-10-26 01:59:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb413b86d4fd6b070118a568bda9
+[2026-10-26 01:59:49 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): [World Class] Dongguk looks to Buddhism, Hallyu and AI to shape global
+[2026-10-26 01:59:50 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 02:00:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Dahdaleh Global Health Graduate Scholarship 2027–2028: Up to CA$30,000 for International Students
+[2026-10-26 02:00:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1323 in / 564 out tokens
