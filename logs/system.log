@@ -18425,3 +18425,9 @@
 [2026-10-26 05:17:30 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 05:17:30 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix fans 'squealing' over series based on TikTok with millions of views
 [2026-10-26 05:17:31 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 975 in / 415 out tokens
+[2026-10-26 05:17:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8b2cbe2f4e7298f7afbd774dbef
+[2026-10-26 05:17:32 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-26 05:17:33 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 05:18:09 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 05:18:09 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Crows process visual data twice as fast as humans and monkeys
+[2026-10-26 05:18:10 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 739 in / 325 out tokens
