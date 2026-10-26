@@ -18212,3 +18212,9 @@
 [2026-10-26 07:30:31 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 4, 'already_seen': 11, 'rejected': 1}
 [2026-10-26 07:30:47 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Victoria Secures Future of Nursing and Midwifery Workforce
 [2026-10-26 07:30:48 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 799 in / 495 out tokens
+[2026-10-26 07:30:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-26 07:30:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-26 07:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf01a9545640028404592795c81fe
+[2026-10-26 07:30:50 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-26 07:31:11 AM] [HEALTH_BOT] [SUCCESS] Published: How Did Eric Bauza Die? Reports Cite Bugs Bunny VO Artist's Death Cause To Be Hypertensive Heart Disease
+[2026-10-26 07:31:12 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1534 in / 520 out tokens
