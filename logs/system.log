@@ -18237,3 +18237,20 @@
 [2026-10-26 07:31:14 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
 [2026-10-26 09:26:13 AM] [NEWS_BOT] [SUCCESS] Published: Makkah defence pact officials to visit Tehran today: Iranian state media
 [2026-10-26 09:26:14 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1106 in / 502 out tokens
+[2026-10-26 09:26:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cb6cd5341eb8fbbd32a90419d4
+[2026-10-26 09:26:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Punjab CM Maryam Nawaz orders country's first film royalty lawPublishe
+[2026-10-26 09:26:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cb6cd5341eb8fbbd32a90419d4
+[2026-10-26 09:26:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): PM Shehbaz calls for stronger export-oriented industries, forms commit
+[2026-10-26 09:26:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cb6cd5341eb8fbbd32a90419d4
+[2026-10-26 09:26:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-26 09:26:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cb73554488b8f1ed27bfd4ca2e
+[2026-10-26 09:26:16 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): No tailwinds for India: US and China are squeezing India’s rise
+[2026-10-26 09:26:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cb73554488b8f1ed27bfd4ca2e
+[2026-10-26 09:26:16 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): First batch of 18,300 Agniveers set to leave armed forces by December 
+[2026-10-26 09:26:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cb82dd34ffd88cb253db8fd194
+[2026-10-26 09:26:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): PM launches 0.5m-Chromebook drive to put technology within talented st
+[2026-10-26 09:26:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cb982f9415bb9e367a8d050f8b
+[2026-10-26 09:26:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): DK Shivakumar's warning to Bengaluru IT firms after 'No jobs for Kanna
+[2026-10-26 09:26:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cb982f9415bb9e367a8d050f8b
+[2026-10-26 09:26:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Punjab CM Maryam Nawaz orders country's first film royalty lawPublishe
+[2026-10-26 09:26:17 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 11}
