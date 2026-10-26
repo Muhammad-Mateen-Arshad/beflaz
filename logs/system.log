@@ -18113,3 +18113,20 @@
 [2026-10-26 02:00:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42eba3b47ac8f41fcf069b573d
 [2026-10-26 02:00:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
 [2026-10-26 02:00:15 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-26 02:00:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42ffc8542b3a9f2b33bfcf553b
+[2026-10-26 02:00:16 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Public fossil excavation begins: 75-million-year-old dinosaur heads to
+[2026-10-26 02:00:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb42ffc8542b3a9f2b33bfcf553b
+[2026-10-26 02:00:16 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Paleontologists name a new dinosaur that lived in Uruguay 86 to 72 mil
+[2026-10-26 02:00:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb4300bf84b0184db761e0ccd5b1
+[2026-10-26 02:00:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-26 02:00:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb43131224addbe46a644a1698db
+[2026-10-26 02:00:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Atlantis of the Sands: Arabia’s Legendary Lost City of Ubar
+[2026-10-26 02:00:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb43131224addbe46a644a1698db
+[2026-10-26 02:00:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): How many have you visited? National Geographic reveals 25 best places 
+[2026-10-26 02:00:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb43131224addbe46a644a1698db
+[2026-10-26 02:00:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-26 02:00:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb43131224addbe46a644a1698db
+[2026-10-26 02:00:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-26 02:00:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adeb431a60f448cb83fe9e4d0ff174
+[2026-10-26 02:00:18 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): It stood 3m tall and was armed with some of the deadliest weaponry of 
+[2026-10-26 02:00:18 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
