@@ -18567,3 +18567,20 @@
 [2026-10-26 07:33:20 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 07:33:21 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 52 Businesses Wait as Charles Launchpad Seeks Funding
 [2026-10-26 07:33:22 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1554 in / 501 out tokens
+[2026-10-26 07:33:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-26 07:33:23 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-26 07:33:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab03deab4bbf8fb432044364c27
+[2026-10-26 07:33:24 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-26 07:33:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab03deab4bbf8fb432044364c27
+[2026-10-26 07:33:24 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 135/800 chars, resolved=True): The Ingredient in Your Coffee That Is Worse for Your Diet Than Sugar
+[2026-10-26 07:33:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab03deab4bbf8fb432044364c27
+[2026-10-26 07:33:24 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 94/800 chars, resolved=True): The surprising ingredient adding the more calories to americans’ coffe
+[2026-10-26 07:33:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-26 07:33:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 07:34:09 PM] [HEALTH_BOT] [INFO] Rejected by quality gate (numbers not found in source: 1000, 500): You Probably Don't Need Expensive NAD+ Supplements for Healthy Aging
+[2026-10-26 07:34:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab0438c1475e9c1df41ccdec701
+[2026-10-26 07:34:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-26 07:34:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab0438c1475e9c1df41ccdec701
+[2026-10-26 07:34:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
+[2026-10-26 07:34:09 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1176 in / 545 out tokens
+[2026-10-26 07:34:09 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 6, 'rejected': 1}
