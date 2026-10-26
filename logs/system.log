@@ -18402,3 +18402,20 @@
 [2026-10-26 05:13:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-26 05:16:37 PM] [NEWS_BOT] [SUCCESS] Published: Senate blocks move to withdraw diplomatic passport privileges from state ministers, advisers
 [2026-10-26 05:16:38 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1458 in / 587 out tokens
+[2026-10-26 05:16:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8af6c49c4247a5382a2a2ed0851
+[2026-10-26 05:16:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): PM Shehbaz calls for stronger export-oriented industries, forms commit
+[2026-10-26 05:16:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8af7e6974929be7b0b64d379ca3
+[2026-10-26 05:16:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Mecca allies head to Tehran for high-level talks with Iran leadership 
+[2026-10-26 05:16:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8af7e6974929be7b0b64d379ca3
+[2026-10-26 05:16:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): First batch of 18,300 Agniveers set to leave armed forces by December 
+[2026-10-26 05:16:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8af7e6974929be7b0b64d379ca3
+[2026-10-26 05:16:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): No tailwinds for India: US and China are squeezing India’s rise
+[2026-10-26 05:16:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8af87a1341b98758d1d8399be83
+[2026-10-26 05:16:41 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): PM launches 0.5m-Chromebook drive to put technology within talented st
+[2026-10-26 05:16:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8af9ecd74f65b5faa578e49f36d
+[2026-10-26 05:16:42 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): DK Shivakumar's warning to Bengaluru IT firms after 'No jobs for Kanna
+[2026-10-26 05:16:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8af9ecd74f65b5faa578e49f36d
+[2026-10-26 05:16:42 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): WB sees Pakistan's incomes tripling by 2050, but IMF flags risksPublis
+[2026-10-26 05:16:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8af9ecd74f65b5faa578e49f36d
+[2026-10-26 05:16:42 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Can Pakistan turn connectivity into economic power?
+[2026-10-26 05:16:42 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
