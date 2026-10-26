@@ -18087,3 +18087,7 @@
 [2026-10-26 01:59:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): WB sees Pakistan's incomes tripling by 2050, but IMF flags risksPublis
 [2026-10-26 01:59:23 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 4186 in / 604 out tokens
 [2026-10-26 01:59:23 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 6, 'already_seen': 10, 'rejected': 2}
+[2026-10-26 01:59:24 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-26 01:59:26 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 01:59:46 AM] [DRAMAS_BOT] [SUCCESS] Published: All Of Us Are Dead Season 2 Release Date Update: What Happened Yoon Chan Young’s Character? Netflix Finally Reveals
+[2026-10-26 01:59:47 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 915 in / 565 out tokens
