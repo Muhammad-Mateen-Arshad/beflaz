@@ -18464,3 +18464,8 @@
 [2026-10-26 05:19:20 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 05:19:21 PM] [HISTORY_BOT] [SUCCESS] Published: Iconic dinosaur featured in Jurassic Park III spent most of its life underwater, study finds
 [2026-10-26 05:19:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1150 in / 525 out tokens
+[2026-10-26 05:44:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-26 05:44:55 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 05:46:06 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 05:46:07 PM] [NEWS_BOT] [SUCCESS] Published: UN raises 'ethnic cleansing' concerns over Israel's operation in West Bank's Hebron
+[2026-10-26 05:46:07 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 754 in / 489 out tokens
