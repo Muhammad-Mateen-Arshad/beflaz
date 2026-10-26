@@ -18328,3 +18328,6 @@
 [2026-10-26 11:32:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-26 11:32:47 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1807 in / 135 out tokens
 [2026-10-26 11:32:47 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 5, 'already_seen': 10, 'rejected': 1}
+[2026-10-26 11:33:32 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 11:33:33 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of East Anglia (UEA) PhD Scholarships 2027 in the UK: 63 Research Opportunities Offering £21,805 Annual Stipends
+[2026-10-26 11:33:34 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1468 in / 489 out tokens
