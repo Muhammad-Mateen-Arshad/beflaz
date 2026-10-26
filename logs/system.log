@@ -18561,3 +18561,9 @@
 [2026-10-26 07:32:17 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 07:32:18 PM] [DRAMAS_BOT] [SUCCESS] Published: VIVANT Episode 22: Thorough Analysis [The Awakening of the Ghost and the Sacrificial Pawn of Deception]
 [2026-10-26 07:32:19 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1710 in / 568 out tokens
+[2026-10-26 07:32:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfaac468b144f4b5d071c88526fec
+[2026-10-26 07:32:20 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-26 07:33:05 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 07:33:20 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 07:33:21 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 52 Businesses Wait as Charles Launchpad Seeks Funding
+[2026-10-26 07:33:22 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1554 in / 501 out tokens
