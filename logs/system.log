@@ -18188,3 +18188,15 @@
 [2026-10-26 03:31:28 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
 [2026-10-26 07:29:53 AM] [NEWS_BOT] [SUCCESS] Published: Saim Ayub released from Pakistan tri-series squad to work on batting form, Sahibzada Farhan named replacement
 [2026-10-26 07:29:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 921 in / 480 out tokens
+[2026-10-26 07:29:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf0173a66d434f8ff54fb83105476
+[2026-10-26 07:29:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-26 07:29:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf0173a66d434f8ff54fb83105476
+[2026-10-26 07:29:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): PM Shehbaz calls for stronger export-oriented industries, forms commit
+[2026-10-26 07:29:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf017350644829aac3617cf0d51f5
+[2026-10-26 07:29:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): First batch of 18,300 Agniveers set to leave armed forces by December 
+[2026-10-26 07:29:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf017350644829aac3617cf0d51f5
+[2026-10-26 07:29:56 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): No tailwinds for India: US and China are squeezing India’s rise
+[2026-10-26 07:29:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf0174b47b4327972b2ef1e6bc1fe
+[2026-10-26 07:29:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): NUMS Jobs 2026 Apply Online for Teaching & Non-Teaching Staff National
+[2026-10-26 07:30:17 AM] [JOBS_BOT] [SUCCESS] Published: KAR vs LAH Live Full Scorecard
+[2026-10-26 07:30:18 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 529 in / 465 out tokens
