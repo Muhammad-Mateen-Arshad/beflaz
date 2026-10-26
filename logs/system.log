@@ -18068,3 +18068,5 @@
 [2026-10-25 11:31:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade914b3c9147c6b9994734befaf8a
 [2026-10-25 11:31:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A 250-Million-Year-Old Habit May Explain How Crocodiles Outlasted the 
 [2026-10-25 11:31:25 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-10-26 01:58:52 AM] [NEWS_BOT] [SUCCESS] Published: Billionaire Trump backer Bill Ackman says Ben-Gvir, Smotrich should not serve in next Israeli govt
+[2026-10-26 01:58:53 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 959 in / 564 out tokens
