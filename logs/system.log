@@ -18348,3 +18348,15 @@
 [2026-10-26 11:33:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf3a90b0244843a84b39bec1906f0
 [2026-10-26 11:33:37 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): Skip the keto diet? UConn researchers are testing whether ketones alon
 [2026-10-26 11:33:37 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-26 11:33:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf3a91303448c7bbb592b3fbc9e88
+[2026-10-26 11:33:37 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New long-clawed British dinosaur is first of its kind in Europe
+[2026-10-26 11:33:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf3a91303448c7bbb592b3fbc9e88
+[2026-10-26 11:33:37 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Paleontologists name a new dinosaur that lived in Uruguay 86 to 72 mil
+[2026-10-26 11:33:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf3a92d98c4fa9a44491dd180301a
+[2026-10-26 11:33:38 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): The 44 Best Holiday Gifts for 5-Year-Olds
+[2026-10-26 11:33:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf3a92d98c4fa9a44491dd180301a
+[2026-10-26 11:33:38 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-26 11:35:54 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 11:36:10 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 11:36:11 AM] [HISTORY_BOT] [SUCCESS] Published: Archaeologists at This Ancient Maya Metropolis in the Forest of Belize Are Debunking Long-Held Myths About the Mesoamerican Civilization
+[2026-10-26 11:36:11 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1612 in / 496 out tokens
