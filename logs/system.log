@@ -18264,3 +18264,5 @@
 [2026-10-26 09:26:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1cbbb15e4ff4b2282fb694c4e3f
 [2026-10-26 09:26:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-26 09:26:20 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 11}
+[2026-10-26 09:26:55 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Daanish Schools Authority Test Roll Number Slips Issued
+[2026-10-26 09:26:55 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 664 in / 436 out tokens
