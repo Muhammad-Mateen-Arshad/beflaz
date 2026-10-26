@@ -18713,3 +18713,16 @@
 [2026-10-26 11:31:43 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): Food minister stresses cooperation with Pakistan on grain storage
 [2026-10-26 11:32:04 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Karachi Board Class 11 Commerce Result 2026 Announced
 [2026-10-26 11:32:06 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 879 in / 504 out tokens
+[2026-10-26 11:32:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-26 11:32:07 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-26 11:32:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f714e64ab29d9689f705a6be7
+[2026-10-26 11:32:07 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-26 11:32:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f714e64ab29d9689f705a6be7
+[2026-10-26 11:32:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-26 11:32:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f714e64ab29d9689f705a6be7
+[2026-10-26 11:32:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 135/800 chars, resolved=True): The Ingredient in Your Coffee That Is Worse for Your Diet Than Sugar
+[2026-10-26 11:32:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f8ab8946c68a21eb770b0ae64
+[2026-10-26 11:32:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-26 11:32:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f8ab8946c68a21eb770b0ae64
+[2026-10-26 11:32:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
+[2026-10-26 11:32:08 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
