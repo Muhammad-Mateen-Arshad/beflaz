@@ -18300,3 +18300,6 @@
 [2026-10-26 09:27:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf1ce5dcbe4d509227e19ab0e6aee
 [2026-10-26 09:27:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
 [2026-10-26 09:27:01 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-10-26 11:30:10 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 11:30:11 AM] [NEWS_BOT] [SUCCESS] Published: Central bank raises policy rate by 50 basis points to 12pc
+[2026-10-26 11:30:12 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1348 in / 590 out tokens
