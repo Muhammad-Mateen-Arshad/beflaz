@@ -18515,3 +18515,20 @@
 [2026-10-26 05:47:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf9228e0b44d37907de3580f70cc9
 [2026-10-26 05:47:21 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 114/800 chars, resolved=True): You probably don't need expensive NAD+ supplements for healthy aging
 [2026-10-26 05:47:21 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-26 05:47:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf922930564b7a9dd34392fd78628
+[2026-10-26 05:47:22 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New long-clawed British dinosaur is first of its kind in Europe
+[2026-10-26 05:47:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf922930564b7a9dd34392fd78628
+[2026-10-26 05:47:22 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 94/400 chars, resolved=True): This skeleton was found in China in 2004. Scientist finally know what 
+[2026-10-26 05:47:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf922a98b34d36953e18d85741a66
+[2026-10-26 05:47:22 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): The 44 Best Holiday Gifts for 5-Year-Olds
+[2026-10-26 05:47:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf922a98b34d36953e18d85741a66
+[2026-10-26 05:47:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-26 05:47:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf922a98b34d36953e18d85741a66
+[2026-10-26 05:47:23 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-26 05:47:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf922b214e47fb8b911435a17cb53
+[2026-10-26 05:47:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-26 05:47:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf922b214e47fb8b911435a17cb53
+[2026-10-26 05:47:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): These 8 Incredible Pyramids Outside Egypt Are Even Stranger than You’d
+[2026-10-26 05:47:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf922b214e47fb8b911435a17cb53
+[2026-10-26 05:47:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Atlantis of the Sands: Arabia’s Legendary Lost City of Ubar
+[2026-10-26 05:47:25 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
