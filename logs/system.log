@@ -18584,3 +18584,23 @@
 [2026-10-26 07:34:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
 [2026-10-26 07:34:09 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1176 in / 545 out tokens
 [2026-10-26 07:34:09 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 6, 'rejected': 1}
+[2026-10-26 07:34:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab3144324bc8a3d9683042a7223
+[2026-10-26 07:34:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New long-clawed British dinosaur is first of its kind in Europe
+[2026-10-26 07:34:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab3144324bc8a3d9683042a7223
+[2026-10-26 07:34:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 94/400 chars, resolved=True): This skeleton was found in China in 2004. Scientist finally know what 
+[2026-10-26 07:34:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab32db2a4e7b8fd45cf1e331a02
+[2026-10-26 07:34:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-26 07:34:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab32c2f5407d81f87d459faa10b
+[2026-10-26 07:34:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-26 07:34:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab32c2f5407d81f87d459faa10b
+[2026-10-26 07:34:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): These 8 Incredible Pyramids Outside Egypt Are Even Stranger than You’d
+[2026-10-26 07:34:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab32c2f5407d81f87d459faa10b
+[2026-10-26 07:34:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Atlantis of the Sands: Arabia’s Legendary Lost City of Ubar
+[2026-10-26 07:34:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfab3466ad4e209f9fed346c4753b
+[2026-10-26 07:34:12 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-10-26 07:34:13 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 07:34:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-26 07:34:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-26 07:35:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 07:35:23 PM] [HISTORY_BOT] [SUCCESS] Published: Earth’s first fully-marine amphibian stalked the seafloor with a chunky, bony body
+[2026-10-26 07:35:24 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1216 in / 464 out tokens
