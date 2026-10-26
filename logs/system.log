@@ -18186,3 +18186,5 @@
 [2026-10-26 03:31:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec98f13944c619074078f2f548fd
 [2026-10-26 03:31:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): How many have you visited? National Geographic reveals 25 best places 
 [2026-10-26 03:31:28 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-10-26 07:29:53 AM] [NEWS_BOT] [SUCCESS] Published: Saim Ayub released from Pakistan tri-series squad to work on batting form, Sahibzada Farhan named replacement
+[2026-10-26 07:29:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 921 in / 480 out tokens
