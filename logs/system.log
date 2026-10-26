@@ -18235,3 +18235,5 @@
 [2026-10-26 07:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf01c27f3d481f82d8153e6ab3682
 [2026-10-26 07:31:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
 [2026-10-26 07:31:14 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-10-26 09:26:13 AM] [NEWS_BOT] [SUCCESS] Published: Makkah defence pact officials to visit Tehran today: Iranian state media
+[2026-10-26 09:26:14 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1106 in / 502 out tokens
