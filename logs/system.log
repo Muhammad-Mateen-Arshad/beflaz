@@ -18132,3 +18132,14 @@
 [2026-10-26 02:00:18 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
 [2026-10-26 03:29:48 AM] [NEWS_BOT] [SUCCESS] Published: Govt moves to establish new ‘umbrella’ privatisation entity
 [2026-10-26 03:29:49 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1367 in / 495 out tokens
+[2026-10-26 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec92eaa104ce6bd58a079be8a3ba
+[2026-10-26 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): PM Shehbaz calls for stronger export-oriented industries, forms commit
+[2026-10-26 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec92eaa104ce6bd58a079be8a3ba
+[2026-10-26 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-26 03:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec92e459c4f1bb52904698eff655
+[2026-10-26 03:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): First batch of 18,300 Agniveers set to leave armed forces by December 
+[2026-10-26 03:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adec92e459c4f1bb52904698eff655
+[2026-10-26 03:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): PM Modi in Varanasi: Textile Unit and IAF Air Show
+[2026-10-26 03:29:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 03:30:16 AM] [JOBS_BOT] [SUCCESS] Published: Probiotics may help protect against early signs of Alzheimer’s
+[2026-10-26 03:30:17 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1468 in / 417 out tokens
