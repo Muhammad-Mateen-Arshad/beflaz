@@ -18446,3 +18446,21 @@
 [2026-10-26 05:18:13 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-26 05:18:43 PM] [HEALTH_BOT] [SUCCESS] Published: Weakness and mobility loss in aging are not just muscle problems
 [2026-10-26 05:18:43 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1459 in / 522 out tokens
+[2026-10-26 05:18:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8b74df9b4d53a55f467c7510fc4
+[2026-10-26 05:18:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New long-clawed British dinosaur is first of its kind in Europe
+[2026-10-26 05:18:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8b74df9b4d53a55f467c7510fc4
+[2026-10-26 05:18:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 94/400 chars, resolved=True): This skeleton was found in China in 2004. Scientist finally know what 
+[2026-10-26 05:18:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8b7454f1406a89c87b5cd3d8a4a
+[2026-10-26 05:18:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-26 05:18:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8b7501cf4820854b9d680f3e0cd
+[2026-10-26 05:18:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): The world’s oldest shipwreck may have been found off Turkey. But the 4
+[2026-10-26 05:18:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8b7501cf4820854b9d680f3e0cd
+[2026-10-26 05:18:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): These 8 Incredible Pyramids Outside Egypt Are Even Stranger than You’d
+[2026-10-26 05:18:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8b7501cf4820854b9d680f3e0cd
+[2026-10-26 05:18:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Atlantis of the Sands: Arabia’s Legendary Lost City of Ubar
+[2026-10-26 05:18:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf8b763b554c209c034b20e2d1c8e
+[2026-10-26 05:18:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-10-26 05:18:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 05:19:20 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 05:19:21 PM] [HISTORY_BOT] [SUCCESS] Published: Iconic dinosaur featured in Jurassic Park III spent most of its life underwater, study finds
+[2026-10-26 05:19:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1150 in / 525 out tokens
