@@ -18688,3 +18688,16 @@
 [2026-10-26 11:30:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe29c18f54e1690dff2fdb1daa22
 [2026-10-26 11:30:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
 [2026-10-26 11:30:37 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 2, 'tried': 8, 'thin': 8}
+[2026-10-26 11:30:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-26 11:30:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe29e7a7a4951ae783f8bcc74aaa
+[2026-10-26 11:30:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 131/300 chars, resolved=True): Netflix’s 10-episode sci-fi hit gets new 2027 release
+[2026-10-26 11:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe29e7a7a4951ae783f8bcc74aaa
+[2026-10-26 11:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): What To Watch This Week: The Best New Shows And Movies On Netflix, HBO
+[2026-10-26 11:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe29fcb1b4d95bd37c1e237bb095
+[2026-10-26 11:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-26 11:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe29fcb1b4d95bd37c1e237bb095
+[2026-10-26 11:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-26 11:30:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-26 11:30:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 11:31:41 PM] [DRAMAS_BOT] [SUCCESS] Published: New Live-Action GTO: Great Teacher Onizuka Series Streams Trailer
+[2026-10-26 11:31:41 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1168 in / 697 out tokens
