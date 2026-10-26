@@ -18625,3 +18625,6 @@
 [2026-10-26 11:25:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1716c6446b88452b0b36a927c3
 [2026-10-26 11:25:37 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
 [2026-10-26 11:25:37 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 3, 'tried': 8, 'thin': 8}
+[2026-10-26 11:25:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-26 11:26:02 PM] [DRAMAS_BOT] [SUCCESS] Published: Guy Ritchie’s 'The Gentlemen' Officially Sets New Release Following Netflix’s Season 2 Finale
+[2026-10-26 11:26:03 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1594 in / 447 out tokens
