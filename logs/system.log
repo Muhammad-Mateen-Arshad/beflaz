@@ -18303,3 +18303,16 @@
 [2026-10-26 11:30:10 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 11:30:11 AM] [NEWS_BOT] [SUCCESS] Published: Central bank raises policy rate by 50 basis points to 12pc
 [2026-10-26 11:30:12 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1348 in / 590 out tokens
+[2026-10-26 11:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf39c464e54b53a4ebfaaf0d38a49
+[2026-10-26 11:30:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Punjab CM Maryam Nawaz orders country's first film royalty lawPublishe
+[2026-10-26 11:30:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf39c464e54b53a4ebfaaf0d38a49
+[2026-10-26 11:30:13 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shiv
+[2026-10-26 11:30:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf39c464e54b53a4ebfaaf0d38a49
+[2026-10-26 11:30:13 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): PM Shehbaz calls for stronger export-oriented industries, forms commit
+[2026-10-26 11:30:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf39c530df41539a471cfaa2ac465
+[2026-10-26 11:30:13 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Mecca allies head to Tehran for high-level talks with Iran leadership 
+[2026-10-26 11:30:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-26 11:30:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-26 11:32:08 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 11:32:08 AM] [JOBS_BOT] [SUCCESS] Published: Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders
+[2026-10-26 11:32:09 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1416 in / 391 out tokens
