@@ -18701,3 +18701,15 @@
 [2026-10-26 11:30:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-26 11:31:41 PM] [DRAMAS_BOT] [SUCCESS] Published: New Live-Action GTO: Great Teacher Onizuka Series Streams Trailer
 [2026-10-26 11:31:41 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1168 in / 697 out tokens
+[2026-10-26 11:31:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2de76ee478fab0f37dad8a43b4
+[2026-10-26 11:31:42 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Vivek Ramaswamy outlines education plan for Ohio in one-on-one intervi
+[2026-10-26 11:31:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2de76ee478fab0f37dad8a43b4
+[2026-10-26 11:31:42 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-26 11:31:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2de76ee478fab0f37dad8a43b4
+[2026-10-26 11:31:43 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Debt-free Quezon City: Mayor Joy Belmonte’s 7-year masterclass in gove
+[2026-10-26 11:31:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2dff4c64cf7b41d04ef46d078b
+[2026-10-26 11:31:43 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-26 11:31:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2dff4c64cf7b41d04ef46d078b
+[2026-10-26 11:31:43 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): Food minister stresses cooperation with Pakistan on grain storage
+[2026-10-26 11:32:04 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Karachi Board Class 11 Commerce Result 2026 Announced
+[2026-10-26 11:32:06 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 879 in / 504 out tokens
