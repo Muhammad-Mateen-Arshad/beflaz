@@ -18628,3 +18628,14 @@
 [2026-10-26 11:25:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-10-26 11:26:02 PM] [DRAMAS_BOT] [SUCCESS] Published: Guy Ritchie’s 'The Gentlemen' Officially Sets New Release Following Netflix’s Season 2 Finale
 [2026-10-26 11:26:03 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1594 in / 447 out tokens
+[2026-10-26 11:26:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe18c4b2e4fa491974e3ae6eca6e
+[2026-10-26 11:26:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Vivek Ramaswamy outlines education plan for Ohio in one-on-one intervi
+[2026-10-26 11:26:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe18c4b2e4fa491974e3ae6eca6e
+[2026-10-26 11:26:05 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-26 11:26:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe18c4b2e4fa491974e3ae6eca6e
+[2026-10-26 11:26:05 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Debt-free Quezon City: Mayor Joy Belmonte’s 7-year masterclass in gove
+[2026-10-26 11:26:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe18d0d464b2ca7868f35674f54a
+[2026-10-26 11:26:05 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-26 11:26:06 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 11:26:31 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Too big to brake: why Bangladesh and Pakistan escaped the visa brake, and what comes next
+[2026-10-26 11:26:31 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1634 in / 490 out tokens
