@@ -18652,3 +18652,19 @@
 [2026-10-26 11:26:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-26 11:27:02 PM] [HEALTH_BOT] [SUCCESS] Published: Don’t lose the ability to get up and down from the floor
 [2026-10-26 11:27:02 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1125 in / 512 out tokens
+[2026-10-26 11:27:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1c77d094a7fab807dd588bf7a2
+[2026-10-26 11:27:03 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New long-clawed British dinosaur is first of its kind in Europe
+[2026-10-26 11:27:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1c77d094a7fab807dd588bf7a2
+[2026-10-26 11:27:03 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 94/400 chars, resolved=True): This skeleton was found in China in 2004. Scientist finally know what 
+[2026-10-26 11:27:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1c7ae574a0e9b7253f2dc3e920
+[2026-10-26 11:27:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-26 11:27:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1c8b7af4e1cb4cdff3e29df776
+[2026-10-26 11:27:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): These 8 Incredible Pyramids Outside Egypt Are Even Stranger than You’d
+[2026-10-26 11:27:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1c8b7af4e1cb4cdff3e29df776
+[2026-10-26 11:27:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Atlantis of the Sands: Arabia’s Legendary Lost City of Ubar
+[2026-10-26 11:27:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1c8b7af4e1cb4cdff3e29df776
+[2026-10-26 11:27:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-26 11:27:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe1c9d19e4749aa66423022d3039
+[2026-10-26 11:27:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-10-26 11:27:30 PM] [HISTORY_BOT] [SUCCESS] Published: This skeleton was found in China in 2004. Scientist finally know what it is
+[2026-10-26 11:27:31 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1549 in / 499 out tokens
