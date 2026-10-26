@@ -18604,3 +18604,7 @@
 [2026-10-26 07:35:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 07:35:23 PM] [HISTORY_BOT] [SUCCESS] Published: Earth’s first fully-marine amphibian stalked the seafloor with a chunky, bony body
 [2026-10-26 07:35:24 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1216 in / 464 out tokens
+[2026-10-26 11:24:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-26 11:25:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 11:25:33 PM] [NEWS_BOT] [SUCCESS] Published: Microsoft offers voluntary exit packages to 60,000 staff
+[2026-10-26 11:25:34 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1671 in / 575 out tokens
