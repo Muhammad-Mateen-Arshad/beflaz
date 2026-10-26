@@ -18316,3 +18316,15 @@
 [2026-10-26 11:32:08 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 11:32:08 AM] [JOBS_BOT] [SUCCESS] Published: Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders
 [2026-10-26 11:32:09 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1416 in / 391 out tokens
+[2026-10-26 11:32:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-26 11:32:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf3a3a0cd943b3b998538ee91f4a5
+[2026-10-26 11:32:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): Netflix's new 6-part thriller is a streaming hit with 1.1B minutes vie
+[2026-10-26 11:32:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf3a3a0cd943b3b998538ee91f4a5
+[2026-10-26 11:32:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 133/300 chars, resolved=True): Gundam reverses course on longtime release strategy for new series
+[2026-10-26 11:32:46 AM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (38 words, need 150)): Apple Silicon vs Intel: M5 Max 614 GB/s vs X9 [2026]
+[2026-10-26 11:32:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf3a5e7aca49f2b9c157ec5655144
+[2026-10-26 11:32:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-26 11:32:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf3a5e7aca49f2b9c157ec5655144
+[2026-10-26 11:32:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-26 11:32:47 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1807 in / 135 out tokens
+[2026-10-26 11:32:47 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 5, 'already_seen': 10, 'rejected': 1}
