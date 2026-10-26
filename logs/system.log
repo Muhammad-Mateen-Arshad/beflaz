@@ -18532,3 +18532,9 @@
 [2026-10-26 05:47:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf922b214e47fb8b911435a17cb53
 [2026-10-26 05:47:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Atlantis of the Sands: Arabia’s Legendary Lost City of Ubar
 [2026-10-26 05:47:25 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-10-26 07:29:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-26 07:29:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-26 07:30:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-26 07:31:30 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-26 07:31:31 PM] [NEWS_BOT] [SUCCESS] Published: Govt raises petrol price by Rs1.54 per litre, high-speed diesel rate by Rs2.16
+[2026-10-26 07:31:32 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 992 in / 577 out tokens
