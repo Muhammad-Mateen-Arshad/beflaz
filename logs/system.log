@@ -18538,3 +18538,20 @@
 [2026-10-26 07:31:30 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 07:31:31 PM] [NEWS_BOT] [SUCCESS] Published: Govt raises petrol price by Rs1.54 per litre, high-speed diesel rate by Rs2.16
 [2026-10-26 07:31:32 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 992 in / 577 out tokens
+[2026-10-26 07:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfaa9579be46e7aae31222ebaefb2
+[2026-10-26 07:31:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 168/400 chars, resolved=True): Kashmiri Pandit activist arrested over cyber-terror threats to J&K emp
+[2026-10-26 07:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfaa9579be46e7aae31222ebaefb2
+[2026-10-26 07:31:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Punjab CM Maryam Nawaz orders country's first film royalty lawPublishe
+[2026-10-26 07:31:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfaa9579be46e7aae31222ebaefb2
+[2026-10-26 07:31:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 177/400 chars, resolved=True): What is Indonesia doing in the Badr Pact with Pakistan, Turkey and Qat
+[2026-10-26 07:31:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfaa96c4f44c63b8a0ec49d0c4332
+[2026-10-26 07:31:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-10-26 07:31:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfaa96a2b649f3acdb4dd9a890419
+[2026-10-26 07:31:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Mecca allies head to Tehran for high-level talks with Iran leadership 
+[2026-10-26 07:31:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfaa96a2b649f3acdb4dd9a890419
+[2026-10-26 07:31:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): First batch of 18,300 Agniveers set to leave armed forces by December 
+[2026-10-26 07:31:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfaa96a2b649f3acdb4dd9a890419
+[2026-10-26 07:31:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 175/400 chars, resolved=True): No tailwinds for India: US and China are squeezing India’s rise
+[2026-10-26 07:31:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfaa96a2b649f3acdb4dd9a890419
+[2026-10-26 07:31:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): On Accession Day, Mehbooba Mufti calls for discussion on Kashmir: ‘Dis
+[2026-10-26 07:31:35 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 3, 'tried': 8, 'thin': 8}
