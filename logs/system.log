@@ -18469,3 +18469,20 @@
 [2026-10-26 05:46:06 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 05:46:07 PM] [NEWS_BOT] [SUCCESS] Published: UN raises 'ethnic cleansing' concerns over Israel's operation in West Bank's Hebron
 [2026-10-26 05:46:07 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 754 in / 489 out tokens
+[2026-10-26 05:46:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e0e1734b6e92032d167c02fba
+[2026-10-26 05:46:08 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): The world is losing patience
+[2026-10-26 05:46:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e0e1734b6e92032d167c02fba
+[2026-10-26 05:46:08 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): PM Shehbaz calls for stronger export-oriented industries, forms commit
+[2026-10-26 05:46:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e1242e4f648fed14711f55e9b
+[2026-10-26 05:46:09 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Mecca allies head to Tehran for high-level talks with Iran leadership 
+[2026-10-26 05:46:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e1242e4f648fed14711f55e9b
+[2026-10-26 05:46:09 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): First batch of 18,300 Agniveers set to leave armed forces by December 
+[2026-10-26 05:46:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e1242e4f648fed14711f55e9b
+[2026-10-26 05:46:09 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): On Accession Day, Mehbooba Mufti calls for discussion on Kashmir: ‘Dis
+[2026-10-26 05:46:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e20b054e75bacb9f5c579ba89
+[2026-10-26 05:46:11 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): NUMS Jobs 2026 Apply Online for Teaching & Non-Teaching Staff National
+[2026-10-26 05:46:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e20b054e75bacb9f5c579ba89
+[2026-10-26 05:46:11 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - October 26, 2026
+[2026-10-26 05:46:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf91e20b054e75bacb9f5c579ba89
+[2026-10-26 05:46:11 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): PM launches 0.5m-Chromebook drive to put technology within talented st
+[2026-10-26 05:46:12 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
