@@ -18726,3 +18726,20 @@
 [2026-10-26 11:32:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f8ab8946c68a21eb770b0ae64
 [2026-10-26 11:32:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Walking 3,000 steps a day was linked to slower Alzheimer’s decline in 
 [2026-10-26 11:32:08 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-26 11:32:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f9d2ed4192bddde53d6949dc5
+[2026-10-26 11:32:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New long-clawed British dinosaur is first of its kind in Europe
+[2026-10-26 11:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f9728d4d4ebbaf1beb807b672
+[2026-10-26 11:32:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): The 44 Best Holiday Gifts for 5-Year-Olds
+[2026-10-26 11:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f9728d4d4ebbaf1beb807b672
+[2026-10-26 11:32:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long SNDK Daily Target ETF
+[2026-10-26 11:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2f9728d4d4ebbaf1beb807b672
+[2026-10-26 11:32:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): T-REX 2X Long BMNR Daily Target ETF
+[2026-10-26 11:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2fa675a439eafd6c9ccfcdcf0f
+[2026-10-26 11:32:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): These 8 Incredible Pyramids Outside Egypt Are Even Stranger than You’d
+[2026-10-26 11:32:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2fa675a439eafd6c9ccfcdcf0f
+[2026-10-26 11:32:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Atlantis of the Sands: Arabia’s Legendary Lost City of Ubar
+[2026-10-26 11:32:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2fa675a439eafd6c9ccfcdcf0f
+[2026-10-26 11:32:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Possible 5,000-Year-Old Ritual Building Discovered Beside Royal Tombs 
+[2026-10-26 11:32:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfe2fb2d2048d5a9d8e1119755474
+[2026-10-26 11:32:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-10-26 11:32:11 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
