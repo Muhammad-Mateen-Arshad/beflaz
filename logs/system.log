@@ -18210,3 +18210,5 @@
 [2026-10-26 07:30:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-26 07:30:31 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 704 in / 266 out tokens
 [2026-10-26 07:30:31 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 4, 'already_seen': 11, 'rejected': 1}
+[2026-10-26 07:30:47 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Victoria Secures Future of Nursing and Midwifery Workforce
+[2026-10-26 07:30:48 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 799 in / 495 out tokens
