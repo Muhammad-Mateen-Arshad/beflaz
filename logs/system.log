@@ -18372,3 +18372,7 @@
 [2026-10-26 03:34:47 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-26 03:34:47 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Begins Filming ‘Jotadé’, New Spanish Crime Thriller Miniseries Starring Jose Coronado and Jaime Lorente
 [2026-10-26 03:34:48 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1031 in / 489 out tokens
+[2026-10-26 03:34:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf73193ae6487cbb759dd9624f57e
+[2026-10-26 03:34:49 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-26 03:35:10 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Palestinian student set to begin studies in Waterford after having visa approved
+[2026-10-26 03:35:11 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1005 in / 426 out tokens
