@@ -19309,3 +19309,13 @@
 [2026-10-27 11:18:49 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 11:18:49 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Railways approves 829 jobs under Balochistan quota
 [2026-10-27 11:18:51 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1144 in / 582 out tokens
+[2026-10-27 11:18:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1315b89c648a09b5d865dfcacf89
+[2026-10-27 11:18:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Jim Osman
+[2026-10-27 11:18:53 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-27 11:18:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1315de2294f49b6d64602ae32cc9
+[2026-10-27 11:18:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-27 11:18:55 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 11:18:58 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-27 11:19:30 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 11:19:31 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Acquires ‘AWOL,’ a New Dramedy Series From the ‘Dungeons & Dragons: Honor Among Thieves’ Duo
+[2026-10-27 11:19:31 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1370 in / 455 out tokens
