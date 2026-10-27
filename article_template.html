@@ -3,7 +3,6 @@
 <head>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PRCXV8GX56"></script>
-    <meta property="og:image" content="{{IMAGE_URL}}" />
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -14,6 +13,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{TITLE}} - Beflaz</title>
+    <meta name="description" content="{{META_DESCRIPTION}}">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -128,28 +128,15 @@
         </article>
     </main>
 
-   <footer class="site-footer fade-up" style="max-width: 1200px; margin: 0 auto; padding: 2rem;">
-        
-        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 2rem; margin-bottom: 2rem;">
-            
-            <div class="footer-links" style="display: flex; flex-direction: column; gap: 10px; text-align: left;">
-                <h3 style="color: var(--accent); margin-bottom: 10px;">Quick Links</h3>
-                <a href="about.html" style="text-decoration: none;">About Us</a>
-                <a href="contact.html" style="text-decoration: none;">Contact</a>
-                <a href="privacy-policy.html" style="text-decoration: none;">Privacy Policy</a>
-                <a href="editorial-policy.html" style="text-decoration: none;">Editorial Policy</a>
-            </div>
-
-            <div class="newsletter-box">
-                <iframe src="https://beflaz.substack.com/embed?transparent=1&light=90" width="480" height="320" style="border: 0; filter: invert(1) hue-rotate(180deg) contrast(0.9);" frameborder="0" scrolling="no"></iframe>
-            </div>
-
+    <!-- Footer -->
+    <footer class="site-footer fade-up">
+        <div class="footer-links">
+            <a href="../about.html">About Us</a>
+            <a href="../contact.html">Contact</a>
+            <a href="../privacy-policy.html">Privacy Policy</a>
+            <a href="../editorial-policy.html">Editorial Policy</a>
         </div>
-
-        <div style="text-align: center; border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 1.5rem;">
-            <p style="color: var(--text-muted); font-size: 0.95rem; margin: 0;">&copy; 2026 Beflaz. All rights reserved.</p>
-        </div>
-        
+        <p style="color: var(--text-muted); font-size: 0.95rem;">&copy; 2026 Beflaz. All rights reserved.</p>
     </footer>
 
     <!-- Scroll Reveal Script -->

@@ -74,11 +74,13 @@ def build_article(niche, title, body_html, image_url, image_credit, source):
         + _footer(niche, source.link, source.publisher, image_credit)
     )
     published_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    meta_description = shorten(html_to_text(body_html), 155)
     page = (
         template.replace("{{TITLE}}", esc(title))
         .replace("{{IMAGE_URL}}", esc(image_url))
         .replace("{{CURRENT_TIME}}", datetime.now().strftime("%B %d, %Y"))
         .replace("{{AI_CONTENT}}", content)
+        .replace("{{META_DESCRIPTION}}", esc(meta_description))
         # Structured data (NewsArticle / Article schema) placeholders:
         .replace("{{ARTICLE_URL}}", esc(url))
         .replace("{{PUBLISH_ISO}}", published_iso)
