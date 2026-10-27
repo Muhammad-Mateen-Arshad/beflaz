@@ -19304,3 +19304,8 @@
 [2026-10-27 11:18:12 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 11:18:12 PM] [NEWS_BOT] [SUCCESS] Published: Justice Ayesha Malik challenges assumptions blaming women for 'inviting' rape
 [2026-10-27 11:18:13 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1141 in / 577 out tokens
+[2026-10-27 11:18:15 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 28 – 2026
+[2026-10-27 11:18:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 11:18:49 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 11:18:49 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Railways approves 829 jobs under Balochistan quota
+[2026-10-27 11:18:51 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1144 in / 582 out tokens
