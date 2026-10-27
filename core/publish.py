@@ -60,6 +60,33 @@ def _footer(niche, source_link, publisher, image_credit):
     return note
 
 
+def _related_articles_html(niche, exclude_url, limit=4):
+    """Self-contained block (its own inline styles, no dependency on class
+    names elsewhere in css/style.css) linking to recent articles in the
+    same niche. Uses the same JSON store update_rss() already maintains,
+    so no extra file reads or AI calls are needed."""
+    items = [i for i in _read_feed_store(_niche_feed_path(niche.name)) if i.get("url") != exclude_url][:limit]
+    if not items:
+        return ""
+    cards = "".join(
+        f'<a href="{esc(i["url"])}" style="text-decoration:none; color:inherit; display:block; '
+        'border:1px solid rgba(212,175,55,0.15); border-radius:10px; overflow:hidden;">'
+        f'<img src="{esc(i["image"])}" alt="{esc(i["title"])}" loading="lazy" width="300" height="160" '
+        'style="width:100%; height:110px; object-fit:cover; display:block;">'
+        '<span style="display:block; padding:10px 12px; font-size:0.9rem; line-height:1.3; '
+        'color:var(--text-primary,#f5f5f0);">'
+        f'{esc(shorten(i["title"], 70))}</span></a>'
+        for i in items
+    )
+    return (
+        '<div style="margin-top:3rem; padding-top:2rem; border-top:1px solid rgba(199,203,209,0.1);">'
+        '<h3 style="font-family:\'Playfair Display\', serif; color:var(--gold-light,#F4E5B2); '
+        'font-size:1.3rem; margin-bottom:1.2rem;">Related Articles</h3>'
+        f'<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(140px, 1fr)); gap:14px;">'
+        f'{cards}</div></div>'
+    )
+
+
 def build_article(niche, title, body_html, image_url, image_credit, source):
     """Write the article file. Returns (filename, public_url)."""
     filename = make_filename(title, source.link)
@@ -72,6 +99,7 @@ def build_article(niche, title, body_html, image_url, image_credit, source):
         body_html
         + _button(niche, source.link, source.resolved)
         + _footer(niche, source.link, source.publisher, image_credit)
+        + _related_articles_html(niche, url)
     )
     published_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
     meta_description = shorten(html_to_text(body_html), 155)

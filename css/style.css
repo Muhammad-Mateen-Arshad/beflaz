@@ -468,3 +468,21 @@ body {
   .news-card h3 { font-size: 0.92rem; }
 }
 
+/* 4 cards per row on desktop, smooth scale-down on every screen size */
+*:has(> .news-card) {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr) !important;
+  gap: 20px !important;
+}
+
+@media (max-width: 1024px) {
+  *:has(> .news-card) { grid-template-columns: repeat(3, 1fr) !important; }
+}
+
+@media (max-width: 768px) {
+  *:has(> .news-card) { grid-template-columns: repeat(2, 1fr) !important; }
+}
+
+@media (max-width: 480px) {
+  *:has(> .news-card) { grid-template-columns: repeat(1, 1fr) !important; }
+}
