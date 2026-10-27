@@ -19176,3 +19176,10 @@
 [2026-10-27 03:33:29 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 03:33:30 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: High Court overturns Palestinian student’s visa denial over ‘significant errors’ in process
 [2026-10-27 03:33:31 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1078 in / 434 out tokens
+[2026-10-27 03:33:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-27 03:33:32 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-27 03:33:34 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 03:34:14 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 03:34:30 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 03:34:30 PM] [HEALTH_BOT] [SUCCESS] Published: We tested 16 mushroom coffees — only 2 tasted like the real thing
+[2026-10-27 03:34:31 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1740 in / 546 out tokens
