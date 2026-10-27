@@ -19202,3 +19202,17 @@
 [2026-10-27 04:57:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 04:57:51 PM] [JOBS_BOT] [SUCCESS] Published: Iran alleges Trump admin not 'serious' with negotiations, clinging to nuclear hopes, Strait control
 [2026-10-27 04:57:52 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 557 in / 512 out tokens
+[2026-10-27 04:57:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0d81090ae439cb4aecffc9455b1a
+[2026-10-27 04:57:53 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Jim Osman
+[2026-10-27 04:57:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-27 04:57:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0d812c5324e0d8649957964a717b
+[2026-10-27 04:57:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-27 04:57:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0d81352264f529cc10a18e822a8b
+[2026-10-27 04:57:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): 5 new shows to stream this week on Netflix, Apple TV+ and more
+[2026-10-27 04:57:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0d81352264f529cc10a18e822a8b
+[2026-10-27 04:57:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): What To Watch This Week: The Best New Shows And Movies On Netflix, HBO
+[2026-10-27 04:57:56 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 04:58:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-27 04:58:48 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 04:58:49 PM] [DRAMAS_BOT] [SUCCESS] Published: 3 Best New Netflix Releases For Older Viewers In November 2026
+[2026-10-27 04:58:50 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1746 in / 564 out tokens
