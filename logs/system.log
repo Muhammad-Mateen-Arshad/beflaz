@@ -19273,3 +19273,10 @@
 [2026-10-27 07:31:32 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 07:31:33 PM] [DRAMAS_BOT] [SUCCESS] Published: When Does The Next Season of 'From' Premiere on Netflix and MGM+? 'From' Seasons 4 and 5 Release Dates Info
 [2026-10-27 07:31:34 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1166 in / 447 out tokens
+[2026-10-27 07:31:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0fc169d0d444186dae5e57a12c19
+[2026-10-27 07:31:34 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): Future president: John Dumelo hailed for sponsoring 40+ students to st
+[2026-10-27 07:31:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 07:31:37 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-27 07:32:07 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 07:32:08 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: High Court overturns decision to deny Gazan student study visa
+[2026-10-27 07:32:09 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1499 in / 410 out tokens
