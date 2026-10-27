@@ -18896,3 +18896,11 @@
 [2026-10-27 04:44:50 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1656 in / 445 out tokens
 [2026-10-27 05:00:18 AM] [NEWS_BOT] [SUCCESS] Published: Israelis to decide Netanyahu’s fate in pivotal election today
 [2026-10-27 05:00:19 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1544 in / 563 out tokens
+[2026-10-27 05:00:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02fe3204447d6adaa83d4ecfaaac
+[2026-10-27 05:00:20 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Iran-US Tensions: Pakistan, Saudi Arabia And Turkey Officials Meet Ira
+[2026-10-27 05:01:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 05:01:05 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 05:01:08 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-27 05:01:58 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 05:01:58 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Borrows $750 Million Loan for Pension and PPP Reforms
+[2026-10-27 05:01:59 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1096 in / 449 out tokens
