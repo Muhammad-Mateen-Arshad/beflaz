@@ -18956,3 +18956,19 @@
 [2026-10-27 05:02:35 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1009 in / 502 out tokens
 [2026-10-27 07:30:37 AM] [NEWS_BOT] [SUCCESS] Published: At UNGA debate, Pakistan warns against adding more members to Security Council, extending veto privileges
 [2026-10-27 07:30:38 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 896 in / 460 out tokens
+[2026-10-27 07:30:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0531ec75347a4aa5eb92076f1e42
+[2026-10-27 07:30:39 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Iran-US Tensions: Pakistan, Saudi Arabia And Turkey Officials Meet Ira
+[2026-10-27 07:30:52 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): National Assembly passes seven bills amid sparse attendance
+[2026-10-27 07:30:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0531ec75347a4aa5eb92076f1e42
+[2026-10-27 07:30:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Chromebook scheme
+[2026-10-27 07:30:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 07:31:14 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): SAR to PKR Exchange Rate Live - Convert Saudi Riyal to Pakistani Rupee
+[2026-10-27 07:31:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 07:31:32 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (148 words, need 150)): TECO customers rally against rate increase at FPSC meeting
+[2026-10-27 07:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0532de49247d197e9f50ac2c6fac
+[2026-10-27 07:31:32 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 114/400 chars, resolved=True): Newspaper - Front Page - October 26, 2026
+[2026-10-27 07:31:33 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 260/400 chars, resolved=True): Makkah Alliance, Iran agree to sustain regional peace talks
+[2026-10-27 07:31:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae053556eff4837857b2dbf330c925
+[2026-10-27 07:31:33 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 100/400 chars, resolved=True): Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tens
+[2026-10-27 07:31:33 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 2418 in / 1284 out tokens
+[2026-10-27 07:31:33 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 2, 'tried': 8, 'thin': 5, 'rejected': 3}
