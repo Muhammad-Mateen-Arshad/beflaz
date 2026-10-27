@@ -18987,3 +18987,13 @@
 [2026-10-27 07:31:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-27 07:31:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): New English Web Series List (2026)
 [2026-10-27 07:31:37 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
+[2026-10-27 07:31:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae053590ad447e48a9e0021f779251
+[2026-10-27 07:31:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Vivek Ramaswamy outlines education plan for Ohio in one-on-one intervi
+[2026-10-27 07:31:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae053590ad447e48a9e0021f779251
+[2026-10-27 07:31:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): Want to go to space from UAE? It could cost you Dh257 million
+[2026-10-27 07:31:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae053590ad447e48a9e0021f779251
+[2026-10-27 07:31:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Population loss, Hope Scholarship driving enrollment losses in West Vi
+[2026-10-27 07:31:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0535a32ec4615b6f30f0ebebb274
+[2026-10-27 07:31:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Haier signs MOU with BZU Multan to empower students through scholarshi
+[2026-10-27 07:32:07 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Muizzu’s Pakistan Visit: From Diplomatic Promises to Strategic Outcomes
+[2026-10-27 07:32:08 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1318 in / 361 out tokens
