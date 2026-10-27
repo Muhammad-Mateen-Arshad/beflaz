@@ -18838,3 +18838,10 @@
 [2026-10-27 03:32:52 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1329 in / 642 out tokens
 [2026-10-27 04:42:47 AM] [NEWS_BOT] [SUCCESS] Published: Rate hike divides business community
 [2026-10-27 04:42:48 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1423 in / 526 out tokens
+[2026-10-27 04:42:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02bc936264d3caf47c212a48f778
+[2026-10-27 04:42:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Iran-US Tensions: Pakistan, Saudi Arabia And Turkey Officials Meet Ira
+[2026-10-27 04:42:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02bc936264d3caf47c212a48f778
+[2026-10-27 04:42:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Uttar Pradesh now riot-free: Adityanath
+[2026-10-27 04:42:50 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 04:43:16 AM] [JOBS_BOT] [SUCCESS] Published: ‘We Have Friends, No Enemies’: Timor-Leste’s First Year in ASEAN
+[2026-10-27 04:43:16 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1496 in / 461 out tokens
