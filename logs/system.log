@@ -19250,3 +19250,10 @@
 [2026-10-27 07:30:01 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 07:30:01 PM] [NEWS_BOT] [SUCCESS] Published: Govt cuts petrol price by Rs3.19 per litre, ups high-speed diesel rate by Rs2.25
 [2026-10-27 07:30:02 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1102 in / 598 out tokens
+[2026-10-27 07:30:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 245/400 chars, resolved=True): Iran, Russia eye joint oil and gas projects amid US blockade
+[2026-10-27 07:30:04 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 07:30:16 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): PTI parliamentary party demands Imran Khan’s release, end to KP govern
+[2026-10-27 07:30:17 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-27 07:30:52 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 07:30:52 PM] [JOBS_BOT] [SUCCESS] Published: Britain expands Iran travel caution, warns of sudden threat escalation
+[2026-10-27 07:30:53 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1746 in / 665 out tokens
