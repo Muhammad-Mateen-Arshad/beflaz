@@ -19074,3 +19074,24 @@
 [2026-10-27 11:30:59 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 11:31:00 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan, China launch information corridor 'CPIC' to counter misleading narratives, promote cultural exchange
 [2026-10-27 11:31:01 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1475 in / 548 out tokens
+[2026-10-27 11:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08b75c0cd4dfe960e0de5e648555
+[2026-10-27 11:31:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Madushanka wrecks Pakistan as Sri Lanka press for final slot
+[2026-10-27 11:31:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 11:31:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 11:31:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-27 11:31:43 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (137 words, need 150); too many 'not specified' (source too thin)): Live Updates: 8-month Iran war looms over Israeli election as Egypt wa
+[2026-10-27 11:31:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08b75c0cd4dfe960e0de5e648555
+[2026-10-27 11:31:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Iran-US tensions: Pakistan, Saudi Arabia and Turkey officials meet Ira
+[2026-10-27 11:31:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 260/400 chars, resolved=True): Makkah Alliance, Iran agree to sustain regional peace talks
+[2026-10-27 11:31:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08ba0b5554b4fbb3b518b69c3d6e
+[2026-10-27 11:31:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 100/400 chars, resolved=True): Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tens
+[2026-10-27 11:31:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08ba0b5554b4fbb3b518b69c3d6e
+[2026-10-27 11:31:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Mecca allies head to Tehran for high-level talks with Iran leadership 
+[2026-10-27 11:31:45 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 11:31:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-27 11:32:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-27 11:32:30 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Israel Elections Live Updates: Netanyahu Alleges Election Tampering Af
+[2026-10-27 11:32:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08ba0b5554b4fbb3b518b69c3d6e
+[2026-10-27 11:32:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Iran-US Tensions: Pakistan, Saudi Arabia And Turkey Officials Meet Ira
+[2026-10-27 11:32:30 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2289 in / 637 out tokens
+[2026-10-27 11:32:30 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 6, 'rejected': 2}
