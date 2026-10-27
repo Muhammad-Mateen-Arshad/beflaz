@@ -19033,3 +19033,20 @@
 [2026-10-27 09:24:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-27 09:24:53 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): New English Web Series List (2026)
 [2026-10-27 09:24:53 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
+[2026-10-27 09:24:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de534574c609305fae6000e672
+[2026-10-27 09:24:53 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Vivek Ramaswamy outlines education plan for Ohio in one-on-one intervi
+[2026-10-27 09:24:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de534574c609305fae6000e672
+[2026-10-27 09:24:54 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Population loss, Hope Scholarship driving enrollment losses in West Vi
+[2026-10-27 09:24:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de534574c609305fae6000e672
+[2026-10-27 09:24:54 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-27 09:24:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de6cd3546ef83df5225206aab6
+[2026-10-27 09:24:54 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Haier signs MOU with BZU Multan to empower students through scholarshi
+[2026-10-27 09:24:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de6cd3546ef83df5225206aab6
+[2026-10-27 09:24:54 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): Growing up, Danish Hussain Yar watched clips of the NYC Marathon: ‘Run
+[2026-10-27 09:24:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de6cd3546ef83df5225206aab6
+[2026-10-27 09:24:55 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-27 09:25:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 09:25:23 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (73 words, need 150)): World Polio Day is a reminder there is still work to do
+[2026-10-27 09:25:53 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 09:25:53 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab Govt Yet to Release Top 10 University Rankings
+[2026-10-27 09:25:54 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2023 in / 554 out tokens
