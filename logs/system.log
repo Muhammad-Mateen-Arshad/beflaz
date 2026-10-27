@@ -19018,3 +19018,18 @@
 [2026-10-27 09:24:47 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 09:24:48 AM] [JOBS_BOT] [SUCCESS] Published: Iran War Updates: Tehran shrugs off Trump's attack threats, says diplomacy ongoing as oil prices stay high
 [2026-10-27 09:24:49 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1628 in / 403 out tokens
+[2026-10-27 09:24:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de1c53b4b37b1cc3f6636ac413
+[2026-10-27 09:24:50 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Jim Osman
+[2026-10-27 09:24:51 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-27 09:24:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de3b7d540838e6ce17501631a1
+[2026-10-27 09:24:51 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): 5 new shows to stream this week on Netflix, Apple TV+ and more
+[2026-10-27 09:24:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de3b7d540838e6ce17501631a1
+[2026-10-27 09:24:51 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): What To Watch This Week: The Best New Shows And Movies On Netflix, HBO
+[2026-10-27 09:24:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de3b7d540838e6ce17501631a1
+[2026-10-27 09:24:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 109/300 chars, resolved=True): Netflix releases surprise new KPop Demon Hunters short
+[2026-10-27 09:24:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de4549841dbbd443fa60dde255
+[2026-10-27 09:24:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-27 09:24:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06de4549841dbbd443fa60dde255
+[2026-10-27 09:24:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-27 09:24:53 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): New English Web Series List (2026)
+[2026-10-27 09:24:53 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
