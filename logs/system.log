@@ -19197,3 +19197,8 @@
 [2026-10-27 04:57:02 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 04:57:02 PM] [NEWS_BOT] [SUCCESS] Published: Joint JI-govt committee to mull ways to expand fuel relief scheme
 [2026-10-27 04:57:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1515 in / 545 out tokens
+[2026-10-27 04:57:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 04:57:18 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 04:57:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 04:57:51 PM] [JOBS_BOT] [SUCCESS] Published: Iran alleges Trump admin not 'serious' with negotiations, clinging to nuclear hopes, Strait control
+[2026-10-27 04:57:52 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 557 in / 512 out tokens
