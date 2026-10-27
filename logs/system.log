@@ -19158,3 +19158,17 @@
 [2026-10-27 03:31:18 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 03:31:18 PM] [JOBS_BOT] [SUCCESS] Published: Sindh Assembly has put 'full stop' to new province debate: Bilawal
 [2026-10-27 03:31:19 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 726 in / 400 out tokens
+[2026-10-27 03:31:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0c3c87c094eb58d14307676b1a76
+[2026-10-27 03:31:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Jim Osman
+[2026-10-27 03:31:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-27 03:31:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0c3c95d2444ce9db6c1fcd04231a
+[2026-10-27 03:31:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-27 03:31:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0c3caac224099a77260018e5bee2
+[2026-10-27 03:31:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): 5 new shows to stream this week on Netflix, Apple TV+ and more
+[2026-10-27 03:31:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0c3caac224099a77260018e5bee2
+[2026-10-27 03:31:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): What To Watch This Week: The Best New Shows And Movies On Netflix, HBO
+[2026-10-27 03:31:24 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 03:32:29 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 03:32:45 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 03:32:45 PM] [DRAMAS_BOT] [SUCCESS] Published: Nicola Coughlan Films Overnight Scenes for Netflix’s Roald Dahl Series as Kevin Bishop and Kadeem Ramsay Join Cast
+[2026-10-27 03:32:48 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1293 in / 506 out tokens
