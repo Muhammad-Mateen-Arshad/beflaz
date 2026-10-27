@@ -18771,3 +18771,8 @@
 [2026-10-27 02:38:05 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-27 02:38:31 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Why Trump wants a $70,000 fee for international students working in the US
 [2026-10-27 02:38:31 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1256 in / 524 out tokens
+[2026-10-27 02:38:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-27 02:38:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-27 02:38:33 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 02:38:59 AM] [HEALTH_BOT] [SUCCESS] Published: A Study Of 11,000+ Older Adults Found This Dietary Clue For Brain Health
+[2026-10-27 02:38:59 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1258 in / 456 out tokens
