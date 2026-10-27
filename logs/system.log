@@ -19059,3 +19059,13 @@
 [2026-10-27 09:25:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06e24096d4fbda91dc39e19eb3cf
 [2026-10-27 09:25:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
 [2026-10-27 09:25:56 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
+[2026-10-27 09:25:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06e2572364153a207ac2f707fe19
+[2026-10-27 09:25:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 85/400 chars, resolved=True): New UK dinosaur discovered in London’s Natural History Museum
+[2026-10-27 09:25:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06e2572364153a207ac2f707fe19
+[2026-10-27 09:25:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New swamp dinosaur species discovered from Surrey brickworks fossil
+[2026-10-27 09:25:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae06e2572364153a207ac2f707fe19
+[2026-10-27 09:25:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Fossils from brickworks reveal new dinosaur species that roamed Englan
+[2026-10-27 09:26:10 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 09:26:42 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 09:26:43 AM] [HISTORY_BOT] [SUCCESS] Published: New UK dinosaur discovered using Natural History Museum’s fossil collections named after devoted dad and husband
+[2026-10-27 09:26:43 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 417 in / 323 out tokens
