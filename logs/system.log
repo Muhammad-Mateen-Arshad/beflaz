@@ -18750,3 +18750,15 @@
 [2026-10-27 02:37:30 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 02:37:30 AM] [JOBS_BOT] [SUCCESS] Published: US forces could strike Iran within 96 hours of Trump order as Tehran hosts regional leaders
 [2026-10-27 02:37:31 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 542 in / 457 out tokens
+[2026-10-27 02:37:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae00e6b22084aaab7fcc223482a0e3
+[2026-10-27 02:37:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Jim Osman
+[2026-10-27 02:37:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-27 02:37:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae00e6d5f9b42f49ed7b7edd89e8e0
+[2026-10-27 02:37:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): 5 new shows to stream this week on Netflix, Apple TV+ and more
+[2026-10-27 02:37:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae00e6d5f9b42f49ed7b7edd89e8e0
+[2026-10-27 02:37:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): What To Watch This Week: The Best New Shows And Movies On Netflix, HBO
+[2026-10-27 02:37:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae00e6d5f9b42f49ed7b7edd89e8e0
+[2026-10-27 02:37:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 107/300 chars, resolved=True): Netflix reportedly offered Xbox $500M, but Xbox wanted $800M
+[2026-10-27 02:37:34 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 02:38:02 AM] [DRAMAS_BOT] [SUCCESS] Published: Is Netflix’s ‘Not a Stranger’ Based on a Book or True Story? The Turkish Thriller’s Origins Explained
+[2026-10-27 02:38:03 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1485 in / 564 out tokens
