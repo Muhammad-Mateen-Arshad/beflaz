@@ -19172,3 +19172,7 @@
 [2026-10-27 03:32:45 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 03:32:45 PM] [DRAMAS_BOT] [SUCCESS] Published: Nicola Coughlan Films Overnight Scenes for Netflix’s Roald Dahl Series as Kevin Bishop and Kadeem Ramsay Join Cast
 [2026-10-27 03:32:48 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1293 in / 506 out tokens
+[2026-10-27 03:32:49 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 03:33:29 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 03:33:30 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: High Court overturns Palestinian student’s visa denial over ‘significant errors’ in process
+[2026-10-27 03:33:31 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1078 in / 434 out tokens
