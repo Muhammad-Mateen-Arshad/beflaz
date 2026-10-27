@@ -19280,3 +19280,18 @@
 [2026-10-27 07:32:07 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 07:32:08 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: High Court overturns decision to deny Gazan student study visa
 [2026-10-27 07:32:09 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1499 in / 410 out tokens
+[2026-10-27 07:32:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-27 07:32:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-27 07:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0fc39a7f34b69840f4dddeeb9c1d
+[2026-10-27 07:32:10 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-27 07:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0fc39a7f34b69840f4dddeeb9c1d
+[2026-10-27 07:32:10 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-27 07:32:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0fc3ac1ff45899ee9450cc94c9fb
+[2026-10-27 07:32:25 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-27 07:32:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0fc3ac1ff45899ee9450cc94c9fb
+[2026-10-27 07:32:25 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-27 07:32:26 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 07:32:29 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-27 07:33:04 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 07:33:05 PM] [HEALTH_BOT] [SUCCESS] Published: Managing Urinary Incontinence in Older Adults: Practical Tips and Treatments
+[2026-10-27 07:33:06 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1462 in / 631 out tokens
