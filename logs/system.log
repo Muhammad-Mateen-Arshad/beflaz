@@ -19216,3 +19216,9 @@
 [2026-10-27 04:58:48 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 04:58:49 PM] [DRAMAS_BOT] [SUCCESS] Published: 3 Best New Netflix Releases For Older Viewers In November 2026
 [2026-10-27 04:58:50 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1746 in / 564 out tokens
+[2026-10-27 04:58:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0d84a2c034efb81274fc8f18ade8
+[2026-10-27 04:58:51 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): Future president: John Dumelo hailed for sponsoring 40+ students to st
+[2026-10-27 04:58:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 04:59:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 04:59:23 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 'Significant' errors in State's decision to refuse Irish visa to UCC student from Palestine, says High Court
+[2026-10-27 04:59:24 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1084 in / 406 out tokens
