@@ -19095,3 +19095,20 @@
 [2026-10-27 11:32:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Iran-US Tensions: Pakistan, Saudi Arabia And Turkey Officials Meet Ira
 [2026-10-27 11:32:30 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2289 in / 637 out tokens
 [2026-10-27 11:32:30 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 6, 'rejected': 2}
+[2026-10-27 11:32:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08bce270844e7a4b7981e7654b35
+[2026-10-27 11:32:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Jim Osman
+[2026-10-27 11:32:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-27 11:32:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08bd0c12e4291b31057670deb891
+[2026-10-27 11:32:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): 5 new shows to stream this week on Netflix, Apple TV+ and more
+[2026-10-27 11:32:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08bd0c12e4291b31057670deb891
+[2026-10-27 11:32:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): What To Watch This Week: The Best New Shows And Movies On Netflix, HBO
+[2026-10-27 11:32:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08bd0c12e4291b31057670deb891
+[2026-10-27 11:32:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 109/300 chars, resolved=True): Netflix releases surprise new KPop Demon Hunters short
+[2026-10-27 11:32:34 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 11:32:47 AM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (119 words, need 150)): What are Indians watching on OTT? Netflix, Prime Video, JioHotstar, Ze
+[2026-10-27 11:32:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08bdfb77c4c22804fc7e3ec239ae
+[2026-10-27 11:32:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-27 11:32:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08bdfb77c4c22804fc7e3ec239ae
+[2026-10-27 11:32:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-27 11:32:47 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 767 in / 251 out tokens
+[2026-10-27 11:32:47 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 8, 'rejected': 1}
