@@ -18845,3 +18845,18 @@
 [2026-10-27 04:42:50 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-27 04:43:16 AM] [JOBS_BOT] [SUCCESS] Published: ‘We Have Friends, No Enemies’: Timor-Leste’s First Year in ASEAN
 [2026-10-27 04:43:16 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1496 in / 461 out tokens
+[2026-10-27 04:43:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02be5f16a4f7f90f74cbd9e4e28a
+[2026-10-27 04:43:17 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Jim Osman
+[2026-10-27 04:43:18 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-27 04:43:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02be6926441f582a0970381f4e63
+[2026-10-27 04:43:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): What To Watch This Week: The Best New Shows And Movies On Netflix, HBO
+[2026-10-27 04:43:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02be6926441f582a0970381f4e63
+[2026-10-27 04:43:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): 5 new shows to stream this week on Netflix, Apple TV+ and more
+[2026-10-27 04:43:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02be6926441f582a0970381f4e63
+[2026-10-27 04:43:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 143/300 chars, resolved=True): The Lincoln Lawyer season 5 release timeline on Netflix officially con
+[2026-10-27 04:43:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02be7891e43f7916d978bb2da76b
+[2026-10-27 04:43:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-27 04:43:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02be7891e43f7916d978bb2da76b
+[2026-10-27 04:43:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
+[2026-10-27 04:43:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): New English Web Series List (2026)
+[2026-10-27 04:43:20 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
