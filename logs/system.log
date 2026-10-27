@@ -19340,3 +19340,9 @@
 [2026-10-27 11:21:38 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 11:21:39 PM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur fossil resembling ‘mini T. rex’ sells for whopping $47M
 [2026-10-27 11:21:40 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 865 in / 566 out tokens
+[2026-10-27 11:29:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 11:29:32 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-27 11:29:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-27 11:30:35 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 11:30:35 PM] [NEWS_BOT] [SUCCESS] Published: Netanyahu scrambles for votes as Israelis turn out in record numbers
+[2026-10-27 11:30:37 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1590 in / 519 out tokens
