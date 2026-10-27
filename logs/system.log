@@ -18776,3 +18776,8 @@
 [2026-10-27 02:38:33 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-27 02:38:59 AM] [HEALTH_BOT] [SUCCESS] Published: A Study Of 11,000+ Older Adults Found This Dietary Clue For Brain Health
 [2026-10-27 02:38:59 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1258 in / 456 out tokens
+[2026-10-27 02:39:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae00ec46e984a8da2fb7bb96e595fd
+[2026-10-27 02:39:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Fossils from brickworks reveal new dinosaur species that roamed Englan
+[2026-10-27 02:39:41 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 02:39:42 AM] [HISTORY_BOT] [SUCCESS] Published: Michoacán Tyrannosaurs, Raptors and ‘Duck-Billed’ Dinosaurs: Mexico Confirms Discovery of 50 Footprints in Apatzingán
+[2026-10-27 02:39:42 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1124 in / 542 out tokens
