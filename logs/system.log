@@ -19112,3 +19112,15 @@
 [2026-10-27 11:32:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Park Min-young, Yook Sung-jae Lead Prime Video Romance 'Nine to Six'
 [2026-10-27 11:32:47 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 767 in / 251 out tokens
 [2026-10-27 11:32:47 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 8, 'rejected': 1}
+[2026-10-27 11:32:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08bdf1a1447c1bf1d4024f178cf6
+[2026-10-27 11:32:48 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Vivek Ramaswamy outlines education plan for Ohio in one-on-one intervi
+[2026-10-27 11:32:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08bdf1a1447c1bf1d4024f178cf6
+[2026-10-27 11:32:48 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Population loss, Hope Scholarship driving enrollment losses in West Vi
+[2026-10-27 11:32:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08bdf1a1447c1bf1d4024f178cf6
+[2026-10-27 11:32:48 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Afroza stresses cooperation with Pakistan on food storage, trade
+[2026-10-27 11:32:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08be03b514749b58151242ed510f
+[2026-10-27 11:32:48 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Haier signs MOU with BZU Multan to empower students through scholarshi
+[2026-10-27 11:32:49 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 11:33:21 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 11:33:22 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 'No one is above the law': Maryam Nawaz warns influential offenders in Punjab
+[2026-10-27 11:33:23 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 738 in / 413 out tokens
