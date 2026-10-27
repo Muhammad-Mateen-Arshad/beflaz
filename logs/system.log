@@ -19372,3 +19372,16 @@
 [2026-10-27 11:32:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 11:32:51 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Cadet College Larkana Announces Admissions for Classes 7 and 8
 [2026-10-27 11:32:52 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1258 in / 730 out tokens
+[2026-10-27 11:32:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-27 11:32:54 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-27 11:32:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134a6fe2c4da6811ffe4bcf8f9d2
+[2026-10-27 11:32:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-27 11:32:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134a6fe2c4da6811ffe4bcf8f9d2
+[2026-10-27 11:32:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-27 11:33:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134a700be43fbbe8e43eea3d77ab
+[2026-10-27 11:33:11 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-27 11:33:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134a700be43fbbe8e43eea3d77ab
+[2026-10-27 11:33:11 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-27 11:33:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134a700be43fbbe8e43eea3d77ab
+[2026-10-27 11:33:11 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): How Well Are You Aging? Your ‘Intrinsic Capacity’ May Offer Clues
+[2026-10-27 11:33:11 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
