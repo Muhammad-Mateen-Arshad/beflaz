@@ -18886,3 +18886,11 @@
 [2026-10-27 04:43:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02becba7845039b0886756735942
 [2026-10-27 04:43:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
 [2026-10-27 04:43:25 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
+[2026-10-27 04:43:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02bed92ec4351aaef9c558d961b7
+[2026-10-27 04:43:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Fossils from brickworks reveal new dinosaur species that roamed Englan
+[2026-10-27 04:43:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02bed92ec4351aaef9c558d961b7
+[2026-10-27 04:43:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New long-clawed British dinosaur is first of its kind in Europe
+[2026-10-27 04:43:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae02bed92ec4351aaef9c558d961b7
+[2026-10-27 04:43:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): At around 26 meters long, Dreadnoughtus still had growing left to do
+[2026-10-27 04:44:49 AM] [HISTORY_BOT] [SUCCESS] Published: Japan’s life-size roaming dinosaurs roar into Singapore for Dino-A-Live’s overseas debut
+[2026-10-27 04:44:50 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1656 in / 445 out tokens
