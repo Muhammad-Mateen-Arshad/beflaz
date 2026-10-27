@@ -18745,3 +18745,8 @@
 [2026-10-26 11:32:11 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
 [2026-10-27 02:36:40 AM] [NEWS_BOT] [SUCCESS] Published: Ex-FBI chief James Comey faces federal charges for third time
 [2026-10-27 02:36:41 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1198 in / 528 out tokens
+[2026-10-27 02:36:42 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-27 02:36:45 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-27 02:37:30 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 02:37:30 AM] [JOBS_BOT] [SUCCESS] Published: US forces could strike Iran within 96 hours of Trump order as Tehran hosts regional leaders
+[2026-10-27 02:37:31 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 542 in / 457 out tokens
