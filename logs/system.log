@@ -19006,3 +19006,9 @@
 [2026-10-27 07:32:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0537a572c44cfb751b902b9acf10
 [2026-10-27 07:32:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
 [2026-10-27 07:32:10 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
+[2026-10-27 07:32:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0537a177248698308b788bb8f083
+[2026-10-27 07:32:10 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New swamp dinosaur species discovered from Surrey brickworks fossil
+[2026-10-27 07:32:39 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 07:32:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-27 07:33:36 AM] [HISTORY_BOT] [SUCCESS] Published: Newly discovered dinosaur named after Surrey dad
+[2026-10-27 07:33:37 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 920 in / 577 out tokens
