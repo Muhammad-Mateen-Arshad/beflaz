@@ -19139,3 +19139,13 @@
 [2026-10-27 11:33:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c05332a41bda10ea4cc5043d23
 [2026-10-27 11:33:41 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): 6 Bodyweight Exercises to Build Stronger Arms After 55
 [2026-10-27 11:33:41 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-27 11:33:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c15463e4660a2c4d91d8c9a813
+[2026-10-27 11:33:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New swamp dinosaur species discovered from Surrey brickworks fossil
+[2026-10-27 11:33:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c15463e4660a2c4d91d8c9a813
+[2026-10-27 11:33:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 169/400 chars, resolved=True): New UK dinosaur discovered using Natural History Museum’s fossil colle
+[2026-10-27 11:33:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c15463e4660a2c4d91d8c9a813
+[2026-10-27 11:33:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Fossils from brickworks reveal new dinosaur species that roamed Englan
+[2026-10-27 11:34:25 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 11:34:41 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 11:34:41 AM] [HISTORY_BOT] [SUCCESS] Published: This Dinosaur-Themed Park In Connecticut Is Like Jurassic Park Come To Life
+[2026-10-27 11:34:42 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1600 in / 437 out tokens
