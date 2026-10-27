@@ -19385,3 +19385,18 @@
 [2026-10-27 11:33:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134a700be43fbbe8e43eea3d77ab
 [2026-10-27 11:33:11 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): How Well Are You Aging? Your ‘Intrinsic Capacity’ May Offer Clues
 [2026-10-27 11:33:11 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-27 11:33:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134b8f93c4403a4bc02a6b2cd9e9
+[2026-10-27 11:33:13 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): A dinosaur fossil that looks like a mini T. rex just sold for a giant 
+[2026-10-27 11:33:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134b8f93c4403a4bc02a6b2cd9e9
+[2026-10-27 11:33:13 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New swamp dinosaur species discovered from Surrey brickworks fossil
+[2026-10-27 11:33:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134b8f93c4403a4bc02a6b2cd9e9
+[2026-10-27 11:33:13 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): Skeleton of ‘Jodi,’ T. Rex’s Littler Cousin, Is Auctioned for $47.3 Mi
+[2026-10-27 11:33:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134b9f5ff4c0fb75491650ee1353
+[2026-10-27 11:33:13 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): Skeleton of ‘Jodi,’ T. Rex’s Littler Cousin, Is Auctioned for $47.3 Mi
+[2026-10-27 11:33:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134b9f5ff4c0fb75491650ee1353
+[2026-10-27 11:33:14 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): A dinosaur fossil that looks like a mini T. rex just sold for a giant 
+[2026-10-27 11:33:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae134b9f5ff4c0fb75491650ee1353
+[2026-10-27 11:33:14 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Rare Nanotyrannus sells at auction for $47.3 million, becoming second 
+[2026-10-27 11:33:45 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 11:33:46 PM] [HISTORY_BOT] [SUCCESS] Published: Traces of Silk Reveal a Hidden Side of China’s 3,000-Year-Old Bronze Masks
+[2026-10-27 11:33:47 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1371 in / 481 out tokens
