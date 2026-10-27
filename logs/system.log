@@ -19069,3 +19069,8 @@
 [2026-10-27 09:26:42 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 09:26:43 AM] [HISTORY_BOT] [SUCCESS] Published: New UK dinosaur discovered using Natural History Museum’s fossil collections named after devoted dad and husband
 [2026-10-27 09:26:43 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 417 in / 323 out tokens
+[2026-10-27 11:29:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-27 11:30:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-27 11:30:59 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-27 11:31:00 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan, China launch information corridor 'CPIC' to counter misleading narratives, promote cultural exchange
+[2026-10-27 11:31:01 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1475 in / 548 out tokens
