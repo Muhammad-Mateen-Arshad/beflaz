@@ -18997,3 +18997,12 @@
 [2026-10-27 07:31:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Haier signs MOU with BZU Multan to empower students through scholarshi
 [2026-10-27 07:32:07 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Muizzu’s Pakistan Visit: From Diplomatic Promises to Strategic Outcomes
 [2026-10-27 07:32:08 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1318 in / 361 out tokens
+[2026-10-27 07:32:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-27 07:32:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-27 07:32:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae053792b33403490427b2bb60ed61
+[2026-10-27 07:32:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-27 07:32:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae053792b33403490427b2bb60ed61
+[2026-10-27 07:32:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-27 07:32:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0537a572c44cfb751b902b9acf10
+[2026-10-27 07:32:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-27 07:32:10 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
