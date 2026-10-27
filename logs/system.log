@@ -19124,3 +19124,18 @@
 [2026-10-27 11:33:21 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-27 11:33:22 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 'No one is above the law': Maryam Nawaz warns influential offenders in Punjab
 [2026-10-27 11:33:23 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 738 in / 413 out tokens
+[2026-10-27 11:33:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-27 11:33:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-27 11:33:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c05ebdd4edb8d362168214478e
+[2026-10-27 11:33:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-27 11:33:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c05ebdd4edb8d362168214478e
+[2026-10-27 11:33:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-27 11:33:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c05ebdd4edb8d362168214478e
+[2026-10-27 11:33:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 135/800 chars, resolved=True): The Ingredient in Your Coffee That Is Worse for Your Diet Than Sugar
+[2026-10-27 11:33:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c05332a41bda10ea4cc5043d23
+[2026-10-27 11:33:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-27 11:33:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c05332a41bda10ea4cc5043d23
+[2026-10-27 11:33:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-27 11:33:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08c05332a41bda10ea4cc5043d23
+[2026-10-27 11:33:41 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): 6 Bodyweight Exercises to Build Stronger Arms After 55
+[2026-10-27 11:33:41 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
