@@ -19594,3 +19594,8 @@
 [2026-10-28 10:08:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c97bdb404f6cab57f59dd6fc8d4
 [2026-10-28 10:08:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 177/800 chars, resolved=True): Matching Exercise to the Body’s Weakest Link May Guide Frailty Rehabil
 [2026-10-28 10:08:12 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-28 10:08:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c98c0db54ce0b6a99550d3e70ad
+[2026-10-28 10:08:13 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Montana rancher’s rare dinosaur fossil sells for record $47.3 million 
+[2026-10-28 10:08:43 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 10:08:44 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur Discovery Reveals a Specialized Fruit Eater
+[2026-10-28 10:08:44 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1539 in / 506 out tokens
