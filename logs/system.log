@@ -19853,3 +19853,9 @@
 [2026-10-28 11:40:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-28 11:41:17 PM] [NEWS_BOT] [SUCCESS] Published: Noreen Niazi moved from Lahore jail to hospital due to high blood pressure: lawyer
 [2026-10-28 11:41:17 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 941 in / 586 out tokens
+[2026-10-28 11:41:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2881e867e4ab58b4fa12c8b6b6bf
+[2026-10-28 11:41:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Afghans compete for jobs, homes as millions return
+[2026-10-28 11:41:20 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 11:41:22 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-28 11:41:58 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Railways Announces 829 Jobs Under Balochistan Quota
+[2026-10-28 11:41:59 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 867 in / 506 out tokens
