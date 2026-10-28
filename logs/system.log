@@ -19869,3 +19869,16 @@
 [2026-10-28 11:42:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 11:42:51 PM] [DRAMAS_BOT] [SUCCESS] Published: Britain's Most Beloved Series Is Officially Coming to Disney+
 [2026-10-28 11:42:51 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1496 in / 466 out tokens
+[2026-10-28 11:42:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2887cf0914482897e63516f02529
+[2026-10-28 11:42:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): CM Maryam announces teaching hospital in Rasul, medical college admiss
+[2026-10-28 11:42:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2887cf0914482897e63516f02529
+[2026-10-28 11:42:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Punjab CM backs 'tit-for-tat' response to assault incidentsPublished o
+[2026-10-28 11:42:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2887d369147ee8c76e065a119478
+[2026-10-28 11:42:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Rana Mashood calls for equal opportunities and youth empowerment
+[2026-10-28 11:42:54 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 11:42:56 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-28 11:43:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-28 11:43:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-28 11:44:30 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 11:44:31 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC Bans Cigarettes, Vapes and Sheesha
+[2026-10-28 11:44:32 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 699 in / 340 out tokens
