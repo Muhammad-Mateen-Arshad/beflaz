@@ -19579,3 +19579,18 @@
 [2026-10-28 10:07:51 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 10:07:52 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: London School of Economics Offers Fully-Funded Scholarships With £23,805 Annual Stipend
 [2026-10-28 10:07:52 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1481 in / 647 out tokens
+[2026-10-28 10:07:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-28 10:07:54 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-28 10:07:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c97a1a484c78a7ab495863918f6
+[2026-10-28 10:07:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): Weight loss after 65: Tips for talking with your doctor at your annual
+[2026-10-28 10:07:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c97a1a484c78a7ab495863918f6
+[2026-10-28 10:07:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-28 10:08:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c97bdb404f6cab57f59dd6fc8d4
+[2026-10-28 10:08:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-28 10:08:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c97bdb404f6cab57f59dd6fc8d4
+[2026-10-28 10:08:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-28 10:08:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c97bdb404f6cab57f59dd6fc8d4
+[2026-10-28 10:08:11 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Exercise Training Shows Promise for Gait and Balance in Older Adults w
+[2026-10-28 10:08:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c97bdb404f6cab57f59dd6fc8d4
+[2026-10-28 10:08:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 177/800 chars, resolved=True): Matching Exercise to the Body’s Weakest Link May Guide Frailty Rehabil
+[2026-10-28 10:08:12 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
