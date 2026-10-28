@@ -19752,3 +19752,7 @@
 [2026-10-28 07:33:16 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 07:33:17 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s ‘Pride & Prejudice’ Series Gets Trailer & First Looks Ahead of December Release
 [2026-10-28 07:33:18 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 912 in / 417 out tokens
+[2026-10-28 07:33:20 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 07:33:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 07:33:50 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistani Students Can Apply for Danish Government Scholarships 2027
+[2026-10-28 07:33:51 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1377 in / 584 out tokens
