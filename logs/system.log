@@ -19562,3 +19562,17 @@
 [2026-10-28 10:07:14 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 10:07:14 AM] [JOBS_BOT] [SUCCESS] Published: 25,000 Balochistan Youth to Benefit from Federal Jobs and Skills Initiative
 [2026-10-28 10:07:15 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1180 in / 618 out tokens
+[2026-10-28 10:07:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c9541b57442f9919dd7ee71d3bc
+[2026-10-28 10:07:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-28 10:07:17 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-28 10:07:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c955221b43a6b714fa3cca5dcde
+[2026-10-28 10:07:18 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-28 10:07:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c956d430494499267b9c068dadd
+[2026-10-28 10:07:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 112/300 chars, resolved=True): New on Netflix in November 2026: 5 best movies and shows to stream, pl
+[2026-10-28 10:07:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c957b9d34610a73d9abbda51800
+[2026-10-28 10:07:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 61/300 chars, resolved=True): Stephen Graham is outstanding: Snatch is the Adolescence star’s faultl
+[2026-10-28 10:07:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c957b9d34610a73d9abbda51800
+[2026-10-28 10:07:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-28 10:07:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c957b9d34610a73d9abbda51800
+[2026-10-28 10:07:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 157/300 chars, resolved=True): Keerthy Suresh
+[2026-10-28 10:07:19 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 10}
