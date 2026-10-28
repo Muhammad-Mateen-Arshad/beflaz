@@ -19403,3 +19403,17 @@
 [2026-10-28 02:45:32 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 02:45:33 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan warns against escalation in Iran crisis, urges diplomacy
 [2026-10-28 02:45:33 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1324 in / 468 out tokens
+[2026-10-28 02:45:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae161ceac4f492f91279382cf72022
+[2026-10-28 02:45:34 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Afghans compete for jobs, homes as millions return
+[2026-10-28 02:45:35 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 28 – 2026
+[2026-10-28 02:45:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-28 02:46:17 AM] [JOBS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 159000): UN: Large-scale return of Afghan refugees strains Afghan economy
+[2026-10-28 02:46:18 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Tehran plans for $130 oil it struggles to sell
+[2026-10-28 02:46:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae161fab6b347f9b5e61f806644223
+[2026-10-28 02:46:18 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 114/400 chars, resolved=True): Newspaper - Front Page - October 26, 2026
+[2026-10-28 02:46:18 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 277/400 chars, resolved=True): Makkah Alliance, Iran agree to sustain regional peace talks
+[2026-10-28 02:46:19 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Tehran plans for $130 oil it struggles to sell
+[2026-10-28 02:46:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae161faaf184fa4aeb669d3a61b6d6
+[2026-10-28 02:46:19 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Trump says he’s weighing whether to make a deal with Iran or ‘finish t
+[2026-10-28 02:46:19 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 903 in / 520 out tokens
+[2026-10-28 02:46:19 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 3, 'rejected': 1}
