@@ -19576,3 +19576,6 @@
 [2026-10-28 10:07:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1c957b9d34610a73d9abbda51800
 [2026-10-28 10:07:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 157/300 chars, resolved=True): Keerthy Suresh
 [2026-10-28 10:07:19 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 10}
+[2026-10-28 10:07:51 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 10:07:52 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: London School of Economics Offers Fully-Funded Scholarships With £23,805 Annual Stipend
+[2026-10-28 10:07:52 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1481 in / 647 out tokens
