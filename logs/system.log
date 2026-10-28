@@ -19771,3 +19771,21 @@
 [2026-10-28 07:34:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae24e2190a84ee3bf432bcc834ff3c
 [2026-10-28 07:34:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Exercise Training Shows Promise for Gait and Balance in Older Adults w
 [2026-10-28 07:34:09 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-28 07:34:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae24e326c7940ba86fa4fa881a5fe2
+[2026-10-28 07:34:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Montana rancher’s rare dinosaur fossil sells for record $47.3 million 
+[2026-10-28 07:34:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae24e326c7940ba86fa4fa881a5fe2
+[2026-10-28 07:34:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Scientists discover a new dinosaur that was hiding in a London museum 
+[2026-10-28 07:34:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae24e326c7940ba86fa4fa881a5fe2
+[2026-10-28 07:34:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 83/400 chars, resolved=True): Near Arches National Park, a new dinosaur species emerges from the gro
+[2026-10-28 07:34:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae24e3228c949efb415b5f4181fb67
+[2026-10-28 07:34:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): ‘Jodi,’ a Nanotyrannus Skeleton, Gets $47.3 Million at Auction
+[2026-10-28 07:34:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae24e3228c949efb415b5f4181fb67
+[2026-10-28 07:34:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Rare Nanotyrannus sells at auction for $47.3 million, becoming second 
+[2026-10-28 07:34:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae24e33c014447fb8c3c9bb6ce402e
+[2026-10-28 07:34:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Farmer found an inscribed stone on his land. The discovery led archaeo
+[2026-10-28 07:34:12 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 07:34:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-28 07:34:57 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 07:35:12 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 07:35:13 PM] [HISTORY_BOT] [SUCCESS] Published: Could aliens have visited Earth before humans developed civilization? Some scientific clues keep the question alive
+[2026-10-28 07:35:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1301 in / 538 out tokens
