@@ -19669,3 +19669,13 @@
 [2026-10-28 03:32:24 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 03:32:25 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of Sydney Offers Fully-Funded PhD Scholarships With AUD $44,293 Stipend
 [2026-10-28 03:32:26 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1394 in / 613 out tokens
+[2026-10-28 03:32:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-28 03:32:27 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-28 03:32:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2158bced949868e4fd6e46dd14d4
+[2026-10-28 03:32:28 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): Weight loss after 65: Tips for talking with your doctor at your annual
+[2026-10-28 03:32:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2158bced949868e4fd6e46dd14d4
+[2026-10-28 03:32:28 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-28 03:32:29 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 03:33:08 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 03:33:09 PM] [HEALTH_BOT] [SUCCESS] Published: 5 Common Myths About Aging
+[2026-10-28 03:33:10 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1283 in / 568 out tokens
