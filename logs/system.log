@@ -19700,3 +19700,8 @@
 [2026-10-28 05:31:46 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 05:31:47 PM] [DRAMAS_BOT] [SUCCESS] Published: Avatar: The Last Airbender Season 3: Expected Netflix Release Date & Everything We Know
 [2026-10-28 05:31:48 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1691 in / 530 out tokens
+[2026-10-28 05:31:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 05:32:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 05:32:38 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 05:32:38 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: FORTRESS-SSA Fully Funded MSc Epidemiology Scholarship 2027 at Wits University: Study in South Africa
+[2026-10-28 05:32:39 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1454 in / 657 out tokens
