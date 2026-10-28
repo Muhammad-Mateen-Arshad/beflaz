@@ -19500,3 +19500,17 @@
 [2026-10-28 03:31:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c824a7b4be39f7ea14ad10b0ad
 [2026-10-28 03:31:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): How Well Are You Aging? Your ‘Intrinsic Capacity’ May Offer Clues
 [2026-10-28 03:31:31 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-28 03:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c935552470ebf347cbd080eb5b
+[2026-10-28 03:31:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New swamp dinosaur species discovered from Surrey brickworks fossil
+[2026-10-28 03:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c935552470ebf347cbd080eb5b
+[2026-10-28 03:31:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): ‘Jodi,’ a Nanotyrannus Skeleton, Gets $47.3 Million at Auction
+[2026-10-28 03:31:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c935552470ebf347cbd080eb5b
+[2026-10-28 03:31:33 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 169/400 chars, resolved=True): New UK dinosaur discovered using Natural History Museum’s fossil colle
+[2026-10-28 03:31:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c95e6f34520b7476be406b6c70
+[2026-10-28 03:31:33 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): ‘Jodi,’ a Nanotyrannus Skeleton, Gets $47.3 Million at Auction
+[2026-10-28 03:31:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c95e6f34520b7476be406b6c70
+[2026-10-28 03:31:33 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Rare Nanotyrannus sells at auction for $47.3 million, becoming second 
+[2026-10-28 03:31:34 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 03:32:06 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 03:32:07 AM] [HISTORY_BOT] [SUCCESS] Published: Ancient Building with Frescoed Walls Discovered in Libya
+[2026-10-28 03:32:08 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1068 in / 474 out tokens
