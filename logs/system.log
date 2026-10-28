@@ -19791,3 +19791,18 @@
 [2026-10-28 07:35:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1301 in / 538 out tokens
 [2026-10-28 11:30:00 PM] [NEWS_BOT] [SUCCESS] Published: Fazl accuses govt of 'misusing' Constitution when imposing emergency, governor's rule in KP
 [2026-10-28 11:30:01 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1565 in / 522 out tokens
+[2026-10-28 11:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae285797266418dbd5f7f297722f81
+[2026-10-28 11:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): World Bank approves $485 million Türkiye industry digital transformati
+[2026-10-28 11:30:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Tehran plans for $130 oil it struggles to sell
+[2026-10-28 11:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-10-28 11:30:13 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Floridians urge FPSC to reject Duke Energy rate increase
+[2026-10-28 11:30:13 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 277/400 chars, resolved=True): PM sets November deadline for Alibaba projects, pushes AI-driven natio
+[2026-10-28 11:30:14 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 11:30:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-28 11:30:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-28 11:30:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-28 11:31:27 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (121 words, need 150); too many 'not specified' (source too thin)): Iran hails Tehran security talks as a step toward regional dialogue, a
+[2026-10-28 11:31:29 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-28 11:31:40 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (103 words, need 150); too many 'not specified' (source too thin)): New Delhi must end it
+[2026-10-28 11:32:12 PM] [JOBS_BOT] [SUCCESS] Published: Half of key Pera positions lying vacant in Pindi
+[2026-10-28 11:32:13 PM] [JOBS_BOT] [INFO] AI usage: 4 calls, 5037 in / 1417 out tokens
