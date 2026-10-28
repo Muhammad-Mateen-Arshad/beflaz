@@ -19527,3 +19527,10 @@
 [2026-10-28 07:31:37 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 07:31:38 AM] [DRAMAS_BOT] [SUCCESS] Published: The Dreamed Adventure: Knife-edge menace propels crime drama that subverts all the rules
 [2026-10-28 07:31:38 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 810 in / 472 out tokens
+[2026-10-28 07:31:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1a4db31e042c0b6246007b24794c
+[2026-10-28 07:31:39 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): Future president: John Dumelo hailed for sponsoring 40+ students to st
+[2026-10-28 07:31:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1a4db31e042c0b6246007b24794c
+[2026-10-28 07:31:39 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Election 2026: The education issues we’re watching
+[2026-10-28 07:32:22 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 07:32:22 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 'Significant errors': Court overturns decision on visa for young Palestinian student
+[2026-10-28 07:32:24 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1030 in / 504 out tokens
