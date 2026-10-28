@@ -19442,3 +19442,16 @@
 [2026-10-28 02:48:27 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 02:48:27 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: CM Maryam inaugurates University of Rasul, Medical College in Mandi Bahauddin
 [2026-10-28 02:48:28 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 1756 in / 779 out tokens
+[2026-10-28 02:48:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-28 02:48:29 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-28 02:48:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1627d2770437f824506a795b84aa
+[2026-10-28 02:48:30 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-28 02:48:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1627d2770437f824506a795b84aa
+[2026-10-28 02:48:30 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 196/800 chars, resolved=True): Tea and heart health: New study reveals why drinking your favourite br
+[2026-10-28 02:48:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1627ee7c942ec814a3afc82c57e3
+[2026-10-28 02:48:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-28 02:48:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1627ee7c942ec814a3afc82c57e3
+[2026-10-28 02:48:46 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-28 02:48:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1627ee7c942ec814a3afc82c57e3
+[2026-10-28 02:48:46 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 157/800 chars, resolved=True): Table Tennis Leads Racket Sports Evidence in Older Adults, Review Find
+[2026-10-28 02:48:46 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
