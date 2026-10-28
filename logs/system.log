@@ -19455,3 +19455,8 @@
 [2026-10-28 02:48:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1627ee7c942ec814a3afc82c57e3
 [2026-10-28 02:48:46 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 157/800 chars, resolved=True): Table Tennis Leads Racket Sports Evidence in Older Adults, Review Find
 [2026-10-28 02:48:46 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-28 02:48:48 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 02:48:50 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-28 02:49:24 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 02:49:24 AM] [HISTORY_BOT] [SUCCESS] Published: A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million
+[2026-10-28 02:49:25 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1124 in / 545 out tokens
