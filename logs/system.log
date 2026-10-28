@@ -19859,3 +19859,13 @@
 [2026-10-28 11:41:22 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-28 11:41:58 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Railways Announces 829 Jobs Under Balochistan Quota
 [2026-10-28 11:41:59 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 867 in / 506 out tokens
+[2026-10-28 11:42:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae28847384640cdbb465a15e811df2
+[2026-10-28 11:42:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-28 11:42:01 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-28 11:42:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae28849459140c6a070141bfc5cd31
+[2026-10-28 11:42:02 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-28 11:42:03 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 11:42:06 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-28 11:42:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 11:42:51 PM] [DRAMAS_BOT] [SUCCESS] Published: Britain's Most Beloved Series Is Officially Coming to Disney+
+[2026-10-28 11:42:51 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1496 in / 466 out tokens
