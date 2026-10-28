@@ -19620,3 +19620,7 @@
 [2026-10-28 11:32:27 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 11:32:27 AM] [DRAMAS_BOT] [SUCCESS] Published: Bridgerton makes history as season 5 wraps filming ahead of major change to release schedule
 [2026-10-28 11:32:28 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1024 in / 415 out tokens
+[2026-10-28 11:32:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-28 11:33:11 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 11:33:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: GLOCAL Erasmus Mundus Scholarship 2027: Fully Funded Master’s in Europe With €16,800 Annual Stipend
+[2026-10-28 11:33:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1384 in / 513 out tokens
