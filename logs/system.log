@@ -19482,3 +19482,6 @@
 [2026-10-28 03:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c5bcd9842ceaa104c5fc50e875
 [2026-10-28 03:30:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 157/300 chars, resolved=True): Keerthy Suresh
 [2026-10-28 03:30:35 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 6, 'already_seen': 10}
+[2026-10-28 03:31:10 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 03:31:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Free Google Career Certificates for IUB Students | Scholarships Program 2026
+[2026-10-28 03:31:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 800 in / 517 out tokens
