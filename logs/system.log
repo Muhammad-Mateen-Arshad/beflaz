@@ -19734,3 +19734,7 @@
 [2026-10-28 07:30:18 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 07:30:19 PM] [NEWS_BOT] [SUCCESS] Published: Diesel price nears Rs400 as govt adds over a rupee to petrol, HSD rates
 [2026-10-28 07:30:20 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1101 in / 594 out tokens
+[2026-10-28 07:30:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-28 07:30:55 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 07:30:55 PM] [JOBS_BOT] [SUCCESS] Published: Karachi Services Hospital Announces Jobs
+[2026-10-28 07:30:56 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1148 in / 685 out tokens
