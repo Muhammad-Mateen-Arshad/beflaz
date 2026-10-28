@@ -19470,3 +19470,15 @@
 [2026-10-28 03:30:29 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 03:30:30 AM] [JOBS_BOT] [SUCCESS] Published: UK mobilises £94m for Pakistan Climate Investment
 [2026-10-28 03:30:31 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1191 in / 525 out tokens
+[2026-10-28 03:30:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c5706d9449a8bda7c4630c1cc3
+[2026-10-28 03:30:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Jim Osman
+[2026-10-28 03:30:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-28 03:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c5976f64cf88a70a8e7e9dd382
+[2026-10-28 03:30:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-28 03:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c5a66c54a66bed755351c5b4bd
+[2026-10-28 03:30:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 118/300 chars, resolved=True): Pride and Prejudice Netflix Show Poster With Rumored 007 Actor Sets Tr
+[2026-10-28 03:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c5bcd9842ceaa104c5fc50e875
+[2026-10-28 03:30:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-28 03:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c5bcd9842ceaa104c5fc50e875
+[2026-10-28 03:30:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 157/300 chars, resolved=True): Keerthy Suresh
+[2026-10-28 03:30:35 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 6, 'already_seen': 10}
