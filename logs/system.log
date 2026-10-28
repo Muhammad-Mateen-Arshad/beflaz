@@ -19463,3 +19463,10 @@
 [2026-10-28 03:29:56 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 03:29:57 AM] [NEWS_BOT] [SUCCESS] Published: One killed, five injured by Afghan firing near Angoor Adda
 [2026-10-28 03:29:57 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 865 in / 470 out tokens
+[2026-10-28 03:29:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae16c36144b44f081f6ccf624d940c
+[2026-10-28 03:29:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Afghans compete for jobs, homes as millions return
+[2026-10-28 03:29:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 28 – 2026
+[2026-10-28 03:30:00 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 03:30:29 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 03:30:30 AM] [JOBS_BOT] [SUCCESS] Published: UK mobilises £94m for Pakistan Climate Investment
+[2026-10-28 03:30:31 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1191 in / 525 out tokens
