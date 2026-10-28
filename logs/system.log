@@ -19721,3 +19721,12 @@
 [2026-10-28 05:33:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): 4 Bodyweight Stair Exercises a Trainer Recommends for Stronger Legs Af
 [2026-10-28 05:33:15 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1324 in / 465 out tokens
 [2026-10-28 05:33:15 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 6, 'rejected': 1}
+[2026-10-28 05:33:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae231dc6b904153995fcb14406dcd1
+[2026-10-28 05:33:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Montana rancher’s rare dinosaur fossil sells for record $47.3 million 
+[2026-10-28 05:33:18 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 05:33:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-28 05:33:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-28 05:34:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-28 05:35:10 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 05:35:11 PM] [HISTORY_BOT] [SUCCESS] Published: Tiny dinosaur skeleton sells for whopping £35m after discovery of ‘elusive predator’ fossil baffled scientists
+[2026-10-28 05:35:12 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 970 in / 547 out tokens
