@@ -19789,3 +19789,5 @@
 [2026-10-28 07:35:12 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 07:35:13 PM] [HISTORY_BOT] [SUCCESS] Published: Could aliens have visited Earth before humans developed civilization? Some scientific clues keep the question alive
 [2026-10-28 07:35:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1301 in / 538 out tokens
+[2026-10-28 11:30:00 PM] [NEWS_BOT] [SUCCESS] Published: Fazl accuses govt of 'misusing' Constitution when imposing emergency, governor's rule in KP
+[2026-10-28 11:30:01 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1565 in / 522 out tokens
