@@ -19609,3 +19609,14 @@
 [2026-10-28 11:30:56 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 11:30:57 AM] [JOBS_BOT] [SUCCESS] Published: FPSC Exams 2026: New Dates and Schedule announced
 [2026-10-28 11:30:57 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 630 in / 587 out tokens
+[2026-10-28 11:30:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1dcf213c54f058b918d03cbfab61
+[2026-10-28 11:30:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-28 11:30:59 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-28 11:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1dcf3a9134f96b7c1d29bb40b82f
+[2026-10-28 11:30:59 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-28 11:31:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1dcf3b9b7483a93fb68cc783f198
+[2026-10-28 11:31:00 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 112/300 chars, resolved=True): New on Netflix in November 2026: 5 best movies and shows to stream, pl
+[2026-10-28 11:31:17 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-28 11:32:27 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 11:32:27 AM] [DRAMAS_BOT] [SUCCESS] Published: Bridgerton makes history as season 5 wraps filming ahead of major change to release schedule
+[2026-10-28 11:32:28 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1024 in / 415 out tokens
