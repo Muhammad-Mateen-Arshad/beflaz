@@ -19842,3 +19842,11 @@
 [2026-10-28 11:37:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae28742c61442549b5a4b3673025a4
 [2026-10-28 11:37:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Exercise Training Shows Promise for Gait and Balance in Older Adults w
 [2026-10-28 11:37:55 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-28 11:37:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae287537252422098d99905cadb3ae
+[2026-10-28 11:37:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Montana rancher’s rare dinosaur fossil sells for record $47.3 million 
+[2026-10-28 11:37:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae287537252422098d99905cadb3ae
+[2026-10-28 11:37:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists discover a new dinosaur that was hiding in a London museum 
+[2026-10-28 11:37:57 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 11:37:59 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-28 11:38:32 PM] [HISTORY_BOT] [SUCCESS] Published: Four giant footprints reveal how T. rex walked 66 million years ago
+[2026-10-28 11:38:32 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1697 in / 498 out tokens
