@@ -19551,3 +19551,6 @@
 [2026-10-28 07:32:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1a50a25eb4ad2af119213b407574
 [2026-10-28 07:32:54 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 169/800 chars, resolved=True): What is biohacking – and can it really slow down aging?
 [2026-10-28 07:32:54 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-28 07:33:30 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 07:33:31 AM] [HISTORY_BOT] [SUCCESS] Published: Miniature T rex-like dinosaur fossil sells for $47.3 million
+[2026-10-28 07:33:31 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 822 in / 531 out tokens
