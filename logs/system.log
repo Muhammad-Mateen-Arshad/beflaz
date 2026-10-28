@@ -19897,3 +19897,20 @@
 [2026-10-28 11:44:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae288e2a2d840fe97b3ec54afaea00
 [2026-10-28 11:44:50 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): Pa. university study finds adults with ADHD face higher risk of dement
 [2026-10-28 11:44:50 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-28 11:44:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae288f32488479e964344f9ac788e3
+[2026-10-28 11:44:51 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Montana rancher’s rare dinosaur fossil sells for record $47.3 million 
+[2026-10-28 11:44:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae288f32488479e964344f9ac788e3
+[2026-10-28 11:44:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists discover a new dinosaur that was hiding in a London museum 
+[2026-10-28 11:44:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae288f46d914cc48eaca4c4078e812
+[2026-10-28 11:44:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): ‘Jodi,’ a Nanotyrannus Skeleton, Gets $47.3 Million at Auction
+[2026-10-28 11:44:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae288f46d914cc48eaca4c4078e812
+[2026-10-28 11:44:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Rare Nanotyrannus sells at auction for $47.3 million, becoming second 
+[2026-10-28 11:44:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae288f447d34851a06581e41488114
+[2026-10-28 11:44:53 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Farmer Found an Inscribed Stone on His Land. The Discovery Led Archaeo
+[2026-10-28 11:44:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae288f447d34851a06581e41488114
+[2026-10-28 11:44:53 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Found in a Minoan palace on Crete in 1908, this clay disc was stamped 
+[2026-10-28 11:44:55 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 11:44:57 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-28 11:45:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-28 11:45:50 PM] [HISTORY_BOT] [SUCCESS] Published: Kultepe excavation — South Korean Archaeologists Discover Hellenistic Mosaic
+[2026-10-28 11:45:51 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1107 in / 461 out tokens
