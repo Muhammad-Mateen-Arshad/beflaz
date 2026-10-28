@@ -19641,3 +19641,11 @@
 [2026-10-28 11:33:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1dd7c3ac94448b8aa13f7ad9613e
 [2026-10-28 11:33:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 61/800 chars, resolved=True): Texas school tracks breakthroughs in the perils of aging
 [2026-10-28 11:33:34 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-28 11:33:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1dd8f23984114a88578115280e58
+[2026-10-28 11:33:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Montana rancher’s rare dinosaur fossil sells for record $47.3 million 
+[2026-10-28 11:34:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-28 11:34:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-28 11:34:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-28 11:35:21 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 11:35:22 AM] [HISTORY_BOT] [SUCCESS] Published: Who Bought the $47.3 Million Dinosaur Fossil? Mystery Bidder Wins Rare Nanotyrannus Skeleton
+[2026-10-28 11:35:23 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1251 in / 516 out tokens
