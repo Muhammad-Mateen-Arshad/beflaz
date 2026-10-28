@@ -19426,3 +19426,19 @@
 [2026-10-28 02:47:04 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-28 02:47:05 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘The Lincoln Lawyer’ Season 5 Release Window Revealed as Netflix Series Prepares to End
 [2026-10-28 02:47:05 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1356 in / 504 out tokens
+[2026-10-28 02:47:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1622a1dd643bf9b494f445f4b721
+[2026-10-28 02:47:06 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): Future president: John Dumelo hailed for sponsoring 40+ students to st
+[2026-10-28 02:47:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1622a1dd643bf9b494f445f4b721
+[2026-10-28 02:47:07 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Election 2026: The education issues we’re watching
+[2026-10-28 02:47:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1622a1dd643bf9b494f445f4b721
+[2026-10-28 02:47:07 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 183/400 chars, resolved=True): High Court overturns decision to deny Palestinian student visa to stud
+[2026-10-28 02:47:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-28 02:47:18 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (135 words, need 150)): Maryam backs 'tit-for-tat' response in assault cases
+[2026-10-28 02:47:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1622bc1d44458acd99fe9e237814
+[2026-10-28 02:47:18 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Haier signs MOU with BZU Multan to empower students through scholarshi
+[2026-10-28 02:47:19 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-28 02:47:25 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-28 02:48:11 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 02:48:27 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-28 02:48:27 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: CM Maryam inaugurates University of Rasul, Medical College in Mandi Bahauddin
+[2026-10-28 02:48:28 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 1756 in / 779 out tokens
