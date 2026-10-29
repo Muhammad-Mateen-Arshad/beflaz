@@ -20300,3 +20300,8 @@
 [2026-10-29 07:33:43 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 07:33:44 PM] [DRAMAS_BOT] [SUCCESS] Published: Tyson Fury admits ‘I didn’t want to live’ in hard-hitting new Netflix documentary airing days before Anthony Joshua bout
 [2026-10-29 07:33:45 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 953 in / 397 out tokens
+[2026-10-29 07:33:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 07:34:27 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 07:34:43 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 07:34:43 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Fully Funded University of Liverpool PhD Graduate Teaching Fellowships (GTFs) 2027 in the UK: £21,805 Annual Stipend for Four Years
+[2026-10-29 07:34:44 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1419 in / 564 out tokens
