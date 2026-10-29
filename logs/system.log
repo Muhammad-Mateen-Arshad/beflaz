@@ -19914,3 +19914,6 @@
 [2026-10-28 11:45:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-28 11:45:50 PM] [HISTORY_BOT] [SUCCESS] Published: Kultepe excavation — South Korean Archaeologists Discover Hellenistic Mosaic
 [2026-10-28 11:45:51 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1107 in / 461 out tokens
+[2026-10-29 03:05:58 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 03:06:06 AM] [NEWS_BOT] [SUCCESS] Published: Health ministry scraps ‘flawed’ vaccine tender
+[2026-10-29 03:06:07 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1474 in / 432 out tokens
