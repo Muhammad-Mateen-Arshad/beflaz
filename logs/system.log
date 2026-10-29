@@ -20236,3 +20236,19 @@
 [2026-10-29 05:42:10 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 05:42:10 PM] [JOBS_BOT] [SUCCESS] Published: Asif urges all political parties to acknowledge Pakistan's role in promoting regional peace
 [2026-10-29 05:42:11 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 800 in / 346 out tokens
+[2026-10-29 05:42:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3857474ed4ec4bbcb6ed85d991da
+[2026-10-29 05:42:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-29 05:42:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-29 05:42:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae385758e934547a45ae0942a58a27
+[2026-10-29 05:42:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-29 05:42:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae385760adc44c78e72c574671d9b2
+[2026-10-29 05:42:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Netflix releases new 'Jane Doe v. Cornell' documentary about Cornell 7
+[2026-10-29 05:42:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae385760adc44c78e72c574671d9b2
+[2026-10-29 05:42:16 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 155/300 chars, resolved=True): Best TV Shows to Watch in November 2026: Netflix, Prime Video, Disney+
+[2026-10-29 05:42:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae385760adc44c78e72c574671d9b2
+[2026-10-29 05:42:16 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 190/300 chars, resolved=True): Dead End Job OTT release date: When and where to watch Lee Jae-wook's 
+[2026-10-29 05:42:17 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 05:42:48 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 05:43:03 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 05:43:04 PM] [DRAMAS_BOT] [SUCCESS] Published: Balaraw: Blood Island — Netflix’s Filipino folk horror reunites the Babae at Baril team
+[2026-10-29 05:43:05 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1490 in / 496 out tokens
