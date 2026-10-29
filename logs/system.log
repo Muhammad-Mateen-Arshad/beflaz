@@ -20140,3 +20140,20 @@
 [2026-10-29 11:31:34 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 11:31:35 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Mastercard Foundation 2027 Innovation and Technology Scholarship at Arizona State University (ASU): 50 Fully Funded Master’s Opportunities in Rwanda
 [2026-10-29 11:31:37 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1358 in / 611 out tokens
+[2026-10-29 11:31:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-29 11:31:38 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-29 11:31:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e9a7c69419ea0dd82eacf5e636
+[2026-10-29 11:31:38 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): Weight loss after 65: Tips for talking with your doctor at your annual
+[2026-10-29 11:31:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e9a7c69419ea0dd82eacf5e636
+[2026-10-29 11:31:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 135/800 chars, resolved=True): The Ingredient in Your Coffee That Is Worse for Your Diet Than Sugar
+[2026-10-29 11:31:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e9a7c69419ea0dd82eacf5e636
+[2026-10-29 11:31:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-29 11:31:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e9b44404b7aaba09bdd4bf35f5
+[2026-10-29 11:31:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 192/800 chars, resolved=True): After Exercise, Heart Rate Recovers Faster Than Autonomic Signals in O
+[2026-10-29 11:31:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e9b44404b7aaba09bdd4bf35f5
+[2026-10-29 11:31:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 173/800 chars, resolved=True): Brazilian Portuguese Lifetime Physical Activity Questionnaire Proves R
+[2026-10-29 11:31:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e9b44404b7aaba09bdd4bf35f5
+[2026-10-29 11:31:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-29 11:31:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e9b44404b7aaba09bdd4bf35f5
+[2026-10-29 11:31:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-29 11:31:55 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
