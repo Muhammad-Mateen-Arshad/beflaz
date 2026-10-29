@@ -20320,3 +20320,9 @@
 [2026-10-29 07:35:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae39fd6eb3c4091a097c5cd3330a88
 [2026-10-29 07:35:05 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
 [2026-10-29 07:35:05 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-29 07:35:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae39feafcad47bda2c16132570927d
+[2026-10-29 07:35:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): In 1987, an amateur fossil hunter found a T rex in South Dakota; the $
+[2026-10-29 07:35:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 07:35:52 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 07:35:53 PM] [HISTORY_BOT] [SUCCESS] Published: 'This Is Us' star Chrissy Metz opens up on benefits of GLP-1 beyond weight loss
+[2026-10-29 07:35:54 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 889 in / 389 out tokens
