@@ -19958,3 +19958,6 @@
 [2026-10-29 03:09:01 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 03:09:02 AM] [HISTORY_BOT] [SUCCESS] Published: Scientists Discover a New Dinosaur Species Hiding in Plain Sight for 25 Years
 [2026-10-29 03:09:03 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1510 in / 561 out tokens
+[2026-10-29 03:30:05 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 03:30:06 AM] [NEWS_BOT] [SUCCESS] Published: Arrest warrants for Sohail Afridi, others out in Radio Pakistan attack case
+[2026-10-29 03:30:07 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1378 in / 511 out tokens
