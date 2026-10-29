@@ -20035,3 +20035,8 @@
 [2026-10-29 07:30:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): They Were the Military’s ‘Quiet Professionals.’ Now They’re Talking.
 [2026-10-29 07:30:35 AM] [JOBS_BOT] [SUCCESS] Published: Are Indian, Chinese Troops In A Face-off In Arunachal Pradesh?
 [2026-10-29 07:30:36 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2667 in / 743 out tokens
+[2026-10-29 07:30:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f61c37104a97a87d363bd65c189
+[2026-10-29 07:30:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-29 07:30:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-29 07:31:21 AM] [DRAMAS_BOT] [SUCCESS] Published: Prime Video streams Turkish drama made largely with AI
+[2026-10-29 07:31:22 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 921 in / 548 out tokens
