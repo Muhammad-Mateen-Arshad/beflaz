@@ -20329,3 +20329,18 @@
 [2026-10-29 11:29:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-10-29 11:30:38 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan, Turkiye shall 'continue to champion dialogue, diplomacy' alongside bolstering defences: PM Shehbaz
 [2026-10-29 11:30:39 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1104 in / 515 out tokens
+[2026-10-29 11:30:41 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 11:30:55 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): PM urges strong Pakistan-Türkiye economic partnership to match strateg
+[2026-10-29 11:30:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d71f8c1d432785b54005ed94f97
+[2026-10-29 11:30:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): The Maldives on a geopolitical tightrope: President Muizzu's Pakistan 
+[2026-10-29 11:30:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d72f48534af9b1bd5bce8274691
+[2026-10-29 11:30:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - October 29, 2026
+[2026-10-29 11:30:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 299/400 chars, resolved=True): Cybersecurity legislation in final stages as Pakistan joins top-tier n
+[2026-10-29 11:30:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d7319b3d400aaa80aa60cdc78cc
+[2026-10-29 11:30:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Pakistan perfects the art of monetising a failing state
+[2026-10-29 11:30:59 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-29 11:31:13 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): 19th-Century Indian Muslims Were Not as Educationally Backward as Sir 
+[2026-10-29 11:31:23 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (143 words, need 150); too many 'not specified' (source too thin)): US special envoy says Iran deal ‘very close’ as Tehran insists on cond
+[2026-10-29 11:31:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-29 11:32:06 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan scraps vaccine contract over alleged irregularities
+[2026-10-29 11:32:07 PM] [JOBS_BOT] [INFO] AI usage: 4 calls, 5734 in / 1456 out tokens
