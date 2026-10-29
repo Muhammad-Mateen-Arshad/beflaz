@@ -20082,3 +20082,9 @@
 [2026-10-29 10:31:10 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 10:31:10 AM] [JOBS_BOT] [SUCCESS] Published: Cabinet approves Rs 10,000 crore container manufacturing scheme, expected to create over 53,000 jobs
 [2026-10-29 10:31:11 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3413 in / 1330 out tokens
+[2026-10-29 10:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32070d6d54c9c99dcf959371cc15
+[2026-10-29 10:31:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-29 10:31:13 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-29 10:31:51 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 10:31:51 AM] [DRAMAS_BOT] [SUCCESS] Published: Boxing Icon Mike Tyson, Turkish Star Engin Altan Düzyatan Arrive In Amman For Jordan MMA Week
+[2026-10-29 10:31:52 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 709 in / 361 out tokens
