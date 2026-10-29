@@ -20413,3 +20413,10 @@
 [2026-10-29 11:41:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d9b8a6ab49cc9c79077e89c5882
 [2026-10-29 11:41:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
 [2026-10-29 11:41:45 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
+[2026-10-29 11:41:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d9b9835646bbb06c4b14ca39179
+[2026-10-29 11:41:46 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): UPchieve Launches Level Up Award With Support From the Andrew Carnegie
+[2026-10-29 11:41:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d9ba2c1746859f87aa69a888bee
+[2026-10-29 11:41:46 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan’s Hafsa Qureshi, Rafia Imran win Rhodes scholarships for 2027
+[2026-10-29 11:41:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 11:42:29 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Australian Scholarship Offering $40,900 Living Allowance is Closing This Month
+[2026-10-29 11:42:30 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1419 in / 657 out tokens
