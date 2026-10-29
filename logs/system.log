@@ -20428,3 +20428,11 @@
 [2026-10-29 11:43:05 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 11:43:06 PM] [HEALTH_BOT] [SUCCESS] Published: Pistachios are packed with sleep-related nutrients, but do they actually help you rest?
 [2026-10-29 11:43:07 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1306 in / 564 out tokens
+[2026-10-29 11:43:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3da0b9c7f4885b2d174c6b7ebb17
+[2026-10-29 11:43:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Second most valuable dinosaur fossil in the world is sold for over $47
+[2026-10-29 11:43:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3da0b9c7f4885b2d174c6b7ebb17
+[2026-10-29 11:43:08 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): In 1987, an amateur fossil hunter found a T rex in South Dakota; the $
+[2026-10-29 11:43:08 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 11:43:54 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 11:43:55 PM] [HISTORY_BOT] [SUCCESS] Published: Meet Nanotyrannus Jodi: Auction - The rare dinosaur once mistaken for a young T. rex that fetched $47.3 million
+[2026-10-29 11:43:56 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1061 in / 515 out tokens
