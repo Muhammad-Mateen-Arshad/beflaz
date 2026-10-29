@@ -19990,3 +19990,18 @@
 [2026-10-29 03:31:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): U.S. Presidential Scholars Program
 [2026-10-29 03:32:22 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: USBC Youth scholarships
 [2026-10-29 03:32:23 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1358 in / 665 out tokens
+[2026-10-29 03:32:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-29 03:32:24 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-29 03:32:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be48e08f460d8c671f273f58ea4
+[2026-10-29 03:32:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): Weight loss after 65: Tips for talking with your doctor at your annual
+[2026-10-29 03:32:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be48e08f460d8c671f273f58ea4
+[2026-10-29 03:32:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-29 03:32:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be492bdf46858caf48f62606a82
+[2026-10-29 03:32:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-29 03:32:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be492bdf46858caf48f62606a82
+[2026-10-29 03:32:41 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Time Emerges as Early Warning Signal for Combined Cognitive an
+[2026-10-29 03:32:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be492bdf46858caf48f62606a82
+[2026-10-29 03:32:41 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-29 03:32:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be492bdf46858caf48f62606a82
+[2026-10-29 03:32:41 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): 4 Bodyweight Stair Exercises a Trainer Recommends for Stronger Legs Af
+[2026-10-29 03:32:41 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
