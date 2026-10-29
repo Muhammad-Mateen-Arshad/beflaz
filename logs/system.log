@@ -20157,3 +20157,20 @@
 [2026-10-29 11:31:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e9b44404b7aaba09bdd4bf35f5
 [2026-10-29 11:31:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
 [2026-10-29 11:31:55 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-29 11:31:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32eacbd614e5dbf233fadc669101
+[2026-10-29 11:31:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists discover a new dinosaur that was hiding in a London museum 
+[2026-10-29 11:31:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32eacbd614e5dbf233fadc669101
+[2026-10-29 11:31:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 77/400 chars, resolved=True): Sotheby's Dinosaur Jodi Sells for $47.3 Million, Crushing Estimate
+[2026-10-29 11:31:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32eacbd614e5dbf233fadc669101
+[2026-10-29 11:31:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 113/400 chars, resolved=True): Colorado teacher's one-of-a-kind find revealed at Denver Museum of Nat
+[2026-10-29 11:31:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32eac87224bedb2ba19265eff081
+[2026-10-29 11:31:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 153/400 chars, resolved=True): ¿Cómo eran los dinosaurios?: los fósiles que dejaron atrás la imagen d
+[2026-10-29 11:31:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32ead9d804fe981d0eeddeee61e4
+[2026-10-29 11:31:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Found in a Minoan palace on Crete in 1908, this clay disc was stamped 
+[2026-10-29 11:31:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32ead9d804fe981d0eeddeee61e4
+[2026-10-29 11:31:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Farmer found an inscribed stone on his land. The discovery led archaeo
+[2026-10-29 11:31:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32ead573f4f5f84a6e1164029c2c
+[2026-10-29 11:31:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-10-29 11:31:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32ead573f4f5f84a6e1164029c2c
+[2026-10-29 11:31:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Scientists Solve 150-Year-Old Mystery of Giant Bird Believed to Be Ext
+[2026-10-29 11:31:57 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 10}
