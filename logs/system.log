@@ -20252,3 +20252,8 @@
 [2026-10-29 05:43:03 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 05:43:04 PM] [DRAMAS_BOT] [SUCCESS] Published: Balaraw: Blood Island — Netflix’s Filipino folk horror reunites the Babae at Baril team
 [2026-10-29 05:43:05 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1490 in / 496 out tokens
+[2026-10-29 05:43:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 05:43:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-29 05:44:16 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 05:44:17 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Mastercard Foundation Scholars Program at ALCHE 2027 (Fully-funded)
+[2026-10-29 05:44:18 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 828 in / 545 out tokens
