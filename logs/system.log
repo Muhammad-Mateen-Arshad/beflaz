@@ -20270,3 +20270,22 @@
 [2026-10-29 07:29:57 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 07:29:58 PM] [NEWS_BOT] [SUCCESS] Published: High-speed diesel price crosses Rs400 with Re0.85 increase; no change in petrol rate
 [2026-10-29 07:29:59 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1089 in / 565 out tokens
+[2026-10-29 07:30:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-29 07:30:08 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 07:30:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-29 07:30:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-29 07:31:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-29 07:31:52 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (145 words, need 150)): Pakistan, Turkiye have matured historic friendship into 'multifaceted 
+[2026-10-29 07:31:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae39eb72dff4d9d8a55e74fb15ad78
+[2026-10-29 07:31:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): The Maldives on a geopolitical tightrope: President Muizzu's Pakistan 
+[2026-10-29 07:31:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae39f28014449e69eb28288f626bbb
+[2026-10-29 07:31:53 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - October 29, 2026
+[2026-10-29 07:31:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 300/400 chars, resolved=True): Cybersecurity legislation in final stages as Pakistan joins top-tier n
+[2026-10-29 07:32:00 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-29 07:32:15 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (129 words, need 150); too many 'not specified' (source too thin)): Govt unleashes storm on Fazl over criticism of defence minister's abse
+[2026-10-29 07:32:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae39f2a3cf4422b90accd846f0615c
+[2026-10-29 07:32:15 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Pakistan perfects the art of monetising a failing state
+[2026-10-29 07:32:49 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 07:33:05 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 07:33:05 PM] [JOBS_BOT] [SUCCESS] Published: "Cannon fodder" for the front: how Russia recruits soldiers with tricks
+[2026-10-29 07:33:06 PM] [JOBS_BOT] [INFO] AI usage: 3 calls, 4687 in / 1249 out tokens
