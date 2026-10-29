@@ -19961,3 +19961,6 @@
 [2026-10-29 03:30:05 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 03:30:06 AM] [NEWS_BOT] [SUCCESS] Published: Arrest warrants for Sohail Afridi, others out in Radio Pakistan attack case
 [2026-10-29 03:30:07 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1378 in / 511 out tokens
+[2026-10-29 03:30:48 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 03:30:49 AM] [JOBS_BOT] [SUCCESS] Published: Britain’s defensive budget did little to tackle deeper problems
+[2026-10-29 03:30:49 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1713 in / 319 out tokens
