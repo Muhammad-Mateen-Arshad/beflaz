@@ -20068,3 +20068,17 @@
 [2026-10-29 10:29:51 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 10:29:52 AM] [NEWS_BOT] [SUCCESS] Published: ATC sentences Imaan, Hadi to 10 years in security breach case
 [2026-10-29 10:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1554 in / 501 out tokens
+[2026-10-29 10:30:06 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Rising poverty level contradicts Pakistan govt’s claim of economic rec
+[2026-10-29 10:30:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32021a6f64d918680161ddc517b1
+[2026-10-29 10:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Uttar Pradesh bars ‘violent regime change’ advocates from govt jobs, o
+[2026-10-29 10:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 277/400 chars, resolved=True): PM sets November deadline for Alibaba projects, pushes AI-driven natio
+[2026-10-29 10:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3202eec934d82af3c76a9d2c11f3
+[2026-10-29 10:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): How to stop the US-Israel war on Iran
+[2026-10-29 10:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3202eec934d82af3c76a9d2c11f3
+[2026-10-29 10:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 101/400 chars, resolved=True): The Hispanic Voters Who Turned on Trump and Put Texas in Play
+[2026-10-29 10:30:16 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Yemen appeals for help for civilians as Houthis tighten the siege of T
+[2026-10-29 10:30:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-29 10:30:54 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 10:31:10 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 10:31:10 AM] [JOBS_BOT] [SUCCESS] Published: Cabinet approves Rs 10,000 crore container manufacturing scheme, expected to create over 53,000 jobs
+[2026-10-29 10:31:11 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3413 in / 1330 out tokens
