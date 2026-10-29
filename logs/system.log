@@ -20420,3 +20420,11 @@
 [2026-10-29 11:41:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-29 11:42:29 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Australian Scholarship Offering $40,900 Living Allowance is Closing This Month
 [2026-10-29 11:42:30 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1419 in / 657 out tokens
+[2026-10-29 11:42:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-29 11:42:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-29 11:42:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d9e7364c4e5ab16d27737e4d54e
+[2026-10-29 11:42:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): Weight loss after 65: Tips for talking with your doctor at your annual
+[2026-10-29 11:42:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 11:43:05 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 11:43:06 PM] [HEALTH_BOT] [SUCCESS] Published: Pistachios are packed with sleep-related nutrients, but do they actually help you rest?
+[2026-10-29 11:43:07 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1306 in / 564 out tokens
