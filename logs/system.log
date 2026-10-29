@@ -20022,3 +20022,5 @@
 [2026-10-29 03:32:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be5bf523432783a6f8d9911ea67
 [2026-10-29 03:32:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Scientists Solve 150-Year-Old Mystery of Giant Bird Believed to Be Ext
 [2026-10-29 03:32:43 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 10}
+[2026-10-29 07:29:59 AM] [NEWS_BOT] [SUCCESS] Published: Singapore foreign minister to undertake official visit to Pakistan on Oct 30
+[2026-10-29 07:30:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 599 in / 432 out tokens
