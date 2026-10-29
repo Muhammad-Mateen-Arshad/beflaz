@@ -20326,3 +20326,6 @@
 [2026-10-29 07:35:52 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 07:35:53 PM] [HISTORY_BOT] [SUCCESS] Published: 'This Is Us' star Chrissy Metz opens up on benefits of GLP-1 beyond weight loss
 [2026-10-29 07:35:54 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 889 in / 389 out tokens
+[2026-10-29 11:29:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-29 11:30:38 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan, Turkiye shall 'continue to champion dialogue, diplomacy' alongside bolstering defences: PM Shehbaz
+[2026-10-29 11:30:39 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1104 in / 515 out tokens
