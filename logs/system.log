@@ -20121,3 +20121,19 @@
 [2026-10-29 11:30:42 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 11:30:43 AM] [JOBS_BOT] [SUCCESS] Published: IIT Madras Project Consultant (Humanities and Social Sciences) Recruitment 2026 – Apply Online
 [2026-10-29 11:30:45 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1497 in / 622 out tokens
+[2026-10-29 11:30:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e6557094849b0541855fe223b9
+[2026-10-29 11:30:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-29 11:30:46 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-29 11:30:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e66311c48cea3d76ceca4e472f
+[2026-10-29 11:30:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-29 11:30:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e68084c43558a91d63e7d8d7d7
+[2026-10-29 11:30:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 138/300 chars, resolved=True): Netflix's Slow Horses replacement spy thriller series releases new epi
+[2026-10-29 11:30:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e68084c43558a91d63e7d8d7d7
+[2026-10-29 11:30:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 143/300 chars, resolved=True): Netflix's 10 most watched 2026 TV shows (updated through October)
+[2026-10-29 11:31:01 AM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (117 words, need 150)): Latest Malayalam OTT releases of the week: Avaraachan & Sons to Bathth
+[2026-10-29 11:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e755d394a77a39909314d6a4b7
+[2026-10-29 11:31:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-29 11:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32e755d394a77a39909314d6a4b7
+[2026-10-29 11:31:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 61/300 chars, resolved=True): Stephen Graham is outstanding: Snatch is the Adolescence star’s faultl
+[2026-10-29 11:31:02 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 722 in / 251 out tokens
+[2026-10-29 11:31:02 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 9, 'rejected': 1}
