@@ -20024,3 +20024,14 @@
 [2026-10-29 03:32:43 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 10}
 [2026-10-29 07:29:59 AM] [NEWS_BOT] [SUCCESS] Published: Singapore foreign minister to undertake official visit to Pakistan on Oct 30
 [2026-10-29 07:30:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 599 in / 432 out tokens
+[2026-10-29 07:30:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f5f87f3d42ee9a777c90d88e630
+[2026-10-29 07:30:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Uttar Pradesh bars ‘violent regime change’ advocates from govt jobs, o
+[2026-10-29 07:30:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 29 – 2026
+[2026-10-29 07:30:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 277/400 chars, resolved=True): PM sets November deadline for Alibaba projects, pushes AI-driven natio
+[2026-10-29 07:30:12 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (129 words, need 150); too many 'not specified' (source too thin)): US official to VOA on Iranian regime: 'Unless they change their ways, 
+[2026-10-29 07:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f5fa8d6a4066a652ddd11e6455b
+[2026-10-29 07:30:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 101/400 chars, resolved=True): The Hispanic Voters Who Turned on Trump and Put Texas in Play
+[2026-10-29 07:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f5fa8d6a4066a652ddd11e6455b
+[2026-10-29 07:30:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): They Were the Military’s ‘Quiet Professionals.’ Now They’re Talking.
+[2026-10-29 07:30:35 AM] [JOBS_BOT] [SUCCESS] Published: Are Indian, Chinese Troops In A Face-off In Arunachal Pradesh?
+[2026-10-29 07:30:36 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2667 in / 743 out tokens
