@@ -20214,3 +20214,15 @@
 [2026-10-29 03:33:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3671d4f3d48d6bc8e9558796d9ac
 [2026-10-29 03:33:03 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Older adults’ real-world walking mapped in week-long wearable study
 [2026-10-29 03:33:03 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-29 03:33:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae36730d2f646fda6cd8441a3ebfec
+[2026-10-29 03:33:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): About a hundred more dinosaur eggs have turned up at Mèze in southern 
+[2026-10-29 03:33:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-29 03:33:11 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 03:33:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-29 03:33:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-29 03:33:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-29 03:34:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-29 03:35:57 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 03:36:12 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 03:36:13 PM] [HISTORY_BOT] [SUCCESS] Published: A Rare Nanotyrannus Skeleton Sells for $47.3 Million, Becoming the Second Most Valuable Dinosaur Ever Auctioned
+[2026-10-29 03:36:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1585 in / 666 out tokens
