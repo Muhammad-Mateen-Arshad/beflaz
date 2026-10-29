@@ -19933,3 +19933,18 @@
 [2026-10-29 03:07:07 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1740 in / 539 out tokens
 [2026-10-29 03:07:35 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: New Horizons Ahead: Applications Open November 1 for the Eighth Annual Air Canada and CAE Captain Judy Cameron Scholarship
 [2026-10-29 03:07:36 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1598 in / 472 out tokens
+[2026-10-29 03:07:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-29 03:07:38 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-29 03:07:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b87a5ae84a54a08705338285683
+[2026-10-29 03:07:38 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): Weight loss after 65: Tips for talking with your doctor at your annual
+[2026-10-29 03:07:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b87a5ae84a54a08705338285683
+[2026-10-29 03:07:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-29 03:07:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b87b76cd42be852d27776836641
+[2026-10-29 03:07:54 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-29 03:07:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b87b76cd42be852d27776836641
+[2026-10-29 03:07:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): Walking sports may boost physical and psychosocial health in older adu
+[2026-10-29 03:07:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b87b76cd42be852d27776836641
+[2026-10-29 03:07:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 107/800 chars, resolved=True): Health Experts Reveal The 1 Thing They Wish Their Older Patients Would
+[2026-10-29 03:07:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b87b76cd42be852d27776836641
+[2026-10-29 03:07:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): 4 Bodyweight Stair Exercises a Trainer Recommends for Stronger Legs Af
+[2026-10-29 03:07:55 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
