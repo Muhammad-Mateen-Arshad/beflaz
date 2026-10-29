@@ -19964,3 +19964,19 @@
 [2026-10-29 03:30:48 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 03:30:49 AM] [JOBS_BOT] [SUCCESS] Published: Britain’s defensive budget did little to tackle deeper problems
 [2026-10-29 03:30:49 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1713 in / 319 out tokens
+[2026-10-29 03:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2bdead76543b599c1dd204285df6
+[2026-10-29 03:30:50 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-29 03:30:51 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-29 03:30:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2bdebb106428c8b371a5a58c0deb
+[2026-10-29 03:30:51 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-29 03:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2bdebf0b24f589cc76071f09fdc0
+[2026-10-29 03:30:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 138/300 chars, resolved=True): Netflix's Slow Horses replacement spy thriller series releases new epi
+[2026-10-29 03:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2bdebf0b24f589cc76071f09fdc0
+[2026-10-29 03:30:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 120/300 chars, resolved=True): Charlie Hunnam’s returning Netflix crime series officially hits new re
+[2026-10-29 03:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2bdec0c424dae98aebcc843bec2d
+[2026-10-29 03:30:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-29 03:31:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-29 03:31:10 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 03:31:42 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 03:31:43 AM] [DRAMAS_BOT] [SUCCESS] Published: Behind the Scenes of 'Symphony of the Universe': No. 9 'Genesis of the Universe' and a 5-Year Promise (Part 2)
+[2026-10-29 03:31:43 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1686 in / 489 out tokens
