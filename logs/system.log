@@ -20229,3 +20229,10 @@
 [2026-10-29 05:41:35 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 05:41:35 PM] [NEWS_BOT] [SUCCESS] Published: Rana Sanaullah says Imran's jailed sister Noreen 'fine' after being provided medical treatment
 [2026-10-29 05:41:37 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1508 in / 494 out tokens
+[2026-10-29 05:41:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae38551674f4b9ea5d8bc353a98f80
+[2026-10-29 05:41:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Uttar Pradesh bars ‘violent regime change’ advocates from govt jobs, o
+[2026-10-29 05:41:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae38551674f4b9ea5d8bc353a98f80
+[2026-10-29 05:41:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): The Maldives on a geopolitical tightrope: President Muizzu's Pakistan 
+[2026-10-29 05:42:10 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 05:42:10 PM] [JOBS_BOT] [SUCCESS] Published: Asif urges all political parties to acknowledge Pakistan's role in promoting regional peace
+[2026-10-29 05:42:11 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 800 in / 346 out tokens
