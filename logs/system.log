@@ -19980,3 +19980,13 @@
 [2026-10-29 03:31:42 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 03:31:43 AM] [DRAMAS_BOT] [SUCCESS] Published: Behind the Scenes of 'Symphony of the Universe': No. 9 'Genesis of the Universe' and a 5-Year Promise (Part 2)
 [2026-10-29 03:31:43 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1686 in / 489 out tokens
+[2026-10-29 03:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be20219d4232901beb467be6fdb
+[2026-10-29 03:31:45 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): Pakistan’s Hafsa Qureshi, Rafia Imran win Rhodes scholarships for 2027
+[2026-10-29 03:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be20219d4232901beb467be6fdb
+[2026-10-29 03:31:45 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Punjab CM backs 'tit-for-tat' response to assault incidentsPublished o
+[2026-10-29 03:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be21a9d541df978eeb179cccaef
+[2026-10-29 03:31:45 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Rana Mashood calls for equal opportunities and youth empowerment
+[2026-10-29 03:31:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2be213c8944289bb8d7bb9f7be69
+[2026-10-29 03:31:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): U.S. Presidential Scholars Program
+[2026-10-29 03:32:22 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: USBC Youth scholarships
+[2026-10-29 03:32:23 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1358 in / 665 out tokens
