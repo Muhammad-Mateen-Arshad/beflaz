@@ -20368,3 +20368,22 @@
 [2026-10-29 11:34:31 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Japanese Scholarship Offering Up to ¥230,000 Monthly is Closing This Month
 [2026-10-29 11:34:31 PM] [SCHOLARSHIPS_BOT] [WARN] Telegram sendPhoto failed (('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))), falling back to text
 [2026-10-29 11:34:32 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1308 in / 556 out tokens
+[2026-10-29 11:34:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-29 11:34:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-29 11:34:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d809437d42b5a5f8da2a7d04c53
+[2026-10-29 11:34:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): Weight loss after 65: Tips for talking with your doctor at your annual
+[2026-10-29 11:34:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d809437d42b5a5f8da2a7d04c53
+[2026-10-29 11:34:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-29 11:34:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d80a7231487d8d3dd55d9640e06
+[2026-10-29 11:34:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 10 daily habits linked to healthy aging, according to geriatricians
+[2026-10-29 11:34:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d80a7231487d8d3dd55d9640e06
+[2026-10-29 11:34:35 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 192/800 chars, resolved=True): After Exercise, Heart Rate Recovers Faster Than Autonomic Signals in O
+[2026-10-29 11:34:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d80a7231487d8d3dd55d9640e06
+[2026-10-29 11:34:35 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): AI Chatbots Write Safe Exercise Advice for Older Adults, but Readabili
+[2026-10-29 11:34:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d80a7231487d8d3dd55d9640e06
+[2026-10-29 11:34:50 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-29 11:34:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 11:34:53 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-29 11:35:28 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 11:35:29 PM] [HEALTH_BOT] [SUCCESS] Published: Heat waves and pollution increase stroke risk in older adults, study finds
+[2026-10-29 11:35:29 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1587 in / 571 out tokens
