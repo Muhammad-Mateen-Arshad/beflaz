@@ -20065,3 +20065,6 @@
 [2026-10-29 07:32:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 113/400 chars, resolved=True): Colorado teacher's one-of-a-kind find revealed at Denver Museum of Nat
 [2026-10-29 07:32:34 AM] [HISTORY_BOT] [SUCCESS] Published: Turkey-sized 'hell chicken' dinosaur had a jaw suited to mashing fruit
 [2026-10-29 07:32:35 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1462 in / 484 out tokens
+[2026-10-29 10:29:51 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 10:29:52 AM] [NEWS_BOT] [SUCCESS] Published: ATC sentences Imaan, Hadi to 10 years in security breach case
+[2026-10-29 10:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1554 in / 501 out tokens
