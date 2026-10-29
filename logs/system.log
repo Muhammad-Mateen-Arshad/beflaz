@@ -19919,3 +19919,15 @@
 [2026-10-29 03:06:07 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1474 in / 432 out tokens
 [2026-10-29 03:06:32 AM] [JOBS_BOT] [SUCCESS] Published: Sindh focuses on job creation, says Sharjeel
 [2026-10-29 03:06:34 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 580 in / 327 out tokens
+[2026-10-29 03:06:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b83a0a1c47afae8061020977c84
+[2026-10-29 03:06:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-29 03:06:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-29 03:06:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b83c16cc4b459a58cb3227dc271
+[2026-10-29 03:06:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-29 03:06:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b83c7d304344a7db064b96e4063
+[2026-10-29 03:06:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 138/300 chars, resolved=True): Netflix's Slow Horses replacement spy thriller series releases new epi
+[2026-10-29 03:06:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2b83c7d304344a7db064b96e4063
+[2026-10-29 03:06:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 143/300 chars, resolved=True): Netflix's 10 most watched 2026 TV shows (updated through October)
+[2026-10-29 03:06:38 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 03:07:06 AM] [DRAMAS_BOT] [SUCCESS] Published: 53 Of The Most Anticipated New & Returning Scripted Shows of 2026
+[2026-10-29 03:07:07 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1740 in / 539 out tokens
