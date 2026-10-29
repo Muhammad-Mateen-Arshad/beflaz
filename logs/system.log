@@ -20108,3 +20108,10 @@
 [2026-10-29 10:32:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae320bb98ee4ea9984a9113ffd9c56
 [2026-10-29 10:32:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 161/800 chars, resolved=True): GPS Tracking Reveals Older Brazilians Walk Often but Not Long Enough
 [2026-10-29 10:32:45 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-29 10:32:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae320cd3b1a4a04aec088889d6abb1
+[2026-10-29 10:32:45 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists discover a new dinosaur that was hiding in a London museum 
+[2026-10-29 10:32:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae320cd3b1a4a04aec088889d6abb1
+[2026-10-29 10:32:46 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Scientists discover a baby dinosaur curled inside a 190-million-year-o
+[2026-10-29 10:33:18 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 10:33:18 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur fossil that looks like mini T. rex sells for giant $47 million
+[2026-10-29 10:33:19 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 892 in / 573 out tokens
