@@ -20137,3 +20137,6 @@
 [2026-10-29 11:31:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 61/300 chars, resolved=True): Stephen Graham is outstanding: Snatch is the Adolescence star’s faultl
 [2026-10-29 11:31:02 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 722 in / 251 out tokens
 [2026-10-29 11:31:02 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 9, 'rejected': 1}
+[2026-10-29 11:31:34 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 11:31:35 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Mastercard Foundation 2027 Innovation and Technology Scholarship at Arizona State University (ASU): 50 Fully Funded Master’s Opportunities in Rwanda
+[2026-10-29 11:31:37 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1358 in / 611 out tokens
