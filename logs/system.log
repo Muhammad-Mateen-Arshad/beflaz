@@ -20257,3 +20257,9 @@
 [2026-10-29 05:44:16 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-29 05:44:17 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Mastercard Foundation Scholars Program at ALCHE 2027 (Fully-funded)
 [2026-10-29 05:44:18 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 828 in / 545 out tokens
+[2026-10-29 05:44:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-29 05:44:20 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-29 05:44:21 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 05:44:52 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-29 05:44:53 PM] [HEALTH_BOT] [SUCCESS] Published: Are You Ever Too Old to Lose Weight?
+[2026-10-29 05:44:54 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1699 in / 584 out tokens
