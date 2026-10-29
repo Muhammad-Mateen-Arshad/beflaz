@@ -20357,3 +20357,14 @@
 [2026-10-29 11:32:14 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-10-29 11:33:12 PM] [DRAMAS_BOT] [SUCCESS] Published: New Sci-Fi Movies & TV Shows Set to Release in October 2025
 [2026-10-29 11:33:13 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1698 in / 587 out tokens
+[2026-10-29 11:33:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d7b9fc0b463a9ef7f09d1782ac0
+[2026-10-29 11:33:14 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): UPchieve Launches Level Up Award With Support From the Andrew Carnegie
+[2026-10-29 11:33:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3d7bac7d349ff9e104fdb58b3aa4
+[2026-10-29 11:33:15 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan’s Hafsa Qureshi, Rafia Imran win Rhodes scholarships for 2027
+[2026-10-29 11:33:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-29 11:33:18 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-29 11:33:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-29 11:33:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-29 11:34:31 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Japanese Scholarship Offering Up to ¥230,000 Monthly is Closing This Month
+[2026-10-29 11:34:31 PM] [SCHOLARSHIPS_BOT] [WARN] Telegram sendPhoto failed (('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))), falling back to text
+[2026-10-29 11:34:32 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1308 in / 556 out tokens
