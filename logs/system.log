@@ -20059,3 +20059,9 @@
 [2026-10-29 07:32:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f660f40748e8bc669dafff98ade
 [2026-10-29 07:32:00 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): 4 Bodyweight Stair Exercises a Trainer Recommends for Stronger Legs Af
 [2026-10-29 07:32:00 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-29 07:32:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f671a5384ba7aeb025d1d28b162
+[2026-10-29 07:32:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists discover a new dinosaur that was hiding in a London museum 
+[2026-10-29 07:32:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f671a5384ba7aeb025d1d28b162
+[2026-10-29 07:32:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 113/400 chars, resolved=True): Colorado teacher's one-of-a-kind find revealed at Denver Museum of Nat
+[2026-10-29 07:32:34 AM] [HISTORY_BOT] [SUCCESS] Published: Turkey-sized 'hell chicken' dinosaur had a jaw suited to mashing fruit
+[2026-10-29 07:32:35 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1462 in / 484 out tokens
