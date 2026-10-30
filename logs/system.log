@@ -20579,3 +20579,12 @@
 [2026-10-30 07:31:16 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 07:31:16 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Hafsa, Rafia win Rhodes Scholarships for Pakistan
 [2026-10-30 07:31:17 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 624 in / 538 out tokens
+[2026-10-30 07:31:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-30 07:31:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-30 07:31:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae447c63521402385c722fec591ea1
+[2026-10-30 07:31:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): Weight loss after 65: Tips for talking with your doctor at your annual
+[2026-10-30 07:31:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae447c63521402385c722fec591ea1
+[2026-10-30 07:31:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-30 07:31:58 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 07:31:59 AM] [HEALTH_BOT] [SUCCESS] Published: Beyond Aging: The Types of Arthritis That Can Affect Younger Adults
+[2026-10-30 07:32:01 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1556 in / 553 out tokens
