@@ -20438,3 +20438,6 @@
 [2026-10-29 11:43:56 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1061 in / 515 out tokens
 [2026-10-30 03:10:15 AM] [NEWS_BOT] [SUCCESS] Published: Power division, industry seek fuel levy cut to ease power costs
 [2026-10-30 03:10:16 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1478 in / 548 out tokens
+[2026-10-30 03:10:31 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Pakistan’s deadly definition of Development
+[2026-10-30 03:10:55 AM] [JOBS_BOT] [SUCCESS] Published: The Kremlin is shutting down Russia’s last free newspaper
+[2026-10-30 03:10:56 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2896 in / 959 out tokens
