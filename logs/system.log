@@ -20724,3 +20724,17 @@
 [2026-10-30 03:31:15 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 03:31:16 PM] [DRAMAS_BOT] [SUCCESS] Published: 8 Must-Watch Shows Coming to Netflix in November
 [2026-10-30 03:31:16 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1547 in / 513 out tokens
+[2026-10-30 03:31:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4b8452f67406da9e31be53fe4807
+[2026-10-30 03:31:17 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Stipendium Hungaricum alumni meetup held in Dhaka
+[2026-10-30 03:31:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4b8452f67406da9e31be53fe4807
+[2026-10-30 03:31:18 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): UPchieve Launches Level Up Award With Support From the Andrew Carnegie
+[2026-10-30 03:31:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4b8452f67406da9e31be53fe4807
+[2026-10-30 03:31:18 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Lewis Hamilton’s Mission 44 opens doors for 12 aspiring motorsport eng
+[2026-10-30 03:31:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-30 03:31:39 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 03:31:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-30 03:32:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-30 03:32:53 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 03:33:09 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 03:33:09 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Avicenna Medical College Lahore Announces Admissions
+[2026-10-30 03:33:10 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1108 in / 556 out tokens
