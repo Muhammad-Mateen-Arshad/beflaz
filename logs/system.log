@@ -20673,3 +20673,10 @@
 [2026-10-30 11:32:03 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 11:32:04 AM] [DRAMAS_BOT] [SUCCESS] Published: Must-Watch OTT Releases To Add To Your Weekend Watchlist: Akka, Obsession, Meethe Mein Kya Hai And More
 [2026-10-30 11:32:04 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 894 in / 634 out tokens
+[2026-10-30 11:32:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4803535554025a68eaba4a0c83e9
+[2026-10-30 11:32:05 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): UPchieve Launches Level Up Award With Support From the Andrew Carnegie
+[2026-10-30 11:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae480355ccd40718c243ec9b4386de
+[2026-10-30 11:32:06 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan’s Hafsa Qureshi, Rafia Imran win Rhodes scholarships for 2027
+[2026-10-30 11:32:37 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 11:32:38 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: UK University Offering 100% Scholarship is Closing This Month
+[2026-10-30 11:32:39 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1367 in / 599 out tokens
