@@ -20850,3 +20850,8 @@
 [2026-10-30 07:31:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4f08c407a40f283b5e3b14ccce56
 [2026-10-30 07:31:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 61/300 chars, resolved=True): Stephen Graham is outstanding: Snatch is the Adolescence star’s faultl
 [2026-10-30 07:31:25 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 10}
+[2026-10-30 07:31:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-30 07:31:37 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 07:32:11 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 07:32:12 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Edison Scholars Program Now Accepting Applications
+[2026-10-30 07:32:13 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 874 in / 521 out tokens
