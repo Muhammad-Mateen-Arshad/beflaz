@@ -20690,3 +20690,20 @@
 [2026-10-30 11:33:23 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 11:33:24 AM] [HEALTH_BOT] [SUCCESS] Published: A new framework for safe, patient-centered prescribing of obesity medications in older adults
 [2026-10-30 11:33:25 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 808 in / 517 out tokens
+[2026-10-30 11:33:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae480856b864986bdf64c5b956f9fc
+[2026-10-30 11:33:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Second most valuable dinosaur fossil in the world is sold for over $47
+[2026-10-30 11:33:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae480856b864986bdf64c5b956f9fc
+[2026-10-30 11:33:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists found a 70-million-year-old dinosaur egg in Argentina that 
+[2026-10-30 11:33:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae48086ed934bbbbd9607fd8f7b369
+[2026-10-30 11:33:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): ‘Jodi,’ a Nanotyrannus Skeleton, Gets $47.3 Million at Auction
+[2026-10-30 11:33:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae48086b2894d709e0de80141daf0d
+[2026-10-30 11:33:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Farmer found an inscribed stone on his land. The discovery led archaeo
+[2026-10-30 11:33:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae48086b2894d709e0de80141daf0d
+[2026-10-30 11:33:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): 10 ancient mysteries that turned out to be natural formations
+[2026-10-30 11:33:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae48087632547b0b81dc9f374ecdfb
+[2026-10-30 11:33:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-10-30 11:33:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae48087632547b0b81dc9f374ecdfb
+[2026-10-30 11:33:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Scientists Solve 150-Year-Old Mystery of Giant Bird Believed to Be Ext
+[2026-10-30 11:33:59 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 11:33:59 AM] [HISTORY_BOT] [SUCCESS] Published: Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
+[2026-10-30 11:34:00 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1418 in / 552 out tokens
