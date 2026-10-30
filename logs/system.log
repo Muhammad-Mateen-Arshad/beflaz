@@ -20714,3 +20714,13 @@
 [2026-10-30 03:30:40 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 03:30:40 PM] [JOBS_BOT] [SUCCESS] Published: PM’s Health Insurance Scheme for Journalists to Launch Soon
 [2026-10-30 03:30:41 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 834 in / 444 out tokens
+[2026-10-30 03:30:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4b8223d2f4505ae2062e924a4742
+[2026-10-30 03:30:42 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-30 03:30:43 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-30 03:30:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4b823f90d4461aab1dc11ce30eb7
+[2026-10-30 03:30:44 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-30 03:30:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4b82429e94bb686b4e2456aeba6a
+[2026-10-30 03:30:44 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): New Friday OTT Releases (October 30, 2026): 6 New Movies, Shows To Wat
+[2026-10-30 03:31:15 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 03:31:16 PM] [DRAMAS_BOT] [SUCCESS] Published: 8 Must-Watch Shows Coming to Netflix in November
+[2026-10-30 03:31:16 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1547 in / 513 out tokens
