@@ -20951,3 +20951,10 @@
 [2026-10-30 11:34:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-10-30 11:35:43 PM] [HEALTH_BOT] [SUCCESS] Published: Cancer Survivors Face Elevated Heart Disease Risk, But New Research Shows Healthy Diets May Help
 [2026-10-30 11:35:44 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1530 in / 576 out tokens
+[2026-10-30 11:35:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae529d0748b4c7398399d40e518964
+[2026-10-30 11:35:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists found a 70-million-year-old dinosaur egg in Argentina that 
+[2026-10-30 11:35:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae529d0748b4c7398399d40e518964
+[2026-10-30 11:35:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Strange beaked hell chicken is the first fruit-eating dinosaur
+[2026-10-30 11:35:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 11:37:34 PM] [HISTORY_BOT] [SUCCESS] Published: The asteroid killed the dinosaurs. Why did crocodiles survive?
+[2026-10-30 11:37:36 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1399 in / 525 out tokens
