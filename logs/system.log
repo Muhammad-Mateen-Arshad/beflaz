@@ -20632,3 +20632,10 @@
 [2026-10-30 10:32:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47246ddc74ab19f7a5c2f50c4723
 [2026-10-30 10:32:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): AI Chatbots Write Safe Exercise Advice for Older Adults, but Readabili
 [2026-10-30 10:32:55 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-30 10:32:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae472582bb8465a88e876720ec8403
+[2026-10-30 10:32:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists found a 70-million-year-old dinosaur egg in Argentina that 
+[2026-10-30 10:32:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae472582bb8465a88e876720ec8403
+[2026-10-30 10:32:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Second most valuable dinosaur fossil in the world is sold for over $47
+[2026-10-30 10:33:24 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 10:33:25 AM] [HISTORY_BOT] [SUCCESS] Published: Ancient dinosaur egg fossil found in Yunnan sheds light on eggshell evolution
+[2026-10-30 10:33:26 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 664 in / 395 out tokens
