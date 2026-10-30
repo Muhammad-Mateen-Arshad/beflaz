@@ -20787,3 +20787,15 @@
 [2026-10-30 05:21:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 05:21:50 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘The One About Matthew Perry’ Documentary Leads 42 New Netflix UK Releases
 [2026-10-30 05:21:51 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1232 in / 578 out tokens
+[2026-10-30 05:21:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 05:22:00 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-30 05:22:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-30 05:22:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-30 05:22:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-10-30 05:23:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-30 05:24:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-30 05:24:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-10-30 05:25:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 05:26:06 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 05:26:06 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Irish court overturns Gazan student visa refusal over “significant errors”
+[2026-10-30 05:26:08 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1552 in / 470 out tokens
