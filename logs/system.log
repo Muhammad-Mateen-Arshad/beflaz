@@ -20515,3 +20515,18 @@
 [2026-10-30 03:31:11 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-30 03:31:43 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Oxford Extends Formula 1 Engineering Scholarship for 3 Years
 [2026-10-30 03:31:43 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 831 in / 489 out tokens
+[2026-10-30 03:31:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-30 03:31:44 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-30 03:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fa02fc64246a0f37c2eddc6a33
+[2026-10-30 03:31:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 164/800 chars, resolved=True): Weight loss after 65: Tips for talking with your doctor at your annual
+[2026-10-30 03:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fa02fc64246a0f37c2eddc6a33
+[2026-10-30 03:31:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Walking Just 3,000 Steps a Day May Slow Alzheimer's-Related Decline - 
+[2026-10-30 03:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fa1afef4a2e9201d0fc5ea82d7
+[2026-10-30 03:31:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 192/800 chars, resolved=True): After Exercise, Heart Rate Recovers Faster Than Autonomic Signals in O
+[2026-10-30 03:31:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fa1afef4a2e9201d0fc5ea82d7
+[2026-10-30 03:31:46 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 10 daily habits linked to healthy aging, according to geriatricians
+[2026-10-30 03:32:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fa1afef4a2e9201d0fc5ea82d7
+[2026-10-30 03:32:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-30 03:32:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fa1afef4a2e9201d0fc5ea82d7
+[2026-10-30 03:32:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): AI Chatbots Write Safe Exercise Advice for Older Adults, but Readabili
+[2026-10-30 03:32:01 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
