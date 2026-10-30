@@ -20826,3 +20826,13 @@
 [2026-10-30 07:30:18 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 07:30:19 PM] [NEWS_BOT] [SUCCESS] Published: DG ISPR says Pakistan 'cautiously optimistic' on US-Iran mediation
 [2026-10-30 07:30:20 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 914 in / 635 out tokens
+[2026-10-30 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4f04c9fba45c08a79ad6205f17e4
+[2026-10-30 07:30:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Punjab Chief Minister Maryam Nawaz Sharif Launches Historic Rs1.99 Tri
+[2026-10-30 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4f04c9fba45c08a79ad6205f17e4
+[2026-10-30 07:30:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): The wild rise of a Trump-backed drone company
+[2026-10-30 07:30:34 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (149 words, need 150)): A single star in crossfire: Whiff of ISI as 6 Punjab Police ASIs shot 
+[2026-10-30 07:30:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 07:31:03 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 07:31:19 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 07:31:19 PM] [JOBS_BOT] [SUCCESS] Published: Sindh govt to launch internship programme for new graduates next month: Sharjeel
+[2026-10-30 07:31:20 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2383 in / 865 out tokens
