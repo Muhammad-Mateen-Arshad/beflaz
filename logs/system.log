@@ -20862,3 +20862,16 @@
 [2026-10-30 07:32:49 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 07:32:50 PM] [HEALTH_BOT] [SUCCESS] Published: From supplements to peptides, the wellness products that can get athletes busted for doping
 [2026-10-30 07:32:51 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1650 in / 500 out tokens
+[2026-10-30 07:32:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4f0e3de074d58a66095405b9f04e
+[2026-10-30 07:32:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Second most valuable dinosaur fossil in the world is sold for over $47
+[2026-10-30 07:32:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4f0e3de074d58a66095405b9f04e
+[2026-10-30 07:32:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists found a 70-million-year-old dinosaur egg in Argentina that 
+[2026-10-30 07:32:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 07:33:03 PM] [HISTORY_BOT] [INFO] Rejected by quality gate (too short (49 words, need 150)): Dinosaurs beginning with S: 10 fascinating prehistoric creatures you m
+[2026-10-30 07:33:04 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-30 07:33:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-30 07:33:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-30 07:33:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-30 07:34:44 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 07:34:45 PM] [HISTORY_BOT] [SUCCESS] Published: 3 Movies with MP Recovery Effects
+[2026-10-30 07:34:46 PM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 1903 in / 663 out tokens
