@@ -20756,3 +20756,12 @@
 [2026-10-30 03:33:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
 [2026-10-30 03:33:51 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1381 in / 538 out tokens
 [2026-10-30 03:33:51 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 7, 'rejected': 1}
+[2026-10-30 03:33:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4b8e0fde1405f8b9cd23a016f4d4
+[2026-10-30 03:33:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Second most valuable dinosaur fossil in the world is sold for over $47
+[2026-10-30 03:33:54 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 03:34:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-30 03:34:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-30 03:34:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-10-30 03:35:27 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 03:35:28 PM] [HISTORY_BOT] [SUCCESS] Published: Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds
+[2026-10-30 03:35:29 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1791 in / 514 out tokens
