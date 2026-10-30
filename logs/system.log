@@ -20496,3 +20496,15 @@
 [2026-10-30 03:30:34 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 03:30:34 AM] [JOBS_BOT] [SUCCESS] Published: SPSC Announces Big Update for Job Applicants
 [2026-10-30 03:30:35 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 614 in / 375 out tokens
+[2026-10-30 03:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40f5bc6ce4a45a5416519a7641b6
+[2026-10-30 03:30:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-30 03:30:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-30 03:30:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40f5c0e4f4effa5448310270998a
+[2026-10-30 03:30:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-30 03:30:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40f5d4b4a4bbaa9b1c3835be8b43
+[2026-10-30 03:30:38 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Netflix releases new 'Jane Doe v. Cornell' documentary about Cornell 7
+[2026-10-30 03:30:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40f5d4b4a4bbaa9b1c3835be8b43
+[2026-10-30 03:30:38 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 190/300 chars, resolved=True): Dead End Job OTT release date: When and where to watch Lee Jae-wook's 
+[2026-10-30 03:30:39 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 03:31:08 AM] [DRAMAS_BOT] [SUCCESS] Published: Nobody Wants This Season 4: Cast, Rumours & Release Date
+[2026-10-30 03:31:09 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 826 in / 514 out tokens
