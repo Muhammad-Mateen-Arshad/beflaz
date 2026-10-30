@@ -20530,3 +20530,20 @@
 [2026-10-30 03:32:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fa1afef4a2e9201d0fc5ea82d7
 [2026-10-30 03:32:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): AI Chatbots Write Safe Exercise Advice for Older Adults, but Readabili
 [2026-10-30 03:32:01 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-30 03:32:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fb2a4a8491994163f5a6f4ea64
+[2026-10-30 03:32:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Second most valuable dinosaur fossil in the world is sold for over $47
+[2026-10-30 03:32:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fb2a4a8491994163f5a6f4ea64
+[2026-10-30 03:32:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): In 1987, an amateur fossil hunter found a T rex in South Dakota; the $
+[2026-10-30 03:32:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fb2a8424a389c8761798fe47c4
+[2026-10-30 03:32:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): ‘Jodi,’ a Nanotyrannus Skeleton, Gets $47.3 Million at Auction
+[2026-10-30 03:32:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fb2a8424a389c8761798fe47c4
+[2026-10-30 03:32:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A 250-Million-Year-Old Habit May Explain How Crocodiles Outlasted the 
+[2026-10-30 03:32:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fb338f34ecc9f74d707fe199c3
+[2026-10-30 03:32:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Farmer found an inscribed stone on his land. The discovery led archaeo
+[2026-10-30 03:32:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fb338f34ecc9f74d707fe199c3
+[2026-10-30 03:32:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): 10 ancient mysteries that turned out to be natural formations
+[2026-10-30 03:32:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fb3cf45452ebe2b68c32f6450d
+[2026-10-30 03:32:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-10-30 03:32:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fb3cf45452ebe2b68c32f6450d
+[2026-10-30 03:32:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Scientists Solve 150-Year-Old Mystery of Giant Bird Believed to Be Ext
+[2026-10-30 03:32:04 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
