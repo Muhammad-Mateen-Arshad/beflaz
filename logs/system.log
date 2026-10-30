@@ -20508,3 +20508,10 @@
 [2026-10-30 03:30:39 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-30 03:31:08 AM] [DRAMAS_BOT] [SUCCESS] Published: Nobody Wants This Season 4: Cast, Rumours & Release Date
 [2026-10-30 03:31:09 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 826 in / 514 out tokens
+[2026-10-30 03:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40f7efd454342a059e336faaaaed
+[2026-10-30 03:31:10 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan’s Hafsa Qureshi, Rafia Imran win Rhodes scholarships for 2027
+[2026-10-30 03:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40f7efd454342a059e336faaaaed
+[2026-10-30 03:31:10 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Formula 1 extends Oxford engineering scholarships for underrepresented
+[2026-10-30 03:31:11 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 03:31:43 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Oxford Extends Formula 1 Engineering Scholarship for 3 Years
+[2026-10-30 03:31:43 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 831 in / 489 out tokens
