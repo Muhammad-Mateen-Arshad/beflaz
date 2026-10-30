@@ -20642,3 +20642,21 @@
 [2026-10-30 11:30:02 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 11:30:03 AM] [NEWS_BOT] [SUCCESS] Published: Dar, Singapore FM discuss possible resumption of direct Pakistan-Singapore flights
 [2026-10-30 11:30:04 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1401 in / 493 out tokens
+[2026-10-30 11:30:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47fbd547f467fb1921efb7b78a1e
+[2026-10-30 11:30:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 169/400 chars, resolved=True): A single star in crossfire: Whiff of ISI as 6 Punjab Police ASIs shot 
+[2026-10-30 11:30:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47fbd547f467fb1921efb7b78a1e
+[2026-10-30 11:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Pakistan perfects the art of monetising a failing state
+[2026-10-30 11:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47fbec8f944ffb3bae27ebc459a0
+[2026-10-30 11:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): National Highways and Motorway Police Jobs 2026 NHMP Apply Online for 
+[2026-10-30 11:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47fbec8f944ffb3bae27ebc459a0
+[2026-10-30 11:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): National Textile University NTU Faisalabad & Karachi Jobs 2026 for Tea
+[2026-10-30 11:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47fbf1a2946fe930908dba73d24e
+[2026-10-30 11:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): National Textile University NTU Faisalabad & Karachi Jobs 2026 for Tea
+[2026-10-30 11:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47fbf1a2946fe930908dba73d24e
+[2026-10-30 11:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): National Highways and Motorway Police Jobs 2026 NHMP Apply Online for 
+[2026-10-30 11:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47fbf1a2946fe930908dba73d24e
+[2026-10-30 11:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Govt to launch internship programme for graduates through Iwork4SindhP
+[2026-10-30 11:30:54 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 11:31:09 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 11:31:10 AM] [JOBS_BOT] [SUCCESS] Published: World Bank Eyes $50M Pakistan Fund of Funds [2026]
+[2026-10-30 11:31:10 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1512 in / 487 out tokens
