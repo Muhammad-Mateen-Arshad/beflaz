@@ -20547,3 +20547,6 @@
 [2026-10-30 03:32:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40fb3cf45452ebe2b68c32f6450d
 [2026-10-30 03:32:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Scientists Solve 150-Year-Old Mystery of Giant Bird Believed to Be Ext
 [2026-10-30 03:32:04 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
+[2026-10-30 07:29:52 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 07:29:52 AM] [NEWS_BOT] [SUCCESS] Published: Singaporean foreign minister lands in Islamabad
+[2026-10-30 07:29:53 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 556 in / 343 out tokens
