@@ -20472,3 +20472,15 @@
 [2026-10-30 03:12:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40b17f49345729cb2b1a96fe63e9
 [2026-10-30 03:12:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): K-Celeb Jin Tae Ok, 93, Shares Three Habits for Healthy Aging: Swimmin
 [2026-10-30 03:12:40 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-10-30 03:12:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40b2981cb430dba2c31daa141d7d
+[2026-10-30 03:12:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Second most valuable dinosaur fossil in the world is sold for over $47
+[2026-10-30 03:12:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40b2981cb430dba2c31daa141d7d
+[2026-10-30 03:12:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): In 1987, an amateur fossil hunter found a T rex in South Dakota; the $
+[2026-10-30 03:12:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40b2973714fda8b9371c7c71298a
+[2026-10-30 03:12:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A 250-Million-Year-Old Habit May Explain How Crocodiles Outlasted the 
+[2026-10-30 03:12:42 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 03:12:45 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-30 03:13:17 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 03:13:33 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 03:13:33 AM] [HISTORY_BOT] [SUCCESS] Published: A New Discovery Offers a Glimpse Into the World of the Hittites—in Their Own Words
+[2026-10-30 03:13:34 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1573 in / 470 out tokens
