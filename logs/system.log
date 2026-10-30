@@ -20600,3 +20600,17 @@
 [2026-10-30 10:30:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-10-30 10:31:27 AM] [JOBS_BOT] [SUCCESS] Published: Maryam vows to resign if even one rupee of corruption is proven
 [2026-10-30 10:31:28 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1002 in / 435 out tokens
+[2026-10-30 10:31:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47201e77046149acc8acdb379ef6
+[2026-10-30 10:31:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-30 10:31:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-30 10:31:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47202d25d4707b1c631c02945ff1
+[2026-10-30 10:31:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-30 10:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae472033dfd4876a1d05f7a2687510
+[2026-10-30 10:31:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Netflix releases new 'Jane Doe v. Cornell' documentary about Cornell 7
+[2026-10-30 10:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae472033dfd4876a1d05f7a2687510
+[2026-10-30 10:31:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): New Friday OTT Releases (October 30, 2026): 6 New Movies, Shows To Wat
+[2026-10-30 10:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae472033dfd4876a1d05f7a2687510
+[2026-10-30 10:31:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New OTT releases to watch this weekend: 9 new movies & shows on Netfli
+[2026-10-30 10:32:03 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 10:32:03 AM] [DRAMAS_BOT] [SUCCESS] Published: South OTT Releases Today (October 30): 5 New Tamil, Telugu And Malayalam Movies And Shows To Stream
+[2026-10-30 10:32:05 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1045 in / 667 out tokens
