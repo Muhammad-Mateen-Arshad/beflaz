@@ -20926,3 +20926,13 @@
 [2026-10-30 11:31:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): From Balochistan To Angoor Adda: Militancy And Information Warfare – O
 [2026-10-30 11:31:35 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2585 in / 963 out tokens
 [2026-10-30 11:31:35 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 6, 'rejected': 2}
+[2026-10-30 11:31:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae528d86ecb46b185bee1adc25266a
+[2026-10-30 11:31:36 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-10-30 11:31:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-30 11:31:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae528da02b441e29cddb2eda8bc9dc
+[2026-10-30 11:31:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): New Friday OTT Releases (October 30, 2026): 6 New Movies, Shows To Wat
+[2026-10-30 11:31:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae528da02b441e29cddb2eda8bc9dc
+[2026-10-30 11:31:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Netflix's 'The Further Mis-Adventures of Cliff Booth' won't get Imax r
+[2026-10-30 11:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae528db8ee74f458c28b5b060c3021
+[2026-10-30 11:31:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 176/300 chars, resolved=True): ‘Magnificent Century’ Producer on Launching Turkish Show ‘Modern Woman
+[2026-10-30 11:31:40 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 12}
