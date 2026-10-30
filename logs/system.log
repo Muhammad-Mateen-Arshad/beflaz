@@ -20484,3 +20484,6 @@
 [2026-10-30 03:13:33 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 03:13:33 AM] [HISTORY_BOT] [SUCCESS] Published: A New Discovery Offers a Glimpse Into the World of the Hittites—in Their Own Words
 [2026-10-30 03:13:34 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1573 in / 470 out tokens
+[2026-10-30 03:29:31 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 03:29:51 AM] [NEWS_BOT] [SUCCESS] Published: Netanyahu's bloc finishes ahead in Israel election, but well short of majority
+[2026-10-30 03:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1485 in / 479 out tokens
