@@ -20911,3 +20911,18 @@
 [2026-10-30 11:30:16 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 11:30:17 PM] [NEWS_BOT] [SUCCESS] Published: CDA directs removal of 'unauthorised' construction at JUI-F chief's residence in Islamabad
 [2026-10-30 11:30:18 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 791 in / 465 out tokens
+[2026-10-30 11:30:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 30 – 2026
+[2026-10-30 11:30:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5288bbd384ade9ae039ba505fd04
+[2026-10-30 11:30:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-30 11:30:44 PM] [JOBS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 2029): Punjab eyes exports, jobs boom
+[2026-10-30 11:30:45 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 298/400 chars, resolved=True): Pakistan, Singapore seek stronger economic partnership as ties mark 60
+[2026-10-30 11:30:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae528a56b37475494e3eb55ad53013
+[2026-10-30 11:30:46 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-30 11:30:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae528a56b37475494e3eb55ad53013
+[2026-10-30 11:30:46 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): The wild rise of a Trump-backed drone company
+[2026-10-30 11:30:48 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 11:31:35 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Singapore FM commends Pakistan's 'incredibly valuable role' amid Gulf 
+[2026-10-30 11:31:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae528a56b37475494e3eb55ad53013
+[2026-10-30 11:31:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): From Balochistan To Angoor Adda: Militancy And Information Warfare – O
+[2026-10-30 11:31:35 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2585 in / 963 out tokens
+[2026-10-30 11:31:35 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 6, 'rejected': 2}
