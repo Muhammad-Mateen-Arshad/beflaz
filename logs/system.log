@@ -20441,3 +20441,14 @@
 [2026-10-30 03:10:31 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Pakistan’s deadly definition of Development
 [2026-10-30 03:10:55 AM] [JOBS_BOT] [SUCCESS] Published: The Kremlin is shutting down Russia’s last free newspaper
 [2026-10-30 03:10:56 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2896 in / 959 out tokens
+[2026-10-30 03:10:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40ac0a762488ba80dba537b98a05
+[2026-10-30 03:10:56 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-30 03:10:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-30 03:10:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40ac185394e5091e2c56d7e2028d
+[2026-10-30 03:10:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-30 03:10:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40ac2bab841a78cccf4ba4634f8b
+[2026-10-30 03:10:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Netflix releases new 'Jane Doe v. Cornell' documentary about Cornell 7
+[2026-10-30 03:10:59 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 03:11:36 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 03:11:37 AM] [DRAMAS_BOT] [SUCCESS] Published: The Diplomat season 5 officially renewed by Netflix two weeks after season 4
+[2026-10-30 03:11:37 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1118 in / 528 out tokens
