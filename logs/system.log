@@ -20487,3 +20487,12 @@
 [2026-10-30 03:29:31 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-10-30 03:29:51 AM] [NEWS_BOT] [SUCCESS] Published: Netanyahu's bloc finishes ahead in Israel election, but well short of majority
 [2026-10-30 03:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1485 in / 479 out tokens
+[2026-10-30 03:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40f31e65b4d799ca16df9aa7a946
+[2026-10-30 03:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Pakistan perfects the art of monetising a failing state
+[2026-10-30 03:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae40f31e65b4d799ca16df9aa7a946
+[2026-10-30 03:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): How to stop the US-Israel war on Iran
+[2026-10-30 03:29:55 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 03:29:57 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-30 03:30:34 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 03:30:34 AM] [JOBS_BOT] [SUCCESS] Published: SPSC Announces Big Update for Job Applicants
+[2026-10-30 03:30:35 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 614 in / 375 out tokens
