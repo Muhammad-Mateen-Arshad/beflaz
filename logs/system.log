@@ -20588,3 +20588,8 @@
 [2026-10-30 07:31:58 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 07:31:59 AM] [HEALTH_BOT] [SUCCESS] Published: Beyond Aging: The Types of Arthritis That Can Affect Younger Adults
 [2026-10-30 07:32:01 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1556 in / 553 out tokens
+[2026-10-30 07:32:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae447f2fdb0461490483c8ac470caf
+[2026-10-30 07:32:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Second most valuable dinosaur fossil in the world is sold for over $47
+[2026-10-30 07:32:33 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 07:32:34 AM] [HISTORY_BOT] [SUCCESS] Published: Ancient Alberta fish fossils reveal evolutionary secrets of modern species
+[2026-10-30 07:32:36 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1036 in / 444 out tokens
