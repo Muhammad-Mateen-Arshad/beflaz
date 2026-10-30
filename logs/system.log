@@ -20596,3 +20596,7 @@
 [2026-10-30 10:30:37 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 10:30:38 AM] [NEWS_BOT] [SUCCESS] Published: DPM Dar, Balakrishnan discuss possible resumption of direct Pakistan-Singapore flights
 [2026-10-30 10:30:38 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1390 in / 491 out tokens
+[2026-10-30 10:30:44 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-30 10:30:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-30 10:31:27 AM] [JOBS_BOT] [SUCCESS] Published: Maryam vows to resign if even one rupee of corruption is proven
+[2026-10-30 10:31:28 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1002 in / 435 out tokens
