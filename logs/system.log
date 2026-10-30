@@ -20660,3 +20660,16 @@
 [2026-10-30 11:31:09 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-30 11:31:10 AM] [JOBS_BOT] [SUCCESS] Published: World Bank Eyes $50M Pakistan Fund of Funds [2026]
 [2026-10-30 11:31:10 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1512 in / 487 out tokens
+[2026-10-30 11:31:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae47fff995344c9852a56752e39c97
+[2026-10-30 11:31:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): Jim Osman
+[2026-10-30 11:31:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-30 11:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae48000dc1241fa89baaddc41bfbda
+[2026-10-30 11:31:13 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): Chinese Dramas in Urdu Reaching Pakistani Audiences
+[2026-10-30 11:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae48001bf6a4011bfb120088608183
+[2026-10-30 11:31:13 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Netflix releases new 'Jane Doe v. Cornell' documentary about Cornell 7
+[2026-10-30 11:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae48001bf6a4011bfb120088608183
+[2026-10-30 11:31:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): New Friday OTT Releases (October 30, 2026): 6 New Movies, Shows To Wat
+[2026-10-30 11:31:47 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 11:32:03 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 11:32:04 AM] [DRAMAS_BOT] [SUCCESS] Published: Must-Watch OTT Releases To Add To Your Weekend Watchlist: Akka, Obsession, Meethe Mein Kya Hai And More
+[2026-10-30 11:32:04 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 894 in / 634 out tokens
