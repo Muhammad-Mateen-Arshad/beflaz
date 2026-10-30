@@ -20569,3 +20569,13 @@
 [2026-10-30 07:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4479230a84c61b563361295577a0
 [2026-10-30 07:30:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New South Indian OTT releases today (October 30): 'Sigma', 'Akka', and
 [2026-10-30 07:30:28 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-10-30 07:30:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae447949623466f8d7eda8bfc704d8
+[2026-10-30 07:30:28 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): UPchieve Launches Level Up Award With Support From the Andrew Carnegie
+[2026-10-30 07:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae44794357443a1b214fc41031db12
+[2026-10-30 07:30:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): KU Alumni Association Houston offers Rs 5bn in scholarshipsPublished o
+[2026-10-30 07:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae44794357443a1b214fc41031db12
+[2026-10-30 07:30:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan’s Hafsa Qureshi, Rafia Imran win Rhodes scholarships for 2027
+[2026-10-30 07:31:00 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 07:31:16 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 07:31:16 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Hafsa, Rafia win Rhodes Scholarships for Pakistan
+[2026-10-30 07:31:17 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 624 in / 538 out tokens
