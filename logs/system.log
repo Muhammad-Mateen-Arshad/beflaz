@@ -20814,3 +20814,11 @@
 [2026-10-30 05:26:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4d332e944463593813ea05520a84
 [2026-10-30 05:26:27 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
 [2026-10-30 05:26:27 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-10-30 05:26:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4d343dc214f0e96da1e20cbcd7e2
+[2026-10-30 05:26:28 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Second most valuable dinosaur fossil in the world is sold for over $47
+[2026-10-30 05:26:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4d343dc214f0e96da1e20cbcd7e2
+[2026-10-30 05:26:28 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Strange beaked hell chicken is the first fruit-eating dinosaur
+[2026-10-30 05:26:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-30 05:27:02 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-30 05:27:02 PM] [HISTORY_BOT] [SUCCESS] Published: How the Sphinx is helping answer a riddle about extinct crocodiles
+[2026-10-30 05:27:03 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1467 in / 526 out tokens
