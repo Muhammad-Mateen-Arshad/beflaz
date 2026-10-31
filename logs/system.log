@@ -21143,3 +21143,10 @@
 [2026-10-31 10:01:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): The wild rise of a Trump-backed drone company
 [2026-10-31 10:01:44 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 990 in / 595 out tokens
 [2026-10-31 10:01:44 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 5, 'rejected': 1}
+[2026-10-31 10:01:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bc88a1d04f89a1567e17b3ec929
+[2026-10-31 10:01:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-10-31 10:01:46 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-31 10:01:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bc8a9d234ac9a9ce54e084462ea
+[2026-10-31 10:01:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 152/300 chars, resolved=True): Watch these 3 new Netflix releases this weekend: Matthew Perry doc & h
+[2026-10-31 10:02:35 AM] [DRAMAS_BOT] [SUCCESS] Published: New Shows & Movies To Watch This Weekend: ‘The Gilded Age’ on HBO Max, ‘Dexter: Resurrection’ on Paramount+ and More
+[2026-10-31 10:02:36 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1717 in / 512 out tokens
