@@ -21400,3 +21400,11 @@
 [2026-10-31 10:54:24 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Pakistan Embassy shielding Mahmood Azhar Chaudhry on Malawi’s diplomat
 [2026-10-31 10:54:25 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1524 in / 413 out tokens
 [2026-10-31 10:54:25 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 7, 'rejected': 1}
+[2026-10-31 10:54:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae671a141cb49d1b2273a53cbe5d54
+[2026-10-31 10:54:26 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-10-31 10:54:26 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-31 10:54:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae671a33bfb4467b3ff85e3fd7ce42
+[2026-10-31 10:54:27 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Five new OTT releases this week: From Dead End Job to Meethe Mein Kya 
+[2026-10-31 10:54:28 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 10:54:55 PM] [DRAMAS_BOT] [SUCCESS] Published: New OTT Releases in November 2026: Movies Coming to Netflix, Prime Video and JioHotstar
+[2026-10-31 10:54:56 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1541 in / 635 out tokens
