@@ -21154,3 +21154,10 @@
 [2026-10-31 10:03:20 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 10:03:20 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: African Leadership College of Higher Education Announces Fully Funded Mastercard Foundation Scholars Programme for African Students 2027
 [2026-10-31 10:03:21 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1211 in / 513 out tokens
+[2026-10-31 10:03:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-31 10:03:22 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-31 10:03:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bcebb09340b5931fc96c0ec3afd
+[2026-10-31 10:03:23 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 111/800 chars, resolved=True): I'm a skeletal biology researcher. Here's what you need to know about 
+[2026-10-31 10:04:25 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 10:04:25 AM] [HEALTH_BOT] [SUCCESS] Published: Older Adults With Sarcopenia May Be Losing Muscle Unevenly
+[2026-10-31 10:04:26 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1256 in / 543 out tokens
