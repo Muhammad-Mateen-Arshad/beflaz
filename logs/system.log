@@ -21090,3 +21090,6 @@
 [2026-10-31 07:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae599136159467e96646335349c1d3
 [2026-10-31 07:30:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 61/300 chars, resolved=True): Stephen Graham is outstanding: Snatch is the Adolescence star’s faultl
 [2026-10-31 07:30:27 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 12}
+[2026-10-31 07:31:00 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 07:31:01 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Colorado State University Offers Fully-Funded Scholarships With Up to $2,500 Monthly Stipend
+[2026-10-31 07:31:02 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1358 in / 513 out tokens
