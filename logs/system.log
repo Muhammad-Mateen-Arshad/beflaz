@@ -20966,3 +20966,13 @@
 [2026-10-31 02:57:24 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 02:57:25 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan’s urgent need for structural reform
 [2026-10-31 02:57:26 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1357 in / 563 out tokens
+[2026-10-31 02:57:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5591642e04c09a8881385dd36880
+[2026-10-31 02:57:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-10-31 02:57:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-31 02:57:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5591c0fc649f09af4eaeae6b1c44
+[2026-10-31 02:57:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): New Friday OTT Releases (October 30, 2026): 6 New Movies, Shows To Wat
+[2026-10-31 02:57:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5591c0fc649f09af4eaeae6b1c44
+[2026-10-31 02:57:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 152/300 chars, resolved=True): Watch these 3 new Netflix releases this weekend: Matthew Perry doc & h
+[2026-10-31 02:57:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5591d5e134779b95bede334b589c
+[2026-10-31 02:57:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 61/300 chars, resolved=True): Stephen Graham is outstanding: Snatch is the Adolescence star’s faultl
+[2026-10-31 02:57:34 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 12}
