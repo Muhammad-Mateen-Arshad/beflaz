@@ -21383,3 +21383,20 @@
 [2026-10-31 10:54:00 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 10:54:01 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan slams Afghan Taliban for 'shifting blame', 'persistent refusal' to address terrorism issues
 [2026-10-31 10:54:02 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1019 in / 505 out tokens
+[2026-10-31 10:54:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6718a49c5463dbfe715f2e0a936d
+[2026-10-31 10:54:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Trump administration set to deport Afghan refugees to Pakistan — endan
+[2026-10-31 10:54:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6718a49c5463dbfe715f2e0a936d
+[2026-10-31 10:54:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Trump holds virtual rallies at Mar-a-Lago: Live updates
+[2026-10-31 10:54:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 300/400 chars, resolved=True): Pakistan, Singapore seek stronger economic partnership as ties mark 60
+[2026-10-31 10:54:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6718c6db845088f03ad56cabb2a9
+[2026-10-31 10:54:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): From Trump shoutout to $300-million drone business: The rise of Poweru
+[2026-10-31 10:54:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6718c6db845088f03ad56cabb2a9
+[2026-10-31 10:54:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Abdullah Dynasty’s 10 Damaging Acts: How Farooq and Family kept Kashmi
+[2026-10-31 10:54:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6718c6db845088f03ad56cabb2a9
+[2026-10-31 10:54:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): US approves $2.1 billion Patriot missile sale to Ukraine
+[2026-10-31 10:54:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6718c6db845088f03ad56cabb2a9
+[2026-10-31 10:54:07 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Iran's Khamenei orders unrestricted response to threats
+[2026-10-31 10:54:09 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 10:54:24 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Pakistan Embassy shielding Mahmood Azhar Chaudhry on Malawi’s diplomat
+[2026-10-31 10:54:25 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1524 in / 413 out tokens
+[2026-10-31 10:54:25 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 7, 'rejected': 1}
