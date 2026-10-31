@@ -21221,3 +21221,7 @@
 [2026-10-31 11:34:02 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 11:34:03 AM] [HISTORY_BOT] [SUCCESS] Published: [Science Through Covers] Platypus-like mammal ancestor lived 165 million years ago
 [2026-10-31 11:34:03 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1001 in / 500 out tokens
+[2026-10-31 03:29:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-31 03:30:31 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 03:30:32 PM] [NEWS_BOT] [SUCCESS] Published: Syria weighing whether to join Makkah pact: foreign minister
+[2026-10-31 03:30:33 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 905 in / 529 out tokens
