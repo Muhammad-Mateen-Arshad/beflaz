@@ -21210,3 +21210,14 @@
 [2026-10-31 11:33:12 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 11:33:13 AM] [HEALTH_BOT] [SUCCESS] Published: HIIT May Improve Heart Fitness and Cellular Health With Age
 [2026-10-31 11:33:13 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1461 in / 534 out tokens
+[2026-10-31 11:33:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5d1fa7d2348d5b7a8d5eddf4625a
+[2026-10-31 11:33:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 44/400 chars, resolved=True): This Black Hills city is a quieter alternative to Deadwood—with fossil
+[2026-10-31 11:33:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5d1fa7d2348d5b7a8d5eddf4625a
+[2026-10-31 11:33:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The UK’s newly discovered dinosaur had giant claws and a surprising co
+[2026-10-31 11:33:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5d1fa7d2348d5b7a8d5eddf4625a
+[2026-10-31 11:33:15 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): In Its $240 Million Remodel, the La Brea Tar Pits Faces a Mammoth Task
+[2026-10-31 11:33:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5d1fa7d2348d5b7a8d5eddf4625a
+[2026-10-31 11:33:15 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 92/400 chars, resolved=True): We’re Entering Election “Silly Season,” and It Sure Feels Especially S
+[2026-10-31 11:34:02 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 11:34:03 AM] [HISTORY_BOT] [SUCCESS] Published: [Science Through Covers] Platypus-like mammal ancestor lived 165 million years ago
+[2026-10-31 11:34:03 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1001 in / 500 out tokens
