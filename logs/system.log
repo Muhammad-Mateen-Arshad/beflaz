@@ -21128,3 +21128,18 @@
 [2026-10-31 10:00:40 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 10:00:59 AM] [NEWS_BOT] [SUCCESS] Published: Prime suspect in Gujranwala bride's murder killed in alleged exchange of fire, claims CCD
 [2026-10-31 10:01:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1013 in / 515 out tokens
+[2026-10-31 10:01:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bc5c00d947038001520044897c4
+[2026-10-31 10:01:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Trump administration set to deport Afghan refugees to Pakistan — endan
+[2026-10-31 10:01:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bc5c00d947038001520044897c4
+[2026-10-31 10:01:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-31 10:01:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 30 – 2026
+[2026-10-31 10:01:42 AM] [JOBS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 2029): Punjab launches Rs1.99 trillion economic transformation plan to boost 
+[2026-10-31 10:01:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 298/400 chars, resolved=True): Pakistan, Singapore seek stronger economic partnership as ties mark 60
+[2026-10-31 10:01:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bc8752fd40eaa092fcf484082d0
+[2026-10-31 10:01:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-31 10:01:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bc8752fd40eaa092fcf484082d0
+[2026-10-31 10:01:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Abdullah Dynasty’s 10 Damaging Acts: How Farooq and Family kept Kashmi
+[2026-10-31 10:01:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bc8752fd40eaa092fcf484082d0
+[2026-10-31 10:01:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): The wild rise of a Trump-backed drone company
+[2026-10-31 10:01:44 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 990 in / 595 out tokens
+[2026-10-31 10:01:44 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 5, 'rejected': 1}
