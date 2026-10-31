@@ -21249,3 +21249,16 @@
 [2026-10-31 03:34:26 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: US University Offers $30,000 Annual Salary for PhD Students in Aquaculture Research
 [2026-10-31 03:34:27 PM] [SCHOLARSHIPS_BOT] [WARN] Telegram sendPhoto failed (('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))), falling back to text
 [2026-10-31 03:34:27 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1400 in / 638 out tokens
+[2026-10-31 03:34:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-31 03:34:29 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-31 03:34:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae60a85ed47449394145cfa67f53cb
+[2026-10-31 03:34:30 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 111/800 chars, resolved=True): I'm a skeletal biology researcher. Here's what you need to know about 
+[2026-10-31 03:34:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae60a869b5847c19601f8cc375c924
+[2026-10-31 03:34:30 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-10-31 03:34:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae60a869b5847c19601f8cc375c924
+[2026-10-31 03:34:32 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 140/800 chars, resolved=True): Researchers Identify and Classify Tools for Assessing Older Adults' He
+[2026-10-31 03:34:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae60a869b5847c19601f8cc375c924
+[2026-10-31 03:34:32 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Rising health costs and coverage changes are big concerns for older ad
+[2026-10-31 03:34:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae60a869b5847c19601f8cc375c924
+[2026-10-31 03:34:47 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
+[2026-10-31 03:34:47 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
