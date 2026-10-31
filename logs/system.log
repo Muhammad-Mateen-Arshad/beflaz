@@ -21340,3 +21340,11 @@
 [2026-10-31 07:30:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): US approves $2.1 billion Patriot missile sale to Ukraine
 [2026-10-31 07:30:19 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1591 in / 330 out tokens
 [2026-10-31 07:30:19 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 7, 'rejected': 1}
+[2026-10-31 07:30:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641cb852e484c8f4f4d3923129c2
+[2026-10-31 07:30:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-10-31 07:30:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-31 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641cc7e164c70b9c0055df0fea42
+[2026-10-31 07:30:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Five new OTT releases this week: From Dead End Job to Meethe Mein Kya 
+[2026-10-31 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641cc7e164c70b9c0055df0fea42
+[2026-10-31 07:30:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Netflix's 'The Further Mis-Adventures of Cliff Booth' won't get IMAX r
+[2026-10-31 07:30:21 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 4, 'thin': 4, 'already_seen': 13}
