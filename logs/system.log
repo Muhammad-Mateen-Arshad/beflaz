@@ -21270,3 +21270,18 @@
 [2026-10-31 04:24:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 04:24:52 PM] [NEWS_BOT] [SUCCESS] Published: Mansehra assistant commissioner injured as vehicle comes under attack in Nowshera
 [2026-10-31 04:24:52 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 789 in / 522 out tokens
+[2026-10-31 04:24:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae616557df643b1945cb0ab08fcf1d
+[2026-10-31 04:24:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-31 04:24:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae616557df643b1945cb0ab08fcf1d
+[2026-10-31 04:24:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Trump administration set to deport Afghan refugees to Pakistan — endan
+[2026-10-31 04:24:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 30 – 2026
+[2026-10-31 04:24:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 248/400 chars, resolved=True): Pakistan, Singapore seek stronger economic partnership as ties mark 60
+[2026-10-31 04:24:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6165720844282ab664f2591fc188
+[2026-10-31 04:24:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-31 04:24:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6165720844282ab664f2591fc188
+[2026-10-31 04:24:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): From Trump shoutout to $300-million drone business: The rise of Poweru
+[2026-10-31 04:24:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6165720844282ab664f2591fc188
+[2026-10-31 04:24:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Abdullah Dynasty’s 10 Damaging Acts: How Farooq and Family kept Kashmi
+[2026-10-31 04:24:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6165720844282ab664f2591fc188
+[2026-10-31 04:24:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Iran's Khamenei orders unrestricted response to threats
+[2026-10-31 04:24:58 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
