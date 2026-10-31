@@ -21010,3 +21010,19 @@
 [2026-10-31 03:01:15 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1160 in / 509 out tokens
 [2026-10-31 03:30:05 AM] [NEWS_BOT] [SUCCESS] Published: KP police get tech to monitor counterterrorism operations
 [2026-10-31 03:30:06 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1405 in / 472 out tokens
+[2026-10-31 03:30:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae560bffc684f32a1b2a8c784f91fa
+[2026-10-31 03:30:08 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Trump administration set to deport Afghan refugees to Pakistan — endan
+[2026-10-31 03:30:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae560bffc684f32a1b2a8c784f91fa
+[2026-10-31 03:30:08 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-31 03:30:08 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 30 – 2026
+[2026-10-31 03:30:10 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 298/400 chars, resolved=True): Pakistan, Singapore seek stronger economic partnership as ties mark 60
+[2026-10-31 03:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae560c2b1154de1bc85fdacf7d2a5a
+[2026-10-31 03:30:10 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-31 03:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae560c2b1154de1bc85fdacf7d2a5a
+[2026-10-31 03:30:10 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): The wild rise of a Trump-backed drone company
+[2026-10-31 03:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae560c2b1154de1bc85fdacf7d2a5a
+[2026-10-31 03:30:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): October 30, 2026
+[2026-10-31 03:30:14 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 03:30:36 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (143 words, need 150)): Bitcoin to PKR Faces Worst October in 12 Years as BTC Falls to $77,000
+[2026-10-31 03:30:37 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1106 in / 327 out tokens
+[2026-10-31 03:30:37 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 8, 'rejected': 1}
