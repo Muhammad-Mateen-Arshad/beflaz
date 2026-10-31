@@ -21197,3 +21197,7 @@
 [2026-10-31 11:31:37 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 11:31:38 AM] [DRAMAS_BOT] [SUCCESS] Published: 9 Facts About Japanese Live-Action Dramas Revealed by Counting 278 Weeks of Netflix Global Top 10. Plus, the Common Traits of World No. 1 Hits.
 [2026-10-31 11:31:39 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 2059 in / 568 out tokens
+[2026-10-31 11:31:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5d19b6d5c451490b4729663e4e41
+[2026-10-31 11:31:40 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): I graduated from college debt-free because I earned a full-ride schola
+[2026-10-31 11:32:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistani Students Can Apply for US Research Scholarships Offering Up to $35,000 Annually
+[2026-10-31 11:32:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1382 in / 576 out tokens
