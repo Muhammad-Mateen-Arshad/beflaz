@@ -20976,3 +20976,10 @@
 [2026-10-31 02:57:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5591d5e134779b95bede334b589c
 [2026-10-31 02:57:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 61/300 chars, resolved=True): Stephen Graham is outstanding: Snatch is the Adolescence star’s faultl
 [2026-10-31 02:57:34 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 12}
+[2026-10-31 02:57:36 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 02:57:38 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-10-31 02:58:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-31 02:58:59 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 02:59:14 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 02:59:15 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Road to WorldPride 2030
+[2026-10-31 02:59:15 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1477 in / 528 out tokens
