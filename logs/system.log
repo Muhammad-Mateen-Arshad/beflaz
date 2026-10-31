@@ -21444,3 +21444,13 @@
 [2026-10-31 11:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679fb00d1428a9abe4dc3bd7068e
 [2026-10-31 11:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): National Highways and Motorway Police Jobs 2026 NHMP Apply Online for 
 [2026-10-31 11:30:04 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-10-31 11:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679fcf82a4404aed6a1f9e6cf9a9
+[2026-10-31 11:30:04 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-10-31 11:30:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-31 11:30:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679fea763475db8be40dc761a18f
+[2026-10-31 11:30:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Five new OTT releases this week: From Dead End Job to Meethe Mein Kya 
+[2026-10-31 11:30:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679fea763475db8be40dc761a18f
+[2026-10-31 11:30:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 40/300 chars, resolved=True): Netflix officially confirms fate of supernatural hit 3 weeks after str
+[2026-10-31 11:30:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679fea763475db8be40dc761a18f
+[2026-10-31 11:30:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 48/300 chars, resolved=True): Why Is ‘Landman’ Season 3 Delayed? Here’s The Latest on When ‘Landman’
+[2026-10-31 11:30:06 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 12}
