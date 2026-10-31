@@ -21285,3 +21285,11 @@
 [2026-10-31 04:24:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6165720844282ab664f2591fc188
 [2026-10-31 04:24:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Iran's Khamenei orders unrestricted response to threats
 [2026-10-31 04:24:58 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
+[2026-10-31 04:24:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6165b3fec4f6594c6373c2d0f528
+[2026-10-31 04:24:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-10-31 04:25:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-31 04:25:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 04:25:53 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 04:26:09 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 04:26:09 PM] [DRAMAS_BOT] [SUCCESS] Published: "The Heir" soon on TV Vijesti: One man, two women and secrets that change everything
+[2026-10-31 04:26:11 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 884 in / 511 out tokens
