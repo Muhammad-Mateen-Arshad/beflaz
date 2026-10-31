@@ -21454,3 +21454,15 @@
 [2026-10-31 11:30:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679fea763475db8be40dc761a18f
 [2026-10-31 11:30:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 48/300 chars, resolved=True): Why Is ‘Landman’ Season 3 Delayed? Here’s The Latest on When ‘Landman’
 [2026-10-31 11:30:06 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 12}
+[2026-10-31 11:30:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679ffbf3c44cbb93c5a4c9abad3b
+[2026-10-31 11:30:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): I graduated from college debt-free because I earned a full-ride schola
+[2026-10-31 11:30:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679ffbf3c44cbb93c5a4c9abad3b
+[2026-10-31 11:30:08 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): What's the youth path to the USMNT? How U.S. Soccer wants to widen it
+[2026-10-31 11:30:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae67a00a4044fabbf1f405e15f2b41
+[2026-10-31 11:30:08 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Governor stresses quality education, research, timely appointment of V
+[2026-10-31 11:30:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae67a00a4044fabbf1f405e15f2b41
+[2026-10-31 11:30:09 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Rana Mashood calls for equal opportunities and youth empowerment
+[2026-10-31 11:30:10 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 11:30:43 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 11:30:44 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC Invites Applications for International Competition in China
+[2026-10-31 11:30:44 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 908 in / 528 out tokens
