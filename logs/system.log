@@ -21313,3 +21313,12 @@
 [2026-10-31 04:27:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae616e2b52e44059078fdc7e02b687
 [2026-10-31 04:27:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): 5 Best Workouts for Staying Strong After 50, According to a Trainer
 [2026-10-31 04:27:17 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-31 04:27:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae616e5eed044cb8d085b5fd1ca810
+[2026-10-31 04:27:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The UK’s newly discovered dinosaur had giant claws and a surprising co
+[2026-10-31 04:27:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae616e5eed044cb8d085b5fd1ca810
+[2026-10-31 04:27:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 44/400 chars, resolved=True): This Black Hills city is a quieter alternative to Deadwood—with fossil
+[2026-10-31 04:27:19 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 04:28:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-31 04:29:03 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 04:29:04 PM] [HISTORY_BOT] [SUCCESS] Published: 150-Million-Year-Old flightless bird fossil challenges theories of bird evolution
+[2026-10-31 04:29:05 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 945 in / 494 out tokens
