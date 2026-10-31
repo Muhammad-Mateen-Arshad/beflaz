@@ -21059,3 +21059,6 @@
 [2026-10-31 03:32:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5614c144a4f2caf30139ac044d9b
 [2026-10-31 03:32:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
 [2026-10-31 03:32:45 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-31 03:32:47 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 03:33:26 AM] [HISTORY_BOT] [SUCCESS] Published: Healing Outing Diary | Encountering Dinosaurs !? Mofurin's Panic Great Adventure
+[2026-10-31 03:33:26 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1061 in / 402 out tokens
