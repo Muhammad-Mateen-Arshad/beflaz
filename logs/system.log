@@ -21161,3 +21161,10 @@
 [2026-10-31 10:04:25 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 10:04:25 AM] [HEALTH_BOT] [SUCCESS] Published: Older Adults With Sarcopenia May Be Losing Muscle Unevenly
 [2026-10-31 10:04:26 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1256 in / 543 out tokens
+[2026-10-31 10:04:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bd2b9c9a489191fcd8e1406eda5
+[2026-10-31 10:04:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Strange beaked hell chicken is the first fruit-eating dinosaur
+[2026-10-31 10:04:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5bd2b9c9a489191fcd8e1406eda5
+[2026-10-31 10:04:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Earth's history: What dinosaurs teach us about the ancient past
+[2026-10-31 10:05:12 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 10:05:13 AM] [HISTORY_BOT] [SUCCESS] Published: Columbia Museum to Unveil 18-Inch Dino Eggs in New 2027 Exhibit
+[2026-10-31 10:05:14 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 909 in / 565 out tokens
