@@ -21262,3 +21262,7 @@
 [2026-10-31 03:34:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae60a869b5847c19601f8cc375c924
 [2026-10-31 03:34:47 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Frailty in older adults is not inevitable. Here’s how to reverse it.
 [2026-10-31 03:34:47 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-31 03:34:49 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 03:35:37 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 03:35:37 PM] [HISTORY_BOT] [SUCCESS] Published: Rare fossil discovery reveals new dinosaur species that specialized in eating fruit
+[2026-10-31 03:35:38 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1541 in / 527 out tokens
