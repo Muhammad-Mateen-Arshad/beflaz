@@ -21479,3 +21479,13 @@
 [2026-10-31 11:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae67a26e2bb4b0c87c5d66b94e8bfe
 [2026-10-31 11:30:49 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 192/800 chars, resolved=True): After Exercise, Heart Rate Recovers Faster Than Autonomic Signals in O
 [2026-10-31 11:30:49 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-10-31 11:30:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae67a29305d4ea1973bcbc46488f64
+[2026-10-31 11:30:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The UK’s newly discovered dinosaur had giant claws and a surprising co
+[2026-10-31 11:30:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae67a29305d4ea1973bcbc46488f64
+[2026-10-31 11:30:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 44/400 chars, resolved=True): This Black Hills city is a quieter alternative to Deadwood—with fossil
+[2026-10-31 11:30:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae67a29305d4ea1973bcbc46488f64
+[2026-10-31 11:30:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New species of dinosaur discovered that only ate fruit
+[2026-10-31 11:30:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 11:31:25 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 11:31:25 PM] [HISTORY_BOT] [SUCCESS] Published: Jurassic Park’s Cancelled Cartoon Trailer Finally Found After 33 Years & It Looked Great – Watch
+[2026-10-31 11:31:26 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1450 in / 489 out tokens
