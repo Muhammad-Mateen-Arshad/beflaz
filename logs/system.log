@@ -21428,3 +21428,19 @@
 [2026-10-31 11:29:56 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 11:29:57 PM] [NEWS_BOT] [SUCCESS] Published: Germans join Europe's wave of 'Gen Z' protests; police fire water cannon on demonstrators
 [2026-10-31 11:29:58 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1525 in / 536 out tokens
+[2026-10-31 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679f6e14d4c00843af3d577c6c11
+[2026-10-31 11:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Trump administration set to deport Afghan refugees to Pakistan — endan
+[2026-10-31 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679f6e14d4c00843af3d577c6c11
+[2026-10-31 11:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): CM unveils Rs 2tr PIVOT plan to make Punjab export powerhousePublished
+[2026-10-31 11:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 300/400 chars, resolved=True): Pakistan, Singapore seek stronger economic partnership as ties mark 60
+[2026-10-31 11:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679f86fdc4fbd83e12bef4228a9e
+[2026-10-31 11:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): From Trump shoutout to $300-million drone business: The rise of Poweru
+[2026-10-31 11:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679f86fdc4fbd83e12bef4228a9e
+[2026-10-31 11:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Abdullah Dynasty’s 10 Damaging Acts: How Farooq and Family kept Kashmi
+[2026-10-31 11:30:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679f86fdc4fbd83e12bef4228a9e
+[2026-10-31 11:30:01 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): US approves $2.1 billion Patriot missile sale to Ukraine
+[2026-10-31 11:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679f86fdc4fbd83e12bef4228a9e
+[2026-10-31 11:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Iran's Khamenei orders unrestricted response to threats
+[2026-10-31 11:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae679fb00d1428a9abe4dc3bd7068e
+[2026-10-31 11:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): National Highways and Motorway Police Jobs 2026 NHMP Apply Online for 
+[2026-10-31 11:30:04 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
