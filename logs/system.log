@@ -21325,3 +21325,18 @@
 [2026-10-31 07:29:59 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 07:30:00 PM] [NEWS_BOT] [SUCCESS] Published: Fakhar Zaman and Arafat Minhas lead Pakistan to tri-series glory
 [2026-10-31 07:30:01 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1867 in / 536 out tokens
+[2026-10-31 07:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 31 – 2026
+[2026-10-31 07:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641ba2851487d9bc732648348404
+[2026-10-31 07:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Trump administration set to deport Afghan refugees to Pakistan — endan
+[2026-10-31 07:30:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641ba2851487d9bc732648348404
+[2026-10-31 07:30:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): CM unveils Rs 2tr PIVOT plan to make Punjab export powerhousePublished
+[2026-10-31 07:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 294/400 chars, resolved=True): Tarar proposes national council to tackle cyber threats, combat misinf
+[2026-10-31 07:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641bc48aa442fa3b7bdb91e73dc4
+[2026-10-31 07:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-31 07:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641bc48aa442fa3b7bdb91e73dc4
+[2026-10-31 07:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Abdullah Dynasty’s 10 Damaging Acts: How Farooq and Family kept Kashmi
+[2026-10-31 07:30:18 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (149 words, need 150)): From Balochistan To Angoor Adda: Militancy And Information Warfare – O
+[2026-10-31 07:30:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641bc48aa442fa3b7bdb91e73dc4
+[2026-10-31 07:30:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): US approves $2.1 billion Patriot missile sale to Ukraine
+[2026-10-31 07:30:19 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1591 in / 330 out tokens
+[2026-10-31 07:30:19 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 7, 'rejected': 1}
