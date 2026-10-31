@@ -21348,3 +21348,11 @@
 [2026-10-31 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641cc7e164c70b9c0055df0fea42
 [2026-10-31 07:30:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Netflix's 'The Further Mis-Adventures of Cliff Booth' won't get IMAX r
 [2026-10-31 07:30:21 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 4, 'thin': 4, 'already_seen': 13}
+[2026-10-31 07:30:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641cdc98047368d79d4a9ae68a2b
+[2026-10-31 07:30:22 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): I graduated from college debt-free because I earned a full-ride schola
+[2026-10-31 07:30:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae641cdc98047368d79d4a9ae68a2b
+[2026-10-31 07:30:22 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): What's the youth path to the USMNT? How U.S. Soccer wants to widen it
+[2026-10-31 07:30:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-31 07:31:12 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 07:31:12 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistanis Can Now Apply for UK Refugee Sponsorship to Live, Study and Work in Britain
+[2026-10-31 07:31:13 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1322 in / 555 out tokens
