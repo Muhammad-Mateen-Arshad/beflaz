@@ -21266,3 +21266,7 @@
 [2026-10-31 03:35:37 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 03:35:37 PM] [HISTORY_BOT] [SUCCESS] Published: Rare fossil discovery reveals new dinosaur species that specialized in eating fruit
 [2026-10-31 03:35:38 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1541 in / 527 out tokens
+[2026-10-31 04:23:58 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 04:24:50 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 04:24:52 PM] [NEWS_BOT] [SUCCESS] Published: Mansehra assistant commissioner injured as vehicle comes under attack in Nowshera
+[2026-10-31 04:24:52 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 789 in / 522 out tokens
