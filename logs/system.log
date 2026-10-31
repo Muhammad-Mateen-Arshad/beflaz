@@ -21037,3 +21037,12 @@
 [2026-10-31 03:31:37 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 03:31:37 AM] [DRAMAS_BOT] [SUCCESS] Published: Every New Anime Coming to Netflix in November 2026
 [2026-10-31 03:31:38 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1348 in / 507 out tokens
+[2026-10-31 03:31:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5611a8a7547b5ade297bf7209bd3
+[2026-10-31 03:31:39 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Stipendium Hungaricum alumni meetup held in Dhaka
+[2026-10-31 03:31:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5611b0f294627afa5bbf4a25c4da
+[2026-10-31 03:31:40 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): Scholarships for Afghan Students in 2027: What Is Open and Where You C
+[2026-10-31 03:31:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5611b0f294627afa5bbf4a25c4da
+[2026-10-31 03:31:40 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): KU Alumni Association Houston offers Rs 5bn in scholarshipsPublished o
+[2026-10-31 03:32:24 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 03:32:25 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: GIKI Opens MS and PhD Admissions With Stipends Up to Rs. 158,000
+[2026-10-31 03:32:26 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1502 in / 641 out tokens
