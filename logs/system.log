@@ -21107,3 +21107,20 @@
 [2026-10-31 07:32:03 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 07:32:03 AM] [HEALTH_BOT] [SUCCESS] Published: Jessica Alba’s trainer says these 3 simple tests can reveal how well you’re aging – at 44, I tried them all
 [2026-10-31 07:32:04 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1777 in / 626 out tokens
+[2026-10-31 07:32:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5997558d84ba6b4a96bd06066f6f
+[2026-10-31 07:32:05 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): New dinosaur species identified from forgotten museum fossils
+[2026-10-31 07:32:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5997558d84ba6b4a96bd06066f6f
+[2026-10-31 07:32:05 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists found a 70-million-year-old dinosaur egg in Argentina that 
+[2026-10-31 07:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae59975c38645c0a49b1c8d1b566a9
+[2026-10-31 07:32:06 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): ‘Jodi,’ a Nanotyrannus Skeleton, Gets $47.3 Million at Auction
+[2026-10-31 07:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae59975c38645c0a49b1c8d1b566a9
+[2026-10-31 07:32:06 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 132/400 chars, resolved=True): Rare Nanotyrannus sells at auction for $47.3 million, becoming second 
+[2026-10-31 07:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae59976d1a44c04beeefeddd2f4f52
+[2026-10-31 07:32:07 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Farmer found an inscribed stone on his land. The discovery led archaeo
+[2026-10-31 07:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae599778b264e07beed213d89e1495
+[2026-10-31 07:32:07 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-10-31 07:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae599778b264e07beed213d89e1495
+[2026-10-31 07:32:07 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Scientists Solve 150-Year-Old Mystery of Giant Bird Believed to Be Ext
+[2026-10-31 07:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae599778b264e07beed213d89e1495
+[2026-10-31 07:32:07 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): New research involving Nunavut fossil raises question over the origin 
+[2026-10-31 07:32:07 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 12}
