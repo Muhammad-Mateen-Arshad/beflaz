@@ -21201,3 +21201,12 @@
 [2026-10-31 11:31:40 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): I graduated from college debt-free because I earned a full-ride schola
 [2026-10-31 11:32:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistani Students Can Apply for US Research Scholarships Offering Up to $35,000 Annually
 [2026-10-31 11:32:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1382 in / 576 out tokens
+[2026-10-31 11:32:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-31 11:32:13 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-31 11:32:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5d1bd0bba4d8f83f6a7c973233b3
+[2026-10-31 11:32:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 111/800 chars, resolved=True): I'm a skeletal biology researcher. Here's what you need to know about 
+[2026-10-31 11:32:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5d1be135c47aaaea73d278533a3f
+[2026-10-31 11:32:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-10-31 11:33:12 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 11:33:13 AM] [HEALTH_BOT] [SUCCESS] Published: HIIT May Improve Heart Fitness and Cellular Health With Age
+[2026-10-31 11:33:13 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1461 in / 534 out tokens
