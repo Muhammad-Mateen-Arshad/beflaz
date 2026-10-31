@@ -21080,3 +21080,13 @@
 [2026-10-31 07:30:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): US approves $2.1 billion Patriot missile sale to Ukraine
 [2026-10-31 07:30:24 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1461 in / 299 out tokens
 [2026-10-31 07:30:24 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 8, 'rejected': 1}
+[2026-10-31 07:30:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae599105ac04f8395e7b94454b9ef3
+[2026-10-31 07:30:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-10-31 07:30:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-31 07:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae59912a2354392a81fb8713cde017
+[2026-10-31 07:30:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 152/300 chars, resolved=True): Watch these 3 new Netflix releases this weekend: Matthew Perry doc & h
+[2026-10-31 07:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae59912a2354392a81fb8713cde017
+[2026-10-31 07:30:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 192/300 chars, resolved=True): Netflix's 'The Further Mis-Adventures of Cliff Booth' won't get Imax r
+[2026-10-31 07:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae599136159467e96646335349c1d3
+[2026-10-31 07:30:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 61/300 chars, resolved=True): Stephen Graham is outstanding: Snatch is the Adolescence star’s faultl
+[2026-10-31 07:30:27 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 12}
