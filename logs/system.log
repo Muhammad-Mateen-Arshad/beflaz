@@ -21372,3 +21372,10 @@
 [2026-10-31 07:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): 5 Best Workouts for Staying Strong After 50, According to a Trainer
 [2026-10-31 07:31:40 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1354 in / 501 out tokens
 [2026-10-31 07:31:40 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 6, 'rejected': 1}
+[2026-10-31 07:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6421d9504443f97bfcde42667c02
+[2026-10-31 07:31:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The UK’s newly discovered dinosaur had giant claws and a surprising co
+[2026-10-31 07:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6421d9504443f97bfcde42667c02
+[2026-10-31 07:31:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 44/400 chars, resolved=True): This Black Hills city is a quieter alternative to Deadwood—with fossil
+[2026-10-31 07:32:13 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 07:32:13 PM] [HISTORY_BOT] [SUCCESS] Published: Strange beaked 'hell chicken' is the first fruit-eating dinosaur
+[2026-10-31 07:32:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1310 in / 535 out tokens
