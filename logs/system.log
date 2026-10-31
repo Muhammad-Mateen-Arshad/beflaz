@@ -21240,3 +21240,12 @@
 [2026-10-31 03:33:06 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 03:33:06 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Haunted Hotel’ Season 3: Is It Renewed? Netflix Confirms 2027 Return & Creator Reveals New Details
 [2026-10-31 03:33:07 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1009 in / 489 out tokens
+[2026-10-31 03:33:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae60a34df68483aa6febf441a26f40
+[2026-10-31 03:33:09 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): I graduated from college debt-free because I earned a full-ride schola
+[2026-10-31 03:33:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae60a34df68483aa6febf441a26f40
+[2026-10-31 03:33:09 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): What's the youth path to the USMNT? How U.S. Soccer wants to widen it
+[2026-10-31 03:33:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-31 03:33:39 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 03:34:26 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: US University Offers $30,000 Annual Salary for PhD Students in Aquaculture Research
+[2026-10-31 03:34:27 PM] [SCHOLARSHIPS_BOT] [WARN] Telegram sendPhoto failed (('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))), falling back to text
+[2026-10-31 03:34:27 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1400 in / 638 out tokens
