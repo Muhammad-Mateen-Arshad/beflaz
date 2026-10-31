@@ -20960,3 +20960,9 @@
 [2026-10-30 11:37:36 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1399 in / 525 out tokens
 [2026-10-31 02:55:57 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz forms body to review proposed LPG policy reforms
 [2026-10-31 02:55:59 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1511 in / 575 out tokens
+[2026-10-31 02:56:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae558bf19b346f6b013d6fdd663acb
+[2026-10-31 02:56:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Trump administration set to deport Afghan refugees to Pakistan — endan
+[2026-10-31 02:56:06 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 02:57:24 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 02:57:25 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan’s urgent need for structural reform
+[2026-10-31 02:57:26 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1357 in / 563 out tokens
