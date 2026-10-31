@@ -21168,3 +21168,6 @@
 [2026-10-31 10:05:12 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 10:05:13 AM] [HISTORY_BOT] [SUCCESS] Published: Columbia Museum to Unveil 18-Inch Dino Eggs in New 2027 Exhibit
 [2026-10-31 10:05:14 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 909 in / 565 out tokens
+[2026-10-31 11:29:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-31 11:30:41 AM] [NEWS_BOT] [SUCCESS] Published: ‘Very little, if anything, done for KP’: PM Shehbaz rails against PTI’s governance in province
+[2026-10-31 11:30:42 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1554 in / 567 out tokens
