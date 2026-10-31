@@ -21065,3 +21065,18 @@
 [2026-10-31 07:30:02 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 07:30:03 AM] [NEWS_BOT] [SUCCESS] Published: Trump admin approves potential Patriot missiles sale to Ukraine
 [2026-10-31 07:30:04 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 683 in / 408 out tokens
+[2026-10-31 07:30:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae598fde4114a6db9f832c35c300a1
+[2026-10-31 07:30:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Trump administration set to deport Afghan refugees to Pakistan — endan
+[2026-10-31 07:30:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae598fde4114a6db9f832c35c300a1
+[2026-10-31 07:30:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): CM unveils Rs 2tr PIVOT plan to make Punjab export powerhousePublished
+[2026-10-31 07:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, October – 30 – 2026
+[2026-10-31 07:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 298/400 chars, resolved=True): Pakistan, Singapore seek stronger economic partnership as ties mark 60
+[2026-10-31 07:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae598ff8d344161beffb48acb224fc
+[2026-10-31 07:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-31 07:30:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae598ff8d344161beffb48acb224fc
+[2026-10-31 07:30:08 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Abdullah Dynasty’s 10 Damaging Acts: How Farooq and Family kept Kashmi
+[2026-10-31 07:30:23 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (132 words, need 150)): US plans to deport over 150 Afghans through Pakistan
+[2026-10-31 07:30:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae598ff8d344161beffb48acb224fc
+[2026-10-31 07:30:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): US approves $2.1 billion Patriot missile sale to Ukraine
+[2026-10-31 07:30:24 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1461 in / 299 out tokens
+[2026-10-31 07:30:24 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 8, 'rejected': 1}
