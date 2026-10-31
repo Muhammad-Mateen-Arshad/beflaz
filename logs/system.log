@@ -21356,3 +21356,19 @@
 [2026-10-31 07:31:12 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 07:31:12 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistanis Can Now Apply for UK Refugee Sponsorship to Live, Study and Work in Britain
 [2026-10-31 07:31:13 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1322 in / 555 out tokens
+[2026-10-31 07:31:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-31 07:31:14 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-31 07:31:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6420274e74ef1a33e49a2bcfbba5
+[2026-10-31 07:31:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 111/800 chars, resolved=True): I'm a skeletal biology researcher. Here's what you need to know about 
+[2026-10-31 07:31:15 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 07:31:38 PM] [HEALTH_BOT] [INFO] Rejected by quality gate (risky health claim wording): Just Four Minutes of Exercise a Day May Help Control Blood Sugar, Stud
+[2026-10-31 07:31:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6421a5b134a2ab7092eac3ee437a
+[2026-10-31 07:31:38 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-10-31 07:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6421a5b134a2ab7092eac3ee437a
+[2026-10-31 07:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 140/800 chars, resolved=True): Researchers Identify and Classify Tools for Assessing Older Adults' He
+[2026-10-31 07:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6421a5b134a2ab7092eac3ee437a
+[2026-10-31 07:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 65/800 chars, resolved=True): Longevity experts reveal the 6 things they personally never do
+[2026-10-31 07:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6421a5b134a2ab7092eac3ee437a
+[2026-10-31 07:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): 5 Best Workouts for Staying Strong After 50, According to a Trainer
+[2026-10-31 07:31:40 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1354 in / 501 out tokens
+[2026-10-31 07:31:40 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 6, 'rejected': 1}
