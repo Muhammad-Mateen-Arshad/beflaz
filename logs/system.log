@@ -21225,3 +21225,12 @@
 [2026-10-31 03:30:31 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 03:30:32 PM] [NEWS_BOT] [SUCCESS] Published: Syria weighing whether to join Makkah pact: foreign minister
 [2026-10-31 03:30:33 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 905 in / 529 out tokens
+[2026-10-31 03:30:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6099987884e18bdd847fc39844fc
+[2026-10-31 03:30:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): US to deport over 150 Afghans via PAK despite persecution risk under T
+[2026-10-31 03:30:36 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 03:30:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-10-31 03:31:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-10-31 03:31:58 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 03:32:14 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 03:32:14 PM] [JOBS_BOT] [SUCCESS] Published: Saudi Aramco eyes opportunities as Pakistan plans Mega Oil Hub in Balochistan
+[2026-10-31 03:32:15 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1286 in / 421 out tokens
