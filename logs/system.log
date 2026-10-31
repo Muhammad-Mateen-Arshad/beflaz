@@ -21093,3 +21093,17 @@
 [2026-10-31 07:31:00 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-10-31 07:31:01 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Colorado State University Offers Fully-Funded Scholarships With Up to $2,500 Monthly Stipend
 [2026-10-31 07:31:02 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1358 in / 513 out tokens
+[2026-10-31 07:31:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-10-31 07:31:03 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-10-31 07:31:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae59937425d4474a1fc41adde850bc
+[2026-10-31 07:31:04 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 3 health habits Layne Norton prioritizes for longevity—and what you ca
+[2026-10-31 07:31:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5993824f749638c4f9ea963718d2
+[2026-10-31 07:31:04 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-10-31 07:31:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5993824f749638c4f9ea963718d2
+[2026-10-31 07:31:04 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 10 daily habits linked to healthy aging, according to geriatricians
+[2026-10-31 07:31:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5993824f749638c4f9ea963718d2
+[2026-10-31 07:31:05 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 192/800 chars, resolved=True): After Exercise, Heart Rate Recovers Faster Than Autonomic Signals in O
+[2026-10-31 07:31:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-31 07:32:03 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 07:32:03 AM] [HEALTH_BOT] [SUCCESS] Published: Jessica Alba’s trainer says these 3 simple tests can reveal how well you’re aging – at 44, I tried them all
+[2026-10-31 07:32:04 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1777 in / 626 out tokens
