@@ -21150,3 +21150,7 @@
 [2026-10-31 10:01:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 152/300 chars, resolved=True): Watch these 3 new Netflix releases this weekend: Matthew Perry doc & h
 [2026-10-31 10:02:35 AM] [DRAMAS_BOT] [SUCCESS] Published: New Shows & Movies To Watch This Weekend: ‘The Gilded Age’ on HBO Max, ‘Dexter: Resurrection’ on Paramount+ and More
 [2026-10-31 10:02:36 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1717 in / 512 out tokens
+[2026-10-31 10:02:43 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-10-31 10:03:20 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 10:03:20 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: African Leadership College of Higher Education Announces Fully Funded Mastercard Foundation Scholars Programme for African Students 2027
+[2026-10-31 10:03:21 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1211 in / 513 out tokens
