@@ -21026,3 +21026,14 @@
 [2026-10-31 03:30:36 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (143 words, need 150)): Bitcoin to PKR Faces Worst October in 12 Years as BTC Falls to $77,000
 [2026-10-31 03:30:37 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1106 in / 327 out tokens
 [2026-10-31 03:30:37 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 8, 'rejected': 1}
+[2026-10-31 03:30:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae560dd581548ac984e0c7dd266c23
+[2026-10-31 03:30:38 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-10-31 03:30:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-10-31 03:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae560dfa5074680bedcd7ea372091a
+[2026-10-31 03:30:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): New Friday OTT Releases (October 30, 2026): 6 New Movies, Shows To Wat
+[2026-10-31 03:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae560dfa5074680bedcd7ea372091a
+[2026-10-31 03:30:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 152/300 chars, resolved=True): Watch these 3 new Netflix releases this weekend: Matthew Perry doc & h
+[2026-10-31 03:30:41 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-10-31 03:31:37 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-10-31 03:31:37 AM] [DRAMAS_BOT] [SUCCESS] Published: Every New Anime Coming to Netflix in November 2026
+[2026-10-31 03:31:38 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1348 in / 507 out tokens
