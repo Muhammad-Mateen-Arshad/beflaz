@@ -21801,3 +21801,7 @@
 [2026-11-01 05:20:13 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 05:20:13 PM] [DRAMAS_BOT] [SUCCESS] Published: Easy Chinese History Through Chinese Period Dramas
 [2026-11-01 05:20:14 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1139 in / 477 out tokens
+[2026-11-01 05:20:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-01 05:20:49 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 05:20:49 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: INDIA: National Means-cum-Merit Scholarship Scheme (NMMSS) 2026–27 – Application Deadline Extended to 15 November 2026
+[2026-11-01 05:20:50 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1436 in / 663 out tokens
