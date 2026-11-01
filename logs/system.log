@@ -21805,3 +21805,13 @@
 [2026-11-01 05:20:49 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 05:20:49 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: INDIA: National Means-cum-Merit Scholarship Scheme (NMMSS) 2026–27 – Application Deadline Extended to 15 November 2026
 [2026-11-01 05:20:50 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1436 in / 663 out tokens
+[2026-11-01 05:20:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-11-01 05:20:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-01 05:20:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae774f3f40c415bbf13d8609ed9aea
+[2026-11-01 05:20:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 3 health habits Layne Norton prioritizes for longevity—and what you ca
+[2026-11-01 05:20:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae774f3f70a4ed8bdaeb93e16a182d
+[2026-11-01 05:20:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-11-01 05:20:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-01 05:21:24 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 05:21:25 PM] [HEALTH_BOT] [SUCCESS] Published: Scientists Tested 3 Workouts for Adults Over 65 and One Result Surprised Researchers
+[2026-11-01 05:21:26 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 953 in / 485 out tokens
