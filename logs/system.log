@@ -21676,3 +21676,16 @@
 [2026-11-01 10:53:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a1ca63747d7a8995879c5448af
 [2026-11-01 10:53:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 140/800 chars, resolved=True): Researchers Identify and Classify Tools for Assessing Older Adults' He
 [2026-11-01 10:53:19 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-01 10:53:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a1f4e6a43e99f6744687984882
+[2026-11-01 10:53:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 101/400 chars, resolved=True): Newly discovered dinosaur species named in honour of Surrey man who he
+[2026-11-01 10:53:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a2018a843c2a6e9c547fadaeda
+[2026-11-01 10:53:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): ‘Jodi,’ a Nanotyrannus Skeleton, Gets $47.3 Million at Auction
+[2026-11-01 10:53:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a20de5d45538484bc30a068e17
+[2026-11-01 10:53:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): From purple dyes to olive oil: Ancient factory made every season count
+[2026-11-01 10:53:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a20de5d45538484bc30a068e17
+[2026-11-01 10:53:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Farmer found an inscribed stone on his land. The discovery led archaeo
+[2026-11-01 10:53:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a20d2bd40f796a609c8445ba92
+[2026-11-01 10:53:21 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 176/400 chars, resolved=True): Study upends what was thought about iconic predator dinosaur
+[2026-11-01 10:53:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a20d2bd40f796a609c8445ba92
+[2026-11-01 10:53:21 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Scientists Solve 150-Year-Old Mystery of Giant Bird Believed to Be Ext
+[2026-11-01 10:53:21 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
