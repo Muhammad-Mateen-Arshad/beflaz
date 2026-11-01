@@ -21550,3 +21550,17 @@
 [2026-11-01 03:30:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b2587aba42b4901d722e0c62b22
 [2026-11-01 03:30:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 48/300 chars, resolved=True): Why Is ‘Landman’ Season 3 Delayed? Here’s The Latest on When ‘Landman’
 [2026-11-01 03:30:33 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 12}
+[2026-11-01 03:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b25981dd4cf18bf8a891f4742a7
+[2026-11-01 03:30:34 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): I graduated from college debt-free because I earned a full-ride schola
+[2026-11-01 03:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b25981dd4cf18bf8a891f4742a7
+[2026-11-01 03:30:34 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): What's the youth path to the USMNT? How U.S. Soccer wants to widen it
+[2026-11-01 03:30:47 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (144 words, need 150)): CONSULTANCY SCAMS
+[2026-11-01 03:30:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b267ffb14aa5ad555b947dc7a14
+[2026-11-01 03:30:47 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Governor stresses quality education, research, timely appointment of V
+[2026-11-01 03:30:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b267ffb14aa5ad555b947dc7a14
+[2026-11-01 03:30:47 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Rana Mashood calls for equal opportunities and youth empowerment
+[2026-11-01 03:30:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b267195940f7811187f91142761
+[2026-11-01 03:30:48 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): U.S. Presidential Scholars Program
+[2026-11-01 03:31:17 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 03:31:18 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Scholarships through Purdue Programs for Study Abroad
+[2026-11-01 03:31:19 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 1309 in / 941 out tokens
