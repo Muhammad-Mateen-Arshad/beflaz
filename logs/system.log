@@ -21622,3 +21622,13 @@
 [2026-11-01 07:30:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6eaa8c9c54661a043591edb1167b
 [2026-11-01 07:30:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 140/800 chars, resolved=True): Researchers Identify and Classify Tools for Assessing Older Adults' He
 [2026-11-01 07:30:51 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-01 07:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6eaac698644d088cb4a76dcf6296
+[2026-11-01 07:30:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The UK’s newly discovered dinosaur had giant claws and a surprising co
+[2026-11-01 07:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6eaac698644d088cb4a76dcf6296
+[2026-11-01 07:30:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 179/400 chars, resolved=True): How Sphinx is helping answer riddle about extinct crocodiles
+[2026-11-01 07:30:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6eaac646b452fad24aa4637502c9
+[2026-11-01 07:30:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 123/400 chars, resolved=True): ‘Jodi,’ a Nanotyrannus Skeleton, Gets $47.3 Million at Auction
+[2026-11-01 07:30:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6eaadb9cc4fc5854d8edf17f965c
+[2026-11-01 07:30:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Farmer found an inscribed stone on his land. The discovery led archaeo
+[2026-11-01 07:31:30 AM] [HISTORY_BOT] [SUCCESS] Published: 12 Most Mysterious Archaeological Artifacts Discovered
+[2026-11-01 07:31:32 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1561 in / 563 out tokens
