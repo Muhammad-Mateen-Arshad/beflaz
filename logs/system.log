@@ -21585,3 +21585,6 @@
 [2026-11-01 03:32:09 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 03:32:09 AM] [HISTORY_BOT] [SUCCESS] Published: Stony Brook-led team discovers first known fruit-eating dinosaur nicknamed "Hell Chicken"
 [2026-11-01 03:32:10 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 963 in / 459 out tokens
+[2026-11-01 07:29:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-01 07:29:59 AM] [NEWS_BOT] [SUCCESS] Published: US hears Pakistan’s concerns over terrorism from Afghanistan, would play ‘productive role’ if there is one: Rubio
+[2026-11-01 07:30:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1151 in / 475 out tokens
