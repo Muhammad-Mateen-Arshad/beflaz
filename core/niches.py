@@ -49,7 +49,18 @@ class Niche:
     min_words: int = 150
     max_words: int = 400
     risk: str = "normal"            # "high" = stricter niche (jobs, scholarships, health)
-    schema_type: str = "Article"    # Default schema type for SEO
+    # "NewsArticle" is for genuine time-sensitive journalism (Google News
+    # eligibility); everything else uses the generic, always-safe "Article"
+    # type, since misusing NewsArticle on non-news content risks a
+    # structured-data spam flag from Google.
+    schema_type: str = "Article"
+    # --- SEO ---------------------------------------------------------------
+    seo_title: bool = False         # ask the AI for a search-style title (facts from the source only)
+    hub_slug: str = ""              # evergreen hub page at the site root, e.g. "fully-funded-scholarships.html"
+    hub_title: str = ""             # hub page title (month + year is appended automatically)
+    hub_description: str = ""       # meta description of the hub page
+    hub_intro: str = ""             # HTML intro paragraphs shown above the list of articles
+    hub_label: str = ""             # wording for the "More ... ->" link at the end of each article
 
 
 JOBS = Niche(
@@ -90,7 +101,19 @@ JOBS = Niche(
     rss_title="Trendify Portal - Jobs",
     rss_description="Latest Government, Private & International Jobs",
     disclaimer="Always confirm deadlines and requirements on the official notice before applying.",
-    min_source_chars=400, risk="high", schema_type="JobPosting",
+    min_source_chars=400, risk="high",
+    seo_title=True,
+    hub_slug="latest-jobs-in-pakistan.html",
+    hub_title="Latest Jobs in Pakistan & Abroad",
+    hub_description="Newest government, private and international job announcements, updated through the day. Check each listing and apply on the official website.",
+    hub_intro=(
+        "<p>This page collects the newest job announcements published on Beflaz, covering government and private "
+        "vacancies in Pakistan as well as international roles. New listings are added throughout the day, with the "
+        "latest at the top.</p>"
+        "<p>Requirements, salaries and closing dates differ for every post. Open a listing, read the details and "
+        "always confirm them on the official notice before you apply.</p>"
+    ),
+    hub_label="job listings",
 )
 
 NEWS = Niche(
@@ -109,14 +132,15 @@ NEWS = Niche(
         "and 'Why it matters'. Do not add opinions or predictions."
     ),
     image_style="modern newsroom broadcast studio, abstract world news illustration, no text, no faces",
-    image_query="newspaper press abstract",
+    image_query="news world city",
     button_text="📰 Read the Original Report",
-    card_button="View Description",
+    card_button="Read Full Story",
     telegram_heading="BREAKING NEWS",
     rss_heading="Latest News",
     rss_title="Trendify Portal - News",
     rss_description="Pakistani and global news",
-    image_from_title=False, min_source_chars=400, schema_type="NewsArticle",
+    image_from_title=False, min_source_chars=400,
+    schema_type="NewsArticle",
 )
 
 DRAMAS = Niche(
@@ -170,6 +194,18 @@ SCHOLARSHIPS = Niche(
     rss_description="Fully funded and local scholarships",
     disclaimer="Always confirm deadlines and eligibility on the official scholarship website.",
     min_source_chars=400, risk="high",
+    seo_title=True,
+    hub_slug="fully-funded-scholarships.html",
+    hub_title="Fully Funded & Latest Scholarships for Students",
+    hub_description="The newest scholarship announcements, including fully funded programmes, updated through the day. Check eligibility and deadlines on each official website.",
+    hub_intro=(
+        "<p>This page collects the newest scholarship announcements published on Beflaz, including fully funded "
+        "programmes and opportunities for students in Pakistan and abroad. New listings are added throughout the "
+        "day, with the latest at the top.</p>"
+        "<p>Eligibility, funding and deadlines differ from one programme to another and often depend on your "
+        "country. Open a listing and confirm the details on the official scholarship website before applying.</p>"
+    ),
+    hub_label="scholarships",
 )
 
 HEALTH = Niche(

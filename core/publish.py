@@ -63,10 +63,11 @@ def _footer(niche, source_link, publisher, image_credit):
 def _related_articles_html(niche, exclude_url, limit=4):
     """Self-contained block (its own inline styles, no dependency on class
     names elsewhere in css/style.css) linking to recent articles in the
-    same niche. Uses the same JSON store update_rss() already maintains,
-    so no extra file reads or AI calls are needed."""
+    same niche, plus a link to the niche's hub page. Uses the same JSON
+    store update_rss() already maintains, so no extra AI calls are needed."""
     items = [i for i in _read_feed_store(_niche_feed_path(niche.name)) if i.get("url") != exclude_url][:limit]
-    if not items:
+    hub = hub_url(niche)
+    if not items and not hub:
         return ""
     cards = "".join(
         f'<a href="{esc(i["url"])}" style="text-decoration:none; color:inherit; display:block; '
@@ -78,12 +79,42 @@ def _related_articles_html(niche, exclude_url, limit=4):
         f'{esc(shorten(i["title"], 70))}</span></a>'
         for i in items
     )
+    grid = (
+        f'<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(140px, 1fr)); gap:14px;">{cards}</div>'
+        if cards else ""
+    )
+    more = (
+        f'<p style="margin-top:1.2rem;"><a href="{esc(hub)}" style="color:var(--gold,#D4AF37); font-weight:600;">'
+        f'More {esc(niche.hub_label or "articles")} &rarr;</a></p>'
+        if hub else ""
+    )
     return (
         '<div style="margin-top:3rem; padding-top:2rem; border-top:1px solid rgba(199,203,209,0.1);">'
         '<h3 style="font-family:\'Playfair Display\', serif; color:var(--gold-light,#F4E5B2); '
         'font-size:1.3rem; margin-bottom:1.2rem;">Related Articles</h3>'
-        f'<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(140px, 1fr)); gap:14px;">'
-        f'{cards}</div></div>'
+        f'{grid}{more}</div>'
+    )
+
+
+def _fill_template(title, image_url, content, url, schema_type, meta_description):
+    """Fill article_template.html. Used for articles AND for hub pages."""
+    template = Path("article_template.html").read_text(encoding="utf-8")
+    published_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    return (
+        template.replace("{{TITLE}}", esc(title))
+        .replace("{{IMAGE_URL}}", esc(image_url))
+        .replace("{{CURRENT_TIME}}", datetime.now().strftime("%B %d, %Y"))
+        .replace("{{AI_CONTENT}}", content)
+        .replace("{{META_DESCRIPTION}}", esc(meta_description))
+        # Structured data (NewsArticle / Article schema) placeholders:
+        .replace("{{ARTICLE_URL}}", esc(url))
+        .replace("{{PUBLISH_ISO}}", published_iso)
+        .replace("{{SCHEMA_TYPE}}", schema_type)
+        .replace("{{HEADLINE_JSON}}", json_str(shorten(title, 110)))
+        .replace("{{PUBLISHER_NAME}}", esc(config.SITE_NAME))
+        .replace("{{PUBLISHER_NAME_JSON}}", json_str(config.SITE_NAME))
+        .replace("{{PUBLISHER_LOGO}}", esc(config.SITE_LOGO_URL))
+        .replace("{{SITE_URL}}", esc(config.SITE_URL))
     )
 
 
@@ -94,33 +125,61 @@ def build_article(niche, title, body_html, image_url, image_credit, source):
     folder = Path(niche.folder)
     folder.mkdir(parents=True, exist_ok=True)
 
-    template = Path("article_template.html").read_text(encoding="utf-8")
     content = (
         body_html
         + _button(niche, source.link, source.resolved)
         + _footer(niche, source.link, source.publisher, image_credit)
         + _related_articles_html(niche, url)
     )
-    published_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    meta_description = shorten(html_to_text(body_html), 155)
-    page = (
-        template.replace("{{TITLE}}", esc(title))
-        .replace("{{IMAGE_URL}}", esc(image_url))
-        .replace("{{CURRENT_TIME}}", datetime.now().strftime("%B %d, %Y"))
-        .replace("{{AI_CONTENT}}", content)
-        .replace("{{META_DESCRIPTION}}", esc(meta_description))
-        # Structured data (NewsArticle / Article schema) placeholders:
-        .replace("{{ARTICLE_URL}}", esc(url))
-        .replace("{{PUBLISH_ISO}}", published_iso)
-        .replace("{{SCHEMA_TYPE}}", niche.schema_type)
-        .replace("{{HEADLINE_JSON}}", json_str(shorten(title, 110)))
-        .replace("{{PUBLISHER_NAME}}", esc(config.SITE_NAME))
-        .replace("{{PUBLISHER_NAME_JSON}}", json_str(config.SITE_NAME))
-        .replace("{{PUBLISHER_LOGO}}", esc(config.SITE_LOGO_URL))
-        .replace("{{SITE_URL}}", esc(config.SITE_URL))
+    page = _fill_template(
+        title, image_url, content, url, niche.schema_type,
+        shorten(html_to_text(body_html), 155),
     )
     (folder / filename).write_text(page, encoding="utf-8")
     return filename, url
+
+
+# ------------------------------------------------------------------ evergreen hub page (e.g. "Fully funded scholarships")
+def hub_url(niche):
+    return f"{config.SITE_URL}/{niche.hub_slug}" if niche.hub_slug else ""
+
+
+def update_hub(niche):
+    """(Re)build the evergreen hub page of a niche: a fixed intro plus links to
+    its newest articles. Needs no AI call. It gives Google one strong page per
+    topic and gives every article a page to link to (internal linking)."""
+    if not niche.hub_slug:
+        return ""
+    items = _read_feed_store(_niche_feed_path(niche.name))
+    if not items:
+        return ""
+
+    def _day(item):
+        try:
+            return parsedate_to_datetime(item["date"]).strftime("%b %d, %Y")
+        except Exception:
+            return ""
+
+    rows = "".join(
+        f'<li><a href="{esc(i["url"])}">{esc(i["title"])}</a>'
+        f'{" <small>(" + _day(i) + ")</small>" if _day(i) else ""}</li>'
+        for i in items[: config.HUB_MAX_ITEMS]
+    )
+    month_year = datetime.now().strftime("%B %Y")
+    title = f"{niche.hub_title}: {month_year}"
+    content = (
+        niche.hub_intro
+        + f"<h3>Latest {esc(niche.hub_label or niche.label.title())}</h3><ul>{rows}</ul>"
+        + (f'<p style="font-size:13px; color:#94a3b8;"><em>{esc(niche.disclaimer)}</em></p>' if niche.disclaimer else "")
+    )
+    lead = items[0]
+    credit = lead.get("credit", "")
+    if credit:
+        content += f'<p style="font-size:13px; color:#94a3b8;">Image: {credit}</p>'
+    url = hub_url(niche)
+    page = _fill_template(title, lead.get("image", ""), content, url, "CollectionPage", niche.hub_description)
+    Path(niche.hub_slug).write_text(page, encoding="utf-8")
+    return url
 
 
 # ------------------------------------------------------------------ category page card
@@ -186,19 +245,23 @@ def _read_feed_store(path):
         return []
 
 
-def update_rss(niche, title, url, image_url):
-    """Update this niche's own rss_<niche>.xml (last RSS_MAX_ITEMS items)."""
+def update_rss(niche, title, url, image_url, credit=""):
+    """Update this niche's own rss_<niche>.xml (last RSS_MAX_ITEMS items).
+    The JSON store behind it keeps more history (HUB_MAX_ITEMS) for the hub pages."""
     store = _niche_feed_path(niche.name)
     store.parent.mkdir(parents=True, exist_ok=True)
     items = _read_feed_store(store)
     caption = f"{niche.emoji} {niche.rss_heading}: {title}\n\n👇 Read full details here:\n{url}"
     items.insert(0, {
-        "title": title, "url": url, "image": image_url, "caption": caption,
+        "title": title, "url": url, "image": image_url, "caption": caption, "credit": credit,
         "date": format_datetime(datetime.now(timezone.utc), usegmt=True),
     })
-    items = items[: config.RSS_MAX_ITEMS]
+    items = items[: config.HUB_MAX_ITEMS]
     store.write_text(json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
-    _write_rss_file(niche.rss_file, niche.rss_title, f"{config.SITE_URL}/", niche.rss_description, items)
+    _write_rss_file(
+        niche.rss_file, niche.rss_title, f"{config.SITE_URL}/", niche.rss_description,
+        items[: config.RSS_MAX_ITEMS],
+    )
 
 
 def update_master_feeds():
@@ -238,6 +301,8 @@ def update_sitemap():
     for niche in NICHES.values():
         if Path(niche.page).exists():
             urls.append(f"{config.SITE_URL}/{niche.page}")
+        if niche.hub_slug and Path(niche.hub_slug).exists():
+            urls.append(hub_url(niche))
         for f in sorted(Path(niche.folder).glob("*.html")):
             urls.append(f"{config.SITE_URL}/{niche.folder}/{f.name}")
     body = "".join(f"  <url><loc>{xml_escape(u)}</loc></url>\n" for u in urls)

@@ -68,3 +68,23 @@ def check(niche, article_html, source_text, title):
             reasons.append("numbers not found in source: " + ", ".join(bad[:6]))
 
     return (not reasons), reasons
+
+
+def check_title(niche, seo_title, source_text, original_title):
+    """Check an AI-written, search-style title. Returns (ok, reasons).
+    If this fails the pipeline simply keeps the original headline, so a bad
+    title never blocks an otherwise good article."""
+    reasons = []
+    t = (seo_title or "").strip()
+    if not 25 <= len(t) <= 75:
+        reasons.append(f"title length {len(t)} (need 25-75)")
+    low = t.lower()
+    for phrase in BANNED_PHRASES:
+        if phrase in low:
+            reasons.append(f"title contains '{phrase}'")
+    if re.search(r"[<>\[\]{}*#]|https?://", t):
+        reasons.append("title contains markup or a link")
+    bad = unsupported_numbers(t, source_text + " " + original_title)
+    if bad:
+        reasons.append("title numbers not found in source: " + ", ".join(bad[:4]))
+    return (not reasons), reasons

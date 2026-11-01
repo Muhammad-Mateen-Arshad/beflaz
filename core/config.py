@@ -11,8 +11,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 os.chdir(REPO_ROOT)
 
 # ---------------------------------------------------------------- site
-SITE_URL = (os.environ.get("SITE_URL") or "https://beflaz.com").rstrip("/")
-SITE_NAME = "Beflaz"
+SITE_URL = (os.environ.get("SITE_URL") or "https://Muhammad-Mateen-Arshad.github.io/trendify-news").rstrip("/")
+SITE_NAME = "Trendify Portal"
 TELEGRAM_CHANNEL = os.environ.get("TELEGRAM_CHANNEL") or "@trendify_news_live"
 
 # ---------------------------------------------------------------- SEO / indexing
@@ -81,7 +81,8 @@ DRAFTS_DIR = "_drafts"      # folders starting with "_" are not published by Jek
 LOG_FILE = "logs/system.log"
 DASHBOARD_FILE = "system-logs.html"
 SITEMAP_FILE = "sitemap.xml"
-RSS_MAX_ITEMS = 20          # items kept in each niche's own rss_<niche>.xml
+RSS_MAX_ITEMS = 20          # items shown in each niche's own rss_<niche>.xml
+HUB_MAX_ITEMS = 60          # items remembered per niche (used by the evergreen hub pages)
 
 # Combined feeds across ALL niches, for tools (dlvr.it, IFTTT) that need one
 # feed to post everything to a single social account (e.g. one Instagram page

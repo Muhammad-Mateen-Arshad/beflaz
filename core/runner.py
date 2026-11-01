@@ -10,7 +10,7 @@ from collections import Counter
 from pathlib import Path
 
 from . import ai as ai_module
-from . import config, images, notify, publish, quality, sources
+from . import config, images, indexnow, notify, publish, quality, sources
 from .ai import AIClient, AIUnavailable
 from .dedupe import SeenStore
 from .niches import NICHES
@@ -46,9 +46,19 @@ def _process(niche, candidate, ai, seen):
         # their own (a slow site, a temporary block), so let a later run try again.
         return "thin"
 
-    body = ai.write_article(niche, candidate.title, source.publisher, source.text)
+    ai_title, body = ai.write_article(niche, candidate.title, source.publisher, source.text)
 
-    ok, reasons = quality.check(niche, body, source.text, candidate.title)
+    # Jobs / Scholarships: use the AI's search-style title only if it passes
+    # the checks; otherwise keep the original headline (article is not lost).
+    title = candidate.title
+    if niche.seo_title and ai_title and ai_title != candidate.title:
+        title_ok, title_reasons = quality.check_title(niche, ai_title, source.text, candidate.title)
+        if title_ok:
+            title = ai_title
+        else:
+            notify.log(niche.label, "INFO", f"SEO title rejected ({'; '.join(title_reasons)}); keeping the original headline")
+
+    ok, reasons = quality.check(niche, body, source.text, title)
     if not ok:
         _save_draft(niche, candidate.title, source.link, body, reasons)
         notify.log(niche.label, "INFO", f"Rejected by quality gate ({'; '.join(reasons)}): {candidate.title[:70]}")
@@ -56,19 +66,21 @@ def _process(niche, candidate, ai, seen):
         return "rejected"
 
     image_url, credit = images.pick(niche, candidate, source)
-    filename, url = publish.build_article(niche, candidate.title, body, image_url, credit, source)
+    filename, url = publish.build_article(niche, title, body, image_url, credit, source)
 
     # The article file exists now: remember it BEFORE the optional steps,
     # so a later failure can never cause the same article to be posted twice.
     seen.mark(candidate.title, candidate.link, "posted", niche.name)
 
-    _safe(niche, "Category card", publish.add_card, niche, candidate.title, image_url, filename, body)
-    _safe(niche, "RSS update", publish.update_rss, niche, candidate.title, url, image_url)
+    _safe(niche, "Category card", publish.add_card, niche, title, image_url, filename, body)
+    _safe(niche, "RSS update", publish.update_rss, niche, title, url, image_url, credit)
     _safe(niche, "Master/Instagram RSS", publish.update_master_feeds)
+    hub = _safe(niche, "Hub page", publish.update_hub, niche) or ""
     _safe(niche, "Sitemap update", publish.update_sitemap)
-    notify.log(niche.label, "SUCCESS", f"Published: {candidate.title}")
-    notify.dashboard(niche, "SUCCESS", f"Published: {candidate.title}")
-    notify.telegram(niche, candidate.title, url, image_url)
+    _safe(niche, "IndexNow ping", indexnow.ping, [url, hub])
+    notify.log(niche.label, "SUCCESS", f"Published: {title}")
+    notify.dashboard(niche, "SUCCESS", f"Published: {title}")
+    notify.telegram(niche, title, url, image_url)
     return "published"
 
 
