@@ -21644,3 +21644,15 @@
 [2026-11-01 10:52:40 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 10:52:41 AM] [JOBS_BOT] [SUCCESS] Published: Zardari, Shehbaz pledge development on GB Independence Day
 [2026-11-01 10:52:42 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3539 in / 977 out tokens
+[2026-11-01 10:52:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae719fad2e44a82a9c5d6d597a8e10
+[2026-11-01 10:52:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-01 10:52:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-01 10:52:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae719fbe070434c9d1fd1fbe32c958
+[2026-11-01 10:52:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-01 10:52:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae719fc32d8492facb9afa0b797a38
+[2026-11-01 10:52:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Five new OTT releases this week: From Dead End Job to Meethe Mein Kya 
+[2026-11-01 10:52:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae719fc32d8492facb9afa0b797a38
+[2026-11-01 10:52:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 48/300 chars, resolved=True): Why Is ‘Landman’ Season 3 Delayed? Here’s The Latest on When ‘Landman’
+[2026-11-01 10:52:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae719fc32d8492facb9afa0b797a38
+[2026-11-01 10:52:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 150/300 chars, resolved=True): Cyberpunk 2077 new release officially confirmed for 2028
+[2026-11-01 10:52:44 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 6, 'already_seen': 11}
