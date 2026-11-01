@@ -21502,3 +21502,10 @@
 [2026-11-01 02:51:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a9199077419796605eeadb4d3ef
 [2026-11-01 02:51:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 40/300 chars, resolved=True): Netflix officially confirms fate of supernatural hit 3 weeks after str
 [2026-11-01 02:51:05 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 4, 'thin': 4, 'already_seen': 13}
+[2026-11-01 02:51:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a91a996a474e87a3050a1bee96c
+[2026-11-01 02:51:06 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): I graduated from college debt-free because I earned a full-ride schola
+[2026-11-01 02:51:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a91a996a474e87a3050a1bee96c
+[2026-11-01 02:51:06 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): What's the youth path to the USMNT? How U.S. Soccer wants to widen it
+[2026-11-01 02:51:34 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 02:51:34 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PAKISTAN’S MIRAGE OF HIGHER EDUCATION
+[2026-11-01 02:51:35 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1619 in / 336 out tokens
