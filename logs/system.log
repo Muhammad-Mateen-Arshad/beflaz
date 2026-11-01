@@ -21491,3 +21491,6 @@
 [2026-10-31 11:31:26 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1450 in / 489 out tokens
 [2026-11-01 02:50:13 AM] [NEWS_BOT] [SUCCESS] Published: LPG price twice the official  rate in open market
 [2026-11-01 02:50:13 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1692 in / 629 out tokens
+[2026-11-01 02:50:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-01 02:51:03 AM] [JOBS_BOT] [SUCCESS] Published: Free coaching under Mission Pragati bears fruit; 13 students secure government jobs
+[2026-11-01 02:51:03 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1202 in / 551 out tokens
