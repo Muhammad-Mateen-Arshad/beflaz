@@ -21534,3 +21534,9 @@
 [2026-11-01 03:29:53 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 03:29:54 AM] [NEWS_BOT] [SUCCESS] Published: Islamabad High Court bars FIR mention in character certificates after acquittal
 [2026-11-01 03:29:55 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1178 in / 460 out tokens
+[2026-11-01 03:29:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b23336114eb49a04b09b1e60b15
+[2026-11-01 03:29:56 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Not
+[2026-11-01 03:29:57 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-01 03:30:28 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 03:30:29 AM] [JOBS_BOT] [SUCCESS] Published: Punjab launches Rs2 trillion export development plan — Dawn
+[2026-11-01 03:30:30 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 785 in / 513 out tokens
