@@ -21776,3 +21776,10 @@
 [2026-11-01 03:32:10 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 03:32:11 PM] [HEALTH_BOT] [SUCCESS] Published: This Habit May Be One Of The Best Things You Can Do For Healthy Aging
 [2026-11-01 03:32:11 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1523 in / 534 out tokens
+[2026-11-01 03:32:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae75b7c32f44a87b147a666c2bbdbc
+[2026-11-01 03:32:12 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 101/400 chars, resolved=True): Newly discovered dinosaur species named in honour of Surrey man who he
+[2026-11-01 03:32:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae75b7c32f44a87b147a666c2bbdbc
+[2026-11-01 03:32:12 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 179/400 chars, resolved=True): How Sphinx is helping answer riddle about extinct crocodiles
+[2026-11-01 03:32:48 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 03:32:49 PM] [HISTORY_BOT] [SUCCESS] Published: Three Large Fossilized Trees Found in Stung Treng Province
+[2026-11-01 03:32:50 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 908 in / 557 out tokens
