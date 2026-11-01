@@ -21815,3 +21815,13 @@
 [2026-11-01 05:21:24 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 05:21:25 PM] [HEALTH_BOT] [SUCCESS] Published: Scientists Tested 3 Workouts for Adults Over 65 and One Result Surprised Researchers
 [2026-11-01 05:21:26 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 953 in / 485 out tokens
+[2026-11-01 05:21:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae775162f124dca8c97260caf95ce3
+[2026-11-01 05:21:26 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): 66-million-year-old first fruit-eating dinosaur identified from 25-pou
+[2026-11-01 05:21:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae775162f124dca8c97260caf95ce3
+[2026-11-01 05:21:27 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 101/400 chars, resolved=True): Newly discovered dinosaur species named in honour of Surrey man who he
+[2026-11-01 05:21:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae775162f124dca8c97260caf95ce3
+[2026-11-01 05:21:27 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Dinosaur 'Jodi' Sells for $47.3 Million, Nearly Toppling T. Rex Record
+[2026-11-01 05:21:29 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-01 05:22:02 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 05:22:02 PM] [HISTORY_BOT] [SUCCESS] Published: Dubai's World of Entertainment
+[2026-11-01 05:22:03 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1385 in / 487 out tokens
