@@ -21698,3 +21698,13 @@
 [2026-11-01 11:31:11 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 11:31:12 AM] [JOBS_BOT] [SUCCESS] Published: Zardari, Shehbaz pay tribute to Gilgit-Baltistan on 79th Independence Day
 [2026-11-01 11:31:13 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2621 in / 803 out tokens
+[2026-11-01 11:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae72301c98f4434ae7038584eb32a6
+[2026-11-01 11:31:13 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-01 11:31:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-01 11:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae72302a8e04f5dadfa67cf6e1096c
+[2026-11-01 11:31:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-01 11:31:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae723022ab043e5a424d86369c7e3f
+[2026-11-01 11:31:15 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Five new OTT releases this week: From Dead End Job to Meethe Mein Kya 
+[2026-11-01 11:31:46 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 11:31:46 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix brings ‘The Diplomat’ back for a fifth season
+[2026-11-01 11:31:47 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1490 in / 532 out tokens
