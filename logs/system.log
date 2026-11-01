@@ -21693,3 +21693,8 @@
 [2026-11-01 11:30:11 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 11:30:12 AM] [NEWS_BOT] [SUCCESS] Published: PIA's first Boeing 787-9 Dreamliner arrives in Islamabad
 [2026-11-01 11:30:12 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1379 in / 457 out tokens
+[2026-11-01 11:30:25 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (131 words, need 150)): Kundi says K-P's people will have 'first right' to province’s natural 
+[2026-11-01 11:30:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-01 11:31:11 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 11:31:12 AM] [JOBS_BOT] [SUCCESS] Published: Zardari, Shehbaz pay tribute to Gilgit-Baltistan on 79th Independence Day
+[2026-11-01 11:31:13 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2621 in / 803 out tokens
