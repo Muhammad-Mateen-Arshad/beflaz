@@ -21577,3 +21577,11 @@
 [2026-11-01 03:31:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b289e2604a3fa774e76fe0f3383
 [2026-11-01 03:31:23 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): 5 Best Workouts for Staying Strong After 50, According to a Trainer
 [2026-11-01 03:31:23 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-01 03:31:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b28b763e4cd089bfbd681271b5b
+[2026-11-01 03:31:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The UK’s newly discovered dinosaur had giant claws and a surprising co
+[2026-11-01 03:31:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6b28b763e4cd089bfbd681271b5b
+[2026-11-01 03:31:24 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New species of dinosaur discovered that only ate fruit
+[2026-11-01 03:31:53 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 03:32:09 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 03:32:09 AM] [HISTORY_BOT] [SUCCESS] Published: Stony Brook-led team discovers first known fruit-eating dinosaur nicknamed "Hell Chicken"
+[2026-11-01 03:32:10 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 963 in / 459 out tokens
