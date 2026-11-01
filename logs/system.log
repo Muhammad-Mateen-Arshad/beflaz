@@ -21656,3 +21656,8 @@
 [2026-11-01 10:52:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae719fc32d8492facb9afa0b797a38
 [2026-11-01 10:52:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 150/300 chars, resolved=True): Cyberpunk 2077 new release officially confirmed for 2028
 [2026-11-01 10:52:44 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 6, 'already_seen': 11}
+[2026-11-01 10:52:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae719fd489a4cac829cce12b8a4824
+[2026-11-01 10:52:45 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): What's the youth path to the USMNT? How U.S. Soccer wants to widen it
+[2026-11-01 10:53:14 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 10:53:14 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: “Making Sense of Slavery”: The challenging evolution of how America tells its story
+[2026-11-01 10:53:15 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1519 in / 350 out tokens
