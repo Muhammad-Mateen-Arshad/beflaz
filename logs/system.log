@@ -21601,3 +21601,9 @@
 [2026-11-01 07:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6ea95fda4487481166f239d2e737
 [2026-11-01 07:30:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Netflix flips its India script
 [2026-11-01 07:30:30 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 12}
+[2026-11-01 07:30:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6ea9683f94047a9c9b1ec05a13a5
+[2026-11-01 07:30:30 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): I graduated from college debt-free because I earned a full-ride schola
+[2026-11-01 07:30:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6ea9683f94047a9c9b1ec05a13a5
+[2026-11-01 07:30:31 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): What's the youth path to the USMNT? How U.S. Soccer wants to widen it
+[2026-11-01 07:30:46 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Bekki Spratford Receives Tour de Cure Australia Scholarship to Advance Their Research Into Glioblastoma
+[2026-11-01 07:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 626 in / 404 out tokens
