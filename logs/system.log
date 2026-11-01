@@ -21494,3 +21494,11 @@
 [2026-11-01 02:50:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-01 02:51:03 AM] [JOBS_BOT] [SUCCESS] Published: Free coaching under Mission Pragati bears fruit; 13 students secure government jobs
 [2026-11-01 02:51:03 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1202 in / 551 out tokens
+[2026-11-01 02:51:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a918480d473085518537d57e20f
+[2026-11-01 02:51:04 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-01 02:51:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-01 02:51:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a9199077419796605eeadb4d3ef
+[2026-11-01 02:51:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Five new OTT releases this week: From Dead End Job to Meethe Mein Kya 
+[2026-11-01 02:51:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a9199077419796605eeadb4d3ef
+[2026-11-01 02:51:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 40/300 chars, resolved=True): Netflix officially confirms fate of supernatural hit 3 weeks after str
+[2026-11-01 02:51:05 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 4, 'thin': 4, 'already_seen': 13}
