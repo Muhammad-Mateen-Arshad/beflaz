@@ -21635,3 +21635,12 @@
 [2026-11-01 10:51:41 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 10:51:42 AM] [NEWS_BOT] [SUCCESS] Published: Till I am here, people of KP will have the first right to its resources: Kundi
 [2026-11-01 10:51:43 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1098 in / 470 out tokens
+[2026-11-01 10:51:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 345/400 chars, resolved=True): Iranian lawmaker warns prices of goods and cars could rise 40% to 50%
+[2026-11-01 10:51:51 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (145 words, need 150)): Iran upgrading armed forces for response without geographic limits, de
+[2026-11-01 10:52:03 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (133 words, need 150); too many 'not specified' (source too thin)): Is Britain's MI6 trying to save Pakistani media from death?
+[2026-11-01 10:52:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae719bf0e07408fa1c300e667958e7
+[2026-11-01 10:52:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Punjab CM launches historic Rs1.99 trillion Pivot economic plan
+[2026-11-01 10:52:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 300/400 chars, resolved=True): Safdar’s remarks on women, Asma Jahangir spark fierce backlash
+[2026-11-01 10:52:40 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 10:52:41 AM] [JOBS_BOT] [SUCCESS] Published: Zardari, Shehbaz pledge development on GB Independence Day
+[2026-11-01 10:52:42 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3539 in / 977 out tokens
