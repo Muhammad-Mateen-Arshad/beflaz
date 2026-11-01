@@ -21522,3 +21522,12 @@
 [2026-11-01 02:51:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a939b43e4bcd81edca94a3c8328
 [2026-11-01 02:51:38 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): 5 Best Workouts for Staying Strong After 50, According to a Trainer
 [2026-11-01 02:51:38 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-01 02:51:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a93aaad3407db6eefb2856bcc38
+[2026-11-01 02:51:38 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): The UK’s newly discovered dinosaur had giant claws and a surprising co
+[2026-11-01 02:51:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a93aaad3407db6eefb2856bcc38
+[2026-11-01 02:51:38 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 44/400 chars, resolved=True): This Black Hills city is a quieter alternative to Deadwood—with fossil
+[2026-11-01 02:51:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6a93aaad3407db6eefb2856bcc38
+[2026-11-01 02:51:39 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): New species of dinosaur discovered that only ate fruit
+[2026-11-01 02:52:32 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 02:52:33 AM] [HISTORY_BOT] [SUCCESS] Published: This fossil may look like a mini T. rex, but a Nanotyrannus just sold for a giant $47 million
+[2026-11-01 02:52:33 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 881 in / 568 out tokens
