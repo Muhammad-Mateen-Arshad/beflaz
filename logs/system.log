@@ -21752,3 +21752,15 @@
 [2026-11-01 03:30:35 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 03:30:36 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan’s Battery Bet: The Economics Behind A $2.25 Billion Industrial Gamble
 [2026-11-01 03:30:37 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1405 in / 444 out tokens
+[2026-11-01 03:30:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae75b1e61094473b05c78f41037262
+[2026-11-01 03:30:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-01 03:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-01 03:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae75b1fb2854671b46e6cf84228e7e
+[2026-11-01 03:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-01 03:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae75b1f831f436480167e947264248
+[2026-11-01 03:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 89/300 chars, resolved=True): Netflix New Releases November 2026
+[2026-11-01 03:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae75b1f831f436480167e947264248
+[2026-11-01 03:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Five new OTT releases this week: From Dead End Job to Meethe Mein Kya 
+[2026-11-01 03:31:09 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 03:31:10 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s 10/10 Spy Thriller Officially Returns for Season 2 This Week
+[2026-11-01 03:31:11 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1588 in / 367 out tokens
