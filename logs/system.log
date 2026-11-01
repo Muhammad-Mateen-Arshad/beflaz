@@ -21786,3 +21786,10 @@
 [2026-11-01 05:19:03 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 05:19:04 PM] [NEWS_BOT] [SUCCESS] Published: ‘We’re technology-savvy’: DG ISPR says Pakistan ahead of India, Afghan Taliban in operational readiness
 [2026-11-01 05:19:06 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1550 in / 517 out tokens
+[2026-11-01 05:19:07 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 242/400 chars, resolved=True): 'Just a series not a tournament': Pakistan PM trolled again for over t
+[2026-11-01 05:19:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7748a1e4a4dafb17b9f7044fe5ef
+[2026-11-01 05:19:07 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Turkish embassy in Cairo celebrates 103rd Republic Day
+[2026-11-01 05:19:08 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-01 05:19:40 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-01 05:19:40 PM] [JOBS_BOT] [SUCCESS] Published: Punjab Announces Free 3-Month Training Course for Women
+[2026-11-01 05:19:41 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 998 in / 568 out tokens
