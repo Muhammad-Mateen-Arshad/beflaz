@@ -21661,3 +21661,18 @@
 [2026-11-01 10:53:14 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-01 10:53:14 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: “Making Sense of Slavery”: The challenging evolution of how America tells its story
 [2026-11-01 10:53:15 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1519 in / 350 out tokens
+[2026-11-01 10:53:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.health.harvard.edu/blog/whats-good-for-the-heart-is-good-for-the-mind-20181123
+[2026-11-01 10:53:16 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-01 10:53:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a1c2dd7408eb717a87aa54a235
+[2026-11-01 10:53:16 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 3 health habits Layne Norton prioritizes for longevity—and what you ca
+[2026-11-01 10:53:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a1ca63747d7a8995879c5448af
+[2026-11-01 10:53:17 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-11-01 10:53:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a1ca63747d7a8995879c5448af
+[2026-11-01 10:53:17 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 10 daily habits linked to healthy aging, according to geriatricians
+[2026-11-01 10:53:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a1ca63747d7a8995879c5448af
+[2026-11-01 10:53:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 192/800 chars, resolved=True): After Exercise, Heart Rate Recovers Faster Than Autonomic Signals in O
+[2026-11-01 10:53:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a1ca63747d7a8995879c5448af
+[2026-11-01 10:53:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): 5 Best Workouts for Staying Strong After 50, According to a Trainer
+[2026-11-01 10:53:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae71a1ca63747d7a8995879c5448af
+[2026-11-01 10:53:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 140/800 chars, resolved=True): Researchers Identify and Classify Tools for Assessing Older Adults' He
+[2026-11-01 10:53:19 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
