@@ -21907,3 +21907,6 @@
 [2026-11-04 03:30:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
 [2026-11-04 03:31:17 PM] [DRAMAS_BOT] [SUCCESS] Published: Solving the Greatest Mystery of 'VIVANT'. The True Destiny of Yusuke Nogi and the Predicted Final Outcome as Indicated by the Three Languages: 'Child of Hope', 'Blessing', and ...
 [2026-11-04 03:31:18 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1683 in / 544 out tokens
+[2026-11-04 03:31:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-04 03:32:15 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Chevening-ABL Scholarship Pakistan for Master's Degrees
+[2026-11-04 03:32:16 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1146 in / 601 out tokens
