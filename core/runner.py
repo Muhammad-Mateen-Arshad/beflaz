@@ -10,7 +10,7 @@ from collections import Counter
 from pathlib import Path
 
 from . import ai as ai_module
-from . import config, images, indexnow, notify, publish, quality, sources
+from . import config, images, notify, publish, quality, sources
 from .ai import AIClient, AIUnavailable
 from .dedupe import SeenStore
 from .niches import NICHES
@@ -77,7 +77,7 @@ def _process(niche, candidate, ai, seen):
     _safe(niche, "Master/Instagram RSS", publish.update_master_feeds)
     hub = _safe(niche, "Hub page", publish.update_hub, niche) or ""
     _safe(niche, "Sitemap update", publish.update_sitemap)
-    _safe(niche, "IndexNow ping", indexnow.ping, [url, hub])
+    #_safe(niche, "IndexNow ping", indexnow.ping, [url, hub])
     notify.log(niche.label, "SUCCESS", f"Published: {title}")
     notify.dashboard(niche, "SUCCESS", f"Published: {title}")
     notify.telegram(niche, title, url, image_url)
