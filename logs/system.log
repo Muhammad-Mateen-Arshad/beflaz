@@ -21900,3 +21900,10 @@
 [2026-11-04 03:30:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-04 03:30:47 PM] [JOBS_BOT] [SUCCESS] Published: UNHCR Terminated Teachers: 291 Staff Seek Government Aid
 [2026-11-04 03:30:48 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1247 in / 615 out tokens
+[2026-11-04 03:30:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-04 03:30:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb4fa9d4444bc4a4498f9afb490f9
+[2026-11-04 03:30:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-04 03:30:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb4fa9d4444bc4a4498f9afb490f9
+[2026-11-04 03:30:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-04 03:31:17 PM] [DRAMAS_BOT] [SUCCESS] Published: Solving the Greatest Mystery of 'VIVANT'. The True Destiny of Yusuke Nogi and the Predicted Final Outcome as Indicated by the Three Languages: 'Child of Hope', 'Blessing', and ...
+[2026-11-04 03:31:18 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1683 in / 544 out tokens
