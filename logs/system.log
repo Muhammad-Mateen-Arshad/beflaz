@@ -21880,3 +21880,7 @@
 [2026-11-04 11:40:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 315/400 chars, resolved=True): Canada News
 [2026-11-04 11:40:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 316/400 chars, resolved=True): US & Canada News
 [2026-11-04 11:40:30 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 7, 'thin': 7}
+[2026-11-04 11:40:32 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-04 11:40:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb19b0b0194bc39d59d361876c104
+[2026-11-04 11:40:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): MAke Drama: Mad Codes (November 2026)
+[2026-11-04 11:40:33 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 2, 'thin': 2, 'already_seen': 2}
