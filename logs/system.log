@@ -21918,3 +21918,9 @@
 [2026-11-04 03:33:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1512 in / 537 out tokens
 [2026-11-04 06:56:48 PM] [NEWS_BOT] [SUCCESS] Published: US Vice President JD Vance says Iran war is 'the reason we lost' midterms
 [2026-11-04 06:56:49 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1541 in / 480 out tokens
+[2026-11-04 06:56:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb7ff20766442c812dfa1bf1f682e
+[2026-11-04 06:56:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Haryana Bars Migrants From Pakistan & Tibetan Refugees From State Gove
+[2026-11-04 06:56:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb7ff20766442c812dfa1bf1f682e
+[2026-11-04 06:56:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Pakistan puts state giants on the auction block
+[2026-11-04 06:57:20 PM] [JOBS_BOT] [SUCCESS] Published: Government Jobs FIR Registration Court Ruling Update
+[2026-11-04 06:57:21 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 920 in / 517 out tokens
