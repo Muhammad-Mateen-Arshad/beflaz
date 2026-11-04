@@ -22006,3 +22006,9 @@
 [2026-11-04 11:30:20 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-04 11:30:42 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Sets December 2026 Release Date for YA Drama ‘Sunshine Girls’
 [2026-11-04 11:30:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 791 in / 539 out tokens
+[2026-11-04 11:30:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc023bb95410eb9e465885266792
+[2026-11-04 11:30:44 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Boaters: Sign up for Holiday Boat Parade in Palm Coast
+[2026-11-04 11:30:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-04 11:31:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-04 11:31:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Education Tax-Credit Scholarship Program Overview
+[2026-11-04 11:31:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1386 in / 343 out tokens
