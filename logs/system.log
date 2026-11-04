@@ -21827,3 +21827,14 @@
 [2026-11-01 05:22:03 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1385 in / 487 out tokens
 [2026-11-04 10:01:51 AM] [NEWS_BOT] [SUCCESS] Published: US midterms: Democrats win US Congress in midterm rout of Trump
 [2026-11-04 10:01:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1502 in / 512 out tokens
+[2026-11-04 10:02:09 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Ramazan Calendar for Pakistan
+[2026-11-04 10:02:10 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-04 10:02:10 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 292/400 chars, resolved=True): Americans go to midterm polls in vote widely seen as referendum on Tru
+[2026-11-04 10:02:11 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-04 10:02:11 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-04 10:02:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb02a56f734b0992a6fdf7b6d6449
+[2026-11-04 10:02:13 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Canada News | Today's Latest Stories | Reuters
+[2026-11-04 10:02:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 315/400 chars, resolved=True): Canada News
+[2026-11-04 10:02:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 307/400 chars, resolved=True): US & Canada News
+[2026-11-04 10:02:14 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 744 in / 426 out tokens
+[2026-11-04 10:02:14 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'rejected': 1, 'thin': 7, 'already_seen': 3}
