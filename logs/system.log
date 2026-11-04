@@ -21936,3 +21936,7 @@
 [2026-11-04 06:58:47 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 900 in / 487 out tokens
 [2026-11-04 06:59:19 PM] [HEALTH_BOT] [SUCCESS] Published: Integrated health service delivery through medical mobile units helped to reduce deaths among individuals at risk for HIV who also inject drugs
 [2026-11-04 06:59:20 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1340 in / 498 out tokens
+[2026-11-04 06:59:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-04 06:59:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-04 06:59:56 PM] [HISTORY_BOT] [SUCCESS] Published: A New Dinosaur Sat in a London Museum for 25 Years, Mislabeled as Iguanodon
+[2026-11-04 06:59:58 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1683 in / 480 out tokens
