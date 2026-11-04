@@ -21850,3 +21850,12 @@
 [2026-11-04 10:02:47 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 2}
 [2026-11-04 11:29:49 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan continuing efforts for peace in Middle East as before: PM Shehbaz
 [2026-11-04 11:29:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 927 in / 510 out tokens
+[2026-11-04 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-04 11:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 292/400 chars, resolved=True): Americans go to midterm polls in vote widely seen as referendum on Tru
+[2026-11-04 11:29:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-04 11:29:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-04 11:29:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb1734f0034a23aee6eaf74c792b0
+[2026-11-04 11:29:56 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Canada News | Today's Latest Stories | Reuters
+[2026-11-04 11:29:56 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 315/400 chars, resolved=True): Canada News
+[2026-11-04 11:29:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 299/400 chars, resolved=True): US & Canada News
+[2026-11-04 11:29:57 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 7, 'thin': 7}
