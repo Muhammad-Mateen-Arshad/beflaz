@@ -21893,3 +21893,10 @@
 [2026-11-04 11:40:36 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 1}
 [2026-11-04 03:29:53 PM] [NEWS_BOT] [SUCCESS] Published: Federal cabinet ratifies defence agreement with Kuwait
 [2026-11-04 03:29:54 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1509 in / 498 out tokens
+[2026-11-04 03:29:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb4f7350f942f2a15646717a5d763
+[2026-11-04 03:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Haryana Bars Migrants From Pakistan & Tibetan Refugees From State Gove
+[2026-11-04 03:29:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb4f7350f942f2a15646717a5d763
+[2026-11-04 03:29:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Pakistan puts state giants on the auction block
+[2026-11-04 03:30:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-04 03:30:47 PM] [JOBS_BOT] [SUCCESS] Published: UNHCR Terminated Teachers: 291 Staff Seek Government Aid
+[2026-11-04 03:30:48 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1247 in / 615 out tokens
