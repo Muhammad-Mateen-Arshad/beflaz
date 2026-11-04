@@ -21964,3 +21964,22 @@
 [2026-11-04 07:31:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-04 07:31:45 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Arizona Empowerment Scholarship Account: Program Overview
 [2026-11-04 07:31:46 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1669 in / 366 out tokens
+[2026-11-04 07:31:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-04 07:31:47 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-04 07:31:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8823677f4679b7f800583d558a2
+[2026-11-04 07:31:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 111/800 chars, resolved=True): I'm a skeletal biology researcher. Here's what you need to know about 
+[2026-11-04 07:31:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8824952a4b848fdddb5a9b1d2b3
+[2026-11-04 07:31:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 10 daily habits linked to healthy aging, according to geriatricians
+[2026-11-04 07:31:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8824952a4b848fdddb5a9b1d2b3
+[2026-11-04 07:31:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-11-04 07:31:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8824952a4b848fdddb5a9b1d2b3
+[2026-11-04 07:31:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 144/800 chars, resolved=True): Daily Habits After 60 That Support Brain Health and Longevity
+[2026-11-04 07:31:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8824952a4b848fdddb5a9b1d2b3
+[2026-11-04 07:31:59 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 192/800 chars, resolved=True): After Exercise, Heart Rate Recovers Faster Than Autonomic Signals in O
+[2026-11-04 07:32:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-04 07:32:17 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-04 07:32:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-04 07:33:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-04 07:33:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-04 07:34:38 PM] [HEALTH_BOT] [SUCCESS] Published: There's a Critical Window in Your 50s for Preserving Body Strength
+[2026-11-04 07:34:38 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1604 in / 552 out tokens
