@@ -21953,3 +21953,10 @@
 [2026-11-04 07:30:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): Newspaper - Front Page - November 4, 2026
 [2026-11-04 07:30:43 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan China Economic Cooperation and Jobs 2026
 [2026-11-04 07:30:44 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1107 in / 405 out tokens
+[2026-11-04 07:30:46 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-04 07:30:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb87e63de94947b62f3447b0af459
+[2026-11-04 07:30:46 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-04 07:30:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb87e63de94947b62f3447b0af459
+[2026-11-04 07:30:46 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-04 07:31:07 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s ‘Trinity’ Sets December Release Date, Drops Tense New Trailer (TV News Roundup)
+[2026-11-04 07:31:08 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1735 in / 590 out tokens
