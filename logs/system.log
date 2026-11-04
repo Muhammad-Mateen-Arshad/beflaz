@@ -21910,3 +21910,7 @@
 [2026-11-04 03:31:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-04 03:32:15 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Chevening-ABL Scholarship Pakistan for Master's Degrees
 [2026-11-04 03:32:16 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1146 in / 601 out tokens
+[2026-11-04 03:32:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-04 03:32:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-04 03:32:51 PM] [HEALTH_BOT] [SUCCESS] Published: 285 Acts Of Idiocy Trump’s Cronies Hope You’ve Forgotten
+[2026-11-04 03:32:52 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1811 in / 477 out tokens
