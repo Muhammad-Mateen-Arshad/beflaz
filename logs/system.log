@@ -21988,3 +21988,9 @@
 [2026-11-04 07:34:59 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 986 in / 401 out tokens
 [2026-11-04 11:29:52 PM] [NEWS_BOT] [SUCCESS] Published: 'United opposition' gathers at Fazl's Islamabad residence, vows stronger alliance
 [2026-11-04 11:29:54 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1534 in / 526 out tokens
+[2026-11-04 11:29:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebbff2d59e421a95093ecd335d764
+[2026-11-04 11:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Haryana Bars Migrants From Pakistan & Tibetan Refugees From State Gove
+[2026-11-04 11:29:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebbff2d59e421a95093ecd335d764
+[2026-11-04 11:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Pakistan puts state giants on the auction block
+[2026-11-04 11:30:16 PM] [JOBS_BOT] [SUCCESS] Published: Gulf Migrant Job Market 2026: Risks and Policy Shifts
+[2026-11-04 11:30:16 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1317 in / 501 out tokens
