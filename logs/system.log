@@ -22029,3 +22029,7 @@
 [2026-11-04 11:31:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc06823ae44cc9c56d4e1d9f179a
 [2026-11-04 11:31:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 192/800 chars, resolved=True): After Exercise, Heart Rate Recovers Faster Than Autonomic Signals in O
 [2026-11-04 11:31:53 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-04 11:31:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc06ab038441a8a7e042c3412b53
+[2026-11-04 11:31:54 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Echoes of Jurassic Park: Scientists found traces of blood inside a 115
+[2026-11-04 11:32:18 PM] [HISTORY_BOT] [SUCCESS] Published: Scientists find traces of red blood cells in dinosaur bone
+[2026-11-04 11:32:19 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 622 in / 415 out tokens
