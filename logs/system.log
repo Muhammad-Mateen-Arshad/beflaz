@@ -21942,3 +21942,14 @@
 [2026-11-04 06:59:58 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1683 in / 480 out tokens
 [2026-11-04 07:30:19 PM] [NEWS_BOT] [SUCCESS] Published: Petrol price dropped by Rs7.06 per litre, high-speed diesel by Rs3.71
 [2026-11-04 07:30:20 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1156 in / 606 out tokens
+[2026-11-04 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb87cde00d4c2ab033ab06c105abd
+[2026-11-04 07:30:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Haryana Bars Migrants From Pakistan & Tibetan Refugees From State Gove
+[2026-11-04 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb87cde00d4c2ab033ab06c105abd
+[2026-11-04 07:30:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Pakistan puts state giants on the auction block
+[2026-11-04 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb87cde00d4c2ab033ab06c105abd
+[2026-11-04 07:30:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Deportation of Dozens of Afghans Blocked by Federal Court, for Now
+[2026-11-04 07:30:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-04 07:30:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb87cdac724428891c1ae660752f0
+[2026-11-04 07:30:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): Newspaper - Front Page - November 4, 2026
+[2026-11-04 07:30:43 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan China Economic Cooperation and Jobs 2026
+[2026-11-04 07:30:44 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1107 in / 405 out tokens
