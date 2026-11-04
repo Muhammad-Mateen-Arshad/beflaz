@@ -21891,3 +21891,5 @@
 [2026-11-04 11:40:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
 [2026-11-04 11:40:35 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 1, 'thin': 1}
 [2026-11-04 11:40:36 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 1}
+[2026-11-04 03:29:53 PM] [NEWS_BOT] [SUCCESS] Published: Federal cabinet ratifies defence agreement with Kuwait
+[2026-11-04 03:29:54 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1509 in / 498 out tokens
