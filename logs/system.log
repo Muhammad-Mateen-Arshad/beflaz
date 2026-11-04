@@ -22012,3 +22012,20 @@
 [2026-11-04 11:31:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-04 11:31:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Education Tax-Credit Scholarship Program Overview
 [2026-11-04 11:31:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1386 in / 343 out tokens
+[2026-11-04 11:31:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-04 11:31:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-04 11:31:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc06712064388b67f02747c648d6
+[2026-11-04 11:31:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-04 11:31:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc06712064388b67f02747c648d6
+[2026-11-04 11:31:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 111/800 chars, resolved=True): I'm a skeletal biology researcher. Here's what you need to know about 
+[2026-11-04 11:31:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc06823ae44cc9c56d4e1d9f179a
+[2026-11-04 11:31:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 102/800 chars, resolved=True): How healthy are your muscles?
+[2026-11-04 11:31:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc06823ae44cc9c56d4e1d9f179a
+[2026-11-04 11:31:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-11-04 11:31:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc06823ae44cc9c56d4e1d9f179a
+[2026-11-04 11:31:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 10 daily habits linked to healthy aging, according to geriatricians
+[2026-11-04 11:31:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc06823ae44cc9c56d4e1d9f179a
+[2026-11-04 11:31:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): The daily habits that have the biggest impact on healthy aging
+[2026-11-04 11:31:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc06823ae44cc9c56d4e1d9f179a
+[2026-11-04 11:31:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 192/800 chars, resolved=True): After Exercise, Heart Rate Recovers Faster Than Autonomic Signals in O
+[2026-11-04 11:31:53 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
