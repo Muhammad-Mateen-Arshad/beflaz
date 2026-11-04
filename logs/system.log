@@ -21841,3 +21841,6 @@
 [2026-11-04 10:02:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-04 10:02:42 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Sweetpea’: Ella Purnell Is Back In Killer Role As Full Trailer Drops For Season 2 Of Sky And Starz Series
 [2026-11-04 10:02:43 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 983 in / 556 out tokens
+[2026-11-04 10:02:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb02c421aa42c085ee7dc82ec01df
+[2026-11-04 10:02:44 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): U.S. Presidential Scholars Program
+[2026-11-04 10:02:44 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'tried': 1, 'thin': 1, 'already_seen': 2}
