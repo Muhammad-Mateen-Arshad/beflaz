@@ -21838,3 +21838,6 @@
 [2026-11-04 10:02:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 307/400 chars, resolved=True): US & Canada News
 [2026-11-04 10:02:14 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 744 in / 426 out tokens
 [2026-11-04 10:02:14 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'rejected': 1, 'thin': 7, 'already_seen': 3}
+[2026-11-04 10:02:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-04 10:02:42 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Sweetpea’: Ella Purnell Is Back In Killer Role As Full Trailer Drops For Season 2 Of Sky And Starz Series
+[2026-11-04 10:02:43 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 983 in / 556 out tokens
