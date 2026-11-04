@@ -21994,3 +21994,15 @@
 [2026-11-04 11:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Pakistan puts state giants on the auction block
 [2026-11-04 11:30:16 PM] [JOBS_BOT] [SUCCESS] Published: Gulf Migrant Job Market 2026: Risks and Policy Shifts
 [2026-11-04 11:30:16 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1317 in / 501 out tokens
+[2026-11-04 11:30:18 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-04 11:30:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc00a393b413b8c2a443b5866d62
+[2026-11-04 11:30:19 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-04 11:30:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc00a393b413b8c2a443b5866d62
+[2026-11-04 11:30:19 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-04 11:30:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc00bdd9c4b8cb0e64935cecf3f3
+[2026-11-04 11:30:19 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix's ‘Trinity’ sets release date, drops tense new trailer
+[2026-11-04 11:30:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc00bdd9c4b8cb0e64935cecf3f3
+[2026-11-04 11:30:19 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 85/300 chars, resolved=True): ‘Mistletoe Murders’ Season 3: Release Date, Where to Watch & When It C
+[2026-11-04 11:30:20 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-04 11:30:42 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Sets December 2026 Release Date for YA Drama ‘Sunshine Girls’
+[2026-11-04 11:30:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 791 in / 539 out tokens
