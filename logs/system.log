@@ -21869,3 +21869,5 @@
 [2026-11-04 11:30:41 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
 [2026-11-04 11:30:42 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 1, 'thin': 1}
 [2026-11-04 11:30:43 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 1}
+[2026-11-04 11:40:24 AM] [NEWS_BOT] [SUCCESS] Published: SSGC announces winter gas supply schedule for Sindh, Balochistan
+[2026-11-04 11:40:25 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 723 in / 409 out tokens
