@@ -21960,3 +21960,7 @@
 [2026-11-04 07:30:46 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
 [2026-11-04 07:31:07 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s ‘Trinity’ Sets December Release Date, Drops Tense New Trailer (TV News Roundup)
 [2026-11-04 07:31:08 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1735 in / 590 out tokens
+[2026-11-04 07:31:10 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-04 07:31:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-04 07:31:45 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Arizona Empowerment Scholarship Account: Program Overview
+[2026-11-04 07:31:46 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1669 in / 366 out tokens
