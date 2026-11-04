@@ -21859,3 +21859,6 @@
 [2026-11-04 11:29:56 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 315/400 chars, resolved=True): Canada News
 [2026-11-04 11:29:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 299/400 chars, resolved=True): US & Canada News
 [2026-11-04 11:29:57 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 7, 'thin': 7}
+[2026-11-04 11:29:59 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-04 11:30:37 AM] [DRAMAS_BOT] [SUCCESS] Published: 2026-27 Premiere Dates For New & Returning Series On Broadcast, Streaming & Cable
+[2026-11-04 11:30:38 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 2010 in / 566 out tokens
