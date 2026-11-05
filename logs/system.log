@@ -22352,3 +22352,6 @@
 [2026-11-05 07:16:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-05 07:16:45 PM] [DRAMAS_BOT] [SUCCESS] Published: What Time Does Netflix Release New Movies and TV Series?
 [2026-11-05 07:16:46 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 849 in / 442 out tokens
+[2026-11-05 07:16:49 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:17:09 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: KFUPM Fully Funded PhD Scholarships: Fall 2027
+[2026-11-05 07:17:10 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1490 in / 629 out tokens
