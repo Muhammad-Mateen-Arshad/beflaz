@@ -22033,3 +22033,7 @@
 [2026-11-04 11:31:54 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Echoes of Jurassic Park: Scientists found traces of blood inside a 115
 [2026-11-04 11:32:18 PM] [HISTORY_BOT] [SUCCESS] Published: Scientists find traces of red blood cells in dinosaur bone
 [2026-11-04 11:32:19 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 622 in / 415 out tokens
+[2026-11-05 12:34:34 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 12:34:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 12:35:29 AM] [NEWS_BOT] [SUCCESS] Published: Govt says Islamabad's One Constitution Avenue to be turned into a five-star hotel
+[2026-11-05 12:35:30 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1497 in / 540 out tokens
