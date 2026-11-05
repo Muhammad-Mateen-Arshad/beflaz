@@ -22220,3 +22220,5 @@
 [2026-11-05 11:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6901dfaf49e6b3e0880101d08d2
 [2026-11-05 11:31:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-05 11:31:14 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-11-05 11:32:10 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Cannes Lions Scholarship 2027: Fully Funded Program
+[2026-11-05 11:32:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 774 in / 515 out tokens
