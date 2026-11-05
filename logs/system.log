@@ -22318,3 +22318,8 @@
 [2026-11-05 03:34:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-05 03:36:46 PM] [HISTORY_BOT] [SUCCESS] Published: Brukenthal Museum's dinosaur exhibits come to life thanks to AI technology
 [2026-11-05 03:36:47 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1595 in / 549 out tokens
+[2026-11-05 07:08:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 07:08:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 07:08:48 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:09:29 PM] [NEWS_BOT] [SUCCESS] Published: Petrol price slashed by Rs9.41 per litre, high-speed diesel by Rs5.56
+[2026-11-05 07:09:30 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1025 in / 547 out tokens
