@@ -22310,3 +22310,11 @@
 [2026-11-05 03:32:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
 [2026-11-05 03:33:52 PM] [HEALTH_BOT] [SUCCESS] Published: SupplySide Global 2026: Nexira spotlights women’s health, sports performance & GLP-1 nutrition
 [2026-11-05 03:33:53 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1596 in / 393 out tokens
+[2026-11-05 03:33:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeca1e16bff4a6685ba1dc3a0826b4
+[2026-11-05 03:33:54 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists cracked open a dinosaur bone and found red blood
+[2026-11-05 03:33:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeca1e16bff4a6685ba1dc3a0826b4
+[2026-11-05 03:33:54 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Dinosaur Fossils Fetch Record Prices as Super-Rich Collectibles
+[2026-11-05 03:34:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 03:34:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 03:36:46 PM] [HISTORY_BOT] [SUCCESS] Published: Brukenthal Museum's dinosaur exhibits come to life thanks to AI technology
+[2026-11-05 03:36:47 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1595 in / 549 out tokens
