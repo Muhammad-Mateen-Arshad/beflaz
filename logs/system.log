@@ -22222,3 +22222,13 @@
 [2026-11-05 11:31:14 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
 [2026-11-05 11:32:10 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Cannes Lions Scholarship 2027: Fully Funded Program
 [2026-11-05 11:32:12 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 774 in / 515 out tokens
+[2026-11-05 11:32:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-05 11:32:13 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-05 11:32:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec693de4104e87ba496c7294a0eec
+[2026-11-05 11:32:13 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-05 11:32:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec693e77544e0b9226ed6f8a7a73a
+[2026-11-05 11:32:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-11-05 11:32:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec693e77544e0b9226ed6f8a7a73a
+[2026-11-05 11:32:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 10 daily habits linked to healthy aging, according to geriatricians
+[2026-11-05 11:32:49 AM] [HEALTH_BOT] [SUCCESS] Published: Shanthi Johnson receives national honour for advancing healthy aging
+[2026-11-05 11:32:50 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 969 in / 490 out tokens
