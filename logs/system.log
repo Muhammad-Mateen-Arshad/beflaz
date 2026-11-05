@@ -22232,3 +22232,7 @@
 [2026-11-05 11:32:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 10 daily habits linked to healthy aging, according to geriatricians
 [2026-11-05 11:32:49 AM] [HEALTH_BOT] [SUCCESS] Published: Shanthi Johnson receives national honour for advancing healthy aging
 [2026-11-05 11:32:50 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 969 in / 490 out tokens
+[2026-11-05 11:32:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec69627a1c4622828af4f14e86f68
+[2026-11-05 11:32:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Dinosaur Fossils Fetch Record Prices as Super-Rich Collectibles
+[2026-11-05 11:33:26 AM] [HISTORY_BOT] [SUCCESS] Published: The Lost Universe: Ancient Giant Amphibians ② Giant Labyrinthodonts
+[2026-11-05 11:33:27 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1497 in / 519 out tokens
