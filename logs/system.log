@@ -22403,3 +22403,6 @@
 [2026-11-05 07:34:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-05 07:34:42 PM] [DRAMAS_BOT] [SUCCESS] Published: Alejandro G. Iñárritu Officially Joins Season 12 of Mubi's Most Slept-On Series
 [2026-11-05 07:34:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1359 in / 507 out tokens
+[2026-11-05 07:34:44 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:35:26 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Global Scholarship Opportunities 2027: Guide and Deadlines
+[2026-11-05 07:35:27 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1609 in / 771 out tokens
