@@ -22196,3 +22196,6 @@
 [2026-11-05 07:36:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-05 07:37:07 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur Dimensions gets children roaring with prehistoric puppetry
 [2026-11-05 07:37:08 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 975 in / 492 out tokens
+[2026-11-05 11:30:27 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-05 11:30:27 AM] [NEWS_BOT] [SUCCESS] Published: FCC bars PHC from hearing cases related to PTI workers' preventive detention
+[2026-11-05 11:30:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1267 in / 597 out tokens
