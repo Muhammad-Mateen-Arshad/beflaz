@@ -22091,3 +22091,15 @@
 [2026-11-05 03:30:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-05 03:31:00 AM] [JOBS_BOT] [SUCCESS] Published: High Court Freedom of Political Communication Case Update
 [2026-11-05 03:31:01 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1814 in / 535 out tokens
+[2026-11-05 03:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebf876b0e44b9f8d88dbda783e817
+[2026-11-05 03:31:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-05 03:31:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebf876b0e44b9f8d88dbda783e817
+[2026-11-05 03:31:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-05 03:31:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebf876b0e44b9f8d88dbda783e817
+[2026-11-05 03:31:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-05 03:31:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebf877ed7a47cb98181b7bd3671f0
+[2026-11-05 03:31:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix's ‘Trinity' Sets Release Date, Drops Tense New Trailer
+[2026-11-05 03:31:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebf877ed7a47cb98181b7bd3671f0
+[2026-11-05 03:31:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 85/300 chars, resolved=True): ‘Mistletoe Murders’ Season 3: Release Date, Where to Watch & When It C
+[2026-11-05 03:31:40 AM] [DRAMAS_BOT] [SUCCESS] Published: Moviefone Counts Down Netflix's Top 10 Movies for the Week of Nov. 2nd.
+[2026-11-05 03:31:42 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1114 in / 616 out tokens
