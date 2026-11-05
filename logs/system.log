@@ -22158,3 +22158,20 @@
 [2026-11-05 07:34:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-05 07:35:06 AM] [JOBS_BOT] [SUCCESS] Published: US Defence Secretary Position and Senate Seat Updates
 [2026-11-05 07:35:07 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3393 in / 938 out tokens
+[2026-11-05 07:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec31ab48c648c68ef929f6f79ad86
+[2026-11-05 07:35:08 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-05 07:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec31ab48c648c68ef929f6f79ad86
+[2026-11-05 07:35:08 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-05 07:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec31ab48c648c68ef929f6f79ad86
+[2026-11-05 07:35:08 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-05 07:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec31ac410f48e3aae5f16c8fc53cc
+[2026-11-05 07:35:08 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix's ‘Trinity’ sets release date, drops tense new trailer
+[2026-11-05 07:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec31ac410f48e3aae5f16c8fc53cc
+[2026-11-05 07:35:08 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 143/300 chars, resolved=True): Netflix's thrilling new Bodyguard season 2 replacement series official
+[2026-11-05 07:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec31ac410f48e3aae5f16c8fc53cc
+[2026-11-05 07:35:08 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 134/300 chars, resolved=True): Icebreaker: Cast, plot and all we know so far about the Netflix colleg
+[2026-11-05 07:35:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec31ac687940d784d80ce9ba61d7e
+[2026-11-05 07:35:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
+[2026-11-05 07:35:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec31ac687940d784d80ce9ba61d7e
+[2026-11-05 07:35:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): MAke Drama: Mad Codes (November 2026)
+[2026-11-05 07:35:09 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
