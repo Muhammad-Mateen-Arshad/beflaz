@@ -22304,3 +22304,5 @@
 [2026-11-05 03:31:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeca16ae082413da6b78f77a32c3c4
 [2026-11-05 03:31:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-05 03:31:54 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-05 03:32:54 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Mobility is Freedom Fund PhD Scholar Program 2027
+[2026-11-05 03:32:55 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1322 in / 626 out tokens
