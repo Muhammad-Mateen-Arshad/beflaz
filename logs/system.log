@@ -22070,3 +22070,12 @@
 [2026-11-05 12:37:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-05 12:37:29 AM] [HEALTH_BOT] [SUCCESS] Published: Dropping dairy milk to go vegan is bad for you, study warns
 [2026-11-05 12:37:30 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1287 in / 546 out tokens
+[2026-11-05 12:37:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 12:37:44 AM] [HISTORY_BOT] [INFO] Rejected by quality gate (too short (111 words, need 150)): Dinosaur blood found in 115-million-year-old fossil: What do traces of
+[2026-11-05 12:37:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebcfca9c1e431b80d6a6a07288fc1
+[2026-11-05 12:37:44 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Echoes of Jurassic Park: Scientists found traces of blood inside a 115
+[2026-11-05 12:37:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebcfca9c1e431b80d6a6a07288fc1
+[2026-11-05 12:37:44 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Aussie-led team of scientists find possible red blood cells fossilised
+[2026-11-05 12:37:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 12:38:14 AM] [HISTORY_BOT] [SUCCESS] Published: A Brief Vacation in Thailand
+[2026-11-05 12:38:15 AM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 1642 in / 647 out tokens
