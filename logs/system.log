@@ -22239,3 +22239,12 @@
 [2026-11-05 11:41:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-05 11:41:32 AM] [NEWS_BOT] [SUCCESS] Published: PM directs cancellation of petrol pump licences over failure to facilitate fuel subsidy beneficiaries
 [2026-11-05 11:41:33 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 770 in / 538 out tokens
+[2026-11-05 11:41:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6b6dced14b31b24b18c1770ed66
+[2026-11-05 11:41:34 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan: World Media Summit discussed in Islamabad - 74786257
+[2026-11-05 11:41:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6b6dced14b31b24b18c1770ed66
+[2026-11-05 11:41:34 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): NAB, FIA summon Fazl's son over 'irregularities' in Pakistan Post jobs
+[2026-11-05 11:41:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6b6dced14b31b24b18c1770ed66
+[2026-11-05 11:41:34 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): High Court to hear Pauline’s racism challenge
+[2026-11-05 11:41:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 11:42:22 AM] [JOBS_BOT] [SUCCESS] Published: Pauline Hanson High Court Appeal Case Overview 2024
+[2026-11-05 11:42:23 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1376 in / 462 out tokens
