@@ -22368,3 +22368,12 @@
 [2026-11-05 07:17:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd63981a149eba74ee29ee723d28
 [2026-11-05 07:17:14 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 181/800 chars, resolved=True): Spare Walking Speed Shields Older Brains and Bodies from Dual-Task Int
 [2026-11-05 07:17:14 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-05 07:17:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd63a7822447aa0e3bedfd023216
+[2026-11-05 07:17:15 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Dinosaur blood discovered in 115-million-year-old fossil: scientists
+[2026-11-05 07:17:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd63a7822447aa0e3bedfd023216
+[2026-11-05 07:17:15 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists cracked open a dinosaur bone and found red blood
+[2026-11-05 07:17:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd63a7822447aa0e3bedfd023216
+[2026-11-05 07:17:15 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Dinosaur Fossils Fetch Record Prices as Super-Rich Collectibles
+[2026-11-05 07:17:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:17:40 PM] [HISTORY_BOT] [SUCCESS] Published: This Ancient ‘Hell Chicken’ Might Be the First Known Fruit-Loving Dinosaur, Revealing a Whole New Cretaceous Lifestyle
+[2026-11-05 07:17:41 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1408 in / 457 out tokens
