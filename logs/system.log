@@ -22335,3 +22335,20 @@
 [2026-11-05 07:14:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-05 07:16:03 PM] [JOBS_BOT] [SUCCESS] Published: Punjab Tourism Department Jobs 2026: Apply by Nov 20
 [2026-11-05 07:16:04 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1150 in / 647 out tokens
+[2026-11-05 07:16:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-05 07:16:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd5f7066641d088e773eadb852d8
+[2026-11-05 07:16:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-05 07:16:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd5f7066641d088e773eadb852d8
+[2026-11-05 07:16:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-05 07:16:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd5f7066641d088e773eadb852d8
+[2026-11-05 07:16:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-05 07:16:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd5f7fdf54cf1a5a3e29c287276a
+[2026-11-05 07:16:08 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix's ‘Trinity’ sets release date, drops tense new trailer
+[2026-11-05 07:16:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd5f7fdf54cf1a5a3e29c287276a
+[2026-11-05 07:16:08 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 131/300 chars, resolved=True): Netflix’s new political thriller from ‘Bodyguard’ creator gets release
+[2026-11-05 07:16:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd5f7fdf54cf1a5a3e29c287276a
+[2026-11-05 07:16:08 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 134/300 chars, resolved=True): Icebreaker: Cast, plot and all we know so far about the Netflix colleg
+[2026-11-05 07:16:09 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:16:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 07:16:45 PM] [DRAMAS_BOT] [SUCCESS] Published: What Time Does Netflix Release New Movies and TV Series?
+[2026-11-05 07:16:46 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 849 in / 442 out tokens
