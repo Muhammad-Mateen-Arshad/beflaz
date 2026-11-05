@@ -22381,3 +22381,8 @@
 [2026-11-05 07:31:18 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-05 07:32:08 PM] [NEWS_BOT] [SUCCESS] Published: Collision between passenger bus, truck near Pakpattan claims 11 lives
 [2026-11-05 07:32:10 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 856 in / 473 out tokens
+[2026-11-05 07:32:11 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:32:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 07:33:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-05 07:33:54 PM] [JOBS_BOT] [SUCCESS] Published: IMF and ADB Pakistan Job Creation and Skills Update
+[2026-11-05 07:33:56 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 955 in / 438 out tokens
