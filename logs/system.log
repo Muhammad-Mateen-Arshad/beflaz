@@ -22081,3 +22081,13 @@
 [2026-11-05 12:38:15 AM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 1642 in / 647 out tokens
 [2026-11-05 03:30:02 AM] [NEWS_BOT] [SUCCESS] Published: Riyadh rolls over $3bn as prospects of $10bn US facility wane
 [2026-11-05 03:30:03 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1605 in / 564 out tokens
+[2026-11-05 03:30:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebf83b23be48838c3d6a5da188a28
+[2026-11-05 03:30:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Haryana Bars Migrants From Pakistan & Tibetan Refugees From State Gove
+[2026-11-05 03:30:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebf83b23be48838c3d6a5da188a28
+[2026-11-05 03:30:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Following are the top foreign stories at 2000 hours
+[2026-11-05 03:30:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebf83b23be48838c3d6a5da188a28
+[2026-11-05 03:30:04 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): Shahzad Bhatti recruited Ghaziabad-based man to ferry explosives-laden
+[2026-11-05 03:30:05 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 03:30:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 03:31:00 AM] [JOBS_BOT] [SUCCESS] Published: High Court Freedom of Political Communication Case Update
+[2026-11-05 03:31:01 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1814 in / 535 out tokens
