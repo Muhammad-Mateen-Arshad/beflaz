@@ -22278,3 +22278,9 @@
 [2026-11-05 11:43:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6bca429d42d9a6f3107a0def43f
 [2026-11-05 11:43:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): 5 Best Workouts for Staying Strong After 50, According to a Trainer
 [2026-11-05 11:43:08 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-05 11:43:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6bccea5e442c96ce7549c683260
+[2026-11-05 11:43:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Dinosaur Fossils Fetch Record Prices as Super-Rich Collectibles
+[2026-11-05 11:43:12 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 11:43:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 11:44:42 AM] [HISTORY_BOT] [SUCCESS] Published: Ancient ape fossil in Egypt rewrites a chapter of evolution
+[2026-11-05 11:44:43 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 892 in / 414 out tokens
