@@ -22386,3 +22386,20 @@
 [2026-11-05 07:33:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-05 07:33:54 PM] [JOBS_BOT] [SUCCESS] Published: IMF and ADB Pakistan Job Creation and Skills Update
 [2026-11-05 07:33:56 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 955 in / 438 out tokens
+[2026-11-05 07:33:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-05 07:33:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecda2597da48f8be767e1d55a7e81
+[2026-11-05 07:33:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-05 07:33:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecda2597da48f8be767e1d55a7e81
+[2026-11-05 07:33:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-05 07:33:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecda2597da48f8be767e1d55a7e81
+[2026-11-05 07:33:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-05 07:33:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecda26cfcb4870a85aaf001996341
+[2026-11-05 07:33:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 131/300 chars, resolved=True): Netflix’s new political thriller from ‘Bodyguard’ creator gets release
+[2026-11-05 07:33:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecda26cfcb4870a85aaf001996341
+[2026-11-05 07:33:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 198/300 chars, resolved=True): The Hunting Wives season 2: Netflix sets November release date and ann
+[2026-11-05 07:33:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecda26cfcb4870a85aaf001996341
+[2026-11-05 07:33:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 134/300 chars, resolved=True): Icebreaker: Cast, plot and all we know so far about the Netflix colleg
+[2026-11-05 07:34:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:34:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 07:34:42 PM] [DRAMAS_BOT] [SUCCESS] Published: Alejandro G. Iñárritu Officially Joins Season 12 of Mubi's Most Slept-On Series
+[2026-11-05 07:34:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1359 in / 507 out tokens
