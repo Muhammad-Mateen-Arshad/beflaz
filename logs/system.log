@@ -22037,3 +22037,12 @@
 [2026-11-05 12:34:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-05 12:35:29 AM] [NEWS_BOT] [SUCCESS] Published: Govt says Islamabad's One Constitution Avenue to be turned into a five-star hotel
 [2026-11-05 12:35:30 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1497 in / 540 out tokens
+[2026-11-05 12:35:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebcf52967545499a34e4ff90b2a94
+[2026-11-05 12:35:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Haryana Bars Migrants From Pakistan & Tibetan Refugees From State Gove
+[2026-11-05 12:35:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebcf52967545499a34e4ff90b2a94
+[2026-11-05 12:35:31 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Pakistan puts state giants on the auction block
+[2026-11-05 12:35:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebcf52967545499a34e4ff90b2a94
+[2026-11-05 12:35:31 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): FCC rules acquittal no bar to government jobs
+[2026-11-05 12:35:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 12:35:54 AM] [JOBS_BOT] [SUCCESS] Published: Punjab Government Job and Compensation Agreement Details
+[2026-11-05 12:35:55 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1334 in / 569 out tokens
