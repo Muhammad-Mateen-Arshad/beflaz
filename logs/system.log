@@ -22199,3 +22199,8 @@
 [2026-11-05 11:30:27 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-05 11:30:27 AM] [NEWS_BOT] [SUCCESS] Published: FCC bars PHC from hearing cases related to PTI workers' preventive detention
 [2026-11-05 11:30:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1267 in / 597 out tokens
+[2026-11-05 11:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec68d564a644198a0fd5d2c60638b
+[2026-11-05 11:30:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): NAB, FIA summon Fazl's son over 'irregularities' in Pakistan Post jobs
+[2026-11-05 11:30:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 11:31:09 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Labour Force Protection and Rights Overview
+[2026-11-05 11:31:10 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1642 in / 659 out tokens
