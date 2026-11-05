@@ -22355,3 +22355,16 @@
 [2026-11-05 07:16:49 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-05 07:17:09 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: KFUPM Fully Funded PhD Scholarships: Fall 2027
 [2026-11-05 07:17:10 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1490 in / 629 out tokens
+[2026-11-05 07:17:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-05 07:17:12 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-05 07:17:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd638f4ec485f8e65c2b668571e9
+[2026-11-05 07:17:12 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 156/800 chars, resolved=True): Why Employee Wellness is Mission Critical for Public Safety Agencies
+[2026-11-05 07:17:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd63981a149eba74ee29ee723d28
+[2026-11-05 07:17:13 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-11-05 07:17:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd63981a149eba74ee29ee723d28
+[2026-11-05 07:17:13 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Secret to Aging Well Might Be Your Friends
+[2026-11-05 07:17:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd63981a149eba74ee29ee723d28
+[2026-11-05 07:17:13 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-05 07:17:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecd63981a149eba74ee29ee723d28
+[2026-11-05 07:17:14 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 181/800 chars, resolved=True): Spare Walking Speed Shields Older Brains and Bodies from Dual-Task Int
+[2026-11-05 07:17:14 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
