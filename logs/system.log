@@ -22266,3 +22266,15 @@
 [2026-11-05 11:42:26 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
 [2026-11-05 11:43:03 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pennsylvania School Funding and Tax Credit Scholarship Updates
 [2026-11-05 11:43:04 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1279 in / 415 out tokens
+[2026-11-05 11:43:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-05 11:43:05 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-05 11:43:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6bcad9164052b0895433b0a57b2
+[2026-11-05 11:43:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-05 11:43:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6bca429d42d9a6f3107a0def43f
+[2026-11-05 11:43:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 6 exercises physical therapists recommend for healthy aging
+[2026-11-05 11:43:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6bca429d42d9a6f3107a0def43f
+[2026-11-05 11:43:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): 10 daily habits linked to healthy aging, according to geriatricians
+[2026-11-05 11:43:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 249/800 chars, resolved=True): Penghu Hospital opens fitness center for older adults and people with 
+[2026-11-05 11:43:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6bca429d42d9a6f3107a0def43f
+[2026-11-05 11:43:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): 5 Best Workouts for Staying Strong After 50, According to a Trainer
+[2026-11-05 11:43:08 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
