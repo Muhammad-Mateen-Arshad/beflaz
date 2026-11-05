@@ -22412,3 +22412,15 @@
 [2026-11-05 07:35:31 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-05 07:36:03 PM] [HEALTH_BOT] [SUCCESS] Published: Target leans into a growing food trend for the holidays
 [2026-11-05 07:36:04 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1596 in / 568 out tokens
+[2026-11-05 07:36:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecdaa497574e95948e594bc65ba52
+[2026-11-05 07:36:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Dinosaur blood discovered in 115-million-year-old fossil: scientists
+[2026-11-05 07:36:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecdaa497574e95948e594bc65ba52
+[2026-11-05 07:36:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists cracked open a dinosaur bone and found red blood
+[2026-11-05 07:36:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecdaa497574e95948e594bc65ba52
+[2026-11-05 07:36:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Dinosaur Fossils Fetch Record Prices as Super-Rich Collectibles
+[2026-11-05 07:36:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecdaa497574e95948e594bc65ba52
+[2026-11-05 07:36:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Rare Montana-found dino fossil takes $47.3 million at auction
+[2026-11-05 07:36:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:36:09 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-05 07:36:48 PM] [HISTORY_BOT] [SUCCESS] Published: Starting a Brand New Chapter: Bookelicious Pilot Helps CPA, FOSA Parents Rebuild Bonds at Home
+[2026-11-05 07:36:49 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1545 in / 391 out tokens
