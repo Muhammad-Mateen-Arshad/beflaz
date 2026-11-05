@@ -22103,3 +22103,7 @@
 [2026-11-05 03:31:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 85/300 chars, resolved=True): ‘Mistletoe Murders’ Season 3: Release Date, Where to Watch & When It C
 [2026-11-05 03:31:40 AM] [DRAMAS_BOT] [SUCCESS] Published: Moviefone Counts Down Netflix's Top 10 Movies for the Week of Nov. 2nd.
 [2026-11-05 03:31:42 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1114 in / 616 out tokens
+[2026-11-05 03:31:44 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 03:31:46 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-05 03:32:13 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Chicago District Graduates Scholarships Overview
+[2026-11-05 03:32:14 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1807 in / 392 out tokens
