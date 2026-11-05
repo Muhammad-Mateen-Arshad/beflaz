@@ -22264,3 +22264,5 @@
 [2026-11-05 11:42:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6ba2565a4c29b263f7c2af7543f
 [2026-11-05 11:42:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-05 11:42:26 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-05 11:43:03 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pennsylvania School Funding and Tax Credit Scholarship Updates
+[2026-11-05 11:43:04 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1279 in / 415 out tokens
