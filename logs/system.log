@@ -22323,3 +22323,15 @@
 [2026-11-05 07:08:48 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-05 07:09:29 PM] [NEWS_BOT] [SUCCESS] Published: Petrol price slashed by Rs9.41 per litre, high-speed diesel by Rs5.56
 [2026-11-05 07:09:30 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1025 in / 547 out tokens
+[2026-11-05 07:09:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 07:10:04 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:10:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-05 07:10:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-05 07:11:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-05 07:12:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-05 07:12:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-05 07:13:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-05 07:14:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-05 07:14:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-05 07:16:03 PM] [JOBS_BOT] [SUCCESS] Published: Punjab Tourism Department Jobs 2026: Apply by Nov 20
+[2026-11-05 07:16:04 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1150 in / 647 out tokens
