@@ -22065,3 +22065,8 @@
 [2026-11-05 12:36:35 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-05 12:37:04 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Medieval Arabic Manuscripts Research Study Overview
 [2026-11-05 12:37:05 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1618 in / 602 out tokens
+[2026-11-05 12:37:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-05 12:37:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-05 12:37:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 12:37:29 AM] [HEALTH_BOT] [SUCCESS] Published: Dropping dairy milk to go vegan is bad for you, study warns
+[2026-11-05 12:37:30 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1287 in / 546 out tokens
