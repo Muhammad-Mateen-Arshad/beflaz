@@ -22248,3 +22248,19 @@
 [2026-11-05 11:41:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-05 11:42:22 AM] [JOBS_BOT] [SUCCESS] Published: Pauline Hanson High Court Appeal Case Overview 2024
 [2026-11-05 11:42:23 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1376 in / 462 out tokens
+[2026-11-05 11:42:24 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-05 11:42:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6ba095ed45bb8cdb7fdb414699d
+[2026-11-05 11:42:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-05 11:42:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6ba095ed45bb8cdb7fdb414699d
+[2026-11-05 11:42:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-05 11:42:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6ba095ed45bb8cdb7fdb414699d
+[2026-11-05 11:42:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-05 11:42:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6ba1a7d74494963b9b711ac25c3
+[2026-11-05 11:42:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix's ‘Trinity’ sets release date, drops tense new trailer
+[2026-11-05 11:42:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6ba1a7d74494963b9b711ac25c3
+[2026-11-05 11:42:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 143/300 chars, resolved=True): Netflix's thrilling new Bodyguard season 2 replacement series official
+[2026-11-05 11:42:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6ba1a7d74494963b9b711ac25c3
+[2026-11-05 11:42:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 134/300 chars, resolved=True): Icebreaker: Cast, plot and all we know so far about the Netflix colleg
+[2026-11-05 11:42:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec6ba2565a4c29b263f7c2af7543f
+[2026-11-05 11:42:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
+[2026-11-05 11:42:26 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
