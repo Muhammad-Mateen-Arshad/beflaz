@@ -22377,3 +22377,7 @@
 [2026-11-05 07:17:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-05 07:17:40 PM] [HISTORY_BOT] [SUCCESS] Published: This Ancient ‘Hell Chicken’ Might Be the First Known Fruit-Loving Dinosaur, Revealing a Whole New Cretaceous Lifestyle
 [2026-11-05 07:17:41 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1408 in / 457 out tokens
+[2026-11-05 07:31:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 07:31:18 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:32:08 PM] [NEWS_BOT] [SUCCESS] Published: Collision between passenger bus, truck near Pakpattan claims 11 lives
+[2026-11-05 07:32:10 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 856 in / 473 out tokens
