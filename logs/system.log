@@ -22464,3 +22464,10 @@
 [2026-11-05 11:32:40 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-05 11:33:04 PM] [HEALTH_BOT] [SUCCESS] Published: Two ‘forever chemicals’ associated with higher risk of aggressive breast cancer in NIH analysis
 [2026-11-05 11:33:04 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1464 in / 580 out tokens
+[2026-11-05 11:33:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed12315902495897ac38f0b73e7a4
+[2026-11-05 11:33:05 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Dinosaur blood discovered in 115-million-year-old fossil: scientists
+[2026-11-05 11:33:06 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 11:33:08 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-05 11:33:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-05 11:34:01 PM] [HISTORY_BOT] [SUCCESS] Published: Scientists Find Traces of Dinosaur Blood in 115-Million-Year-Old Fossil
+[2026-11-05 11:34:02 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1103 in / 493 out tokens
