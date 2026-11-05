@@ -22128,3 +22128,12 @@
 [2026-11-05 03:32:23 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-05 03:32:52 AM] [HISTORY_BOT] [SUCCESS] Published: 115-million-year-old dinosaur fossil uncovers oldest confirmed evidence of blood
 [2026-11-05 03:32:53 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 629 in / 448 out tokens
+[2026-11-05 07:29:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 07:29:43 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 07:29:53 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:30:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-05 07:30:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-05 07:30:53 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-05 07:31:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-05 07:31:53 AM] [NEWS_BOT] [SUCCESS] Published: At least one killed after shop roof collapses on Karachi’s Manghopir Road: rescue services
+[2026-11-05 07:31:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 659 in / 440 out tokens
