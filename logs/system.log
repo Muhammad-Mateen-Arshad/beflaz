@@ -22137,3 +22137,24 @@
 [2026-11-05 07:31:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-05 07:31:53 AM] [NEWS_BOT] [SUCCESS] Published: At least one killed after shop roof collapses on Karachi’s Manghopir Road: rescue services
 [2026-11-05 07:31:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 659 in / 440 out tokens
+[2026-11-05 07:31:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec30ebce794638a65a9dcf0898338
+[2026-11-05 07:31:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Haryana Bars Migrants From Pakistan & Tibetan Refugees From State Gove
+[2026-11-05 07:31:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec30ebce794638a65a9dcf0898338
+[2026-11-05 07:31:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): NAB, FIA summon Fazl's son over 'irregularities' in Pakistan Post jobs
+[2026-11-05 07:31:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec30ebce794638a65a9dcf0898338
+[2026-11-05 07:31:56 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): A Growing Disinterest in Education
+[2026-11-05 07:31:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-05 07:32:00 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-05 07:32:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-05 07:32:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-05 07:33:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-05 07:33:57 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Jhota murder: Punjab agrees to Rs 2 crore compensation, job for slain 
+[2026-11-05 07:33:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-05 07:33:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 271/400 chars, resolved=True): Opposition parties move to forge united front, weigh joint strategy
+[2026-11-05 07:33:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec31663a9d43f19b554e95406ca50
+[2026-11-05 07:33:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Cabinet extends Agniveer service by 2 years, clears regular armed forc
+[2026-11-05 07:34:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-05 07:34:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-05 07:34:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-05 07:35:06 AM] [JOBS_BOT] [SUCCESS] Published: US Defence Secretary Position and Senate Seat Updates
+[2026-11-05 07:35:07 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3393 in / 938 out tokens
