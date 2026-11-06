@@ -22701,3 +22701,6 @@
 [2026-11-06 11:41:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbcd768e2433d9a45960054e63a1
 [2026-11-06 11:41:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 68/300 chars, resolved=True): Is ‘Godzilla Minus Zero’ Streaming on Netflix or Amazon Prime? Where t
 [2026-11-06 11:41:12 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-11-06 11:41:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-06 11:41:50 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: CHOGM 2026 Tourism Cooperation and Opportunities
+[2026-11-06 11:41:51 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1553 in / 509 out tokens
