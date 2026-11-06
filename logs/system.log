@@ -22905,3 +22905,7 @@
 [2026-11-06 11:51:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6815f25149dd9667eefaac68fc3
 [2026-11-06 11:51:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-06 11:51:49 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
+[2026-11-06 11:51:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 11:52:05 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 500000): His Grandparents Fully Funded His College—Then His Dad Demanded He Spl
+[2026-11-06 11:52:21 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC MBBS and BDS Admissions 2026-27: Revised Procedure
+[2026-11-06 11:52:22 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2757 in / 1069 out tokens
