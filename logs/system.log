@@ -22671,3 +22671,17 @@
 [2026-11-06 11:32:09 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1432 in / 498 out tokens
 [2026-11-06 11:40:03 AM] [NEWS_BOT] [SUCCESS] Published: Maliha Ali takes bronze at MMA worlds as Pakistan appeals semi-final decision
 [2026-11-06 11:40:04 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1025 in / 581 out tokens
+[2026-11-06 11:40:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbc94e08241d48fa9d9160543910
+[2026-11-06 11:40:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Where Abdul El Sayed should start his fight on genocide
+[2026-11-06 11:40:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbc94e08241d48fa9d9160543910
+[2026-11-06 11:40:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Gujarat govt hands appointment letters to 113 new officers on Dhantera
+[2026-11-06 11:40:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-06 11:40:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 292/400 chars, resolved=True): IHC moved against Islamabad LG poll schedule over disputed constituenc
+[2026-11-06 11:40:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbc96b3954673beda99030408e8a
+[2026-11-06 11:40:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): BLA ousts Dhurandhar who rattled Pakistan. Female fighters of Majeed B
+[2026-11-06 11:40:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbc960b544a3f8eef506a0cb200d
+[2026-11-06 11:40:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 5, 2026
+[2026-11-06 11:40:26 AM] [JOBS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 1000000): Pakistan Wants One Million AI Professionals by 2030, and Russia Is Par
+[2026-11-06 11:40:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-06 11:41:08 AM] [JOBS_BOT] [SUCCESS] Published: Germany Skilled Worker Jobs for Pakistani Professionals
+[2026-11-06 11:41:09 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2494 in / 1084 out tokens
