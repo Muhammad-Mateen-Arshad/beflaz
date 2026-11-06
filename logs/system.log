@@ -22920,3 +22920,14 @@
 [2026-11-06 11:52:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee68376cee48e6be1df8ffe4d6f9d
 [2026-11-06 11:52:24 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 144/800 chars, resolved=True): Daily Habits After 60 That Support Brain Health and Longevity
 [2026-11-06 11:52:24 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-06 11:52:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6838149544d0b4ba30977dec123
+[2026-11-06 11:52:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-06 11:52:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee683941624f9a92f898a999134ae
+[2026-11-06 11:52:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-06 11:52:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee683941624f9a92f898a999134ae
+[2026-11-06 11:52:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 91/400 chars, resolved=True): China is planning to send AI and deep-sea robots on a hunt for its anc
+[2026-11-06 11:52:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee683941624f9a92f898a999134ae
+[2026-11-06 11:52:25 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): The real history behind 10 famous ancient events
+[2026-11-06 11:52:27 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 11:52:42 PM] [HISTORY_BOT] [SUCCESS] Published: Scientists cracked open a dinosaur bone and found red blood
+[2026-11-06 11:52:43 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1248 in / 484 out tokens
