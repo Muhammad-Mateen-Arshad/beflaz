@@ -22810,3 +22810,15 @@
 [2026-11-06 07:31:23 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): BLA ousts Dhurandhar who rattled Pakistan. Female fighters of Majeed B
 [2026-11-06 07:31:23 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1579 in / 744 out tokens
 [2026-11-06 07:31:23 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 3, 'tried': 8, 'thin': 6, 'rejected': 2}
+[2026-11-06 07:31:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2b0c47c647cb9f5f18d5d3efa96
+[2026-11-06 07:31:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-06 07:31:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2b0c47c647cb9f5f18d5d3efa96
+[2026-11-06 07:31:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-06 07:31:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2b0c47c647cb9f5f18d5d3efa96
+[2026-11-06 07:31:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-06 07:31:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2b0c47c647cb9f5f18d5d3efa96
+[2026-11-06 07:31:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Cemile and Little Osman reunited after years! Their latest appearance 
+[2026-11-06 07:31:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2b0ddbe7497cb273c5d857b59e0
+[2026-11-06 07:31:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): New Friday OTT releases (November 6, 2026): 8 new movies, shows to wat
+[2026-11-06 07:32:03 PM] [DRAMAS_BOT] [SUCCESS] Published: Live-Action Stranger Things Prequel Gets First Teaser Trailer, 2028 Netflix Release Window
+[2026-11-06 07:32:04 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1633 in / 465 out tokens
