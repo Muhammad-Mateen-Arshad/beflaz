@@ -22583,3 +22583,20 @@
 [2026-11-06 07:29:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-06 07:30:18 AM] [JOBS_BOT] [SUCCESS] Published: Sri Lanka Workplace Rights and Harassment Rules Guide
 [2026-11-06 07:30:19 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1740 in / 498 out tokens
+[2026-11-06 07:30:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed820c0f4f40ea8576ad7c2be49ec
+[2026-11-06 07:30:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-06 07:30:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed820c0f4f40ea8576ad7c2be49ec
+[2026-11-06 07:30:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-06 07:30:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed820c0f4f40ea8576ad7c2be49ec
+[2026-11-06 07:30:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-06 07:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed820cb47f4115bccf0e45424b754
+[2026-11-06 07:30:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 131/300 chars, resolved=True): Netflix’s New Political Thriller From ‘Bodyguard’ Creator Gets Release
+[2026-11-06 07:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed820cb47f4115bccf0e45424b754
+[2026-11-06 07:30:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): New Friday OTT releases (November 6, 2026): 8 new movies, shows to wat
+[2026-11-06 07:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed820cb47f4115bccf0e45424b754
+[2026-11-06 07:30:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 142/300 chars, resolved=True): KPop Demon Hunters Officially Returns With New 6-Episode Series On Net
+[2026-11-06 07:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed820cb47f4115bccf0e45424b754
+[2026-11-06 07:30:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): New OTT releases to watch this weekend: 14 new movies & shows on Netfl
+[2026-11-06 07:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed820de1aa4cfd8949a96fd9eff9e
+[2026-11-06 07:30:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
+[2026-11-06 07:30:21 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
