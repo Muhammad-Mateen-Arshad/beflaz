@@ -22623,3 +22623,5 @@
 [2026-11-06 07:32:06 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 91/400 chars, resolved=True): China is planning to send AI and deep-sea robots on a hunt for its anc
 [2026-11-06 07:32:25 AM] [HISTORY_BOT] [SUCCESS] Published: Who Discovered Gold, and When? How Ancient Humans Turned the Precious Metal Into Jewellery and Wealth
 [2026-11-06 07:32:26 AM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 2256 in / 711 out tokens
+[2026-11-06 11:30:05 AM] [NEWS_BOT] [SUCCESS] Published: Saudi Arabia denies WSJ report claiming Houthis demanded $51bn to halt hostilities
+[2026-11-06 11:30:06 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 732 in / 445 out tokens
