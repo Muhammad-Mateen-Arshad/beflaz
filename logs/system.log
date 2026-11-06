@@ -22726,3 +22726,11 @@
 [2026-11-06 03:32:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-06 03:33:32 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Digital Authority Jobs: 15 Vacancies Open
 [2026-11-06 03:33:33 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1147 in / 550 out tokens
+[2026-11-06 03:33:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedf34dba534831aa62bed4ff19368
+[2026-11-06 03:33:34 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-06 03:33:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedf34dba534831aa62bed4ff19368
+[2026-11-06 03:33:34 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-06 03:33:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedf34dba534831aa62bed4ff19368
+[2026-11-06 03:33:34 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-06 03:34:04 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Other Worlds: A Stranger Things Adventure’: Live-Action Prequel Series Set for Netflix in 2028
+[2026-11-06 03:34:04 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1706 in / 526 out tokens
