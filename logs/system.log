@@ -22655,3 +22655,5 @@
 [2026-11-06 11:30:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba65b0d34464ac126cf0d8033a8
 [2026-11-06 11:30:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-06 11:30:45 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-06 11:31:18 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Max Planck IMPRS 2027 PhD Recruitment in Germany
+[2026-11-06 11:31:18 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1458 in / 583 out tokens
