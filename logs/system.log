@@ -22750,3 +22750,10 @@
 [2026-11-06 03:34:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedf39296824b209bbdd9452fe22ad
 [2026-11-06 03:34:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): Structured Home Exercise Delivers Equal Fitness Gains Across Diverse M
 [2026-11-06 03:34:43 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-06 03:34:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedf394cd934e6ea4ed01f4ab4d6a6
+[2026-11-06 03:34:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Dinosaur blood discovered in 115-million-year-old fossil: scientists
+[2026-11-06 03:34:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedf394cd934e6ea4ed01f4ab4d6a6
+[2026-11-06 03:34:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-06 03:34:45 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 03:35:21 PM] [HISTORY_BOT] [SUCCESS] Published: Scientists just found dinosaur blood that survived 115 million years
+[2026-11-06 03:35:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1350 in / 503 out tokens
