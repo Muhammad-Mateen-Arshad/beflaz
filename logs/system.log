@@ -22657,3 +22657,7 @@
 [2026-11-06 11:30:45 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
 [2026-11-06 11:31:18 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Max Planck IMPRS 2027 PhD Recruitment in Germany
 [2026-11-06 11:31:18 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1458 in / 583 out tokens
+[2026-11-06 11:31:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-06 11:31:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-06 11:31:49 AM] [HEALTH_BOT] [SUCCESS] Published: What the “Ferritin Face” Trend Says About the Future of Beauty
+[2026-11-06 11:31:49 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1569 in / 525 out tokens
