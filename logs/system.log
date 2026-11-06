@@ -22723,3 +22723,6 @@
 [2026-11-06 03:31:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-06 03:32:32 PM] [NEWS_BOT] [SUCCESS] Published: Bilawal urges federal govt to engage all political forces instead of ‘fighting everyone’
 [2026-11-06 03:32:33 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 993 in / 416 out tokens
+[2026-11-06 03:32:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-06 03:33:32 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Digital Authority Jobs: 15 Vacancies Open
+[2026-11-06 03:33:33 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1147 in / 550 out tokens
