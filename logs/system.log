@@ -22565,3 +22565,8 @@
 [2026-11-06 03:31:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-06 03:32:11 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Russian Open Doors Scholarship Support Overview
 [2026-11-06 03:32:11 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 593 in / 365 out tokens
+[2026-11-06 03:32:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-06 03:32:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-06 03:32:14 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 03:32:37 AM] [HEALTH_BOT] [SUCCESS] Published: Can eating peanuts daily help protect your brain function?
+[2026-11-06 03:32:38 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 631 in / 534 out tokens
