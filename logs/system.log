@@ -22840,3 +22840,9 @@
 [2026-11-06 07:32:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2b5347114d91aaebdd0eea13a67
 [2026-11-06 07:32:37 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Secret to Aging Well Might Be Your Friends
 [2026-11-06 07:32:37 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-06 07:32:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2b55e85a43d59446a3ab40dd382
+[2026-11-06 07:32:37 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-06 07:32:38 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 07:32:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-06 07:33:16 PM] [HISTORY_BOT] [SUCCESS] Published: Fossil Footprints in Brazil Hint at a Cougar-Size Mammal That Walked Among Dinosaurs. It’s Another Sign That Some Early Beasts Grew to Impressive Sizes After All
+[2026-11-06 07:33:17 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1622 in / 518 out tokens
