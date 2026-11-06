@@ -22822,3 +22822,6 @@
 [2026-11-06 07:31:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): New Friday OTT releases (November 6, 2026): 8 new movies, shows to wat
 [2026-11-06 07:32:03 PM] [DRAMAS_BOT] [SUCCESS] Published: Live-Action Stranger Things Prequel Gets First Teaser Trailer, 2028 Netflix Release Window
 [2026-11-06 07:32:04 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1633 in / 465 out tokens
+[2026-11-06 07:32:06 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 07:32:32 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Queen's University AI Master's and PhD Scholarships 2026
+[2026-11-06 07:32:33 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1556 in / 708 out tokens
