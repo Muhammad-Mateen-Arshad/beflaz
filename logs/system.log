@@ -22890,3 +22890,18 @@
 [2026-11-06 11:51:26 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-06 11:51:45 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan UK Training and Institutional Capacity Update
 [2026-11-06 11:51:46 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1018 in / 448 out tokens
+[2026-11-06 11:51:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6812ec5e4058a3cd5f3398cc947
+[2026-11-06 11:51:47 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-06 11:51:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6812ec5e4058a3cd5f3398cc947
+[2026-11-06 11:51:47 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-06 11:51:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6812ec5e4058a3cd5f3398cc947
+[2026-11-06 11:51:47 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-06 11:51:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6812ec5e4058a3cd5f3398cc947
+[2026-11-06 11:51:48 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Cemile and Little Osman reunited after years! Their latest appearance 
+[2026-11-06 11:51:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6814ff8f454897837f412620150
+[2026-11-06 11:51:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): New Friday OTT releases (November 6, 2026): 8 new movies, shows to wat
+[2026-11-06 11:51:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6814ff8f454897837f412620150
+[2026-11-06 11:51:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 125/300 chars, resolved=True): 'Stranger Things' goes back to the 1950s in new spinoff. What to know
+[2026-11-06 11:51:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6815f25149dd9667eefaac68fc3
+[2026-11-06 11:51:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
+[2026-11-06 11:51:49 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
