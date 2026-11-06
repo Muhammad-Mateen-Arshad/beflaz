@@ -22625,3 +22625,16 @@
 [2026-11-06 07:32:26 AM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 2256 in / 711 out tokens
 [2026-11-06 11:30:05 AM] [NEWS_BOT] [SUCCESS] Published: Saudi Arabia denies WSJ report claiming Houthis demanded $51bn to halt hostilities
 [2026-11-06 11:30:06 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 732 in / 445 out tokens
+[2026-11-06 11:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba3f313d48b38300cd1524299d9
+[2026-11-06 11:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Gujarat govt hands appointment letters to 113 new officers on Dhantera
+[2026-11-06 11:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba3f313d48b38300cd1524299d9
+[2026-11-06 11:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Just like Gaza: POK boils over as Pakistani drone strikes kill 7
+[2026-11-06 11:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba3f313d48b38300cd1524299d9
+[2026-11-06 11:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): BLA ousts Dhurandhar who rattled Pakistan. Female fighters of Majeed B
+[2026-11-06 11:30:08 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-06 11:30:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 292/400 chars, resolved=True): IHC moved against Islamabad LG poll schedule over disputed constituenc
+[2026-11-06 11:30:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba41fd7c4b93a46ef2153612a5c
+[2026-11-06 11:30:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): BLA ousts Dhurandhar who rattled Pakistan. Female fighters of Majeed B
+[2026-11-06 11:30:22 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Iran's civil defense chief calls for comprehensive economic crisis pla
+[2026-11-06 11:30:42 AM] [JOBS_BOT] [SUCCESS] Published: Iran-US Conflict News and Regional Security Updates
+[2026-11-06 11:30:43 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1329 in / 842 out tokens
