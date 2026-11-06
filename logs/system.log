@@ -22787,3 +22787,8 @@
 [2026-11-06 06:38:05 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Chewing loudly often points to hidden dental problems in older adults
 [2026-11-06 06:38:26 PM] [HEALTH_BOT] [SUCCESS] Published: This weightlifting technique can help older adults stay fit and independent as they age
 [2026-11-06 06:38:26 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1641 in / 515 out tokens
+[2026-11-06 06:38:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee1ea355bb4665bf406172045b782
+[2026-11-06 06:38:27 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-06 06:38:28 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 06:39:02 PM] [HISTORY_BOT] [SUCCESS] Published: The Dinosaur Auction Freaking Scientists Out
+[2026-11-06 06:39:03 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1590 in / 559 out tokens
