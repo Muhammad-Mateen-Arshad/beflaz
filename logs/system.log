@@ -22709,3 +22709,13 @@
 [2026-11-06 11:42:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-06 11:42:33 AM] [HEALTH_BOT] [SUCCESS] Published: Estrogen May Play an Important Role in Long-Term Brain Health
 [2026-11-06 11:42:34 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1587 in / 532 out tokens
+[2026-11-06 11:42:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbd2a0e25457d9ca4fac39a6c98b
+[2026-11-06 11:42:34 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Dinosaur blood discovered in 115-million-year-old fossil: scientists
+[2026-11-06 11:42:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbd2a0e25457d9ca4fac39a6c98b
+[2026-11-06 11:42:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists cracked open a dinosaur bone and found red blood
+[2026-11-06 11:42:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbd2be6e3491ea7006967df77280
+[2026-11-06 11:42:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-06 11:42:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbd2be6e3491ea7006967df77280
+[2026-11-06 11:42:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 91/400 chars, resolved=True): China is planning to send AI and deep-sea robots on a hunt for its anc
+[2026-11-06 11:43:01 AM] [HISTORY_BOT] [SUCCESS] Published: Etruscan Tombs Reveal Rock-Carved Thrones, Painted Walls, and Decorated Pottery
+[2026-11-06 11:43:02 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1376 in / 541 out tokens
