@@ -22638,3 +22638,20 @@
 [2026-11-06 11:30:22 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Iran's civil defense chief calls for comprehensive economic crisis pla
 [2026-11-06 11:30:42 AM] [JOBS_BOT] [SUCCESS] Published: Iran-US Conflict News and Regional Security Updates
 [2026-11-06 11:30:43 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1329 in / 842 out tokens
+[2026-11-06 11:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba64dd8345158e1a530d0a22863
+[2026-11-06 11:30:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-06 11:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba64dd8345158e1a530d0a22863
+[2026-11-06 11:30:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-06 11:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba64dd8345158e1a530d0a22863
+[2026-11-06 11:30:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-06 11:30:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba641dd14e61bad7465b5d9a46d
+[2026-11-06 11:30:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 131/300 chars, resolved=True): Netflix’s New Political Thriller From ‘Bodyguard’ Creator Gets Release
+[2026-11-06 11:30:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba641dd14e61bad7465b5d9a46d
+[2026-11-06 11:30:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): New Friday OTT releases (November 6, 2026): 8 new movies, shows to wat
+[2026-11-06 11:30:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba641dd14e61bad7465b5d9a46d
+[2026-11-06 11:30:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 142/300 chars, resolved=True): KPop Demon Hunters Officially Returns With New 6-Episode Series On Net
+[2026-11-06 11:30:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba641dd14e61bad7465b5d9a46d
+[2026-11-06 11:30:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 68/300 chars, resolved=True): Is ‘Godzilla Minus Zero’ Streaming on Netflix or Amazon Prime? Where t
+[2026-11-06 11:30:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedba65b0d34464ac126cf0d8033a8
+[2026-11-06 11:30:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
+[2026-11-06 11:30:45 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
