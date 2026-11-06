@@ -22526,3 +22526,22 @@
 [2026-11-06 12:39:34 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1509 in / 599 out tokens
 [2026-11-06 03:29:50 AM] [NEWS_BOT] [SUCCESS] Published: Country’s external debt nearly doubles in a decade
 [2026-11-06 03:29:51 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1797 in / 601 out tokens
+[2026-11-06 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed49afa27146dabed67d15b44b05b
+[2026-11-06 03:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan: World Media Summit discussed in Islamabad - 74786257
+[2026-11-06 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed49afa27146dabed67d15b44b05b
+[2026-11-06 03:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 134/400 chars, resolved=True): After outcry, US grounds flight that would have sent Afghans to the Ta
+[2026-11-06 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed49b0aba746489dead60bf9f5732
+[2026-11-06 03:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 5, 2026
+[2026-11-06 03:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 292/400 chars, resolved=True): IHC moved against Islamabad LG poll schedule over disputed constituenc
+[2026-11-06 03:29:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed49b17bdc4766b317bcf1442815c
+[2026-11-06 03:29:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): Pakistan’s first Marble City to be set up in Karachi, says Sharjeel
+[2026-11-06 03:30:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-06 03:30:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-06 03:30:31 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 03:30:52 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): #ISRAELIRANWAR. Trump is regrouping: he hasn’t made a decision on Iran
+[2026-11-06 03:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed49b17bdc4766b317bcf1442815c
+[2026-11-06 03:30:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 134/400 chars, resolved=True): After outcry, US grounds flight that would have sent Afghans to the Ta
+[2026-11-06 03:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed49ec2f5b4b278659b915e02b896
+[2026-11-06 03:30:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 5, 2026
+[2026-11-06 03:30:53 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1767 in / 371 out tokens
+[2026-11-06 03:30:53 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 7, 'rejected': 1}
