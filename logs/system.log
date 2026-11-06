@@ -22609,3 +22609,17 @@
 [2026-11-06 07:31:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-06 07:31:37 AM] [HEALTH_BOT] [SUCCESS] Published: Thinking About Taking More Creatine? Safety Experts Say Your Current Dose Is Likely Fine
 [2026-11-06 07:31:38 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 956 in / 481 out tokens
+[2026-11-06 07:31:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed825a78ce4d69a7e25ba8f2abf8b
+[2026-11-06 07:31:39 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Dinosaur blood discovered in 115-million-year-old fossil: scientists
+[2026-11-06 07:31:40 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 07:31:44 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-06 07:31:54 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-06 07:32:05 AM] [HISTORY_BOT] [INFO] Rejected by quality gate (too short (128 words, need 150)): Scientists examining dinosaur fossils report evidence of preserved red
+[2026-11-06 07:32:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed825a78ce4d69a7e25ba8f2abf8b
+[2026-11-06 07:32:05 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists cracked open a dinosaur bone and found red blood
+[2026-11-06 07:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed8275b6e9401eaad370b622af7fd
+[2026-11-06 07:32:06 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-06 07:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed8275b6e9401eaad370b622af7fd
+[2026-11-06 07:32:06 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 91/400 chars, resolved=True): China is planning to send AI and deep-sea robots on a hunt for its anc
+[2026-11-06 07:32:25 AM] [HISTORY_BOT] [SUCCESS] Published: Who Discovered Gold, and When? How Ancient Humans Turned the Precious Metal Into Jewellery and Wealth
+[2026-11-06 07:32:26 AM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 2256 in / 711 out tokens
