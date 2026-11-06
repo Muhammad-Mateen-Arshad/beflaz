@@ -22685,3 +22685,19 @@
 [2026-11-06 11:40:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-06 11:41:08 AM] [JOBS_BOT] [SUCCESS] Published: Germany Skilled Worker Jobs for Pakistani Professionals
 [2026-11-06 11:41:09 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2494 in / 1084 out tokens
+[2026-11-06 11:41:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-06 11:41:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbcd6a0124bb99c43fb1aa72a4f3
+[2026-11-06 11:41:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-06 11:41:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbcd6a0124bb99c43fb1aa72a4f3
+[2026-11-06 11:41:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-06 11:41:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbcd6a0124bb99c43fb1aa72a4f3
+[2026-11-06 11:41:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-06 11:41:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbcd768e2433d9a45960054e63a1
+[2026-11-06 11:41:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 131/300 chars, resolved=True): Netflix’s New Political Thriller From ‘Bodyguard’ Creator Gets Release
+[2026-11-06 11:41:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbcd768e2433d9a45960054e63a1
+[2026-11-06 11:41:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): New Friday OTT releases (November 6, 2026): 8 new movies, shows to wat
+[2026-11-06 11:41:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbcd768e2433d9a45960054e63a1
+[2026-11-06 11:41:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 142/300 chars, resolved=True): KPop Demon Hunters Officially Returns With New 6-Episode Series On Net
+[2026-11-06 11:41:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbcd768e2433d9a45960054e63a1
+[2026-11-06 11:41:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 68/300 chars, resolved=True): Is ‘Godzilla Minus Zero’ Streaming on Netflix or Amazon Prime? Where t
+[2026-11-06 11:41:12 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
