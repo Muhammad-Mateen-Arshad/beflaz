@@ -22734,3 +22734,6 @@
 [2026-11-06 03:33:34 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
 [2026-11-06 03:34:04 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Other Worlds: A Stranger Things Adventure’: Live-Action Prequel Series Set for Netflix in 2028
 [2026-11-06 03:34:04 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1706 in / 526 out tokens
+[2026-11-06 03:34:06 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 03:34:40 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of Liverpool PhD Scholarship in Chemistry 2026
+[2026-11-06 03:34:40 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1615 in / 646 out tokens
