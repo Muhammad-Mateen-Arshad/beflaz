@@ -22794,3 +22794,19 @@
 [2026-11-06 06:39:03 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1590 in / 559 out tokens
 [2026-11-06 07:30:16 PM] [NEWS_BOT] [SUCCESS] Published: Petrol price down by Rs6.59 per litre, high-speed diesel by Rs4.25 in fifth straight reduction
 [2026-11-06 07:30:17 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1007 in / 622 out tokens
+[2026-11-06 07:30:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2ac94263463a951e5ac0786ad14
+[2026-11-06 07:30:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Where Abdul El Sayed should start his fight on genocide
+[2026-11-06 07:30:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2ac94263463a951e5ac0786ad14
+[2026-11-06 07:30:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan’s first marble city to be set up in Karachi, says Sharjeel
+[2026-11-06 07:30:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2ac94263463a951e5ac0786ad14
+[2026-11-06 07:30:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): BLA ousts Dhurandhar who rattled Pakistan. Female fighters of Majeed B
+[2026-11-06 07:30:50 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): KP governor calls for uninterrupted electricity supply
+[2026-11-06 07:30:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 07:31:22 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too short (132 words, need 150)): Two killed, two injured in firing during jirga in Peshawar
+[2026-11-06 07:31:23 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-06 07:31:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2acacfcd468e8a78f523a02646c
+[2026-11-06 07:31:23 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 5, 2026
+[2026-11-06 07:31:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2b0bc36e4a36aacfa4f26a4c5e0
+[2026-11-06 07:31:23 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): BLA ousts Dhurandhar who rattled Pakistan. Female fighters of Majeed B
+[2026-11-06 07:31:23 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1579 in / 744 out tokens
+[2026-11-06 07:31:23 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 3, 'tried': 8, 'thin': 6, 'rejected': 2}
