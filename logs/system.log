@@ -22909,3 +22909,14 @@
 [2026-11-06 11:52:05 PM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 500000): His Grandparents Fully Funded His College—Then His Dad Demanded He Spl
 [2026-11-06 11:52:21 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC MBBS and BDS Admissions 2026-27: Revised Procedure
 [2026-11-06 11:52:22 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2757 in / 1069 out tokens
+[2026-11-06 11:52:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-06 11:52:23 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-06 11:52:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee68374a944edcb65a4b6c3323548
+[2026-11-06 11:52:23 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): Health Experts Want The FDA To Define Ultra-Processed Foods – Here’s W
+[2026-11-06 11:52:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee68374a944edcb65a4b6c3323548
+[2026-11-06 11:52:23 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-06 11:52:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee68376cee48e6be1df8ffe4d6f9d
+[2026-11-06 11:52:24 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): This simple eight-foot fitness drill is linked to a 59 percent lower d
+[2026-11-06 11:52:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee68376cee48e6be1df8ffe4d6f9d
+[2026-11-06 11:52:24 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 144/800 chars, resolved=True): Daily Habits After 60 That Support Brain Health and Longevity
+[2026-11-06 11:52:24 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
