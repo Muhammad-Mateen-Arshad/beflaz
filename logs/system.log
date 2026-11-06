@@ -22865,3 +22865,16 @@
 [2026-11-06 11:30:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1154 in / 473 out tokens
 [2026-11-06 11:30:46 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of Liverpool PhD Scholarship 2026–27
 [2026-11-06 11:30:47 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1002 in / 548 out tokens
+[2026-11-06 11:30:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-06 11:30:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-06 11:30:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6328b4194ef3af374060645d5a2
+[2026-11-06 11:30:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): Health Experts Want The FDA To Define Ultra-Processed Foods – Here’s W
+[2026-11-06 11:30:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6328b4194ef3af374060645d5a2
+[2026-11-06 11:30:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-06 11:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee63292a9b4b9f9d84ffcbcc1bf63
+[2026-11-06 11:30:49 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): This simple eight-foot fitness drill is linked to a 59 percent lower d
+[2026-11-06 11:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee63292a9b4b9f9d84ffcbcc1bf63
+[2026-11-06 11:30:49 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): The daily habits that have the biggest impact on healthy aging
+[2026-11-06 11:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee63292a9b4b9f9d84ffcbcc1bf63
+[2026-11-06 11:30:49 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 144/800 chars, resolved=True): Daily Habits After 60 That Support Brain Health and Longevity
+[2026-11-06 11:30:49 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
