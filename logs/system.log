@@ -22719,3 +22719,7 @@
 [2026-11-06 11:42:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 91/400 chars, resolved=True): China is planning to send AI and deep-sea robots on a hunt for its anc
 [2026-11-06 11:43:01 AM] [HISTORY_BOT] [SUCCESS] Published: Etruscan Tombs Reveal Rock-Carved Thrones, Painted Walls, and Decorated Pottery
 [2026-11-06 11:43:02 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1376 in / 541 out tokens
+[2026-11-06 03:30:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-06 03:31:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-06 03:32:32 PM] [NEWS_BOT] [SUCCESS] Published: Bilawal urges federal govt to engage all political forces instead of ‘fighting everyone’
+[2026-11-06 03:32:33 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 993 in / 416 out tokens
