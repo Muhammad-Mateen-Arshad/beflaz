@@ -22497,3 +22497,8 @@
 [2026-11-06 12:36:49 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-06 12:37:23 AM] [DRAMAS_BOT] [SUCCESS] Published: The 10 Best Netflix Original Thriller Movies, Ranked
 [2026-11-06 12:37:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1491 in / 544 out tokens
+[2026-11-06 12:37:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed21448cbb44cdaa7f07b17f629c7
+[2026-11-06 12:37:24 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 131/400 chars, resolved=True): I thought raising 4 kids would get cheaper once day care and braces we
+[2026-11-06 12:37:26 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 12:37:49 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistan Russia Tech Partnership and Scholarships
+[2026-11-06 12:37:49 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1043 in / 534 out tokens
