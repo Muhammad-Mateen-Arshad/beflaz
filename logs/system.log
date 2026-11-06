@@ -22661,3 +22661,11 @@
 [2026-11-06 11:31:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
 [2026-11-06 11:31:49 AM] [HEALTH_BOT] [SUCCESS] Published: What the “Ferritin Face” Trend Says About the Future of Beauty
 [2026-11-06 11:31:49 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1569 in / 525 out tokens
+[2026-11-06 11:31:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbaa5be834df6b4e2f327043e133
+[2026-11-06 11:31:50 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Dinosaur blood discovered in 115-million-year-old fossil: scientists
+[2026-11-06 11:31:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbaa5be834df6b4e2f327043e133
+[2026-11-06 11:31:50 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Scientists cracked open a dinosaur bone and found red blood
+[2026-11-06 11:31:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedbaa64bad4a708ad9a03abd18dff
+[2026-11-06 11:31:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-06 11:32:09 AM] [HISTORY_BOT] [SUCCESS] Published: Ancient legends surrounding Mummys gold unlock secrets of lost civilizations and forgotten rulers
+[2026-11-06 11:32:09 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1432 in / 498 out tokens
