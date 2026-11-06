@@ -22883,3 +22883,10 @@
 [2026-11-06 11:31:06 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 692 in / 488 out tokens
 [2026-11-06 11:51:22 PM] [NEWS_BOT] [SUCCESS] Published: Banks, utilities among services put on alert against AI-enabled cyberthreats
 [2026-11-06 11:51:23 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1326 in / 584 out tokens
+[2026-11-06 11:51:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee67fb381844fd81bbd1f23f68b51
+[2026-11-06 11:51:24 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Just like Gaza: POK boils over as Pakistani drone strikes kill 7
+[2026-11-06 11:51:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee67fb381844fd81bbd1f23f68b51
+[2026-11-06 11:51:24 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan’s first marble city to be set up in Karachi, says Sharjeel
+[2026-11-06 11:51:26 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 11:51:45 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan UK Training and Institutional Capacity Update
+[2026-11-06 11:51:46 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1018 in / 448 out tokens
