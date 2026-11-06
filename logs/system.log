@@ -22878,3 +22878,6 @@
 [2026-11-06 11:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee63292a9b4b9f9d84ffcbcc1bf63
 [2026-11-06 11:30:49 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 144/800 chars, resolved=True): Daily Habits After 60 That Support Brain Health and Longevity
 [2026-11-06 11:30:49 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-06 11:30:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 11:31:06 PM] [HISTORY_BOT] [SUCCESS] Published: Scientists identify heme in dinosaur fossil in world-first discovery
+[2026-11-06 11:31:06 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 692 in / 488 out tokens
