@@ -22576,3 +22576,10 @@
 [2026-11-06 03:33:00 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 923 in / 497 out tokens
 [2026-11-06 07:29:55 AM] [NEWS_BOT] [SUCCESS] Published: Turkish parliament approves Makkah defence pact with Pakistan, Saudi Arabia
 [2026-11-06 07:29:56 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 797 in / 444 out tokens
+[2026-11-06 07:29:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed81f47ba34daa93979f59d772c4a
+[2026-11-06 07:29:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 134/400 chars, resolved=True): After outcry, US grounds flight that would have sent Afghans to the Ta
+[2026-11-06 07:29:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed81f47ba34daa93979f59d772c4a
+[2026-11-06 07:29:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A growing disinterest in education
+[2026-11-06 07:29:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-06 07:30:18 AM] [JOBS_BOT] [SUCCESS] Published: Sri Lanka Workplace Rights and Harassment Rules Guide
+[2026-11-06 07:30:19 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1740 in / 498 out tokens
