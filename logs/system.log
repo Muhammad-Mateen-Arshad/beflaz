@@ -23185,3 +23185,12 @@
 [2026-11-07 05:04:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-07 05:05:15 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PG&E STEM Scholarship Program 2026: Details and Eligibility
 [2026-11-07 05:05:16 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1463 in / 547 out tokens
+[2026-11-07 05:05:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-07 05:05:18 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-07 05:05:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a4e0cfb4998979972f11f900e2
+[2026-11-07 05:05:18 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): Can a competition measure how well you're aging? A Bay Area expert is 
+[2026-11-07 05:05:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a4e0cfb4998979972f11f900e2
+[2026-11-07 05:05:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
+[2026-11-07 05:05:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a4e0cfb4998979972f11f900e2
+[2026-11-07 05:05:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-07 05:05:19 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
