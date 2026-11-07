@@ -23196,3 +23196,5 @@
 [2026-11-07 05:05:19 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
 [2026-11-07 05:05:44 PM] [HISTORY_BOT] [SUCCESS] Published: Fossils News
 [2026-11-07 05:05:45 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1793 in / 504 out tokens
+[2026-11-07 07:29:44 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan's men down South Korea to win Asian Team Squash title
+[2026-11-07 07:29:45 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1462 in / 650 out tokens
