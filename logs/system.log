@@ -23163,3 +23163,20 @@
 [2026-11-07 05:04:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): 1 injured in explosion at Ghaziabad police outpost, top cop says all a
 [2026-11-07 05:04:26 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Unveils New Auto Policy to Boost Local Jobs
 [2026-11-07 05:04:28 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1449 in / 467 out tokens
+[2026-11-07 05:04:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1c1ebe4f8b80db4297484f11a
+[2026-11-07 05:04:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-07 05:04:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1c1ebe4f8b80db4297484f11a
+[2026-11-07 05:04:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-07 05:04:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1c1ebe4f8b80db4297484f11a
+[2026-11-07 05:04:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-07 05:04:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1c1ebe4f8b80db4297484f11a
+[2026-11-07 05:04:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-07 05:04:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1d03fc4b76b75c89e323fa3ff
+[2026-11-07 05:04:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): Netflix expands 'Stranger Things' universe with 1950s prequel 'Other W
+[2026-11-07 05:04:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1d03fc4b76b75c89e323fa3ff
+[2026-11-07 05:04:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 125/300 chars, resolved=True): 'Stranger Things' goes back to the 1950s in new spinoff. What to know
+[2026-11-07 05:04:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1d03fc4b76b75c89e323fa3ff
+[2026-11-07 05:04:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-07 05:04:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1eac4f4fbc80c0296b8392c36
+[2026-11-07 05:04:31 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
+[2026-11-07 05:04:31 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
