@@ -23057,3 +23057,9 @@
 [2026-11-07 10:45:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef016518244069a2625cf1374f841
 [2026-11-07 10:45:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): This simple eight-foot fitness drill is linked to a 59 percent lower d
 [2026-11-07 10:45:58 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-07 10:45:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0166ea734e279ad05a96b5bacb5
+[2026-11-07 10:45:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-07 10:45:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0166ea734e279ad05a96b5bacb5
+[2026-11-07 10:45:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 183/400 chars, resolved=True): 115-million-year-old dinosaur fossil yields oldest confirmed evidence 
+[2026-11-07 10:46:22 AM] [HISTORY_BOT] [SUCCESS] Published: Gyeonggi Province Elevates South Korean Family Tourism: Six Autumn Nature and Heritage Day Trips Beyond Seoul Revealed
+[2026-11-07 10:46:24 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1453 in / 460 out tokens
