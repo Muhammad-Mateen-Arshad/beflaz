@@ -23252,3 +23252,8 @@
 [2026-11-07 07:31:21 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1422 in / 532 out tokens
 [2026-11-07 11:10:11 PM] [NEWS_BOT] [SUCCESS] Published: Israeli president picks Netanyahu's rival Gadi Eisenkot to try to form government
 [2026-11-07 11:10:13 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1557 in / 530 out tokens
+[2026-11-07 11:10:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefafd5d62c465baafdb1833809658
+[2026-11-07 11:10:14 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Governor calls for modern skills to expand overseas job opportunitiesP
+[2026-11-07 11:10:14 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-07 11:10:34 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Auto Industry Policy Approved: Localisation Focus
+[2026-11-07 11:10:35 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1368 in / 482 out tokens
