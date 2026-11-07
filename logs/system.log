@@ -23095,3 +23095,7 @@
 [2026-11-07 11:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bec51df4587a961bd3d4120a01
 [2026-11-07 11:30:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-07 11:30:52 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
+[2026-11-07 11:30:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bedeca94813b24ee8e61b46288
+[2026-11-07 11:30:53 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Pakistani Community in China Beyond Student Life
+[2026-11-07 11:31:18 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC MBBS BDS Scholarship Admission Procedure 2026-27
+[2026-11-07 11:31:18 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 915 in / 518 out tokens
