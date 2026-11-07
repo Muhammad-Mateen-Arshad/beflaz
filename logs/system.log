@@ -23237,3 +23237,16 @@
 [2026-11-07 07:30:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c6c6d814395be96078e9b9c848
 [2026-11-07 07:30:54 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
 [2026-11-07 07:30:54 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-07 07:30:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c6e58224ebba8fcab6123efdf6
+[2026-11-07 07:30:54 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 183/400 chars, resolved=True): 115-million-year-old dinosaur fossil yields oldest confirmed evidence 
+[2026-11-07 07:30:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 228/400 chars, resolved=True): All about Rex
+[2026-11-07 07:30:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c6f8f9040769bdd523a580135a
+[2026-11-07 07:30:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 91/400 chars, resolved=True): China is planning to send AI and deep-sea robots on a hunt for its anc
+[2026-11-07 07:30:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c6f8f9040769bdd523a580135a
+[2026-11-07 07:30:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-07 07:30:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c6f8f9040769bdd523a580135a
+[2026-11-07 07:30:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): What this AI spotted under the desert changes how we read an entire ci
+[2026-11-07 07:31:00 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-07 07:31:05 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-07 07:31:20 PM] [HISTORY_BOT] [SUCCESS] Published: Scientists say they've found the strongest evidence yet of red blood cells in a dinosaur bone
+[2026-11-07 07:31:21 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1422 in / 532 out tokens
