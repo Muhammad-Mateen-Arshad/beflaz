@@ -22933,3 +22933,13 @@
 [2026-11-06 11:52:43 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1248 in / 484 out tokens
 [2026-11-07 03:27:07 AM] [NEWS_BOT] [SUCCESS] Published: Nepra raises industrial tariff to Rs25.30 per unit, despite dissent
 [2026-11-07 03:27:09 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1457 in / 595 out tokens
+[2026-11-07 03:27:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9a8e50c74250973d5907b568b43
+[2026-11-07 03:27:10 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 71/400 chars, resolved=True): Karnataka textile policy 4.0 to push investment and jobs beyond Bengal
+[2026-11-07 03:27:31 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): China's Macau jails ex-lawmaker in first national security trial
+[2026-11-07 03:27:32 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-07 03:27:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9aa4b18e47c8a71f75bf639393a
+[2026-11-07 03:27:32 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): BLA ousts Dhurandhar who rattled Pakistan. Female fighters of Majeed B
+[2026-11-07 03:27:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9aa4b18e47c8a71f75bf639393a
+[2026-11-07 03:27:32 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): HT picks; new reads
+[2026-11-07 03:27:57 AM] [JOBS_BOT] [SUCCESS] Published: Iran-US Conflict News Update: Summary of Recent Events
+[2026-11-07 03:27:57 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2114 in / 833 out tokens
