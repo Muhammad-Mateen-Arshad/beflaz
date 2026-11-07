@@ -22960,3 +22960,6 @@
 [2026-11-07 03:28:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9ac22346461aa75214c7b78d4e3
 [2026-11-07 03:28:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-07 03:28:02 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-07 03:28:05 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-07 03:28:26 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: UCC Futures Scholars Programme 2027 PhD Scholarships
+[2026-11-07 03:28:26 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1591 in / 642 out tokens
