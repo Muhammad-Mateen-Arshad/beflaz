@@ -23337,3 +23337,12 @@
 [2026-11-07 11:30:21 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-07 11:30:42 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Prime Minister Youth Programme Laptops and Skills Stats
 [2026-11-07 11:30:42 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1721 in / 596 out tokens
+[2026-11-07 11:30:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-07 11:30:44 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-07 11:30:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4a570784fd8ba32ee9bc833159
+[2026-11-07 11:30:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): Can a competition measure how well you're aging? A Bay Area expert is 
+[2026-11-07 11:30:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4a570784fd8ba32ee9bc833159
+[2026-11-07 11:30:46 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
+[2026-11-07 11:30:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4a570784fd8ba32ee9bc833159
+[2026-11-07 11:30:47 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): Researchers Propose New Metrics to Measure Balance Exercise Intensity 
+[2026-11-07 11:30:47 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
