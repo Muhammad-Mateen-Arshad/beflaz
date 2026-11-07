@@ -23200,3 +23200,16 @@
 [2026-11-07 07:29:45 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1462 in / 650 out tokens
 [2026-11-07 07:30:01 PM] [JOBS_BOT] [SUCCESS] Published: Iranian Energy Management Notice: Details and Updates
 [2026-11-07 07:30:02 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 629 in / 367 out tokens
+[2026-11-07 07:30:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c3bff5a4568bdd909f792413fe
+[2026-11-07 07:30:03 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-07 07:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c3bff5a4568bdd909f792413fe
+[2026-11-07 07:30:04 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-07 07:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c3bff5a4568bdd909f792413fe
+[2026-11-07 07:30:04 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-07 07:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c3bff5a4568bdd909f792413fe
+[2026-11-07 07:30:04 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-07 07:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c3cecaf4b3ab570b11bdf0226d
+[2026-11-07 07:30:04 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 125/300 chars, resolved=True): 'Stranger Things' goes back to the 1950s in new spinoff. What to know
+[2026-11-07 07:30:05 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-07 07:30:25 PM] [DRAMAS_BOT] [SUCCESS] Published: I completely forgot this Twilight show existed before Netflix renewed it for season 2
+[2026-11-07 07:30:26 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1061 in / 415 out tokens
