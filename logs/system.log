@@ -23000,3 +23000,5 @@
 [2026-11-07 07:30:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeed39251d8463ab47fb5dfe3ebf6f
 [2026-11-07 07:30:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-07 07:30:26 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
+[2026-11-07 07:30:58 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: YES-DTN Fully Funded PhD Scholarships 2027 in the UK
+[2026-11-07 07:30:59 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1532 in / 541 out tokens
