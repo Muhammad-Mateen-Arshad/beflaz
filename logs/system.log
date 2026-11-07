@@ -23159,3 +23159,7 @@
 [2026-11-07 03:32:11 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 953 in / 514 out tokens
 [2026-11-07 05:04:03 PM] [NEWS_BOT] [SUCCESS] Published: ECP takes notice of alleged code violation by Attaullah Tarar ahead of NA-77 by-poll
 [2026-11-07 05:04:04 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1009 in / 545 out tokens
+[2026-11-07 05:04:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a059c1e4c35b9064113f085405
+[2026-11-07 05:04:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): 1 injured in explosion at Ghaziabad police outpost, top cop says all a
+[2026-11-07 05:04:26 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Unveils New Auto Policy to Boost Local Jobs
+[2026-11-07 05:04:28 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1449 in / 467 out tokens
