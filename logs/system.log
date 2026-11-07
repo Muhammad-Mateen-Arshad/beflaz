@@ -23180,3 +23180,8 @@
 [2026-11-07 05:04:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1eac4f4fbc80c0296b8392c36
 [2026-11-07 05:04:31 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-07 05:04:31 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-07 05:04:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a1f9c5c404fbafbd6d976bcfbb
+[2026-11-07 05:04:32 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): UN climate talks start in the year of disasters, energy price shocks a
+[2026-11-07 05:04:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-07 05:05:15 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PG&E STEM Scholarship Program 2026: Details and Eligibility
+[2026-11-07 05:05:16 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1463 in / 547 out tokens
