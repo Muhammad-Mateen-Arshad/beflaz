@@ -23306,3 +23306,8 @@
 [2026-11-07 11:29:27 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-07 11:29:50 PM] [NEWS_BOT] [SUCCESS] Published: 'Please take the job': Trump asks UFC chief Dana White to be White House press secretary
 [2026-11-07 11:29:50 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 671 in / 514 out tokens
+[2026-11-07 11:29:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb46fb84c448d8bd2aa6f8aba28e
+[2026-11-07 11:29:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Punjab pursues zero-tolerance policy against corruption: AzmaPublished
+[2026-11-07 11:29:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-07 11:30:11 PM] [JOBS_BOT] [SUCCESS] Published: Women Skill Development and Livelihood Initiatives 2026
+[2026-11-07 11:30:12 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1016 in / 540 out tokens
