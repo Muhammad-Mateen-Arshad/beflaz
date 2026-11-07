@@ -23194,3 +23194,5 @@
 [2026-11-07 05:05:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef5a4e0cfb4998979972f11f900e2
 [2026-11-07 05:05:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
 [2026-11-07 05:05:19 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
+[2026-11-07 05:05:44 PM] [HISTORY_BOT] [SUCCESS] Published: Fossils News
+[2026-11-07 05:05:45 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1793 in / 504 out tokens
