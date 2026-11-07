@@ -23065,3 +23065,18 @@
 [2026-11-07 10:46:24 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1453 in / 460 out tokens
 [2026-11-07 11:29:44 AM] [NEWS_BOT] [SUCCESS] Published: Pakistani astronaut to join Shenzhou-24 mission to China's space station
 [2026-11-07 11:29:45 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 799 in / 484 out tokens
+[2026-11-07 11:30:07 AM] [JOBS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 210000): Gujarat Government Recruitment Plan Targets 2.1 Lakh Posts by 2033
+[2026-11-07 11:30:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0ba938d14950b7164cac4123976
+[2026-11-07 11:30:08 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan’s first marble city to be set up in Karachi, says Sharjeel
+[2026-11-07 11:30:29 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Over 150,000 people screened for hepatitis C in Islamabad
+[2026-11-07 11:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bc00fd4492e9f58bdcdb6ed7d6
+[2026-11-07 11:30:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Newspaper - Karachi - November 6, 2026
+[2026-11-07 11:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bd53acb4394860251111299381
+[2026-11-07 11:30:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): 1 injured in explosion at Ghaziabad police outpost, top cop says all a
+[2026-11-07 11:30:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bd53acb4394860251111299381
+[2026-11-07 11:30:30 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan’s first marble city to be set up in Karachi, says Sharjeel
+[2026-11-07 11:30:49 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Ghaziabad blast: Police say ‘possible terror angle’ under probe after 
+[2026-11-07 11:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bd53acb4394860251111299381
+[2026-11-07 11:30:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): President Zia as I Saw Him
+[2026-11-07 11:30:50 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3738 in / 1559 out tokens
+[2026-11-07 11:30:50 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'rejected': 3, 'thin': 5}
