@@ -23138,3 +23138,11 @@
 [2026-11-07 03:30:44 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 965 in / 543 out tokens
 [2026-11-07 03:31:24 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Northern Colorado Football Scholarship Overview 2026
 [2026-11-07 03:31:25 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1907 in / 475 out tokens
+[2026-11-07 03:31:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-07 03:31:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-07 03:31:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef444ed8274a6c9985b8cfb6f5b47
+[2026-11-07 03:31:27 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): Health Experts Want The FDA To Define Ultra-Processed Foods – Here’s W
+[2026-11-07 03:31:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef444ed8274a6c9985b8cfb6f5b47
+[2026-11-07 03:31:27 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-07 03:31:42 PM] [HEALTH_BOT] [SUCCESS] Published: Slept With Makeup On Once? Here’s What Happens To Your Skin Overnight
+[2026-11-07 03:31:43 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1562 in / 548 out tokens
