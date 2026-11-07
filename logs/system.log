@@ -23021,3 +23021,9 @@
 [2026-11-07 07:32:21 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1108 in / 602 out tokens
 [2026-11-07 10:44:57 AM] [NEWS_BOT] [SUCCESS] Published: Bushra Bibi approaches IHC over worsening eyesight, seeks treatment from doctors of her choice
 [2026-11-07 10:44:58 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 931 in / 479 out tokens
+[2026-11-07 10:44:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef012baaa040fd8ae89ea0642f74b
+[2026-11-07 10:44:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Pakistani Community in China Beyond Student Life
+[2026-11-07 10:45:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef012baaa040fd8ae89ea0642f74b
+[2026-11-07 10:45:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Gujarat govt hands appointment letters to 113 new officers on Dhantera
+[2026-11-07 10:45:27 AM] [JOBS_BOT] [SUCCESS] Published: PTA and Meta Block 176,000 WhatsApp Accounts Update
+[2026-11-07 10:45:28 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 785 in / 432 out tokens
