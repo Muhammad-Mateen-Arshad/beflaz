@@ -22972,3 +22972,11 @@
 [2026-11-07 03:28:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-07 03:28:52 AM] [HEALTH_BOT] [SUCCESS] Published: More daily steps may mean lower medical bills for older people
 [2026-11-07 03:28:53 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 982 in / 522 out tokens
+[2026-11-07 03:28:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9af669064acf86e43e8932816f6
+[2026-11-07 03:28:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-07 03:28:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9af669064acf86e43e8932816f6
+[2026-11-07 03:28:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 183/400 chars, resolved=True): 115-million-year-old dinosaur fossil yields oldest confirmed evidence 
+[2026-11-07 03:28:55 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): All about Rex
+[2026-11-07 03:28:57 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-07 03:29:23 AM] [HISTORY_BOT] [SUCCESS] Published: Ancient pottery reveals a 6,000-year-old brewing tradition in Shanxi
+[2026-11-07 03:29:23 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1304 in / 492 out tokens
