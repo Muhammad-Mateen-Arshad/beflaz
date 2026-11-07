@@ -23272,3 +23272,11 @@
 [2026-11-07 11:10:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefafee5c5141f19868b98b2eda216
 [2026-11-07 11:10:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
 [2026-11-07 11:10:38 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
+[2026-11-07 11:10:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefafeee0cf46e5ae98ca9a2b400ee
+[2026-11-07 11:10:39 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Melania Trump’s LSU-Alabama visit tied to $5 million foster-care endow
+[2026-11-07 11:10:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefafeee0cf46e5ae98ca9a2b400ee
+[2026-11-07 11:10:39 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): UN climate talks start in the year of disasters, energy price shocks a
+[2026-11-07 11:10:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefafeee0cf46e5ae98ca9a2b400ee
+[2026-11-07 11:10:39 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Myles defends transparency of his training company’s contracts
+[2026-11-07 11:10:56 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Sindh Transgender Scholarships: Higher Education Overview
+[2026-11-07 11:10:57 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1771 in / 473 out tokens
