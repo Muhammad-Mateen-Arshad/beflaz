@@ -23289,3 +23289,17 @@
 [2026-11-07 11:11:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb0041e3c4732afbe99ae895bb5c
 [2026-11-07 11:11:01 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): Researchers Propose New Metrics to Measure Balance Exercise Intensity 
 [2026-11-07 11:11:01 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
+[2026-11-07 11:11:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb006dd784e458994c3a6ee1489b
+[2026-11-07 11:11:02 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 183/400 chars, resolved=True): 115-million-year-old dinosaur fossil yields oldest confirmed evidence 
+[2026-11-07 11:11:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb006dd784e458994c3a6ee1489b
+[2026-11-07 11:11:03 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): This turkey-sized hell chicken lived alongside T rex and ate fruit, a 
+[2026-11-07 11:11:03 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 228/400 chars, resolved=True): All about Rex
+[2026-11-07 11:11:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb007655441c4b74e60ed1f0750a
+[2026-11-07 11:11:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 91/400 chars, resolved=True): China is planning to send AI and deep-sea robots on a hunt for its anc
+[2026-11-07 11:11:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb007655441c4b74e60ed1f0750a
+[2026-11-07 11:11:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-07 11:11:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb007655441c4b74e60ed1f0750a
+[2026-11-07 11:11:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): What this AI spotted under the desert changes how we read an entire ci
+[2026-11-07 11:11:05 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-07 11:11:25 PM] [HISTORY_BOT] [SUCCESS] Published: 280 Ice Age Cave Engravings Hidden in Plain Sight in Spain
+[2026-11-07 11:11:27 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1387 in / 600 out tokens
