@@ -23311,3 +23311,18 @@
 [2026-11-07 11:29:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-07 11:30:11 PM] [JOBS_BOT] [SUCCESS] Published: Women Skill Development and Livelihood Initiatives 2026
 [2026-11-07 11:30:12 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1016 in / 540 out tokens
+[2026-11-07 11:30:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4848fa7411d9c29a6da793ab5e
+[2026-11-07 11:30:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-07 11:30:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4848fa7411d9c29a6da793ab5e
+[2026-11-07 11:30:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-07 11:30:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4848fa7411d9c29a6da793ab5e
+[2026-11-07 11:30:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-07 11:30:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4848fa7411d9c29a6da793ab5e
+[2026-11-07 11:30:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-07 11:30:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4858b944dc3b737551fb5d678e
+[2026-11-07 11:30:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): Netflix expands 'Stranger Things' universe with 1950s prequel 'Other W
+[2026-11-07 11:30:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4858b944dc3b737551fb5d678e
+[2026-11-07 11:30:14 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 174/300 chars, resolved=True): Netflix orders 'Stranger Things' prequel 'Other Worlds' for 2028
+[2026-11-07 11:30:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb48685d644f59fc3c1f4eda5cb6
+[2026-11-07 11:30:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
+[2026-11-07 11:30:15 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
