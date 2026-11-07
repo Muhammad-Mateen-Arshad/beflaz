@@ -23112,3 +23112,7 @@
 [2026-11-07 11:31:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0c0913424081a2ab762ea677f63
 [2026-11-07 11:31:22 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): This simple eight-foot fitness drill is linked to a 59 percent lower d
 [2026-11-07 11:31:22 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-07 11:31:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0c0b6a574b1a81dedd6ae154022
+[2026-11-07 11:31:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-07 11:31:58 AM] [HISTORY_BOT] [SUCCESS] Published: Tagore has a dinosaur named after him. So does the man who dug it up
+[2026-11-07 11:31:59 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1353 in / 661 out tokens
