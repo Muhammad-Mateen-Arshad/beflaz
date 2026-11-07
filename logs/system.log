@@ -22943,3 +22943,20 @@
 [2026-11-07 03:27:32 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): HT picks; new reads
 [2026-11-07 03:27:57 AM] [JOBS_BOT] [SUCCESS] Published: Iran-US Conflict News Update: Summary of Recent Events
 [2026-11-07 03:27:57 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2114 in / 833 out tokens
+[2026-11-07 03:28:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9abef86d4f518a57f228476dd57
+[2026-11-07 03:28:01 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-07 03:28:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9abef86d4f518a57f228476dd57
+[2026-11-07 03:28:01 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-07 03:28:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9abef86d4f518a57f228476dd57
+[2026-11-07 03:28:01 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-07 03:28:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9abef86d4f518a57f228476dd57
+[2026-11-07 03:28:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Cemile and Little Osman reunited after years! Their latest appearance 
+[2026-11-07 03:28:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9ac2759f406d9ff39cefc9834a6
+[2026-11-07 03:28:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): New Friday OTT releases (November 6, 2026): 8 new movies, shows to wat
+[2026-11-07 03:28:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9ac2759f406d9ff39cefc9834a6
+[2026-11-07 03:28:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 57/300 chars, resolved=True): New shows & movies to watch this weekend: ‘Black Doves’ on Netflix, ‘I
+[2026-11-07 03:28:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9ac2759f406d9ff39cefc9834a6
+[2026-11-07 03:28:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 125/300 chars, resolved=True): 'Stranger Things' goes back to the 1950s in new spinoff. What to know
+[2026-11-07 03:28:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9ac22346461aa75214c7b78d4e3
+[2026-11-07 03:28:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): Democrat defector Haley Stevens just exposed the party's dirty midterm
+[2026-11-07 03:28:02 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
