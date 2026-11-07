@@ -23146,3 +23146,14 @@
 [2026-11-07 03:31:27 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
 [2026-11-07 03:31:42 PM] [HEALTH_BOT] [SUCCESS] Published: Slept With Makeup On Once? Here’s What Happens To Your Skin Overnight
 [2026-11-07 03:31:43 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1562 in / 548 out tokens
+[2026-11-07 03:31:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef445f70934299a530b74cca1579d
+[2026-11-07 03:31:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 183/400 chars, resolved=True): 115-million-year-old dinosaur fossil yields oldest confirmed evidence 
+[2026-11-07 03:31:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 228/400 chars, resolved=True): All about Rex
+[2026-11-07 03:31:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef44600b6a47da8ed44e58f3986d2
+[2026-11-07 03:31:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): What this AI spotted under the desert changes how we read an entire ci
+[2026-11-07 03:31:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef44600b6a47da8ed44e58f3986d2
+[2026-11-07 03:31:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Saudi pavilion highlights ancient Arabian civilizations and traditiona
+[2026-11-07 03:31:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef44600b6a47da8ed44e58f3986d2
+[2026-11-07 03:31:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-07 03:32:10 PM] [HISTORY_BOT] [SUCCESS] Published: Tourists unknowingly scribble graffiti on prehistoric cave in Spain dating back to the Ice Age
+[2026-11-07 03:32:11 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 953 in / 514 out tokens
