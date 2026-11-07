@@ -23116,3 +23116,5 @@
 [2026-11-07 11:31:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
 [2026-11-07 11:31:58 AM] [HISTORY_BOT] [SUCCESS] Published: Tagore has a dinosaur named after him. So does the man who dug it up
 [2026-11-07 11:31:59 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1353 in / 661 out tokens
+[2026-11-07 03:29:48 PM] [NEWS_BOT] [SUCCESS] Published: Govt announces auto policy with focus on cheaper vehicles, EVs
+[2026-11-07 03:29:49 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1537 in / 545 out tokens
