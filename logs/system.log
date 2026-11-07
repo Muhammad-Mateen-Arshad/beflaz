@@ -23213,3 +23213,12 @@
 [2026-11-07 07:30:05 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-07 07:30:25 PM] [DRAMAS_BOT] [SUCCESS] Published: I completely forgot this Twilight show existed before Netflix renewed it for season 2
 [2026-11-07 07:30:26 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1061 in / 415 out tokens
+[2026-11-07 07:30:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c52ef5245c98119ee249b65895
+[2026-11-07 07:30:27 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Melania Trump’s LSU-Alabama visit tied to $5 million foster-care endow
+[2026-11-07 07:30:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c52ef5245c98119ee249b65895
+[2026-11-07 07:30:27 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): UN climate talks start in the year of disasters, energy price shocks a
+[2026-11-07 07:30:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef7c5385ae41948b46ed7c6f1b45e
+[2026-11-07 07:30:27 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Pakistani Community in China Beyond Student Life
+[2026-11-07 07:30:28 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-07 07:30:50 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Daanish Schools Initiative in Pakistan: Student Guide
+[2026-11-07 07:30:50 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1167 in / 529 out tokens
