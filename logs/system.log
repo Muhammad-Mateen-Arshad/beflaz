@@ -23044,3 +23044,16 @@
 [2026-11-07 10:45:30 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 8}
 [2026-11-07 10:45:53 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 23 Pakistani Students Honoured at 2026 Science Olympiads
 [2026-11-07 10:45:54 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 894 in / 469 out tokens
+[2026-11-07 10:45:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-07 10:45:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-07 10:45:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0164102a45f7a9437029e546e89
+[2026-11-07 10:45:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-07 10:45:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0164102a45f7a9437029e546e89
+[2026-11-07 10:45:57 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 184/800 chars, resolved=True): Co-Produced Digital Platform Offers Personalised Nutrition and Exercis
+[2026-11-07 10:45:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef016518244069a2625cf1374f841
+[2026-11-07 10:45:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): Researchers Propose New Metrics to Measure Balance Exercise Intensity 
+[2026-11-07 10:45:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef016518244069a2625cf1374f841
+[2026-11-07 10:45:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-07 10:45:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef016518244069a2625cf1374f841
+[2026-11-07 10:45:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): This simple eight-foot fitness drill is linked to a 59 percent lower d
+[2026-11-07 10:45:58 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
