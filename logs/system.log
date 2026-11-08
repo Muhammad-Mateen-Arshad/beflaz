@@ -23474,3 +23474,7 @@
 [2026-11-08 03:30:42 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 13}
 [2026-11-08 07:29:44 AM] [NEWS_BOT] [SUCCESS] Published: Sindh CM declares Tharparkar drought-hit, orders relief measures
 [2026-11-08 07:29:44 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1498 in / 604 out tokens
+[2026-11-08 07:29:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af024e9bb484a41bf535a063a0fb73
+[2026-11-08 07:29:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 190/400 chars, resolved=True): Elites in Pakistan preparing escape abroad as ordinary citizens face m
+[2026-11-08 07:30:05 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Auto Industry Policy: EV and Job Creation
+[2026-11-08 07:30:05 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1437 in / 559 out tokens
