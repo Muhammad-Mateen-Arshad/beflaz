@@ -23551,3 +23551,17 @@
 [2026-11-08 10:51:32 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1410 in / 432 out tokens
 [2026-11-08 11:29:45 AM] [NEWS_BOT] [SUCCESS] Published: Babar Azam says selection not in his hands as youthful Pakistan face Sri Lanka
 [2026-11-08 11:29:46 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1567 in / 628 out tokens
+[2026-11-08 11:29:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05d2b963b4f8b923ac5649ab9155
+[2026-11-08 11:29:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 190/400 chars, resolved=True): Elites in Pakistan preparing escape abroad as ordinary citizens face m
+[2026-11-08 11:29:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05d2b963b4f8b923ac5649ab9155
+[2026-11-08 11:29:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Punjab pursues zero-tolerance policy against corruption: AzmaPublished
+[2026-11-08 11:29:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05d2b963b4f8b923ac5649ab9155
+[2026-11-08 11:29:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Sindh pushes industry hiring drive for Balochistan youth
+[2026-11-08 11:29:48 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-08 11:29:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 298/400 chars, resolved=True): Govt shifts domestic LPG sales to auctions to curb price distortions, 
+[2026-11-08 11:30:08 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): The China-Pakistan Information Corridor Is Made to Silence Journalists
+[2026-11-08 11:30:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05d2dee0e4d849e7cd2f239d4334
+[2026-11-08 11:30:08 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): 1 injured in explosion at Ghaziabad police outpost, top cop says all a
+[2026-11-08 11:30:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 346/400 chars, resolved=True): Pakistan seeks diplomatic glory abroad, hides repression at home
+[2026-11-08 11:30:09 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1805 in / 475 out tokens
+[2026-11-08 11:30:09 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'rejected': 1, 'already_seen': 1}
