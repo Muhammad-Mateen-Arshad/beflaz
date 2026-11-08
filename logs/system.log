@@ -23565,3 +23565,13 @@
 [2026-11-08 11:30:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 346/400 chars, resolved=True): Pakistan seeks diplomatic glory abroad, hides repression at home
 [2026-11-08 11:30:09 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1805 in / 475 out tokens
 [2026-11-08 11:30:09 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'rejected': 1, 'already_seen': 1}
+[2026-11-08 11:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05d420e5344798c9e8dda5df99f9
+[2026-11-08 11:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-08 11:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05d420e5344798c9e8dda5df99f9
+[2026-11-08 11:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-08 11:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05d420e5344798c9e8dda5df99f9
+[2026-11-08 11:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-08 11:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05d420e5344798c9e8dda5df99f9
+[2026-11-08 11:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-08 11:30:22 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix announces Stranger Things prequel Other Worlds: A Stranger Things Adventure, set for 2028 release
+[2026-11-08 11:30:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1532 in / 424 out tokens
