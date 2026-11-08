@@ -23623,3 +23623,14 @@
 [2026-11-08 03:30:54 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1457 in / 591 out tokens
 [2026-11-08 03:31:21 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Doha Institute Tamim Scholarship 2027–2028: Guide
 [2026-11-08 03:31:22 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1357 in / 557 out tokens
+[2026-11-08 03:31:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-08 03:31:24 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-08 03:31:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af095cca2544658a87bebcd799ad5f
+[2026-11-08 03:31:25 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
+[2026-11-08 03:31:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af095cca2544658a87bebcd799ad5f
+[2026-11-08 03:31:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): Can a competition measure how well you're aging? A Bay Area expert is 
+[2026-11-08 03:31:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af095cca2544658a87bebcd799ad5f
+[2026-11-08 03:31:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Energy levels, not pain, drive physical activity in older adults
+[2026-11-08 03:31:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af095cca2544658a87bebcd799ad5f
+[2026-11-08 03:31:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): The daily habits that have the biggest impact on healthy aging
+[2026-11-08 03:31:26 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
