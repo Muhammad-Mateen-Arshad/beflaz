@@ -23495,3 +23495,18 @@
 [2026-11-08 07:30:22 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1204 in / 498 out tokens
 [2026-11-08 07:30:41 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Ghent University Doctoral Fellowships 2026: PhD Positions
 [2026-11-08 07:30:42 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1408 in / 567 out tokens
+[2026-11-08 07:30:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-08 07:30:43 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-08 07:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af02523a3dd45a08bc7536f5629595
+[2026-11-08 07:30:44 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): Health Experts Want The FDA To Define Ultra-Processed Foods – Here’s W
+[2026-11-08 07:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af02523a3dd45a08bc7536f5629595
+[2026-11-08 07:30:44 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): The daily habits that have the biggest impact on healthy aging
+[2026-11-08 07:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af02523a3dd45a08bc7536f5629595
+[2026-11-08 07:30:44 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-08 07:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af02524654f430ca2219994838c0c8
+[2026-11-08 07:30:44 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): Can a competition measure how well you're aging? A Bay Area expert is 
+[2026-11-08 07:30:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af02524654f430ca2219994838c0c8
+[2026-11-08 07:30:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
+[2026-11-08 07:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af02524654f430ca2219994838c0c8
+[2026-11-08 07:30:46 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Movement Bout Variability Linked to Daily Cognition in Older Adults
+[2026-11-08 07:30:46 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
