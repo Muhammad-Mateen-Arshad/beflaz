@@ -23410,3 +23410,17 @@
 [2026-11-08 02:56:08 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1617 in / 475 out tokens
 [2026-11-08 03:29:45 AM] [NEWS_BOT] [SUCCESS] Published: Ruling coalition inches ahead on electoral reforms
 [2026-11-08 03:29:46 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1517 in / 555 out tokens
+[2026-11-08 03:29:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecabd490404fadb464a0dbcfa80
+[2026-11-08 03:29:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Punjab pursues zero-tolerance policy against corruption: AzmaPublished
+[2026-11-08 03:29:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecabd490404fadb464a0dbcfa80
+[2026-11-08 03:29:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Sindh pushes industry hiring drive for Balochistan youth
+[2026-11-08 03:29:48 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 264/400 chars, resolved=True): Conflict Between India and Pakistan
+[2026-11-08 03:29:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecab15bf41b08aa9da87ab52617
+[2026-11-08 03:29:48 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Newspaper - Front Page - November 7, 2026
+[2026-11-08 03:29:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 298/400 chars, resolved=True): Shehbaz orders nationwide digital payments roadmap, approves TDAP over
+[2026-11-08 03:29:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecad17a844479e9bdfb29c91d76
+[2026-11-08 03:29:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): 1 injured in explosion at Ghaziabad police outpost, top cop says all a
+[2026-11-08 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 346/400 chars, resolved=True): Pakistan seeks diplomatic glory abroad, hides repression at home
+[2026-11-08 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecad17a844479e9bdfb29c91d76
+[2026-11-08 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): 7 killed in Pakistan crackdown on POK protest, protesters allege attac
+[2026-11-08 03:29:51 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
