@@ -23607,3 +23607,15 @@
 [2026-11-08 11:31:06 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1728 in / 601 out tokens
 [2026-11-08 03:29:57 PM] [NEWS_BOT] [SUCCESS] Published: KP plans to set up faceless ATCs, spend Rs70bn on CTD and police in a year as part of counterterrorism initiatives
 [2026-11-08 03:29:58 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1564 in / 646 out tokens
+[2026-11-08 03:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af09577f65f4f29af612b0e6fc61d8
+[2026-11-08 03:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 190/400 chars, resolved=True): Elites in Pakistan preparing escape abroad as ordinary citizens face m
+[2026-11-08 03:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af09577f65f4f29af612b0e6fc61d8
+[2026-11-08 03:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Shehbaz Sharif extends Diwali wishes, hails Pakistan's Hindus
+[2026-11-08 03:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af09577f65f4f29af612b0e6fc61d8
+[2026-11-08 03:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Sindh pushes industry hiring drive for Balochistan youth
+[2026-11-08 03:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af095785d2e473ba28f25562c2c625
+[2026-11-08 03:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 129/400 chars, resolved=True): Newspaper - Karachi - November 8, 2026
+[2026-11-08 03:30:01 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 298/400 chars, resolved=True): Govt shifts domestic LPG sales to auctions to curb price distortions, 
+[2026-11-08 03:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 346/400 chars, resolved=True): Pakistan seeks diplomatic glory abroad, hides repression at home
+[2026-11-08 03:30:29 PM] [JOBS_BOT] [SUCCESS] Published: Karachi Police Update on Inspector Javed Abro Incident
+[2026-11-08 03:30:30 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 815 in / 454 out tokens
