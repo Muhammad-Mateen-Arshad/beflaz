@@ -23438,3 +23438,10 @@
 [2026-11-08 03:29:53 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): Netflix expands 'Stranger Things' universe with 1950s prequel 'Other W
 [2026-11-08 03:30:09 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Officially Confirms a Release Date for Its 'Arcane' Replacement
 [2026-11-08 03:30:10 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1531 in / 517 out tokens
+[2026-11-08 03:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecc20b6b4d6da165f91dc2cc483
+[2026-11-08 03:30:10 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Melania Trump’s LSU-Alabama visit tied to $5 million foster-care endow
+[2026-11-08 03:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecc20b6b4d6da165f91dc2cc483
+[2026-11-08 03:30:11 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Full circle: SM scholar gives back at home and in the classroom
+[2026-11-08 03:30:12 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-08 03:30:34 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of Waikato PhD Scholarship 2026 Overview
+[2026-11-08 03:30:36 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1505 in / 594 out tokens
