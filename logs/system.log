@@ -23539,3 +23539,13 @@
 [2026-11-08 10:50:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05411e2b8454eab6ff4498e4071c
 [2026-11-08 10:50:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Energy levels, not pain, drive physical activity in older adults
 [2026-11-08 10:50:58 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-08 10:50:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05413ec5e42a4b3503bc25492a91
+[2026-11-08 10:50:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Did These Scientists Find Evidence of Blood in a Dinosaur Bone?
+[2026-11-08 10:50:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05413ec5e42a4b3503bc25492a91
+[2026-11-08 10:50:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Chemists confirmed blood-derived heme inside fossilized red blood cell
+[2026-11-08 10:51:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 228/400 chars, resolved=True): All about Rex
+[2026-11-08 10:51:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05414077f41838995b17207e9c68
+[2026-11-08 10:51:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 91/400 chars, resolved=True): China is planning to send AI and deep-sea robots on a hunt for its anc
+[2026-11-08 10:51:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-08 10:51:32 AM] [HISTORY_BOT] [SUCCESS] Published: Johns Hopkins: The University That Expanded My World
+[2026-11-08 10:51:32 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1410 in / 432 out tokens
