@@ -23739,3 +23739,9 @@
 [2026-11-08 07:31:38 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 13}
 [2026-11-08 11:14:52 PM] [NEWS_BOT] [SUCCESS] Published: Eisenkot says Israel in 'devastating diplomatic crisis' as he seeks to form govt
 [2026-11-08 11:14:53 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1518 in / 569 out tokens
+[2026-11-08 11:14:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1026d75a842649565fb695dca4c3
+[2026-11-08 11:14:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 190/400 chars, resolved=True): Elites in Pakistan preparing escape abroad as ordinary citizens face m
+[2026-11-08 11:14:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1026d75a842649565fb695dca4c3
+[2026-11-08 11:14:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Shehbaz Sharif extends Diwali wishes, hails Pakistan's Hindus
+[2026-11-08 11:15:19 PM] [JOBS_BOT] [SUCCESS] Published: Draft Auto Policy 2026-31: Overview and Key Focus
+[2026-11-08 11:15:20 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1598 in / 476 out tokens
