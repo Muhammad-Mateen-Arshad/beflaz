@@ -23737,3 +23737,5 @@
 [2026-11-08 07:31:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0ce1a56fa4dd7b912bcd29704f4c
 [2026-11-08 07:31:38 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Researchers surveyed ancient Arabian desert, finding evidence of lakes
 [2026-11-08 07:31:38 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 13}
+[2026-11-08 11:14:52 PM] [NEWS_BOT] [SUCCESS] Published: Eisenkot says Israel in 'devastating diplomatic crisis' as he seeks to form govt
+[2026-11-08 11:14:53 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1518 in / 569 out tokens
