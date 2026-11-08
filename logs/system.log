@@ -23575,3 +23575,7 @@
 [2026-11-08 11:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-08 11:30:22 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix announces Stranger Things prequel Other Worlds: A Stranger Things Adventure, set for 2028 release
 [2026-11-08 11:30:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1532 in / 424 out tokens
+[2026-11-08 11:30:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af05d50cc64418fbb5befa1d5415e8
+[2026-11-08 11:30:24 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 120/400 chars, resolved=True): Five National University students get US Scholarships
+[2026-11-08 11:30:40 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Scholarships and Mentorship for Teachers of Colour
+[2026-11-08 11:30:41 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1559 in / 486 out tokens
