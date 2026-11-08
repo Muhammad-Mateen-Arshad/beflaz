@@ -23807,3 +23807,7 @@
 [2026-11-08 11:30:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af10600036f4e63a1ea7a54d381293
 [2026-11-08 11:30:09 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-08 11:30:09 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-11-08 11:30:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af10601a19f4ecaab7694b1e606a13
+[2026-11-08 11:30:09 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 120/400 chars, resolved=True): Five National University students get US Scholarships
+[2026-11-08 11:30:41 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Teen Pilot Aviation Training and FAA Requirements 2025
+[2026-11-08 11:30:42 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1928 in / 554 out tokens
