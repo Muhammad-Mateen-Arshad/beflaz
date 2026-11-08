@@ -23761,3 +23761,8 @@
 [2026-11-08 11:15:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1028cd4fb449c8882d07e53d1113
 [2026-11-08 11:15:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-08 11:15:24 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-08 11:15:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1028cad8d4d3994cb34dd1ad0f71
+[2026-11-08 11:15:25 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 120/400 chars, resolved=True): Five National University students get US Scholarships
+[2026-11-08 11:15:26 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-08 11:15:46 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistan Higher Education Reform Crisis and Fulbright Update
+[2026-11-08 11:15:47 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 984 in / 373 out tokens
