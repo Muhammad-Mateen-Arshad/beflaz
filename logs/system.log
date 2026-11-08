@@ -23445,3 +23445,16 @@
 [2026-11-08 03:30:12 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-08 03:30:34 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of Waikato PhD Scholarship 2026 Overview
 [2026-11-08 03:30:36 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1505 in / 594 out tokens
+[2026-11-08 03:30:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-08 03:30:38 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-08 03:30:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecde3bc74ff999370f1fe0a56b1
+[2026-11-08 03:30:38 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): Health Experts Want The FDA To Define Ultra-Processed Foods – Here’s W
+[2026-11-08 03:30:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecde3bc74ff999370f1fe0a56b1
+[2026-11-08 03:30:38 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): The daily habits that have the biggest impact on healthy aging
+[2026-11-08 03:30:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecde003643aea0fcdcecb3b2870
+[2026-11-08 03:30:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Movement Bout Variability Linked to Daily Cognition in Older Adults
+[2026-11-08 03:30:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecde003643aea0fcdcecb3b2870
+[2026-11-08 03:30:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): Can a competition measure how well you're aging? A Bay Area expert is 
+[2026-11-08 03:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecde003643aea0fcdcecb3b2870
+[2026-11-08 03:30:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
+[2026-11-08 03:30:40 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
