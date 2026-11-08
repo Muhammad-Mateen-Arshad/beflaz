@@ -23510,3 +23510,9 @@
 [2026-11-08 07:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af02524654f430ca2219994838c0c8
 [2026-11-08 07:30:46 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Movement Bout Variability Linked to Daily Cognition in Older Adults
 [2026-11-08 07:30:46 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-08 07:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0252668044985a331bbe44e6f99b
+[2026-11-08 07:30:46 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Chemists confirmed blood-derived heme inside fossilized red blood cell
+[2026-11-08 07:30:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0252668044985a331bbe44e6f99b
+[2026-11-08 07:30:46 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): One of the most complete triceratops skeletons in the world
+[2026-11-08 07:31:03 AM] [HISTORY_BOT] [SUCCESS] Published: 10 Komodo Facts That Are True And 4 That Are Total Myths
+[2026-11-08 07:31:04 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1421 in / 524 out tokens
