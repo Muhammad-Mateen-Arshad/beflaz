@@ -23516,3 +23516,7 @@
 [2026-11-08 07:30:46 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): One of the most complete triceratops skeletons in the world
 [2026-11-08 07:31:03 AM] [HISTORY_BOT] [SUCCESS] Published: 10 Komodo Facts That Are True And 4 That Are Total Myths
 [2026-11-08 07:31:04 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1421 in / 524 out tokens
+[2026-11-08 10:49:07 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-08 10:49:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-08 10:49:49 AM] [NEWS_BOT] [SUCCESS] Published: KP plans to set up faceless ATCs, spend Rs70bn on CTD and police in a year as part of initiatives against terrorism
+[2026-11-08 10:49:49 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1519 in / 509 out tokens
