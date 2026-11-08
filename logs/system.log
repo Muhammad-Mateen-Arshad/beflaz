@@ -23822,3 +23822,17 @@
 [2026-11-08 11:30:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af10624858a4c6e9f573234cca6b0a
 [2026-11-08 11:30:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
 [2026-11-08 11:30:45 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-08 11:30:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af106254c0b4635a2bb1b311a8ffdb
+[2026-11-08 11:30:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Did These Scientists Find Evidence of Blood in a Dinosaur Bone?
+[2026-11-08 11:30:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af106254c0b4635a2bb1b311a8ffdb
+[2026-11-08 11:30:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): A retired poultry farmer bought a sandstone block for his garden wall 
+[2026-11-08 11:30:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 246/400 chars, resolved=True): All about Rex
+[2026-11-08 11:30:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af10627d77b447c968e6de6ee6aa54
+[2026-11-08 11:30:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-08 11:30:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af10627d77b447c968e6de6ee6aa54
+[2026-11-08 11:30:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): The real history behind 10 famous ancient events
+[2026-11-08 11:30:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af10627d77b447c968e6de6ee6aa54
+[2026-11-08 11:30:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): 15 lost cities discovered in the last 10 years
+[2026-11-08 11:30:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af106274ac3437495755dfd5488635
+[2026-11-08 11:30:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Researchers surveyed ancient Arabian desert, finding evidence of lakes
+[2026-11-08 11:30:47 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 13}
