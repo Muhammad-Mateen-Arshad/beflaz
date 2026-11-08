@@ -23472,3 +23472,5 @@
 [2026-11-08 03:30:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefece2d82f47ff9773c78a66d3ed4
 [2026-11-08 03:30:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
 [2026-11-08 03:30:42 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 13}
+[2026-11-08 07:29:44 AM] [NEWS_BOT] [SUCCESS] Published: Sindh CM declares Tharparkar drought-hit, orders relief measures
+[2026-11-08 07:29:44 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1498 in / 604 out tokens
