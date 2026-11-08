@@ -23657,3 +23657,6 @@
 [2026-11-08 05:18:47 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): What Happens When AI Is the President’s Advisor?
 [2026-11-08 05:18:48 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1679 in / 502 out tokens
 [2026-11-08 05:18:48 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 5, 'rejected': 1}
+[2026-11-08 05:18:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-08 05:19:30 PM] [DRAMAS_BOT] [SUCCESS] Published: FNE at Connecting Cottbus 2026: cocoPITCH Projects – Part One
+[2026-11-08 05:19:31 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1638 in / 616 out tokens
