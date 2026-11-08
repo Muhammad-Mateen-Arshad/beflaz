@@ -23687,3 +23687,7 @@
 [2026-11-08 05:20:36 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1465 in / 519 out tokens
 [2026-11-08 07:29:53 PM] [NEWS_BOT] [SUCCESS] Published: PML-N retains both Gujranwala's NA-77 and Sahiwal's PP-203, unofficial results show
 [2026-11-08 07:29:54 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1740 in / 601 out tokens
+[2026-11-08 07:29:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0cdb2bc234105951326cf0f3dce1
+[2026-11-08 07:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 190/400 chars, resolved=True): Elites in Pakistan preparing escape abroad as ordinary citizens face m
+[2026-11-08 07:30:14 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Auto Policy 2026-31 Overview and Key Impact
+[2026-11-08 07:30:16 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1818 in / 649 out tokens
