@@ -23360,3 +23360,5 @@
 [2026-11-07 11:30:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefb4a99da74c3393b3af4277612aa
 [2026-11-07 11:30:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): Tiny Chihuahuas Hold a Big Surprise: A Sliver of Coyote DNA
 [2026-11-07 11:30:50 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-08 02:54:50 AM] [NEWS_BOT] [SUCCESS] Published: PHC removes pleas against emergency, detentions from cause lists
+[2026-11-08 02:54:51 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1522 in / 546 out tokens
