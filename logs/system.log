@@ -23777,3 +23777,17 @@
 [2026-11-08 11:16:33 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1335 in / 472 out tokens
 [2026-11-08 11:29:43 PM] [NEWS_BOT] [SUCCESS] Published: Husband held, investigation launched after anchorperson shot dead at Rawalpindi home
 [2026-11-08 11:29:43 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 836 in / 499 out tokens
+[2026-11-08 11:29:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af105e8a3c54b7395fee669dffa4f8
+[2026-11-08 11:29:44 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 190/400 chars, resolved=True): Elites in Pakistan preparing escape abroad as ordinary citizens face m
+[2026-11-08 11:29:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af105e8a3c54b7395fee669dffa4f8
+[2026-11-08 11:29:44 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Shehbaz Sharif extends Diwali wishes, hails Pakistan's Hindus
+[2026-11-08 11:29:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af105e8a3c54b7395fee669dffa4f8
+[2026-11-08 11:29:44 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Sindh pushes industry hiring drive for Balochistan youth
+[2026-11-08 11:29:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af105e82151477b895ef115335920d
+[2026-11-08 11:29:45 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): India-Pakistan tensions
+[2026-11-08 11:29:45 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 290/400 chars, resolved=True): KP unveils Rs70bn security boost, proposes faceless courts to bolster 
+[2026-11-08 11:29:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af105e82151477b895ef115335920d
+[2026-11-08 11:29:45 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 95/400 chars, resolved=True): Newspaper - Front Page - November 8, 2026
+[2026-11-08 11:29:46 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 346/400 chars, resolved=True): Pakistan seeks diplomatic glory abroad, hides repression at home
+[2026-11-08 11:30:04 PM] [JOBS_BOT] [SUCCESS] Published: Pakistani Engineer Develops Restaurant Robots in Karachi
+[2026-11-08 11:30:05 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1134 in / 437 out tokens
