@@ -23745,3 +23745,19 @@
 [2026-11-08 11:14:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Shehbaz Sharif extends Diwali wishes, hails Pakistan's Hindus
 [2026-11-08 11:15:19 PM] [JOBS_BOT] [SUCCESS] Published: Draft Auto Policy 2026-31: Overview and Key Focus
 [2026-11-08 11:15:20 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1598 in / 476 out tokens
+[2026-11-08 11:15:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-08 11:15:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1028a3d324708ace9225ecd17bb5
+[2026-11-08 11:15:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-08 11:15:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1028a3d324708ace9225ecd17bb5
+[2026-11-08 11:15:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-08 11:15:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1028a3d324708ace9225ecd17bb5
+[2026-11-08 11:15:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-08 11:15:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1028a3d324708ace9225ecd17bb5
+[2026-11-08 11:15:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-08 11:15:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1028b008f4ed183dc581d739e388
+[2026-11-08 11:15:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): Jessica Chastain’s Dark Thriller, Power & More Netflix Releases This W
+[2026-11-08 11:15:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1028b008f4ed183dc581d739e388
+[2026-11-08 11:15:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 116/300 chars, resolved=True): 2026’s Predator Series & More Hulu Releases This Week
+[2026-11-08 11:15:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1028cd4fb449c8882d07e53d1113
+[2026-11-08 11:15:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-08 11:15:24 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
