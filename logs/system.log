@@ -23707,3 +23707,19 @@
 [2026-11-08 07:30:49 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-08 07:31:12 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: National University WUST Fully Funded Scholarships 2026
 [2026-11-08 07:31:13 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 678 in / 486 out tokens
+[2026-11-08 07:31:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-08 07:31:14 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-08 07:31:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0ce036a124039be39e4a53185e9f
+[2026-11-08 07:31:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 126/800 chars, resolved=True): Health Experts Want The FDA To Define Ultra-Processed Foods – Here’s W
+[2026-11-08 07:31:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0ce036a124039be39e4a53185e9f
+[2026-11-08 07:31:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 165/800 chars, resolved=True): Why vitamin D is so important for older adults, and how to get enough
+[2026-11-08 07:31:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-08 07:31:35 PM] [HEALTH_BOT] [INFO] Rejected by quality gate (risky health claim wording): Should You Wear a Mask Indoors When AQI Is Extremely Poor? Doctors Exp
+[2026-11-08 07:31:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0ce17735147729ed2d1de987ed22
+[2026-11-08 07:31:35 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 142/800 chars, resolved=True): Not medicine, not exercise: Scientists say this simple change could sl
+[2026-11-08 07:31:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0ce17735147729ed2d1de987ed22
+[2026-11-08 07:31:36 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): Can a competition measure how well you're aging? A Bay Area expert is 
+[2026-11-08 07:31:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0ce17735147729ed2d1de987ed22
+[2026-11-08 07:31:36 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
+[2026-11-08 07:31:36 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1476 in / 551 out tokens
+[2026-11-08 07:31:36 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 6, 'rejected': 1}
