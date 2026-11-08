@@ -23362,3 +23362,7 @@
 [2026-11-07 11:30:50 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
 [2026-11-08 02:54:50 AM] [NEWS_BOT] [SUCCESS] Published: PHC removes pleas against emergency, detentions from cause lists
 [2026-11-08 02:54:51 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1522 in / 546 out tokens
+[2026-11-08 02:54:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefe47baf7143848bfa703fd4f2667
+[2026-11-08 02:54:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Sindh pushes industry hiring drive for Balochistan youth
+[2026-11-08 02:55:09 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Overseas Employment and Migration Report 2026
+[2026-11-08 02:55:10 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1255 in / 540 out tokens
