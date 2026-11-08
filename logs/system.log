@@ -23678,3 +23678,10 @@
 [2026-11-08 05:20:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0af421a8447969d8db3845480709
 [2026-11-08 05:20:03 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): Can a competition measure how well you're aging? A Bay Area expert is 
 [2026-11-08 05:20:03 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-08 05:20:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0af44231d4a2c8c833daefb8769b
+[2026-11-08 05:20:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Did These Scientists Find Evidence of Blood in a Dinosaur Bone?
+[2026-11-08 05:20:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0af44231d4a2c8c833daefb8769b
+[2026-11-08 05:20:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Chemists confirmed blood-derived heme inside fossilized red blood cell
+[2026-11-08 05:20:05 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-08 05:20:35 PM] [HISTORY_BOT] [SUCCESS] Published: A 324 million-year-old fossil at a San Diego museum is upending what we know about natural history
+[2026-11-08 05:20:36 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1465 in / 519 out tokens
