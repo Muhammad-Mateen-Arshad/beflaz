@@ -23634,3 +23634,8 @@
 [2026-11-08 03:31:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af095cca2544658a87bebcd799ad5f
 [2026-11-08 03:31:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): The daily habits that have the biggest impact on healthy aging
 [2026-11-08 03:31:26 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-08 03:31:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af095ce0ab8433195782c6507cc2d1
+[2026-11-08 03:31:27 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Did These Scientists Find Evidence of Blood in a Dinosaur Bone?
+[2026-11-08 03:31:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-08 03:32:00 PM] [HISTORY_BOT] [SUCCESS] Published: Evidence of red blood cells seen in dinosaur fossil from Brazil
+[2026-11-08 03:32:00 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1076 in / 551 out tokens
