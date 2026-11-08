@@ -23424,3 +23424,17 @@
 [2026-11-08 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecad17a844479e9bdfb29c91d76
 [2026-11-08 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): 7 killed in Pakistan crackdown on POK protest, protesters allege attac
 [2026-11-08 03:29:51 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-11-08 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecafc2a846328f016e8f2f62ea6
+[2026-11-08 03:29:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-08 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecafc2a846328f016e8f2f62ea6
+[2026-11-08 03:29:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-08 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecafc2a846328f016e8f2f62ea6
+[2026-11-08 03:29:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-08 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecafc2a846328f016e8f2f62ea6
+[2026-11-08 03:29:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-08 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecafc2a846328f016e8f2f62ea6
+[2026-11-08 03:29:52 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Beren Saat and Ekin Koç reunite for new film Tüm Yorgun Atlar after 10
+[2026-11-08 03:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecb055a84ee490ab4a302e5214b
+[2026-11-08 03:29:53 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): Netflix expands 'Stranger Things' universe with 1950s prequel 'Other W
+[2026-11-08 03:30:09 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Officially Confirms a Release Date for Its 'Arcane' Replacement
+[2026-11-08 03:30:10 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1531 in / 517 out tokens
