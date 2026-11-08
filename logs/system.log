@@ -23458,3 +23458,17 @@
 [2026-11-08 03:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefecde003643aea0fcdcecb3b2870
 [2026-11-08 03:30:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
 [2026-11-08 03:30:40 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-08 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefece03b0b41059e59d77860b06fc
+[2026-11-08 03:30:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Chemists confirmed blood-derived heme inside fossilized red blood cell
+[2026-11-08 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefece03b0b41059e59d77860b06fc
+[2026-11-08 03:30:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): This turkey-sized hell chicken lived alongside T rex and ate fruit, a 
+[2026-11-08 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefece03b0b41059e59d77860b06fc
+[2026-11-08 03:30:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Meet The Author: Riley Black Reveals A New Side To T. Rex In “Tyrant L
+[2026-11-08 03:30:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 228/400 chars, resolved=True): All about Rex
+[2026-11-08 03:30:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefece2d82f47ff9773c78a66d3ed4
+[2026-11-08 03:30:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 91/400 chars, resolved=True): China is planning to send AI and deep-sea robots on a hunt for its anc
+[2026-11-08 03:30:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefece2d82f47ff9773c78a66d3ed4
+[2026-11-08 03:30:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): 15 lost cities discovered in the last 10 years
+[2026-11-08 03:30:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefece2d82f47ff9773c78a66d3ed4
+[2026-11-08 03:30:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-08 03:30:42 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 13}
