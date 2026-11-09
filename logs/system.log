@@ -24139,3 +24139,11 @@
 [2026-11-09 11:30:25 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-09 11:30:48 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Locks Down January 2027 Release for New Anime – Watch the Trailer
 [2026-11-09 11:30:49 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1284 in / 478 out tokens
+[2026-11-09 11:30:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af257a9ef7c4650b0b9a22fa52973c
+[2026-11-09 11:30:50 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): China Announces Fully Funded Scholarship for Kenyans: Requirements and
+[2026-11-09 11:30:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af257a9ef7c4650b0b9a22fa52973c
+[2026-11-09 11:30:52 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): Toyota honours rising star with ‘once-in-a-lifetime’ trip
+[2026-11-09 11:30:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 11:30:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-09 11:31:37 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: The New Epicenter of Global Terror Article Details
+[2026-11-09 11:31:37 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1764 in / 490 out tokens
