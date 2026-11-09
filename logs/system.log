@@ -24032,3 +24032,12 @@
 [2026-11-09 12:18:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1ba0b0fba42b9b510988dc8bff3a
 [2026-11-09 12:18:20 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): Can a competition measure how well you're aging? A Bay Area expert is 
 [2026-11-09 12:18:20 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
+[2026-11-09 12:18:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1ba0cd7464d72ac77907b758b188
+[2026-11-09 12:18:21 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): What science loses when 'T rex' becomes a trophy
+[2026-11-09 12:18:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1ba0cd7464d72ac77907b758b188
+[2026-11-09 12:18:21 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): NZ has unique stories of evolution and geology. Is it time for a natur
+[2026-11-09 12:18:21 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 246/400 chars, resolved=True): All about Rex
+[2026-11-09 12:18:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1ba0d1a5b4bf69aab89b295060bb
+[2026-11-09 12:18:22 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Work to save the Afghan capital’s crumbling ancient fortress uncovers 
+[2026-11-09 12:18:47 PM] [HISTORY_BOT] [SUCCESS] Published: Archaeologists have discovered a Buddhist monastery and a Mughal palace in Afghanistan
+[2026-11-09 12:18:49 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1504 in / 542 out tokens
