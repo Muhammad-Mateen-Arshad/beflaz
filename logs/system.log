@@ -24127,3 +24127,15 @@
 [2026-11-09 11:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): The Latest: Republican Rep. Thomas Massie files resolution to impeach 
 [2026-11-09 11:30:21 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Social Protection and Pension Reform Updates
 [2026-11-09 11:30:22 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1811 in / 587 out tokens
+[2026-11-09 11:30:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-09 11:30:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2578f3af04dd080ff956a828f002
+[2026-11-09 11:30:23 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-09 11:30:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2578f3af04dd080ff956a828f002
+[2026-11-09 11:30:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-09 11:30:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25790fe2746c5a73e7d79eb4fad4
+[2026-11-09 11:30:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 150/300 chars, resolved=True): 5 best Netflix series to binge-watch this week (Nov 9–13, 2026)
+[2026-11-09 11:30:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25790fe2746c5a73e7d79eb4fad4
+[2026-11-09 11:30:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): OTT releases this week (Nov 9-15): New movies and shows on Netflix, Pr
+[2026-11-09 11:30:25 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 11:30:48 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Locks Down January 2027 Release for New Anime – Watch the Trailer
+[2026-11-09 11:30:49 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1284 in / 478 out tokens
