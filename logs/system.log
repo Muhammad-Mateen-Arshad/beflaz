@@ -24117,3 +24117,7 @@
 [2026-11-09 07:34:35 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-09 07:34:36 PM] [HEALTH_BOT] [SUCCESS] Published: Older adults aging where they choose: Possibility or illusion?
 [2026-11-09 07:34:37 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1309 in / 493 out tokens
+[2026-11-09 07:34:39 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 07:35:15 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-09 07:35:16 PM] [HISTORY_BOT] [SUCCESS] Published: Museum Fossils Reveal Giant New Dinosaur Hidden for 25 Years
+[2026-11-09 07:35:17 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1325 in / 598 out tokens
