@@ -24109,3 +24109,11 @@
 [2026-11-09 07:33:12 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): China Announces Fully Funded Scholarship for Kenyans: Requirements and
 [2026-11-09 07:33:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: New Mexico Education Reform Action Plan Updates 2027
 [2026-11-09 07:33:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1527 in / 421 out tokens
+[2026-11-09 07:33:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-09 07:33:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-09 07:33:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2201fcecd444991c4a374df8b695
+[2026-11-09 07:33:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-09 07:33:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 07:34:35 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-09 07:34:36 PM] [HEALTH_BOT] [SUCCESS] Published: Older adults aging where they choose: Possibility or illusion?
+[2026-11-09 07:34:37 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1309 in / 493 out tokens
