@@ -24105,3 +24105,7 @@
 [2026-11-09 07:32:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-11-09 07:33:10 PM] [DRAMAS_BOT] [SUCCESS] Published: OTT Releases This Week (Nov 9 To 15, 2026): Top New Movies, Series On Netflix, Prime Video, JioHotstar And Others
 [2026-11-09 07:33:11 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1276 in / 712 out tokens
+[2026-11-09 07:33:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af21ff8c07f48d4a34d4760d0c3271
+[2026-11-09 07:33:12 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): China Announces Fully Funded Scholarship for Kenyans: Requirements and
+[2026-11-09 07:33:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: New Mexico Education Reform Action Plan Updates 2027
+[2026-11-09 07:33:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1527 in / 421 out tokens
