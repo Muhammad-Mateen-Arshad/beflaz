@@ -24158,3 +24158,9 @@
 [2026-11-09 11:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af257db503b4f7cb19fdaa3c5bf429
 [2026-11-09 11:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): 6 hobbies that may help slow brain aging
 [2026-11-09 11:31:40 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-09 11:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af257dc8b7b4e958e3b031f66343a1
+[2026-11-09 11:31:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): Rare 167-million-year-old dinosaur fossil to be auctioned in France fo
+[2026-11-09 11:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af257dc8b7b4e958e3b031f66343a1
+[2026-11-09 11:31:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 99/400 chars, resolved=True): Forget Mosquitoes in Amber. Scientists May Have Found Dinosaur Blood i
+[2026-11-09 11:32:05 PM] [HISTORY_BOT] [SUCCESS] Published: Dinosaurs News
+[2026-11-09 11:32:07 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1840 in / 568 out tokens
