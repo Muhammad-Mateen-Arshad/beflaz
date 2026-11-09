@@ -24089,3 +24089,6 @@
 [2026-11-09 07:29:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-09 07:30:28 PM] [NEWS_BOT] [SUCCESS] Published: ‘From terrorism to tourism’: Kundi presents vision for KP as South Air launches Peshawar-Lahore flight
 [2026-11-09 07:30:30 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 951 in / 465 out tokens
+[2026-11-09 07:30:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 07:31:12 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Report on Domestic Challenges and Foreign Affairs
+[2026-11-09 07:31:14 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1204 in / 452 out tokens
