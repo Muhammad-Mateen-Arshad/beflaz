@@ -24045,3 +24045,14 @@
 [2026-11-09 03:30:08 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1036 in / 501 out tokens
 [2026-11-09 03:30:44 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan National Cricket Team Squad Announcement
 [2026-11-09 03:30:45 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1021 in / 422 out tokens
+[2026-11-09 03:30:59 PM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (89 words, need 150)): Zvyagintsev’s ‘Minotaur’ Kicks off 67th Thessaloniki International Fil
+[2026-11-09 03:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e726d4654b82ad52dd3fb2fe94d
+[2026-11-09 03:30:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-09 03:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e73380384a67bc3b925314bc01b
+[2026-11-09 03:30:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): OTT releases this week (Nov 9-15): New movies and shows on Netflix, Pr
+[2026-11-09 03:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e73380384a67bc3b925314bc01b
+[2026-11-09 03:30:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix confirms two seasons for Twilight animated seriesPublished on:
+[2026-11-09 03:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e73380384a67bc3b925314bc01b
+[2026-11-09 03:31:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): Jessica Chastain’s Dark Thriller, Power & More Netflix Releases This W
+[2026-11-09 03:31:25 PM] [DRAMAS_BOT] [SUCCESS] Published: The 8 Best New Netflix Shows and Movies to Watch in November 2026
+[2026-11-09 03:31:26 PM] [DRAMAS_BOT] [INFO] AI usage: 2 calls, 1915 in / 791 out tokens
