@@ -23875,3 +23875,13 @@
 [2026-11-09 03:16:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13b29131c42609987f2c00990391
 [2026-11-09 03:16:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
 [2026-11-09 03:16:58 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-09 03:16:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13b2b34b14b6ead1d8054ee4eec0
+[2026-11-09 03:16:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Did These Scientists Find Evidence of Blood in a Dinosaur Bone?
+[2026-11-09 03:16:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13b2b34b14b6ead1d8054ee4eec0
+[2026-11-09 03:16:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): NZ has unique stories of evolution and geology. Is it time for a natur
+[2026-11-09 03:17:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 246/400 chars, resolved=True): All about Rex
+[2026-11-09 03:17:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13b2c94ec4e7986d6e053cfb0f05
+[2026-11-09 03:17:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-09 03:17:02 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 03:17:27 AM] [HISTORY_BOT] [SUCCESS] Published: Egypt & Switzerland Explore New Archaeological Partnerships At Cairo Forum
+[2026-11-09 03:17:28 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 835 in / 460 out tokens
