@@ -24007,3 +24007,14 @@
 [2026-11-09 11:32:31 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1230 in / 550 out tokens
 [2026-11-09 12:15:53 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan post 281-5 to punish Sri Lanka in first Test
 [2026-11-09 12:15:54 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 766 in / 549 out tokens
+[2026-11-09 12:15:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1b97b94a84cc7aae379defcddbfb
+[2026-11-09 12:15:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Shehbaz Sharif extends Diwali wishes, hails Pakistan's Hindus
+[2026-11-09 12:15:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 290/400 chars, resolved=True): Leaders across provinces reaffirm minority rights, interfaith harmony 
+[2026-11-09 12:15:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1b97bb4b64382a846f6e3e4d1e8a
+[2026-11-09 12:15:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Newspaper - Front Page - November 8, 2026
+[2026-11-09 12:15:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1b97c81db42f0bb2a8836fbc9900
+[2026-11-09 12:15:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Biden bungled Afghan vetting. Trump must do a fresh review.
+[2026-11-09 12:15:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1b97c81db42f0bb2a8836fbc9900
+[2026-11-09 12:15:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Rupiah Faces Pressure as Strong US Jobs Data Boosts Dollar
+[2026-11-09 12:16:59 PM] [JOBS_BOT] [SUCCESS] Published: WAPDA BPS-17 Recruitment for Engineers & Officers
+[2026-11-09 12:17:00 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1477 in / 719 out tokens
