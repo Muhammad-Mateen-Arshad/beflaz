@@ -23993,3 +23993,12 @@
 [2026-11-09 11:30:55 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 929 in / 542 out tokens
 [2026-11-09 11:31:42 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: W.M. Tapp Studentships in Law 2027: Application Guide
 [2026-11-09 11:31:43 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1532 in / 620 out tokens
+[2026-11-09 11:31:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-09 11:31:44 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-09 11:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1af202d0043e8a75872ffcaae432
+[2026-11-09 11:31:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 142/800 chars, resolved=True): Not medicine, not exercise: Scientists say this simple change could sl
+[2026-11-09 11:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1af202d0043e8a75872ffcaae432
+[2026-11-09 11:31:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 145/800 chars, resolved=True): Can a competition measure how well you're aging? A Bay Area expert is 
+[2026-11-09 11:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1af202d0043e8a75872ffcaae432
+[2026-11-09 11:31:45 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
+[2026-11-09 11:31:45 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
