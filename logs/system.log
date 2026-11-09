@@ -23967,3 +23967,8 @@
 [2026-11-09 07:30:52 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-09 07:31:25 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Toyota GR Cup Kaizen Award 2026: Details and Benefits
 [2026-11-09 07:31:27 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 983 in / 598 out tokens
+[2026-11-09 07:31:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-09 07:31:29 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-09 07:31:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 07:31:57 AM] [HEALTH_BOT] [SUCCESS] Published: AQI at Its Worst: Delhi, Gurugram and Mumbai Struggle to Breathe as Pollution Levels Soar Across Cities
+[2026-11-09 07:31:58 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1528 in / 586 out tokens
