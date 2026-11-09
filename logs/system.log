@@ -24085,3 +24085,7 @@
 [2026-11-09 03:32:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e7a884754fd1a44d277e0d1b837
 [2026-11-09 03:32:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
 [2026-11-09 03:32:56 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-11-09 07:29:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-09 07:29:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-09 07:30:28 PM] [NEWS_BOT] [SUCCESS] Published: ‘From terrorism to tourism’: Kundi presents vision for KP as South Air launches Peshawar-Lahore flight
+[2026-11-09 07:30:30 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 951 in / 465 out tokens
