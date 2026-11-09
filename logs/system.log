@@ -24069,3 +24069,19 @@
 [2026-11-09 03:32:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-09 03:32:53 PM] [HEALTH_BOT] [SUCCESS] Published: Full-Fat Dairy Back in the Spotlight: Does Whole Milk Deserve Its Bad Reputation?
 [2026-11-09 03:32:54 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1307 in / 563 out tokens
+[2026-11-09 03:32:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e7a7908748ce91a07c3698b4e17
+[2026-11-09 03:32:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 99/400 chars, resolved=True): Forget Mosquitoes in Amber. Scientists May Have Found Dinosaur Blood i
+[2026-11-09 03:32:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e7a7908748ce91a07c3698b4e17
+[2026-11-09 03:32:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): What science loses when 'T rex' becomes a trophy
+[2026-11-09 03:32:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e7a7908748ce91a07c3698b4e17
+[2026-11-09 03:32:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): NZ has unique stories of evolution and geology. Is it time for a natur
+[2026-11-09 03:32:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 246/400 chars, resolved=True): All about Rex
+[2026-11-09 03:32:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e7a884754fd1a44d277e0d1b837
+[2026-11-09 03:32:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-09 03:32:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e7a884754fd1a44d277e0d1b837
+[2026-11-09 03:32:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Archaeological treasures uncovered beneath Kabul's crumbling ancient f
+[2026-11-09 03:32:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e7a884754fd1a44d277e0d1b837
+[2026-11-09 03:32:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Work to save the Afghan capital’s crumbling ancient fortress uncovers 
+[2026-11-09 03:32:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e7a884754fd1a44d277e0d1b837
+[2026-11-09 03:32:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-09 03:32:56 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
