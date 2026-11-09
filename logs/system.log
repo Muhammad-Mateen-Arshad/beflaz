@@ -23915,3 +23915,10 @@
 [2026-11-09 03:30:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13e5d15fb41fca2110dc5e6a8a93
 [2026-11-09 03:30:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-09 03:30:37 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-09 03:30:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13e5e69bf4c798d77df000fd8c0d
+[2026-11-09 03:30:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 120/400 chars, resolved=True): Five National University students get US Scholarships
+[2026-11-09 03:30:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13e5e62e04390b895f81aba17f55
+[2026-11-09 03:30:39 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): India’s 1971 Moment as Pakistan’s Alliances Put Somaliland in Focus
+[2026-11-09 03:30:40 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 03:31:02 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC National Skill Competency Test NSCT 2027 Guide
+[2026-11-09 03:31:03 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1189 in / 460 out tokens
