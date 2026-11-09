@@ -23981,3 +23981,10 @@
 [2026-11-09 07:32:52 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1533 in / 548 out tokens
 [2026-11-09 11:29:57 AM] [NEWS_BOT] [SUCCESS] Published: Water surges into nearby work areas after rock mass collapse at Tarbela Dam
 [2026-11-09 11:29:57 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 946 in / 500 out tokens
+[2026-11-09 11:29:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1aeb62971409e8b646294608a116
+[2026-11-09 11:29:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Shehbaz Sharif extends Diwali wishes, hails Pakistan's Hindus
+[2026-11-09 11:29:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 290/400 chars, resolved=True): KP unveils Rs70bn security boost, proposes faceless courts to bolster 
+[2026-11-09 11:29:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1aeb6bb2c413bbaf825895f2d921
+[2026-11-09 11:29:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 95/400 chars, resolved=True): Newspaper - Front Page - November 8, 2026
+[2026-11-09 11:30:27 AM] [JOBS_BOT] [SUCCESS] Published: Argentina Employment Overview and Economic Policy Update
+[2026-11-09 11:30:29 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1810 in / 416 out tokens
