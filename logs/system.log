@@ -24194,3 +24194,15 @@
 [2026-11-09 11:54:34 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-09 11:54:54 PM] [HEALTH_BOT] [SUCCESS] Published: Experts say you're probably wasting money on biotin for your hair. Here's what actually helps
 [2026-11-09 11:54:55 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1590 in / 563 out tokens
+[2026-11-09 11:54:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25d503cfc4f9d9020ea833877405
+[2026-11-09 11:54:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): Rare 167-million-year-old dinosaur fossil to be auctioned in France fo
+[2026-11-09 11:54:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25d503cfc4f9d9020ea833877405
+[2026-11-09 11:54:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 99/400 chars, resolved=True): Forget Mosquitoes in Amber. Scientists May Have Found Dinosaur Blood i
+[2026-11-09 11:54:57 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-09 11:54:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25d50071049c6aa0ca7d1d9c0f50
+[2026-11-09 11:54:57 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've reviewed hundreds of toys, here are 11 your 3-year-old will come 
+[2026-11-09 11:54:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25d510682476292c371cd1cb8b37
+[2026-11-09 11:54:57 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): New archaeological discoveries made at Etruscan necropolis in Italy
+[2026-11-09 11:54:58 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 11:55:21 PM] [HISTORY_BOT] [SUCCESS] Published: Archaeological treasures uncovered beneath Kabul’s crumbling ancient fortress
+[2026-11-09 11:55:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1566 in / 463 out tokens
