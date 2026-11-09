@@ -23836,3 +23836,5 @@
 [2026-11-08 11:30:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af106274ac3437495755dfd5488635
 [2026-11-08 11:30:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Researchers surveyed ancient Arabian desert, finding evidence of lakes
 [2026-11-08 11:30:47 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 13}
+[2026-11-09 03:15:44 AM] [NEWS_BOT] [SUCCESS] Published: Minister supports creation of up to 12 provinces
+[2026-11-09 03:15:45 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1400 in / 558 out tokens
