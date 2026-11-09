@@ -23885,3 +23885,6 @@
 [2026-11-09 03:17:02 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-09 03:17:27 AM] [HISTORY_BOT] [SUCCESS] Published: Egypt & Switzerland Explore New Archaeological Partnerships At Cairo Forum
 [2026-11-09 03:17:28 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 835 in / 460 out tokens
+[2026-11-09 03:29:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-09 03:29:50 AM] [NEWS_BOT] [SUCCESS] Published: Heatwaves in Punjab threaten agriculture, food security: UN
+[2026-11-09 03:29:51 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1388 in / 447 out tokens
