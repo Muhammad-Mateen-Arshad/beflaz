@@ -23888,3 +23888,14 @@
 [2026-11-09 03:29:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-09 03:29:50 AM] [NEWS_BOT] [SUCCESS] Published: Heatwaves in Punjab threaten agriculture, food security: UN
 [2026-11-09 03:29:51 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1388 in / 447 out tokens
+[2026-11-09 03:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13e2fc67b4aa29f7cc6d6635fb1e
+[2026-11-09 03:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 190/400 chars, resolved=True): Elites in Pakistan preparing escape abroad as ordinary citizens face m
+[2026-11-09 03:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13e2fc67b4aa29f7cc6d6635fb1e
+[2026-11-09 03:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Shehbaz Sharif extends Diwali wishes, hails Pakistan's Hindus
+[2026-11-09 03:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 290/400 chars, resolved=True): Leaders across provinces reaffirm minority rights, interfaith harmony 
+[2026-11-09 03:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13e30bb5d43108c558c5629ccb43
+[2026-11-09 03:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Newspaper - Front Page - November 8, 2026
+[2026-11-09 03:29:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 03:30:12 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Diwali Dhamaka 2.0: BJP Drops Operation Sindoor Video And Pakistan Get
+[2026-11-09 03:30:33 AM] [JOBS_BOT] [SUCCESS] Published: COP31 Climate Summit in Türkiye: Event Details
+[2026-11-09 03:30:34 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3416 in / 932 out tokens
