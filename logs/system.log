@@ -23962,3 +23962,8 @@
 [2026-11-09 07:30:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 125/300 chars, resolved=True): Other Worlds: All we know so far about the ‘Stranger Things’ prequel s
 [2026-11-09 07:30:45 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Love Is Blind’ Season 12: Everything We Know So Far
 [2026-11-09 07:30:46 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 788 in / 488 out tokens
+[2026-11-09 07:30:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af176a7d46c4d10a71ed9e8bb1afe4
+[2026-11-09 07:30:47 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 120/400 chars, resolved=True): Five National University students get US Scholarships
+[2026-11-09 07:30:52 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 07:31:25 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Toyota GR Cup Kaizen Award 2026: Details and Benefits
+[2026-11-09 07:31:27 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 983 in / 598 out tokens
