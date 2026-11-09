@@ -24092,3 +24092,16 @@
 [2026-11-09 07:30:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-09 07:31:12 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Report on Domestic Challenges and Foreign Affairs
 [2026-11-09 07:31:14 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1204 in / 452 out tokens
+[2026-11-09 07:31:15 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-09 07:31:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af21f8392f24772b889f21e6ded279
+[2026-11-09 07:31:16 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-09 07:31:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af21f84bd7d40a68cb01df4afba6ba
+[2026-11-09 07:31:16 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): OTT releases this week (Nov 9-15): New movies and shows on Netflix, Pr
+[2026-11-09 07:31:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af21f84bd7d40a68cb01df4afba6ba
+[2026-11-09 07:31:16 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 150/300 chars, resolved=True): 5 best Netflix series to binge-watch this week (Nov 9–13, 2026)
+[2026-11-09 07:31:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-09 07:31:34 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 07:31:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-09 07:32:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-09 07:33:10 PM] [DRAMAS_BOT] [SUCCESS] Published: OTT Releases This Week (Nov 9 To 15, 2026): Top New Movies, Series On Netflix, Prime Video, JioHotstar And Others
+[2026-11-09 07:33:11 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1276 in / 712 out tokens
