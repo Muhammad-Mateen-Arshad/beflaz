@@ -23838,3 +23838,9 @@
 [2026-11-08 11:30:47 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 13}
 [2026-11-09 03:15:44 AM] [NEWS_BOT] [SUCCESS] Published: Minister supports creation of up to 12 provinces
 [2026-11-09 03:15:45 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1400 in / 558 out tokens
+[2026-11-09 03:15:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13ae18fb243c2a69f6e7600a0b08
+[2026-11-09 03:15:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 190/400 chars, resolved=True): Elites in Pakistan preparing escape abroad as ordinary citizens face m
+[2026-11-09 03:15:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13ae18fb243c2a69f6e7600a0b08
+[2026-11-09 03:15:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Shehbaz Sharif extends Diwali wishes, hails Pakistan's Hindus
+[2026-11-09 03:16:06 AM] [JOBS_BOT] [SUCCESS] Published: Government Executive Overview and Contributor Details
+[2026-11-09 03:16:07 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 866 in / 431 out tokens
