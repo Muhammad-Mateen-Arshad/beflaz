@@ -23972,3 +23972,10 @@
 [2026-11-09 07:31:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-09 07:31:57 AM] [HEALTH_BOT] [SUCCESS] Published: AQI at Its Worst: Delhi, Gurugram and Mumbai Struggle to Breathe as Pollution Levels Soar Across Cities
 [2026-11-09 07:31:58 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1528 in / 586 out tokens
+[2026-11-09 07:31:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af176ee440d4bf0b91fe612fd39762
+[2026-11-09 07:31:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Did These Scientists Find Evidence of Blood in a Dinosaur Bone?
+[2026-11-09 07:31:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af176ee440d4bf0b91fe612fd39762
+[2026-11-09 07:31:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): NZ has unique stories of evolution and geology. Is it time for a natur
+[2026-11-09 07:32:00 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 07:32:51 AM] [HISTORY_BOT] [SUCCESS] Published: The giant pre-historic insect found by miners
+[2026-11-09 07:32:52 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1533 in / 548 out tokens
