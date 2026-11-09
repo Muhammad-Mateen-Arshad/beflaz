@@ -24147,3 +24147,14 @@
 [2026-11-09 11:30:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-09 11:31:37 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: The New Epicenter of Global Terror Article Details
 [2026-11-09 11:31:37 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1764 in / 490 out tokens
+[2026-11-09 11:31:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-09 11:31:38 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-09 11:31:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af257da91564326bb7f03f1070111a
+[2026-11-09 11:31:39 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-09 11:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af257db503b4f7cb19fdaa3c5bf429
+[2026-11-09 11:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): MIND Diet Linked to Better Cognitive Scores in Central China Older Adu
+[2026-11-09 11:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af257db503b4f7cb19fdaa3c5bf429
+[2026-11-09 11:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 142/800 chars, resolved=True): Not medicine, not exercise: Scientists say this simple change could sl
+[2026-11-09 11:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af257db503b4f7cb19fdaa3c5bf429
+[2026-11-09 11:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): 6 hobbies that may help slow brain aging
+[2026-11-09 11:31:40 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
