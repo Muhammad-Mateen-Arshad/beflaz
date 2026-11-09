@@ -24123,3 +24123,7 @@
 [2026-11-09 07:35:17 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1325 in / 598 out tokens
 [2026-11-09 11:29:52 PM] [NEWS_BOT] [SUCCESS] Published: 8 Pakistanis among global recipients of 2026 Diana Award recognising their social work
 [2026-11-09 11:29:53 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1481 in / 536 out tokens
+[2026-11-09 11:29:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2577165b34cb38ccb6f7e41c5f84
+[2026-11-09 11:29:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): The Latest: Republican Rep. Thomas Massie files resolution to impeach 
+[2026-11-09 11:30:21 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Social Protection and Pension Reform Updates
+[2026-11-09 11:30:22 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1811 in / 587 out tokens
