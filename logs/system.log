@@ -24179,3 +24179,13 @@
 [2026-11-09 11:53:44 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-09 11:54:03 PM] [DRAMAS_BOT] [SUCCESS] Published: The 'VIVANT' Movie is Too Hot! An Original Analysis of the Mysteries Left in the Finale! Kaoru's Betrayal, Jameen's Secret, and the Truth Behind the Reports of Teruyuki Kagawa ...
 [2026-11-09 11:54:04 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1748 in / 477 out tokens
+[2026-11-09 11:54:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25d1ca2354ac5a39e8e3a788e87d
+[2026-11-09 11:54:05 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): China Announces Fully Funded Scholarship for Kenyans: Requirements and
+[2026-11-09 11:54:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25d1ca2354ac5a39e8e3a788e87d
+[2026-11-09 11:54:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 125/400 chars, resolved=True): Toyota honours rising star with ‘once-in-a-lifetime’ trip
+[2026-11-09 11:54:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25d1eff554c7aa3e57cb1ba36e9d
+[2026-11-09 11:54:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): India’s 1971 Moment as Pakistan’s Alliances Put Somaliland in Focus
+[2026-11-09 11:54:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af25d1eff554c7aa3e57cb1ba36e9d
+[2026-11-09 11:54:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Badal Not Revenge': Book reopens debate on Pashtun identityPublished 
+[2026-11-09 11:54:30 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PM Chromebook Scheme: Can Private School Students Apply?
+[2026-11-09 11:54:30 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1547 in / 479 out tokens
