@@ -24056,3 +24056,9 @@
 [2026-11-09 03:31:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): Jessica Chastain’s Dark Thriller, Power & More Netflix Releases This W
 [2026-11-09 03:31:25 PM] [DRAMAS_BOT] [SUCCESS] Published: The 8 Best New Netflix Shows and Movies to Watch in November 2026
 [2026-11-09 03:31:26 PM] [DRAMAS_BOT] [INFO] AI usage: 2 calls, 1915 in / 791 out tokens
+[2026-11-09 03:31:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e74fa2f74ebc8ca71bec3cae54c
+[2026-11-09 03:31:28 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): China Announces Fully Funded Scholarship for Kenyans: Requirements and
+[2026-11-09 03:31:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1e74fa2f74ebc8ca71bec3cae54c
+[2026-11-09 03:31:28 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Dy: House will soon launch transparency platform on its website
+[2026-11-09 03:32:08 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: American Women's History Initiative Pool Overview
+[2026-11-09 03:32:09 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1638 in / 398 out tokens
