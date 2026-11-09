@@ -23844,3 +23844,18 @@
 [2026-11-09 03:15:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Shehbaz Sharif extends Diwali wishes, hails Pakistan's Hindus
 [2026-11-09 03:16:06 AM] [JOBS_BOT] [SUCCESS] Published: Government Executive Overview and Contributor Details
 [2026-11-09 03:16:07 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 866 in / 431 out tokens
+[2026-11-09 03:16:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-09 03:16:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13af98a9b4f50b744927f894b6b8
+[2026-11-09 03:16:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): This Netflix period drama set in a legendary Istanbul hotel blends tim
+[2026-11-09 03:16:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13af98a9b4f50b744927f894b6b8
+[2026-11-09 03:16:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-09 03:16:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13af98a9b4f50b744927f894b6b8
+[2026-11-09 03:16:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-09 03:16:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13af98a9b4f50b744927f894b6b8
+[2026-11-09 03:16:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-09 03:16:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13af9bd4f47e6ae008f36986f626
+[2026-11-09 03:16:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 140/300 chars, resolved=True): Jessica Chastain’s Dark Thriller, Power & More Netflix Releases This W
+[2026-11-09 03:16:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13af9bd4f47e6ae008f36986f626
+[2026-11-09 03:16:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 116/300 chars, resolved=True): 2026’s Predator Series & More Hulu Releases This Week
+[2026-11-09 03:16:32 AM] [DRAMAS_BOT] [SUCCESS] Published: Disney+ Officially Has a New ‘Bridgerton’ Rival With Its Lavish Romance Series
+[2026-11-09 03:16:33 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1627 in / 432 out tokens
