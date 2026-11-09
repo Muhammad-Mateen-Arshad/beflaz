@@ -23859,3 +23859,8 @@
 [2026-11-09 03:16:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 116/300 chars, resolved=True): 2026’s Predator Series & More Hulu Releases This Week
 [2026-11-09 03:16:32 AM] [DRAMAS_BOT] [SUCCESS] Published: Disney+ Officially Has a New ‘Bridgerton’ Rival With Its Lavish Romance Series
 [2026-11-09 03:16:33 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1627 in / 432 out tokens
+[2026-11-09 03:16:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af13b12b46e41548a3ec165d79d91b
+[2026-11-09 03:16:34 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 120/400 chars, resolved=True): Five National University students get US Scholarships
+[2026-11-09 03:16:35 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-09 03:16:55 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Argentina Public University Information Notice 2026
+[2026-11-09 03:16:55 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1778 in / 338 out tokens
