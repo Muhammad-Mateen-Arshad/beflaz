@@ -24521,3 +24521,13 @@
 [2026-11-10 03:55:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-10 03:55:41 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab CM E-Bike Scheme Distribution Schedule 2026
 [2026-11-10 03:55:42 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 747 in / 437 out tokens
+[2026-11-10 03:55:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-10 03:55:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-10 03:55:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e7fc47443059262d25a017856d
+[2026-11-10 03:55:44 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-10 03:55:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-10 03:56:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 03:56:25 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 03:56:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-10 03:57:45 PM] [HEALTH_BOT] [SUCCESS] Published: With state bills stalled and SNAP out of reach, Florida students lean on campus pantries
+[2026-11-10 03:57:46 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1629 in / 452 out tokens
