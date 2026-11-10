@@ -24473,3 +24473,9 @@
 [2026-11-10 03:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af338dc05e746b98976a87e7ec0a30
 [2026-11-10 03:31:41 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 112/800 chars, resolved=True): 4 Chair Exercises That Improve Balance Faster Than Yoga After 75
 [2026-11-10 03:31:41 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-10 03:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af338dda700472db380211495b82f9
+[2026-11-10 03:31:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): Rare 167-million-year-old dinosaur fossil to be auctioned in France fo
+[2026-11-10 03:31:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-10 03:31:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 03:32:45 PM] [HISTORY_BOT] [SUCCESS] Published: Meet the 'hell chicken' dino that loved fruit
+[2026-11-10 03:32:46 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 756 in / 454 out tokens
