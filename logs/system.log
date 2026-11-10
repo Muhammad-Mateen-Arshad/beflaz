@@ -24689,3 +24689,8 @@
 [2026-11-10 11:33:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
 [2026-11-10 11:33:48 PM] [DRAMAS_BOT] [SUCCESS] Published: The King Who Admired Wagner: The Dreams Embedded in Neuschwanstein Castle
 [2026-11-10 11:33:49 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1663 in / 573 out tokens
+[2026-11-10 11:33:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3a9dd5c7047c28914e25ef36118d
+[2026-11-10 11:33:50 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Opens Applications for Fully Funded Commonwealth Master’s Scholarsh
+[2026-11-10 11:33:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 11:34:20 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Commonwealth Shared Scholarships 2026 Application Guide
+[2026-11-10 11:34:21 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1428 in / 569 out tokens
