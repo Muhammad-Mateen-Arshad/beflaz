@@ -24568,3 +24568,16 @@
 [2026-11-10 07:34:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-10 07:35:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-10 07:35:56 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-10 07:35:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-10 07:35:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3721f204c488db4bfe9fad7a39b8
+[2026-11-10 07:35:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-10 07:35:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3721f204c488db4bfe9fad7a39b8
+[2026-11-10 07:35:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-10 07:35:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3721f204c488db4bfe9fad7a39b8
+[2026-11-10 07:35:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-10 07:36:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3721fe6ec4ad0b7d2cf49a813716
+[2026-11-10 07:36:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 80/300 chars, resolved=True): Netflix officially adapting one of the most iconic board games of all 
+[2026-11-10 07:36:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 07:36:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 07:36:50 PM] [DRAMAS_BOT] [SUCCESS] Published: Ethos Is Back After Six Years: Netflix’s Most Talked-About Turkish Drama Returns
+[2026-11-10 07:36:52 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 923 in / 528 out tokens
