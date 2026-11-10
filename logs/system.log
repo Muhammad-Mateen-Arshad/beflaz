@@ -24499,3 +24499,16 @@
 [2026-11-10 03:54:10 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): World Economic Forum 2027 Davos to Tackle AI and Global Economy Shift
 [2026-11-10 03:54:10 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1183 in / 554 out tokens
 [2026-11-10 03:54:10 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 7, 'rejected': 1}
+[2026-11-10 03:54:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-10 03:54:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e24a8ae4983a0a86c614bb2a33
+[2026-11-10 03:54:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-10 03:54:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e24a8ae4983a0a86c614bb2a33
+[2026-11-10 03:54:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-10 03:54:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e24a8ae4983a0a86c614bb2a33
+[2026-11-10 03:54:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-10 03:54:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e24f0ed46d68dd1641a3c0f55f
+[2026-11-10 03:54:13 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 100/300 chars, resolved=True): Netflix's first-ever release of a 4-season horror hit reaches major st
+[2026-11-10 03:54:13 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 03:54:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 03:55:04 PM] [DRAMAS_BOT] [SUCCESS] Published: Everything to Know About ChiaroScuro: Netflix’s New Italian Murder Mystery Series Releasing on November 11
+[2026-11-10 03:55:05 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1373 in / 472 out tokens
