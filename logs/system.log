@@ -24684,3 +24684,8 @@
 [2026-11-10 11:32:39 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-10 11:33:10 PM] [JOBS_BOT] [SUCCESS] Published: Federal Government Jobs for Balochistan and Sindh
 [2026-11-10 11:33:10 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1618 in / 510 out tokens
+[2026-11-10 11:33:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-10 11:33:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3a9b82594432c85fa6a489ce8610
+[2026-11-10 11:33:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-10 11:33:48 PM] [DRAMAS_BOT] [SUCCESS] Published: The King Who Admired Wagner: The Dreams Embedded in Neuschwanstein Castle
+[2026-11-10 11:33:49 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1663 in / 573 out tokens
