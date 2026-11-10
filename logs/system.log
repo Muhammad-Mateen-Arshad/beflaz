@@ -24700,3 +24700,12 @@
 [2026-11-10 11:34:23 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 53/800 chars, resolved=True): What Drinking Coffee Every Day Does to Your Body, According to Nutriti
 [2026-11-10 11:34:54 PM] [HEALTH_BOT] [SUCCESS] Published: Americans Are Adding More Calories to Their Coffee
 [2026-11-10 11:34:54 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1331 in / 621 out tokens
+[2026-11-10 11:34:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3aa1ef79a4eaf91240f60dd36929
+[2026-11-10 11:34:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Retired Poultry Farmer Finds 240-Million-Year-Old Amphibian in Garden 
+[2026-11-10 11:34:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3aa1ef79a4eaf91240f60dd36929
+[2026-11-10 11:34:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): A prehistoric predator lurked in Scotland’s swamps — its tiny legs hid
+[2026-11-10 11:34:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3aa1f1b9047a59f48c4914eac7c7
+[2026-11-10 11:34:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-10 11:34:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-10 11:35:17 PM] [HISTORY_BOT] [SUCCESS] Published: Archaeology student found a lost Maya city on page 16 of a Google search
+[2026-11-10 11:35:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1588 in / 516 out tokens
