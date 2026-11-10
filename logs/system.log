@@ -24308,3 +24308,19 @@
 [2026-11-10 04:58:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a45e0bfb4615ac846e12cf4600f
 [2026-11-10 04:58:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
 [2026-11-10 04:58:07 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-10 04:58:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a4609b9e446781bbafad212f8a4
+[2026-11-10 04:58:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): Rare 167-million-year-old dinosaur fossil to be auctioned in France fo
+[2026-11-10 04:58:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a4609b9e446781bbafad212f8a4
+[2026-11-10 04:58:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 99/400 chars, resolved=True): Forget Mosquitoes in Amber. Scientists May Have Found Dinosaur Blood i
+[2026-11-10 04:58:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a4609b9e446781bbafad212f8a4
+[2026-11-10 04:58:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Paris natural history museum acquires 167-million-year-old carnivorous
+[2026-11-10 04:58:09 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-10 04:58:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a460b2b147889297db6bf6b38e6
+[2026-11-10 04:58:09 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've reviewed hundreds of toys, here are 11 your 3-year-old will come 
+[2026-11-10 04:58:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a46171b34c9bae25bb3da7064ec
+[2026-11-10 04:58:09 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-10 04:58:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a46171b34c9bae25bb3da7064ec
+[2026-11-10 04:58:09 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Work to save the Afghan capital’s crumbling ancient fortress uncovers 
+[2026-11-10 04:58:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a46171b34c9bae25bb3da7064ec
+[2026-11-10 04:58:09 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-10 04:58:09 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
