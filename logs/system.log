@@ -24581,3 +24581,12 @@
 [2026-11-10 07:36:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-10 07:36:50 PM] [DRAMAS_BOT] [SUCCESS] Published: Ethos Is Back After Six Years: Netflix’s Most Talked-About Turkish Drama Returns
 [2026-11-10 07:36:52 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 923 in / 528 out tokens
+[2026-11-10 07:36:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af37254405e4d039430bf712ea8a26
+[2026-11-10 07:36:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Apply now: UK opens fully funded Commonwealth Shared Scholarships for 
+[2026-11-10 07:36:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af37254405e4d039430bf712ea8a26
+[2026-11-10 07:36:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): China opens applications for fully funded 2027-2028 scholarships for K
+[2026-11-10 07:36:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af37254405e4d039430bf712ea8a26
+[2026-11-10 07:36:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): African country announces 15 fully funded scholarships for Kenyan stud
+[2026-11-10 07:36:54 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 07:37:46 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Honhaar Scholarships and Laptop Scheme in Punjab
+[2026-11-10 07:37:47 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1016 in / 370 out tokens
