@@ -24649,3 +24649,18 @@
 [2026-11-10 09:32:12 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-10 09:32:43 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Political Scientists in Pakistan Governance Overview
 [2026-11-10 09:32:44 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1500 in / 420 out tokens
+[2026-11-10 09:32:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-10 09:32:46 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-10 09:32:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d7e293e4b6ab8b53d26b6e4ea5
+[2026-11-10 09:32:46 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 53/800 chars, resolved=True): What Drinking Coffee Every Day Does to Your Body, According to Nutriti
+[2026-11-10 09:32:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d7e293e4b6ab8b53d26b6e4ea5
+[2026-11-10 09:32:46 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-10 09:32:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d7e293e4b6ab8b53d26b6e4ea5
+[2026-11-10 09:32:47 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 22 Longest-Living Dog Breeds for Furry Love That Lasts
+[2026-11-10 09:32:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d7f556d4009bee9431bcb9d926
+[2026-11-10 09:32:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): Mobile Health Interventions Boost Mobility and Ease Frailty in Older A
+[2026-11-10 09:32:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d7f556d4009bee9431bcb9d926
+[2026-11-10 09:32:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 142/800 chars, resolved=True): Not medicine, not exercise: Scientists say this simple change could sl
+[2026-11-10 09:32:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d7f556d4009bee9431bcb9d926
+[2026-11-10 09:32:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): 6 hobbies that may help slow brain aging
+[2026-11-10 09:32:48 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
