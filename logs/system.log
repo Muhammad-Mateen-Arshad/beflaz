@@ -24454,3 +24454,11 @@
 [2026-11-10 03:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 100/300 chars, resolved=True): Netflix's first-ever release of a 4-season horror hit reaches major st
 [2026-11-10 03:31:07 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s ‘Miracles of the ER’ Release Date, Trailer, Cast and Plot
 [2026-11-10 03:31:08 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1266 in / 497 out tokens
+[2026-11-10 03:31:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af338bd459b408b9b8cc460422e2bf
+[2026-11-10 03:31:09 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): China opens applications for fully funded 2027-2028 scholarships for K
+[2026-11-10 03:31:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af338bd459b408b9b8cc460422e2bf
+[2026-11-10 03:31:09 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): African country announces 15 fully funded scholarships for Kenyan stud
+[2026-11-10 03:31:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af338bd459b408b9b8cc460422e2bf
+[2026-11-10 03:31:09 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): List of John Dumelo’s biggest donations and projects in Ayawaso West W
+[2026-11-10 03:31:38 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab CM Laptop and Honhaar Scholarship Scheme
+[2026-11-10 03:31:38 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 863 in / 462 out tokens
