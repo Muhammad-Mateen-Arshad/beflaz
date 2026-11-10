@@ -24223,3 +24223,16 @@
 [2026-11-10 03:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan army officer declares military duty as jihad not job
 [2026-11-10 03:31:00 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Hockey Training Camp and Career Updates
 [2026-11-10 03:31:00 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 5201 in / 1418 out tokens
+[2026-11-10 03:31:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-10 03:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af28ff6a6074b27933b04fbd9f5d21
+[2026-11-10 03:31:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-10 03:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af28ff6a6074b27933b04fbd9f5d21
+[2026-11-10 03:31:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-10 03:31:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af28ff6ef454d7393883844e738f96
+[2026-11-10 03:31:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): OTT releases this week (Nov 9-15): New movies and shows on Netflix, Pr
+[2026-11-10 03:31:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af28ff6ef454d7393883844e738f96
+[2026-11-10 03:31:04 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): ‘Gordon,' Netflix Series Unpacked by Pablo Trapero Rodrigo de la Serna
+[2026-11-10 03:31:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af28ff8fa29458b9e5dac53a231e36
+[2026-11-10 03:31:04 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-10 03:31:22 AM] [DRAMAS_BOT] [SUCCESS] Published: What’s Coming to Netflix This Week: November 9 to 15, 2026
+[2026-11-10 03:31:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1681 in / 598 out tokens
