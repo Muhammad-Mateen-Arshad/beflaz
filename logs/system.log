@@ -24284,3 +24284,16 @@
 [2026-11-10 04:56:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a3ffb1ca4890a288ce74d5daa81
 [2026-11-10 04:56:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-10 04:56:31 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 6, 'already_seen': 10}
+[2026-11-10 04:56:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a3ff073245bab2c90f547bc8f1a
+[2026-11-10 04:56:32 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): African country announces 15 fully funded scholarships for Kenyan stud
+[2026-11-10 04:56:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a3ff073245bab2c90f547bc8f1a
+[2026-11-10 04:56:32 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): China Announces Fully Funded Scholarship for Kenyans: Requirements and
+[2026-11-10 04:56:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a3ff073245bab2c90f547bc8f1a
+[2026-11-10 04:56:32 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Loya scholarship offers full ride to UTEP and $30K bonus after graduat
+[2026-11-10 04:56:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a40010cb41318158705099c445c
+[2026-11-10 04:56:32 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): 'Badal Not Revenge': Book reopens debate on Pashtun identityPublished 
+[2026-11-10 04:56:35 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 04:56:45 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 04:57:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-10 04:58:04 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Dimash Qudaibergen DIMENSIONS Concert Details and News
+[2026-11-10 04:58:05 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 2071 in / 342 out tokens
