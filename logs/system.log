@@ -24381,3 +24381,6 @@
 [2026-11-10 07:33:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c8e363664c188008c0766dd287f
 [2026-11-10 07:33:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Work to save the Afghan capital’s crumbling ancient fortress uncovers 
 [2026-11-10 07:33:56 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-11-10 11:30:41 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-10 11:30:42 AM] [NEWS_BOT] [SUCCESS] Published: £190m corruption case: IHC adjourns hearing for 10 days, orders meeting between Imran and legal team
+[2026-11-10 11:30:42 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1497 in / 551 out tokens
