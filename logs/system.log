@@ -24672,3 +24672,15 @@
 [2026-11-10 09:33:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 928 in / 434 out tokens
 [2026-11-10 11:30:27 PM] [NEWS_BOT] [SUCCESS] Published: Second Pakistan-Sri Lanka Test shifted from Lahore to Rawalpindi over smog
 [2026-11-10 11:30:28 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 674 in / 436 out tokens
+[2026-11-10 11:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3a914d8f043668af5e5ca6149a35
+[2026-11-10 11:30:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan's Petroleum Levy Debate: Rs 4.4 Trillion Collected In Four Ye
+[2026-11-10 11:30:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, November – 11 – 2026
+[2026-11-10 11:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3a914d8f043668af5e5ca6149a35
+[2026-11-10 11:30:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): The £2m London townhouse where civil servant juggled five jobs to chea
+[2026-11-10 11:30:33 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 11:30:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 11:31:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-10 11:32:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-10 11:32:39 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-10 11:33:10 PM] [JOBS_BOT] [SUCCESS] Published: Federal Government Jobs for Balochistan and Sindh
+[2026-11-10 11:33:10 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1618 in / 510 out tokens
