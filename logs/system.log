@@ -24206,3 +24206,6 @@
 [2026-11-09 11:54:58 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-09 11:55:21 PM] [HISTORY_BOT] [SUCCESS] Published: Archaeological treasures uncovered beneath Kabul’s crumbling ancient fortress
 [2026-11-09 11:55:22 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1566 in / 463 out tokens
+[2026-11-10 03:29:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-10 03:29:57 AM] [NEWS_BOT] [SUCCESS] Published: Opposition demands ‘return to talks’ in AJK
+[2026-11-10 03:29:58 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 848 in / 442 out tokens
