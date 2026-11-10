@@ -24610,3 +24610,5 @@
 [2026-11-10 07:39:35 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-10 07:39:36 PM] [HISTORY_BOT] [SUCCESS] Published: Grand Egyptian Museum can open new avenues for archaeological cooperation with Kuwait, experts say
 [2026-11-10 07:39:37 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1400 in / 473 out tokens
+[2026-11-10 09:30:37 PM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz arrives in Turkiye to address COP31 summit
+[2026-11-10 09:30:37 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1521 in / 499 out tokens
