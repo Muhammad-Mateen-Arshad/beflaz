@@ -24324,3 +24324,5 @@
 [2026-11-10 04:58:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a46171b34c9bae25bb3da7064ec
 [2026-11-10 04:58:09 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
 [2026-11-10 04:58:09 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-11-10 07:30:10 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz to leave for Turkiye today, will address COP31 tomorrow
+[2026-11-10 07:30:11 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1109 in / 548 out tokens
