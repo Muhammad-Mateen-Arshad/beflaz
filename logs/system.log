@@ -24443,3 +24443,14 @@
 [2026-11-10 03:29:59 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1119 in / 510 out tokens
 [2026-11-10 03:30:36 PM] [JOBS_BOT] [SUCCESS] Published: World Bank $1.7 Billion Programme in Pakistan 2026
 [2026-11-10 03:30:36 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1588 in / 570 out tokens
+[2026-11-10 03:30:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-10 03:30:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3389ec1e74bbfb39c8b60b083518
+[2026-11-10 03:30:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-10 03:30:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3389ec1e74bbfb39c8b60b083518
+[2026-11-10 03:30:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-10 03:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3389ec1e74bbfb39c8b60b083518
+[2026-11-10 03:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-10 03:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3389f8b494a65941666db45438e7
+[2026-11-10 03:30:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 100/300 chars, resolved=True): Netflix's first-ever release of a 4-season horror hit reaches major st
+[2026-11-10 03:31:07 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s ‘Miracles of the ER’ Release Date, Trailer, Cast and Plot
+[2026-11-10 03:31:08 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1266 in / 497 out tokens
