@@ -24209,3 +24209,17 @@
 [2026-11-10 03:29:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-10 03:29:57 AM] [NEWS_BOT] [SUCCESS] Published: Opposition demands ‘return to talks’ in AJK
 [2026-11-10 03:29:58 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 848 in / 442 out tokens
+[2026-11-10 03:30:00 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 03:30:24 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Sufyan sees Pakistan returning to hockey glory with continuity in syst
+[2026-11-10 03:30:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af28fb6ec6049c08593dd56c74b9ee
+[2026-11-10 03:30:25 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): The latest: Republican Rep. Thomas Massie files resolution to impeach 
+[2026-11-10 03:30:40 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Soon we will find out just how far freedom of speech goes in Australia
+[2026-11-10 03:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af28fb6ec6049c08593dd56c74b9ee
+[2026-11-10 03:30:40 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): The Latest: Congress returns to a changed Washington
+[2026-11-10 03:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 300/400 chars, resolved=True): Opposition alliance demands judicial scrutiny of governor’s rule, emer
+[2026-11-10 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af28fe07a7e424da998bff2c5930f9
+[2026-11-10 03:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Newspaper - Front Page - November 10, 2026
+[2026-11-10 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af28fe1d27f4d8aac839f1c30caf70
+[2026-11-10 03:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan army officer declares military duty as jihad not job
+[2026-11-10 03:31:00 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Hockey Training Camp and Career Updates
+[2026-11-10 03:31:00 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 5201 in / 1418 out tokens
