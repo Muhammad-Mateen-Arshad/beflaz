@@ -24384,3 +24384,17 @@
 [2026-11-10 11:30:41 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-10 11:30:42 AM] [NEWS_BOT] [SUCCESS] Published: £190m corruption case: IHC adjourns hearing for 10 days, orders meeting between Imran and legal team
 [2026-11-10 11:30:42 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1497 in / 551 out tokens
+[2026-11-10 11:30:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3006388ac46aea987f30434febb7
+[2026-11-10 11:30:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan's petroleum levy debate: Rs 4.4 trillion collected in four ye
+[2026-11-10 11:30:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3006388ac46aea987f30434febb7
+[2026-11-10 11:30:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan army officer declares military duty as jihad not job
+[2026-11-10 11:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3006388ac46aea987f30434febb7
+[2026-11-10 11:30:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 146/400 chars, resolved=True): The fraudster paid £350,000 to do FIVE jobs across the Civil Service..
+[2026-11-10 11:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af300648f4f49c4b1f8f2b3e908459
+[2026-11-10 11:30:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Newspaper - Karachi - November 10, 2026
+[2026-11-10 11:30:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af300648f4f49c4b1f8f2b3e908459
+[2026-11-10 11:30:44 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Newspaper - Front Page - November 10, 2026
+[2026-11-10 11:30:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af300643a554754bd1e5ff64e8e055
+[2026-11-10 11:30:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan army officer declares military duty as jihad not job
+[2026-11-10 11:33:31 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Armed Forces Updates 2026: Official Notice
+[2026-11-10 11:33:32 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1659 in / 438 out tokens
