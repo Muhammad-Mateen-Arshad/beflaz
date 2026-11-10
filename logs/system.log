@@ -24479,3 +24479,6 @@
 [2026-11-10 03:31:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-10 03:32:45 PM] [HISTORY_BOT] [SUCCESS] Published: Meet the 'hell chicken' dino that loved fruit
 [2026-11-10 03:32:46 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 756 in / 454 out tokens
+[2026-11-10 03:53:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-10 03:53:40 PM] [NEWS_BOT] [SUCCESS] Published: Embattled Pentagon chief slams impeachment effort as 'farce'
+[2026-11-10 03:53:41 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1437 in / 526 out tokens
