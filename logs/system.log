@@ -24462,3 +24462,14 @@
 [2026-11-10 03:31:09 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): List of John Dumelo’s biggest donations and projects in Ayawaso West W
 [2026-11-10 03:31:38 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab CM Laptop and Honhaar Scholarship Scheme
 [2026-11-10 03:31:38 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 863 in / 462 out tokens
+[2026-11-10 03:31:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-10 03:31:39 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-10 03:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af338dbc4e84f0888be183a6faa97d
+[2026-11-10 03:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-10 03:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af338dc05e746b98976a87e7ec0a30
+[2026-11-10 03:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 142/800 chars, resolved=True): Not medicine, not exercise: Scientists say this simple change could sl
+[2026-11-10 03:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af338dc05e746b98976a87e7ec0a30
+[2026-11-10 03:31:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 41/800 chars, resolved=True): 4 Ways to Make Your Walk More Challenging That Also Promote Healthy Ag
+[2026-11-10 03:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af338dc05e746b98976a87e7ec0a30
+[2026-11-10 03:31:41 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 112/800 chars, resolved=True): 4 Chair Exercises That Improve Balance Faster Than Yoga After 75
+[2026-11-10 03:31:41 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
