@@ -24326,3 +24326,14 @@
 [2026-11-10 04:58:09 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
 [2026-11-10 07:30:10 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz to leave for Turkiye today, will address COP31 tomorrow
 [2026-11-10 07:30:11 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1109 in / 548 out tokens
+[2026-11-10 07:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c8044e38458abf5999a24ace9e3
+[2026-11-10 07:30:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): The Latest: Congress returns to a changed Washington
+[2026-11-10 07:30:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c8049d434ee8a3f47cecd380680
+[2026-11-10 07:30:13 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): India-Pakistan tensions
+[2026-11-10 07:30:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 300/400 chars, resolved=True): KP unveils Rs70bn security boost, proposes faceless courts to bolster 
+[2026-11-10 07:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c8049d434ee8a3f47cecd380680
+[2026-11-10 07:30:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Newspaper - Front Page - November 9, 2026
+[2026-11-10 07:30:17 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 07:30:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 07:31:31 AM] [JOBS_BOT] [SUCCESS] Published: World Economic Forum Davos 2027: AI and Future of Jobs
+[2026-11-10 07:31:32 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1351 in / 581 out tokens
