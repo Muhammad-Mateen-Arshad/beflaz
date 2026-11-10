@@ -24250,3 +24250,19 @@
 [2026-11-10 03:32:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-10 03:32:40 AM] [HEALTH_BOT] [SUCCESS] Published: Could Meals Help Keep Older Adults From Returning to the Hospital?
 [2026-11-10 03:32:40 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1556 in / 569 out tokens
+[2026-11-10 03:32:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af290595f7341d58f5869ef7d7a758
+[2026-11-10 03:32:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): Rare 167-million-year-old dinosaur fossil to be auctioned in France fo
+[2026-11-10 03:32:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af290595f7341d58f5869ef7d7a758
+[2026-11-10 03:32:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 99/400 chars, resolved=True): Forget Mosquitoes in Amber. Scientists May Have Found Dinosaur Blood i
+[2026-11-10 03:32:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af290595f7341d58f5869ef7d7a758
+[2026-11-10 03:32:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Paris natural history museum acquires 167-million-year-old carnivorous
+[2026-11-10 03:32:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-10 03:32:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2905a88f74aada36c5117487940e
+[2026-11-10 03:32:42 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've reviewed hundreds of toys, here are 11 your 3-year-old will come 
+[2026-11-10 03:32:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2905a7ad04eaf8c8310ba628219a
+[2026-11-10 03:32:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): New archaeological discoveries made at Etruscan necropolis in Italy
+[2026-11-10 03:32:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2905a7ad04eaf8c8310ba628219a
+[2026-11-10 03:32:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-10 03:32:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2905a7ad04eaf8c8310ba628219a
+[2026-11-10 03:32:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Work to save the Afghan capital’s crumbling ancient fortress uncovers 
+[2026-11-10 03:32:43 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
