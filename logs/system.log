@@ -24482,3 +24482,20 @@
 [2026-11-10 03:53:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-10 03:53:40 PM] [NEWS_BOT] [SUCCESS] Published: Embattled Pentagon chief slams impeachment effort as 'farce'
 [2026-11-10 03:53:41 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1437 in / 526 out tokens
+[2026-11-10 03:53:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e0535534e87b1ca1df2642590a
+[2026-11-10 03:53:41 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): The £2m London townhouse where civil servant juggled five jobs to chea
+[2026-11-10 03:53:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e0535534e87b1ca1df2642590a
+[2026-11-10 03:53:42 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Revealed: The £2million Grade II listed four storey Georgian townhouse
+[2026-11-10 03:53:42 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 03:54:08 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Pakistan’s Auto Sector Needs More Local Parts, Industry Veteran Says
+[2026-11-10 03:54:09 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 300/400 chars, resolved=True): Opposition alliance demands judicial scrutiny of governor’s rule, emer
+[2026-11-10 03:54:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e20407142d28c1b439402dfd89
+[2026-11-10 03:54:09 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Newspaper - Front Page - November 10, 2026
+[2026-11-10 03:54:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e21a56243c2921f33f9d27b101
+[2026-11-10 03:54:10 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Dem governor’s tale of combat action torn to shreds by commanding Army
+[2026-11-10 03:54:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e21a56243c2921f33f9d27b101
+[2026-11-10 03:54:10 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan army officer declares military duty as jihad not job
+[2026-11-10 03:54:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e21a56243c2921f33f9d27b101
+[2026-11-10 03:54:10 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): World Economic Forum 2027 Davos to Tackle AI and Global Economy Shift
+[2026-11-10 03:54:10 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1183 in / 554 out tokens
+[2026-11-10 03:54:10 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 7, 'rejected': 1}
