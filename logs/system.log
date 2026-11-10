@@ -24612,3 +24612,20 @@
 [2026-11-10 07:39:37 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1400 in / 473 out tokens
 [2026-11-10 09:30:37 PM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz arrives in Turkiye to address COP31 summit
 [2026-11-10 09:30:37 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1521 in / 499 out tokens
+[2026-11-10 09:30:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38cfec54a45a893d44027f4dec32
+[2026-11-10 09:30:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): The £2m London townhouse where civil servant juggled five jobs to chea
+[2026-11-10 09:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38cfec54a45a893d44027f4dec32
+[2026-11-10 09:30:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): This time, Netanyahu’s political demise may be real
+[2026-11-10 09:30:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-10 09:30:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 09:31:07 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Red Fort blast exposed wider terror threat, triggered multi-front coun
+[2026-11-10 09:31:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d1b4d1b4c2f8f20bc5bf534819
+[2026-11-10 09:31:07 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 10, 2026
+[2026-11-10 09:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d1b4d1b4c2f8f20bc5bf534819
+[2026-11-10 09:31:08 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): Newspaper - Front Page - November 10, 2026
+[2026-11-10 09:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d1c33884e538076df859e61b0c
+[2026-11-10 09:31:08 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Dem governor’s tale of combat action torn to shreds by commanding Army
+[2026-11-10 09:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d1c33884e538076df859e61b0c
+[2026-11-10 09:31:08 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): World Economic Forum 2027 Davos to Tackle AI and Global Economy Shift
+[2026-11-10 09:31:37 PM] [JOBS_BOT] [SUCCESS] Published: WAPDA Tarbela Dam 5th Extension Project Updates
+[2026-11-10 09:31:38 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2884 in / 946 out tokens
