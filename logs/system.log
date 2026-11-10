@@ -24236,3 +24236,9 @@
 [2026-11-10 03:31:04 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-10 03:31:22 AM] [DRAMAS_BOT] [SUCCESS] Published: What’s Coming to Netflix This Week: November 9 to 15, 2026
 [2026-11-10 03:31:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1681 in / 598 out tokens
+[2026-11-10 03:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2900c4d2646229da07ace9604898
+[2026-11-10 03:31:25 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): China Announces Fully Funded Scholarship for Kenyans: Requirements and
+[2026-11-10 03:31:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2900c4d2646229da07ace9604898
+[2026-11-10 03:31:25 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Loya scholarship offers full ride to UTEP and $30K bonus after graduat
+[2026-11-10 03:31:46 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of the People Scholarships for Gaza Students
+[2026-11-10 03:31:47 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1857 in / 502 out tokens
