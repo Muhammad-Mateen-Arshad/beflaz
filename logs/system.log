@@ -24629,3 +24629,14 @@
 [2026-11-10 09:31:08 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): World Economic Forum 2027 Davos to Tackle AI and Global Economy Shift
 [2026-11-10 09:31:37 PM] [JOBS_BOT] [SUCCESS] Published: WAPDA Tarbela Dam 5th Extension Project Updates
 [2026-11-10 09:31:38 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2884 in / 946 out tokens
+[2026-11-10 09:31:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-10 09:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d3c176640328a11196dcf2294c
+[2026-11-10 09:31:41 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-10 09:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d3c176640328a11196dcf2294c
+[2026-11-10 09:31:41 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-10 09:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d3c176640328a11196dcf2294c
+[2026-11-10 09:31:41 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-10 09:31:42 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 09:31:44 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-10 09:32:09 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s ‘Assassin’s Creed’: Everything We Know As New Cast and Directors Join and Filming Wraps
+[2026-11-10 09:32:10 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1649 in / 473 out tokens
