@@ -24531,3 +24531,11 @@
 [2026-11-10 03:56:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-11-10 03:57:45 PM] [HEALTH_BOT] [SUCCESS] Published: With state bills stalled and SNAP out of reach, Florida students lean on campus pantries
 [2026-11-10 03:57:46 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1629 in / 452 out tokens
+[2026-11-10 03:57:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33efbc6fa4ce6a0e44c976b7c870
+[2026-11-10 03:57:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): Rare 167-million-year-old dinosaur fossil to be auctioned in France fo
+[2026-11-10 03:57:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-10 03:57:57 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 03:58:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-10 03:58:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-10 03:59:14 PM] [HISTORY_BOT] [SUCCESS] Published: Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue
+[2026-11-10 03:59:15 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1449 in / 517 out tokens
