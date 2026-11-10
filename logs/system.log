@@ -24427,3 +24427,15 @@
 [2026-11-10 11:36:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af301a0e5b547f78a3d57678e0d99d
 [2026-11-10 11:36:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 195/800 chars, resolved=True): Sarcopenia Prevalence and Risk Factors in Ethiopian Older Adults
 [2026-11-10 11:36:01 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-10 11:36:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af301a118414bcdbd60dba91ebcda6
+[2026-11-10 11:36:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): Rare 167-million-year-old dinosaur fossil to be auctioned in France fo
+[2026-11-10 11:36:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af301a118414bcdbd60dba91ebcda6
+[2026-11-10 11:36:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 99/400 chars, resolved=True): Forget Mosquitoes in Amber. Scientists May Have Found Dinosaur Blood i
+[2026-11-10 11:36:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af301a118414bcdbd60dba91ebcda6
+[2026-11-10 11:36:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Paris natural history museum acquires 167-million-year-old carnivorous
+[2026-11-10 11:36:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-10 11:36:07 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-10 11:36:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 11:36:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-10 11:37:49 AM] [HISTORY_BOT] [SUCCESS] Published: A dinosaur skull, overlooked for a century, belongs to a long-clawed cousin of T. rex
+[2026-11-10 11:37:50 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1711 in / 524 out tokens
