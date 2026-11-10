@@ -24664,3 +24664,9 @@
 [2026-11-10 09:32:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d7f556d4009bee9431bcb9d926
 [2026-11-10 09:32:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): 6 hobbies that may help slow brain aging
 [2026-11-10 09:32:48 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-10 09:32:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d809fcd44529d5cfbaf3dbb153
+[2026-11-10 09:32:49 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Retired Poultry Farmer Finds 240-Million-Year-Old Amphibian in Garden 
+[2026-11-10 09:32:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af38d809fcd44529d5cfbaf3dbb153
+[2026-11-10 09:32:49 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): What a 99-million-year-old feather is telling us about the evolution o
+[2026-11-10 09:33:12 PM] [HISTORY_BOT] [SUCCESS] Published: So apparently you can get hay fever from dawn redwoods too
+[2026-11-10 09:33:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 928 in / 434 out tokens
