@@ -24410,3 +24410,9 @@
 [2026-11-10 11:34:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-10 11:35:09 AM] [DRAMAS_BOT] [SUCCESS] Published: Filming Underway on Joshua Zetumer’s Netflix Thriller Series ‘Pagans’ & Cast Confirmed
 [2026-11-10 11:35:10 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1048 in / 573 out tokens
+[2026-11-10 11:35:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3016ee69c4b45b34a1177b0a22a5
+[2026-11-10 11:35:10 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): China opens applications for fully funded 2027-2028 scholarships for K
+[2026-11-10 11:35:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3016ee69c4b45b34a1177b0a22a5
+[2026-11-10 11:35:10 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): African country announces 15 fully funded scholarships for Kenyan stud
+[2026-11-10 11:35:56 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Notre Dame PhD in Sustainable Development 2027
+[2026-11-10 11:35:57 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1497 in / 506 out tokens
