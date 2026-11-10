@@ -24398,3 +24398,15 @@
 [2026-11-10 11:30:45 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Pakistan army officer declares military duty as jihad not job
 [2026-11-10 11:33:31 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Armed Forces Updates 2026: Official Notice
 [2026-11-10 11:33:32 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1659 in / 438 out tokens
+[2026-11-10 11:33:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-10 11:33:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3010e5c0248b8bb4db9e4b7faaf1
+[2026-11-10 11:33:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-10 11:33:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3010e5c0248b8bb4db9e4b7faaf1
+[2026-11-10 11:33:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-10 11:33:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3010e5c0248b8bb4db9e4b7faaf1
+[2026-11-10 11:33:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-10 11:33:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-10 11:33:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 11:34:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-10 11:35:09 AM] [DRAMAS_BOT] [SUCCESS] Published: Filming Underway on Joshua Zetumer’s Netflix Thriller Series ‘Pagans’ & Cast Confirmed
+[2026-11-10 11:35:10 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1048 in / 573 out tokens
