@@ -24242,3 +24242,11 @@
 [2026-11-10 03:31:25 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): Loya scholarship offers full ride to UTEP and $30K bonus after graduat
 [2026-11-10 03:31:46 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of the People Scholarships for Gaza Students
 [2026-11-10 03:31:47 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1857 in / 502 out tokens
+[2026-11-10 03:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-10 03:31:48 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-10 03:31:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2902483a64a32be5c2b16d40360b
+[2026-11-10 03:31:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-10 03:31:50 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 03:32:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 03:32:40 AM] [HEALTH_BOT] [SUCCESS] Published: Could Meals Help Keep Older Adults From Returning to the Hospital?
+[2026-11-10 03:32:40 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1556 in / 569 out tokens
