@@ -24512,3 +24512,12 @@
 [2026-11-10 03:54:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-10 03:55:04 PM] [DRAMAS_BOT] [SUCCESS] Published: Everything to Know About ChiaroScuro: Netflix’s New Italian Murder Mystery Series Releasing on November 11
 [2026-11-10 03:55:05 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1373 in / 472 out tokens
+[2026-11-10 03:55:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e5974f64d5599595c5865897ca
+[2026-11-10 03:55:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): China opens applications for fully funded 2027-2028 scholarships for K
+[2026-11-10 03:55:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e5974f64d5599595c5865897ca
+[2026-11-10 03:55:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): African country announces 15 fully funded scholarships for Kenyan stud
+[2026-11-10 03:55:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af33e5974f64d5599595c5865897ca
+[2026-11-10 03:55:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): List of John Dumelo’s biggest donations and projects in Ayawaso West W
+[2026-11-10 03:55:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 03:55:41 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab CM E-Bike Scheme Distribution Schedule 2026
+[2026-11-10 03:55:42 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 747 in / 437 out tokens
