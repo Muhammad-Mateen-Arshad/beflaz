@@ -24266,3 +24266,5 @@
 [2026-11-10 03:32:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2905a7ad04eaf8c8310ba628219a
 [2026-11-10 03:32:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Work to save the Afghan capital’s crumbling ancient fortress uncovers 
 [2026-11-10 03:32:43 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-11-10 04:55:25 AM] [NEWS_BOT] [SUCCESS] Published: Another Chaudhry slams Maryam over ‘development bias’
+[2026-11-10 04:55:26 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1623 in / 454 out tokens
