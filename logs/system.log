@@ -24598,3 +24598,15 @@
 [2026-11-10 07:38:41 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-10 07:38:41 PM] [HEALTH_BOT] [SUCCESS] Published: Northwell to Convene Inaugural Food ‘Is’ Health Symposium
 [2026-11-10 07:38:42 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1574 in / 585 out tokens
+[2026-11-10 07:38:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af372c3b2ae480383796d19e1c1881
+[2026-11-10 07:38:43 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Retired poultry farmer finds 240-million-year-old amphibian in garden 
+[2026-11-10 07:38:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af372c3b2ae480383796d19e1c1881
+[2026-11-10 07:38:43 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): 3-million-year-old Taung Child once again shakes up our human family t
+[2026-11-10 07:38:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af372c3da2d486e9b3ff5fb2ba6bec
+[2026-11-10 07:38:43 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-10 07:38:43 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-10 07:38:44 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 07:38:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 07:39:35 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-10 07:39:36 PM] [HISTORY_BOT] [SUCCESS] Published: Grand Egyptian Museum can open new avenues for archaeological cooperation with Kuwait, experts say
+[2026-11-10 07:39:37 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1400 in / 473 out tokens
