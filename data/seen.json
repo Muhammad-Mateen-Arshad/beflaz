@@ -3892,10 +3892,10 @@
    "at": "2026-09-26T18:46:23+00:00"
   },
   "t:087eb887f2454a53": {
-   "s": "thin",
+   "s": "posted",
    "n": "scholarships",
    "t": "SENSS ESRC Studentships 2027/28 – Fully Funded PhD Scholarships in the UK",
-   "at": "2026-09-26T18:46:25+00:00"
+   "at": "2026-11-10T07:33:49+00:00"
   },
   "u:d705102cfbd23a93": {
    "s": "thin",
@@ -23726,6 +23726,12 @@
    "n": "dramas",
    "t": "The Empress Season 3 Release Date on Netflix: What Will Elisabeth Choose Between Her Heart",
    "at": "2026-11-10T07:32:57+00:00"
+  },
+  "u:c05cfca9d3f83d4d": {
+   "s": "posted",
+   "n": "scholarships",
+   "t": "SENSS ESRC Studentships 2027/28 – Fully Funded PhD Scholarships in the UK",
+   "at": "2026-11-10T07:33:49+00:00"
   }
  }
 }
