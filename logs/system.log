@@ -24272,3 +24272,15 @@
 [2026-11-10 04:56:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-10 04:56:28 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Auto Policy Impact on Local Manufacturing Jobs
 [2026-11-10 04:56:28 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1423 in / 548 out tokens
+[2026-11-10 04:56:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-10 04:56:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a3feff8b4496a5b49a96800dc61
+[2026-11-10 04:56:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-10 04:56:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a3feff8b4496a5b49a96800dc61
+[2026-11-10 04:56:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-10 04:56:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a3feec804868b3360f1f5324dc1
+[2026-11-10 04:56:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): OTT releases this week (Nov 9-15): New movies and shows on Netflix, Pr
+[2026-11-10 04:56:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a3feec804868b3360f1f5324dc1
+[2026-11-10 04:56:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 25/300 chars, resolved=True): Natalie Portman and Jenna Ortega's comic thriller hailed an "absolute 
+[2026-11-10 04:56:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2a3ffb1ca4890a288ce74d5daa81
+[2026-11-10 04:56:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-10 04:56:31 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 6, 'thin': 6, 'already_seen': 10}
