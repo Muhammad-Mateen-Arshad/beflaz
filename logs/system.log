@@ -24541,3 +24541,30 @@
 [2026-11-10 03:59:15 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1449 in / 517 out tokens
 [2026-11-10 07:29:56 PM] [NEWS_BOT] [SUCCESS] Published: Govt slashes petrol price by Rs8 per litre, high-speed diesel by Rs7 in another reduction
 [2026-11-10 07:29:57 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 968 in / 542 out tokens
+[2026-11-10 07:29:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 392/400 chars, resolved=True): Government of Balochistan Tenders and Jobs, November – 11 – 2026
+[2026-11-10 07:29:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af370b69437471992a964ff47ca2a2
+[2026-11-10 07:29:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan's petroleum levy debate: Rs 4.4 trillion collected in four ye
+[2026-11-10 07:29:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af370b69437471992a964ff47ca2a2
+[2026-11-10 07:29:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): The £2m London townhouse where civil servant juggled five jobs to chea
+[2026-11-10 07:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af370b69437471992a964ff47ca2a2
+[2026-11-10 07:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): This time, Netanyahu’s political demise may be real
+[2026-11-10 07:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 288/400 chars, resolved=True): Opposition alliance demands judicial scrutiny of governor’s rule, emer
+[2026-11-10 07:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af370b70746496dab9dc425663cf5f
+[2026-11-10 07:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Newspaper - Front Page - November 10, 2026
+[2026-11-10 07:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af370b861284cd8be09f4bedcd6432
+[2026-11-10 07:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Dem governor’s tale of combat action torn to shreds by commanding Army
+[2026-11-10 07:30:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-10 07:30:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 07:30:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-10 07:30:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-10 07:30:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-10 07:31:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-10 07:31:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 07:31:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-10 07:32:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-10 07:32:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-10 07:33:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-10 07:33:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-10 07:34:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-10 07:35:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-10 07:35:56 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
