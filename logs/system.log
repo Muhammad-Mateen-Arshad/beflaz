@@ -24337,3 +24337,16 @@
 [2026-11-10 07:30:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-10 07:31:31 AM] [JOBS_BOT] [SUCCESS] Published: World Economic Forum Davos 2027: AI and Future of Jobs
 [2026-11-10 07:31:32 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1351 in / 581 out tokens
+[2026-11-10 07:31:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-10 07:31:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c8569d7048e8a5d45fa792e5299
+[2026-11-10 07:31:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-10 07:31:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c8569d7048e8a5d45fa792e5299
+[2026-11-10 07:31:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-10 07:31:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c8569d7048e8a5d45fa792e5299
+[2026-11-10 07:31:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-10 07:31:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c8562dc546358246fd5fdd4a518
+[2026-11-10 07:31:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 130/300 chars, resolved=True): OTT releases this week (Nov 9-15): New movies and shows on Netflix, Pr
+[2026-11-10 07:31:36 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 07:31:38 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-10 07:32:57 AM] [DRAMAS_BOT] [SUCCESS] Published: The Empress Season 3 Release Date on Netflix: What Will Elisabeth Choose Between Her Heart and the Throne
+[2026-11-10 07:32:58 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1021 in / 534 out tokens
