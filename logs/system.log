@@ -24268,3 +24268,7 @@
 [2026-11-10 03:32:43 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
 [2026-11-10 04:55:25 AM] [NEWS_BOT] [SUCCESS] Published: Another Chaudhry slams Maryam over ‘development bias’
 [2026-11-10 04:55:26 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1623 in / 454 out tokens
+[2026-11-10 04:55:27 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-10 04:56:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-10 04:56:28 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Auto Policy Impact on Local Manufacturing Jobs
+[2026-11-10 04:56:28 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1423 in / 548 out tokens
