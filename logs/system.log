@@ -24931,3 +24931,18 @@
 [2026-11-11 11:31:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-11 11:31:44 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Honhaar Scholarship Scheme in Punjab: Overview
 [2026-11-11 11:31:45 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1239 in / 414 out tokens
+[2026-11-11 11:31:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-11 11:31:47 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-11 11:31:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4522331664bfeb9ad34eeeedd63c
+[2026-11-11 11:31:47 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 53/800 chars, resolved=True): What Drinking Coffee Every Day Does to Your Body, According to Nutriti
+[2026-11-11 11:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4522331664bfeb9ad34eeeedd63c
+[2026-11-11 11:31:48 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-11 11:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4522331664bfeb9ad34eeeedd63c
+[2026-11-11 11:31:48 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 22 Longest-Living Dog Breeds for Furry Love That Lasts
+[2026-11-11 11:31:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af45224c6cf4fb6bcb64e8d7b3abf3
+[2026-11-11 11:31:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): Mobile Health Interventions Boost Mobility and Ease Frailty in Older A
+[2026-11-11 11:31:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af45224c6cf4fb6bcb64e8d7b3abf3
+[2026-11-11 11:31:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 142/800 chars, resolved=True): Not medicine, not exercise: Scientists say this simple change could sl
+[2026-11-11 11:31:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af45224c6cf4fb6bcb64e8d7b3abf3
+[2026-11-11 11:31:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 167/800 chars, resolved=True): Eat and exercise for bone health, too
+[2026-11-11 11:31:49 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
