@@ -24754,3 +24754,9 @@
 [2026-11-11 03:25:51 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-11 03:26:26 AM] [HEALTH_BOT] [SUCCESS] Published: Eating less protein could slow aging, review of 350 studies finds
 [2026-11-11 03:26:27 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1395 in / 541 out tokens
+[2026-11-11 03:26:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e063f6f94689ba82e8dc996005c
+[2026-11-11 03:26:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Retired Poultry Farmer Finds 240-Million-Year-Old Amphibian in Garden 
+[2026-11-11 03:26:28 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 03:26:30 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-11 03:27:01 AM] [HISTORY_BOT] [SUCCESS] Published: 324-million-year old California fossil found stuffed in drawer changes everything we know about life on Earth
+[2026-11-11 03:27:02 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 967 in / 450 out tokens
