@@ -24904,3 +24904,19 @@
 [2026-11-11 11:30:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 10, 2026
 [2026-11-11 11:30:56 AM] [JOBS_BOT] [SUCCESS] Published: Border Health Services Vaccine Update for Overseas Workers
 [2026-11-11 11:30:57 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1094 in / 487 out tokens
+[2026-11-11 11:30:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-11 11:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f22259428fa767c0e2a4e7195
+[2026-11-11 11:30:59 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-11 11:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f22259428fa767c0e2a4e7195
+[2026-11-11 11:30:59 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-11 11:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f22259428fa767c0e2a4e7195
+[2026-11-11 11:30:59 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-11 11:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f3aec5491da37ce4f7d37ea22
+[2026-11-11 11:30:59 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): 'The Age of Innocence' TV show sets Netflix release date; first photos
+[2026-11-11 11:31:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f3aec5491da37ce4f7d37ea22
+[2026-11-11 11:31:00 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): The Age of Innocence: All about the Netflix adaptation of Edith Wharto
+[2026-11-11 11:31:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f3aec5491da37ce4f7d37ea22
+[2026-11-11 11:31:00 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 144/300 chars, resolved=True): Millie Bobby Brown sets new Netflix movie ahead of David Harbour reuni
+[2026-11-11 11:31:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f4a24240f09f01c7b394dec41
+[2026-11-11 11:31:00 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-11 11:31:00 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
