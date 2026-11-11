@@ -25142,3 +25142,12 @@
 [2026-11-11 11:31:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4fac054084fd99e5f725eba3d0ad
 [2026-11-11 11:31:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): ‘MobLand’ Season 2, Episode 9 Release Time And Preview: Frankie’s Gunn
 [2026-11-11 11:31:13 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-11-11 11:31:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4fac1a63e473d8e2db59b97ebbe2
+[2026-11-11 11:31:13 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Germany Announces 1,200 Fully Funded Scholarships for Kenyans
+[2026-11-11 11:31:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4fac1a63e473d8e2db59b97ebbe2
+[2026-11-11 11:31:14 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Full funding: UK opens 2027 Commonwealth master's scholarships
+[2026-11-11 11:31:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4fac1a63e473d8e2db59b97ebbe2
+[2026-11-11 11:31:14 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): Gone but not forgotten: Black luminaries we lost in 2026
+[2026-11-11 11:31:14 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 11:31:43 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HBCU Royal Court Scholarships and Financial Aid Guide
+[2026-11-11 11:31:44 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1818 in / 596 out tokens
