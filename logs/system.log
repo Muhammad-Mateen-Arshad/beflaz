@@ -24955,3 +24955,10 @@
 [2026-11-11 03:30:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-11 03:31:02 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Investment and Job Opportunities 2026
 [2026-11-11 03:31:03 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1593 in / 559 out tokens
+[2026-11-11 03:31:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-11 03:31:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a397e5140168aff165caec009b
+[2026-11-11 03:31:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 141/300 chars, resolved=True): The luxe Italy hotels attracting the A-listers - and the value-for-mon
+[2026-11-11 03:31:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a397e5140168aff165caec009b
+[2026-11-11 03:31:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-11 03:31:35 PM] [DRAMAS_BOT] [SUCCESS] Published: CEO Talks: Beymen’s Elif Çapçı on Why Turkey’s Luxury Consumer Is Defying the Global Slowdown
+[2026-11-11 03:31:37 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1654 in / 423 out tokens
