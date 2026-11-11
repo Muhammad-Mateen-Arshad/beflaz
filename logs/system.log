@@ -25162,3 +25162,11 @@
 [2026-11-11 11:31:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-11 11:32:30 PM] [HEALTH_BOT] [SUCCESS] Published: Dr. Frank Lipman’s 5 Healthy Aging Habits for Men
 [2026-11-11 11:32:30 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1578 in / 587 out tokens
+[2026-11-11 11:32:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4fb0f33224f7ab85f091bfebc730
+[2026-11-11 11:32:31 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Believe it: Stolen dinosaur discovered in backyard with plastic bag ov
+[2026-11-11 11:32:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4fb0f33224f7ab85f091bfebc730
+[2026-11-11 11:32:31 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): “Dinosaur Blood” Has Hit The Headlines Again. But Could It Ever Really
+[2026-11-11 11:32:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4fb0f33224f7ab85f091bfebc730
+[2026-11-11 11:32:32 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Dinosaur identified as new species 25 years after it was unearthed at 
+[2026-11-11 11:33:00 PM] [HISTORY_BOT] [SUCCESS] Published: ☀️ English Morning News Wednesday, November 11, 2026
+[2026-11-11 11:33:01 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 533 in / 333 out tokens
