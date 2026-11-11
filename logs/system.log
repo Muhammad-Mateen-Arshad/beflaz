@@ -25081,3 +25081,16 @@
 [2026-11-11 07:30:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c25e2d934cf6b92a09559b10022
 [2026-11-11 07:30:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): ‘The Devil’s Plan’ season 3 release schedule: When do new episodes of 
 [2026-11-11 07:30:38 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-11-11 07:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c25fb12a4dbbb797b521b450808
+[2026-11-11 07:30:39 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Germany Announces 1,200 Fully Funded Scholarships for Kenyans
+[2026-11-11 07:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c25fb12a4dbbb797b521b450808
+[2026-11-11 07:30:39 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Opens Applications for Fully Funded Commonwealth Master’s Scholarsh
+[2026-11-11 07:30:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c25fb12a4dbbb797b521b450808
+[2026-11-11 07:30:39 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Full funding: UK opens 2027 Commonwealth master's scholarships
+[2026-11-11 07:30:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c25fb12a4dbbb797b521b450808
+[2026-11-11 07:30:40 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): UK Opens 2027 Commonwealth Scholarships For Nigerians
+[2026-11-11 07:30:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c25fb12a4dbbb797b521b450808
+[2026-11-11 07:30:40 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): How Nigerians can apply for 2027/2028 UK Commonwealth Shared Scholarsh
+[2026-11-11 07:30:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-11 07:31:31 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC USAT 2026 Registration: Eligibility and Deadline
+[2026-11-11 07:31:32 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1097 in / 650 out tokens
