@@ -25029,3 +25029,20 @@
 [2026-11-11 06:58:24 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Full funding: UK opens 2027 Commonwealth master's scholarships
 [2026-11-11 06:58:51 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Plushenko Angels Academy Figure Skating Scholarship
 [2026-11-11 06:58:51 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1042 in / 533 out tokens
+[2026-11-11 06:58:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-11 06:58:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-11 06:58:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baed23eb4da3b176d93d28292fe
+[2026-11-11 06:58:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 53/800 chars, resolved=True): What Drinking Coffee Every Day Does to Your Body, According to Nutriti
+[2026-11-11 06:58:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baed23eb4da3b176d93d28292fe
+[2026-11-11 06:58:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-11 06:58:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baed23eb4da3b176d93d28292fe
+[2026-11-11 06:58:54 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 22 Longest-Living Dog Breeds for Furry Love That Lasts
+[2026-11-11 06:58:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baee8c4c4d558ea7740f28d193d
+[2026-11-11 06:58:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): Mobile Health Interventions Boost Mobility and Ease Frailty in Older A
+[2026-11-11 06:58:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baee8c4c4d558ea7740f28d193d
+[2026-11-11 06:58:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 61/800 chars, resolved=True): Eating less protein may slow aging, researchers find
+[2026-11-11 06:58:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baee8c4c4d558ea7740f28d193d
+[2026-11-11 06:58:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 143/800 chars, resolved=True): Eating less protein may slow biological aging and improve metabolic he
+[2026-11-11 06:58:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baee8c4c4d558ea7740f28d193d
+[2026-11-11 06:58:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 167/800 chars, resolved=True): Eat and exercise for bone health, too
+[2026-11-11 06:58:55 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
