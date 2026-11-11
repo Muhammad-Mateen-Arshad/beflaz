@@ -24888,3 +24888,19 @@
 [2026-11-11 07:34:24 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 750 in / 348 out tokens
 [2026-11-11 11:30:18 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz joins world leaders at COP31, will outline Pakistan’s climate priorities
 [2026-11-11 11:30:19 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1508 in / 568 out tokens
+[2026-11-11 11:30:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451cb51bb424ab389cf70237e879
+[2026-11-11 11:30:20 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Pakistan: Detention orders against labour unionists
+[2026-11-11 11:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451cc465840cdbe8dca49c8e92be
+[2026-11-11 11:30:21 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Newspaper - Front Page - November 11, 2026
+[2026-11-11 11:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451cd4dc84c6f87749b59e002bc3
+[2026-11-11 11:30:21 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Dem governor’s tale of combat action torn to shreds by commanding Army
+[2026-11-11 11:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451cd4dc84c6f87749b59e002bc3
+[2026-11-11 11:30:21 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): Head-on | Trump unmasked America: Is a second American Revolution comi
+[2026-11-11 11:30:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451cd4dc84c6f87749b59e002bc3
+[2026-11-11 11:30:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Birthdays and broken lamps - at home with the Charles brothers
+[2026-11-11 11:30:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451ce184a47058405037d0ef9543
+[2026-11-11 11:30:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): WAPDA claim National Ju-Jitsu C’ship crown
+[2026-11-11 11:30:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451ce184a47058405037d0ef9543
+[2026-11-11 11:30:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 10, 2026
+[2026-11-11 11:30:56 AM] [JOBS_BOT] [SUCCESS] Published: Border Health Services Vaccine Update for Overseas Workers
+[2026-11-11 11:30:57 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1094 in / 487 out tokens
