@@ -25094,3 +25094,11 @@
 [2026-11-11 07:30:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-11 07:31:31 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC USAT 2026 Registration: Eligibility and Deadline
 [2026-11-11 07:31:32 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1097 in / 650 out tokens
+[2026-11-11 07:31:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-11 07:31:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-11 07:31:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c296bb074440858bb0e3f9bc810
+[2026-11-11 07:31:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 53/800 chars, resolved=True): What Drinking Coffee Every Day Does to Your Body, According to Nutriti
+[2026-11-11 07:31:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c296bb074440858bb0e3f9bc810
+[2026-11-11 07:31:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-11 07:32:08 PM] [HEALTH_BOT] [SUCCESS] Published: Herbalife India and IISc Launch Landmark Study on Healthy Ageing
+[2026-11-11 07:32:09 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1474 in / 478 out tokens
