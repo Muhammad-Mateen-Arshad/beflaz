@@ -24811,3 +24811,14 @@
 [2026-11-11 03:32:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e1e14af8404d99c22b793fde9ec
 [2026-11-11 03:32:50 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 142/800 chars, resolved=True): Not medicine, not exercise: Scientists say this simple change could sl
 [2026-11-11 03:32:50 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-11 03:32:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e1e3ccb44a3ea06c7597c0a053b
+[2026-11-11 03:32:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Retired Poultry Farmer Finds 240-Million-Year-Old Amphibian in Garden 
+[2026-11-11 03:32:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e1e3928d441b8a6ac7991aa5f8c
+[2026-11-11 03:32:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-11 03:32:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-11 03:32:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
+[2026-11-11 03:32:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e1e4f4004f90a1841371eee4c4a
+[2026-11-11 03:32:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-11 03:32:53 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 03:33:22 AM] [HISTORY_BOT] [SUCCESS] Published: The Power of Archaeology to Add Meaning to Life
+[2026-11-11 03:33:22 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1686 in / 471 out tokens
