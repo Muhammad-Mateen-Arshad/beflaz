@@ -24920,3 +24920,14 @@
 [2026-11-11 11:31:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f4a24240f09f01c7b394dec41
 [2026-11-11 11:31:00 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-11 11:31:00 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-11-11 11:31:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f4afda4e0babddd9c9660f5b0
+[2026-11-11 11:31:01 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Opens Applications for Fully Funded Commonwealth Master’s Scholarsh
+[2026-11-11 11:31:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f4afda4e0babddd9c9660f5b0
+[2026-11-11 11:31:01 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): China opens applications for fully funded 2027-2028 scholarships for K
+[2026-11-11 11:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f4afda4e0babddd9c9660f5b0
+[2026-11-11 11:31:02 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): UK Opens 2027 Commonwealth Scholarships For Nigerians
+[2026-11-11 11:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af451f4afda4e0babddd9c9660f5b0
+[2026-11-11 11:31:02 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): How Nigerians can apply for 2027/2028 UK Commonwealth Shared Scholarsh
+[2026-11-11 11:31:11 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-11 11:31:44 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Honhaar Scholarship Scheme in Punjab: Overview
+[2026-11-11 11:31:45 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1239 in / 414 out tokens
