@@ -25117,3 +25117,8 @@
 [2026-11-11 07:32:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c2bb8f6c4ee6a6279bfe7bf6dd5
 [2026-11-11 07:32:12 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 103/400 chars, resolved=True): These 7,400-Year-Old Cave Drawings Were Hiding in Plain Sight for Deca
 [2026-11-11 07:32:12 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
+[2026-11-11 11:29:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-11 11:29:56 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 11:30:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-11 11:30:44 PM] [NEWS_BOT] [SUCCESS] Published: PTI lawyers meet Imran, Bushra 'for 3 hours' at Adiala jail following IHC orders
+[2026-11-11 11:30:45 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1210 in / 504 out tokens
