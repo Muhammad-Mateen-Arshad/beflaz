@@ -24765,3 +24765,11 @@
 [2026-11-11 03:29:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-11 03:30:39 AM] [NEWS_BOT] [SUCCESS] Published: US House blocks bid to impeach Defence Secretary Hegseth
 [2026-11-11 03:30:40 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1553 in / 614 out tokens
+[2026-11-11 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e161bb8043dfa117840b510cabf
+[2026-11-11 03:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): The £2m London townhouse where civil servant juggled five jobs to chea
+[2026-11-11 03:30:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e161bb8043dfa117840b510cabf
+[2026-11-11 03:30:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Pakistan: Detention orders against labour unionists
+[2026-11-11 03:30:43 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 03:30:45 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-11 03:31:33 AM] [JOBS_BOT] [SUCCESS] Published: FPSC Recruitment Expedited for Sindh and Balochistan Quotas
+[2026-11-11 03:31:33 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1483 in / 605 out tokens
