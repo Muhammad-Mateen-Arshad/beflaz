@@ -24848,3 +24848,14 @@
 [2026-11-11 07:33:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): 'The Age of Innocence' TV show sets Netflix release date; first photos
 [2026-11-11 07:33:25 AM] [DRAMAS_BOT] [SUCCESS] Published: First Look & Release Date For Netflix Period Drama ‘The Age of Innocence’
 [2026-11-11 07:33:26 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1146 in / 535 out tokens
+[2026-11-11 07:33:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a4648ea430a88d97e61b97a3b3
+[2026-11-11 07:33:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Opens Applications for Fully Funded Commonwealth Master’s Scholarsh
+[2026-11-11 07:33:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a4648ea430a88d97e61b97a3b3
+[2026-11-11 07:33:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): China opens applications for fully funded 2027-2028 scholarships for K
+[2026-11-11 07:33:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a4648ea430a88d97e61b97a3b3
+[2026-11-11 07:33:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): UK Opens 2027 Commonwealth Scholarships For Nigerians
+[2026-11-11 07:33:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a4648ea430a88d97e61b97a3b3
+[2026-11-11 07:33:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): How Nigerians can apply for 2027/2028 UK Commonwealth Shared Scholarsh
+[2026-11-11 07:33:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 07:33:59 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: UET Lahore Scholarships and 33rd Convocation Details
+[2026-11-11 07:34:00 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1022 in / 522 out tokens
