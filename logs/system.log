@@ -25010,3 +25010,14 @@
 [2026-11-11 06:57:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan's jailed former PM Imran Khan undergoes follow-up eye treatme
 [2026-11-11 06:57:52 PM] [JOBS_BOT] [SUCCESS] Published: Global Rooftop Solar Initiative 2030: Key Details
 [2026-11-11 06:57:52 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1421 in / 506 out tokens
+[2026-11-11 06:57:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-11 06:57:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4bab2b0d64f2a908edd6337aeb0f
+[2026-11-11 06:57:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 141/300 chars, resolved=True): The luxe Italy hotels attracting the A-listers and the value-for-money
+[2026-11-11 06:57:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4bab2b0d64f2a908edd6337aeb0f
+[2026-11-11 06:57:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-11 06:57:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4bab38bbe4841904632a23615874
+[2026-11-11 06:57:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 134/300 chars, resolved=True): Netflix confirms new One Piece anime season on November 15
+[2026-11-11 06:57:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4bab38bbe4841904632a23615874
+[2026-11-11 06:57:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): 'The Age Of Innocence' TV Show Sets Netflix Release Date; First Photos
+[2026-11-11 06:58:21 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘The Lincoln Lawyer’ Season 5 Episode Titles Revealed Ahead of the Final Season
+[2026-11-11 06:58:22 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1197 in / 537 out tokens
