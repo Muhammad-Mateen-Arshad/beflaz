@@ -24709,3 +24709,5 @@
 [2026-11-10 11:34:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
 [2026-11-10 11:35:17 PM] [HISTORY_BOT] [SUCCESS] Published: Archaeology student found a lost Maya city on page 16 of a Google search
 [2026-11-10 11:35:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1588 in / 516 out tokens
+[2026-11-11 03:23:52 AM] [NEWS_BOT] [SUCCESS] Published: Development spending stalls despite surplus
+[2026-11-11 03:23:53 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1750 in / 691 out tokens
