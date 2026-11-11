@@ -24837,3 +24837,14 @@
 [2026-11-11 07:32:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-11 07:33:01 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Army Jobs Update 2026: Official Notice Details
 [2026-11-11 07:33:01 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3422 in / 991 out tokens
+[2026-11-11 07:33:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-11 07:33:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a2e55ab4a31a4347af8b552c57
+[2026-11-11 07:33:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-11 07:33:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a2e55ab4a31a4347af8b552c57
+[2026-11-11 07:33:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-11 07:33:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a2e55ab4a31a4347af8b552c57
+[2026-11-11 07:33:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 128/300 chars, resolved=True): 8 greatest World War I movies praised by experts for historical accura
+[2026-11-11 07:33:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a2f72e3483d91f163ebb11718d
+[2026-11-11 07:33:03 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): 'The Age of Innocence' TV show sets Netflix release date; first photos
+[2026-11-11 07:33:25 AM] [DRAMAS_BOT] [SUCCESS] Published: First Look & Release Date For Netflix Period Drama ‘The Age of Innocence’
+[2026-11-11 07:33:26 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1146 in / 535 out tokens
