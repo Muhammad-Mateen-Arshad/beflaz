@@ -25102,3 +25102,18 @@
 [2026-11-11 07:31:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
 [2026-11-11 07:32:08 PM] [HEALTH_BOT] [SUCCESS] Published: Herbalife India and IISc Launch Landmark Study on Healthy Ageing
 [2026-11-11 07:32:09 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1474 in / 478 out tokens
+[2026-11-11 07:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c2b9f1e24f89aa5675c70b2e03a
+[2026-11-11 07:32:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Dinosaur identified as new species 25 years after it was unearthed at 
+[2026-11-11 07:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c2b9f1e24f89aa5675c70b2e03a
+[2026-11-11 07:32:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Farmer's Garden Wall Hid a 240-Million-Year-Old Fossil With an Unexpec
+[2026-11-11 07:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c2b9f1e24f89aa5675c70b2e03a
+[2026-11-11 07:32:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): The Jurassic Park effect: People only care about dinosaurs if the spec
+[2026-11-11 07:32:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c2ba60644020847721dd659e6b1
+[2026-11-11 07:32:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-11 07:32:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-11 07:32:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c2bb04f14bbb8a47420f73458de
+[2026-11-11 07:32:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-11 07:32:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
+[2026-11-11 07:32:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c2bb8f6c4ee6a6279bfe7bf6dd5
+[2026-11-11 07:32:12 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 103/400 chars, resolved=True): These 7,400-Year-Old Cave Drawings Were Hiding in Plain Sight for Deca
+[2026-11-11 07:32:12 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
