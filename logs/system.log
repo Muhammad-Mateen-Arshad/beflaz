@@ -24711,3 +24711,9 @@
 [2026-11-10 11:35:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1588 in / 516 out tokens
 [2026-11-11 03:23:52 AM] [NEWS_BOT] [SUCCESS] Published: Development spending stalls despite surplus
 [2026-11-11 03:23:53 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1750 in / 691 out tokens
+[2026-11-11 03:23:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3dfc94a244d469ea85abbcaf61ce
+[2026-11-11 03:23:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): The £2m London townhouse where civil servant juggled five jobs to chea
+[2026-11-11 03:23:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3dfc94a244d469ea85abbcaf61ce
+[2026-11-11 03:23:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Pakistan: Detention orders against labour unionists
+[2026-11-11 03:24:21 AM] [JOBS_BOT] [SUCCESS] Published: Khyber Pakhtunkhwa Advisory Council Appointments Update
+[2026-11-11 03:24:22 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1713 in / 517 out tokens
