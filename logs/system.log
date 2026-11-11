@@ -25006,3 +25006,7 @@
 [2026-11-11 06:56:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-11 06:57:02 PM] [NEWS_BOT] [SUCCESS] Published: 10 cops martyred, 18 terrorists killed as police party comes under attack in KP's Kohat
 [2026-11-11 06:57:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1524 in / 507 out tokens
+[2026-11-11 06:57:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4ba7f39d34a49a52cc2a8f8b8130
+[2026-11-11 06:57:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan's jailed former PM Imran Khan undergoes follow-up eye treatme
+[2026-11-11 06:57:52 PM] [JOBS_BOT] [SUCCESS] Published: Global Rooftop Solar Initiative 2030: Key Details
+[2026-11-11 06:57:52 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1421 in / 506 out tokens
