@@ -24717,3 +24717,13 @@
 [2026-11-11 03:23:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Pakistan: Detention orders against labour unionists
 [2026-11-11 03:24:21 AM] [JOBS_BOT] [SUCCESS] Published: Khyber Pakhtunkhwa Advisory Council Appointments Update
 [2026-11-11 03:24:22 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1713 in / 517 out tokens
+[2026-11-11 03:24:23 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-11 03:24:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3dfe73c494a4cb98d02084789288
+[2026-11-11 03:24:24 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-11 03:24:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3dfe73c494a4cb98d02084789288
+[2026-11-11 03:24:24 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-11 03:24:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3dfe83c7140bf8b8e89524b72d8d
+[2026-11-11 03:24:24 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): 'The Age of Innocence' TV show sets Netflix release date; first photos
+[2026-11-11 03:24:25 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 03:24:50 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix unveils period drama series The Age of Innocence that fans of East of Eden will love
+[2026-11-11 03:24:51 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1509 in / 494 out tokens
