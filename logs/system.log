@@ -24952,3 +24952,6 @@
 [2026-11-11 11:32:19 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1638 in / 515 out tokens
 [2026-11-11 03:29:59 PM] [NEWS_BOT] [SUCCESS] Published: At least 12 cops injured as police party comes under attack in KP's Kohat
 [2026-11-11 03:30:00 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1551 in / 517 out tokens
+[2026-11-11 03:30:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-11 03:31:02 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Investment and Job Opportunities 2026
+[2026-11-11 03:31:03 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1593 in / 559 out tokens
