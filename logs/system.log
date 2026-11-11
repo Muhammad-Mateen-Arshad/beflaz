@@ -25046,3 +25046,17 @@
 [2026-11-11 06:58:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baee8c4c4d558ea7740f28d193d
 [2026-11-11 06:58:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 167/800 chars, resolved=True): Eat and exercise for bone health, too
 [2026-11-11 06:58:55 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-11 06:58:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baf0994944beac67ee336035948
+[2026-11-11 06:58:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Dinosaur identified as new species 25 years after it was unearthed at 
+[2026-11-11 06:58:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baf0994944beac67ee336035948
+[2026-11-11 06:58:57 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Farmer's garden wall hid a 240-million-year-old fossil with an unexpec
+[2026-11-11 06:59:11 PM] [HISTORY_BOT] [INFO] Rejected by quality gate (too short (143 words, need 150)): Earth’s early history told by 3.9-billion-year-old rocks from northern
+[2026-11-11 06:59:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baff39744765af29208c2766970
+[2026-11-11 06:59:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-11 06:59:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-11 06:59:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4baff20ec429bbda0f837ba97e2c
+[2026-11-11 06:59:12 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-11 06:59:12 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
+[2026-11-11 06:59:13 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 07:00:03 PM] [HISTORY_BOT] [SUCCESS] Published: Work to save the Afghan capital's crumbling ancient fortress uncovers archaeological treasures
+[2026-11-11 07:00:04 PM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 3218 in / 801 out tokens
