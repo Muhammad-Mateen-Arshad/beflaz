@@ -24773,3 +24773,15 @@
 [2026-11-11 03:30:45 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-11 03:31:33 AM] [JOBS_BOT] [SUCCESS] Published: FPSC Recruitment Expedited for Sindh and Balochistan Quotas
 [2026-11-11 03:31:33 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1483 in / 605 out tokens
+[2026-11-11 03:31:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-11 03:31:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e197218441f8b965dab0f0a8ab3
+[2026-11-11 03:31:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-11 03:31:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e197218441f8b965dab0f0a8ab3
+[2026-11-11 03:31:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-11 03:31:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e19815ad4d349635674346e5037
+[2026-11-11 03:31:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): 'The Age of Innocence' TV show sets Netflix release date; first photos
+[2026-11-11 03:31:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e19834bb45f89c1d3d058c9f658
+[2026-11-11 03:31:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-11 03:31:38 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 03:32:02 AM] [DRAMAS_BOT] [SUCCESS] Published: Alicia’s Law Part 1 Release Date: Fernanda Castillo Leads a Gripping New Legal Drama
+[2026-11-11 03:32:03 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1106 in / 521 out tokens
