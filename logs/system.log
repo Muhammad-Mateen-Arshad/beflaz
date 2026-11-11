@@ -24971,3 +24971,18 @@
 [2026-11-11 03:32:26 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-11 03:32:27 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Herzing University Grants and Nursing Scholarships 2026
 [2026-11-11 03:32:28 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1480 in / 575 out tokens
+[2026-11-11 03:32:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-11 03:32:29 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-11 03:32:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a8d53dc48679706647e993fadd
+[2026-11-11 03:32:30 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 53/800 chars, resolved=True): What Drinking Coffee Every Day Does to Your Body, According to Nutriti
+[2026-11-11 03:32:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a8d53dc48679706647e993fadd
+[2026-11-11 03:32:30 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-11 03:32:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a8d53dc48679706647e993fadd
+[2026-11-11 03:32:30 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 22 Longest-Living Dog Breeds for Furry Love That Lasts
+[2026-11-11 03:32:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a8ed38b4d9095c5fac7f2d95e5
+[2026-11-11 03:32:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): Mobile Health Interventions Boost Mobility and Ease Frailty in Older A
+[2026-11-11 03:32:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a8ed38b4d9095c5fac7f2d95e5
+[2026-11-11 03:32:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): 6 best cereals for healthy aging, according to a dietitian
+[2026-11-11 03:32:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a8ed38b4d9095c5fac7f2d95e5
+[2026-11-11 03:32:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 142/800 chars, resolved=True): Not medicine, not exercise: Scientists say this simple change could sl
+[2026-11-11 03:32:31 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
