@@ -24946,3 +24946,7 @@
 [2026-11-11 11:31:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af45224c6cf4fb6bcb64e8d7b3abf3
 [2026-11-11 11:31:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 167/800 chars, resolved=True): Eat and exercise for bone health, too
 [2026-11-11 11:31:49 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-11 11:31:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af45225ff004a3f8c539b980d32a72
+[2026-11-11 11:31:50 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Retired Poultry Farmer Finds 240-Million-Year-Old Amphibian in Garden 
+[2026-11-11 11:32:18 AM] [HISTORY_BOT] [SUCCESS] Published: I hunt for fossils in Egypt’s deserts and break barriers for other women
+[2026-11-11 11:32:19 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1638 in / 515 out tokens
