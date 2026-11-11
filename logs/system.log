@@ -25001,3 +25001,8 @@
 [2026-11-11 03:32:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a921a224d21a2b44e47101ecb6
 [2026-11-11 03:32:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Overlooked Ice Age Cave Art in Spain Could Be the World’s Oldest Carto
 [2026-11-11 03:32:35 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-11-11 06:55:44 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-11 06:56:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-11 06:56:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-11 06:57:02 PM] [NEWS_BOT] [SUCCESS] Published: 10 cops martyred, 18 terrorists killed as police party comes under attack in KP's Kohat
+[2026-11-11 06:57:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1524 in / 507 out tokens
