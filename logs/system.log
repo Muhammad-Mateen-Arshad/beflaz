@@ -24962,3 +24962,12 @@
 [2026-11-11 03:31:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-11 03:31:35 PM] [DRAMAS_BOT] [SUCCESS] Published: CEO Talks: Beymen’s Elif Çapçı on Why Turkey’s Luxury Consumer Is Defying the Global Slowdown
 [2026-11-11 03:31:37 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1654 in / 423 out tokens
+[2026-11-11 03:31:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a59368b4e278243e51048309f6
+[2026-11-11 03:31:37 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Opens Applications for Fully Funded Commonwealth Master’s Scholarsh
+[2026-11-11 03:31:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a59368b4e278243e51048309f6
+[2026-11-11 03:31:39 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): UK Opens 2027 Commonwealth Scholarships For Nigerians
+[2026-11-11 03:31:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af48a59368b4e278243e51048309f6
+[2026-11-11 03:31:39 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): How Nigerians can apply for 2027/2028 UK Commonwealth Shared Scholarsh
+[2026-11-11 03:32:26 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-11 03:32:27 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Herzing University Grants and Nursing Scholarships 2026
+[2026-11-11 03:32:28 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1480 in / 575 out tokens
