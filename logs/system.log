@@ -24874,3 +24874,15 @@
 [2026-11-11 07:34:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a6a80a149ed9def9b3726c8659
 [2026-11-11 07:34:03 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 142/800 chars, resolved=True): Not medicine, not exercise: Scientists say this simple change could sl
 [2026-11-11 07:34:03 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-11 07:34:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a6b831846e09ade67b2abbd8cf
+[2026-11-11 07:34:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Retired Poultry Farmer Finds 240-Million-Year-Old Amphibian in Garden 
+[2026-11-11 07:34:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a6b4ae9406b83df3464da2a915
+[2026-11-11 07:34:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-11 07:34:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-11 07:34:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
+[2026-11-11 07:34:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a6caa494d8c8ece04cb3971a03
+[2026-11-11 07:34:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): “Glory of Bronze Civilization: Sanxingdui-Jinsha Sites Salon” Held in 
+[2026-11-11 07:34:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af41a6c9ec34538acaccf0567ee14d
+[2026-11-11 07:34:05 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Overlooked Ice Age Cave Art in Spain Could Be the World’s Oldest Carto
+[2026-11-11 07:34:22 AM] [HISTORY_BOT] [SUCCESS] Published: New insights into prehistoric South India’s culinary culture
+[2026-11-11 07:34:24 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 750 in / 348 out tokens
