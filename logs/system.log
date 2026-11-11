@@ -25021,3 +25021,11 @@
 [2026-11-11 06:57:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): 'The Age Of Innocence' TV Show Sets Netflix Release Date; First Photos
 [2026-11-11 06:58:21 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘The Lincoln Lawyer’ Season 5 Episode Titles Revealed Ahead of the Final Season
 [2026-11-11 06:58:22 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1197 in / 537 out tokens
+[2026-11-11 06:58:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4bacfe66b4972ac86d1d57321a56
+[2026-11-11 06:58:23 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Germany Announces 1,200 Fully Funded Scholarships for Kenyans
+[2026-11-11 06:58:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4bacfe66b4972ac86d1d57321a56
+[2026-11-11 06:58:23 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Opens Applications for Fully Funded Commonwealth Master’s Scholarsh
+[2026-11-11 06:58:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4bacfe66b4972ac86d1d57321a56
+[2026-11-11 06:58:24 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Full funding: UK opens 2027 Commonwealth master's scholarships
+[2026-11-11 06:58:51 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Plushenko Angels Academy Figure Skating Scholarship
+[2026-11-11 06:58:51 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1042 in / 533 out tokens
