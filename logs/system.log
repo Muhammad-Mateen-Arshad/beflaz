@@ -24727,3 +24727,16 @@
 [2026-11-11 03:24:25 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-11 03:24:50 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix unveils period drama series The Age of Innocence that fans of East of Eden will love
 [2026-11-11 03:24:51 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1509 in / 494 out tokens
+[2026-11-11 03:24:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e003bd1a4705ba1a105e334ca1c
+[2026-11-11 03:24:52 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Opens Applications for Fully Funded Commonwealth Master’s Scholarsh
+[2026-11-11 03:24:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e003bd1a4705ba1a105e334ca1c
+[2026-11-11 03:24:52 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): China opens applications for fully funded 2027-2028 scholarships for K
+[2026-11-11 03:24:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e003bd1a4705ba1a105e334ca1c
+[2026-11-11 03:24:52 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): African country announces 15 fully funded scholarships for Kenyan stud
+[2026-11-11 03:24:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3e003bd1a4705ba1a105e334ca1c
+[2026-11-11 03:24:53 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): UK Opens 2027 Commonwealth Scholarships For Nigerians
+[2026-11-11 03:24:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-11 03:24:56 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-11 03:25:45 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-11 03:25:45 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: CPEC Academic Exchange and Training Opportunities
+[2026-11-11 03:25:46 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1450 in / 532 out tokens
