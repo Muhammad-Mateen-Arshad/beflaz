@@ -25062,3 +25062,6 @@
 [2026-11-11 07:00:04 PM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 3218 in / 801 out tokens
 [2026-11-11 07:29:51 PM] [NEWS_BOT] [SUCCESS] Published: Fuel prices slashed once again; high-speed diesel cut by Rs7 per litre, petrol by Rs3
 [2026-11-11 07:29:52 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 975 in / 571 out tokens
+[2026-11-11 07:29:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-11 07:30:35 PM] [JOBS_BOT] [SUCCESS] Published: Punjab PIVOT Plan 2026-29 Jobs and Employment Focus
+[2026-11-11 07:30:36 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1544 in / 537 out tokens
