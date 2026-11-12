@@ -25425,3 +25425,14 @@
 [2026-11-12 03:31:19 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-12 03:31:20 PM] [JOBS_BOT] [SUCCESS] Published: PINTECH 2026 Innovation Expo in Lahore: Event Details
 [2026-11-12 03:31:20 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1514 in / 525 out tokens
+[2026-11-12 03:31:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-12 03:31:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5dbcad7784b41849190d48e0e98a
+[2026-11-12 03:31:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-12 03:31:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5dbcad7784b41849190d48e0e98a
+[2026-11-12 03:31:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-12 03:31:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5dbcdda224e9bb0914b2350188c1
+[2026-11-12 03:31:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): 2 Seasons of Kat Dennings & Tim Allen Sitcom Are Finally Headed To Net
+[2026-11-12 03:31:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5dbcdda224e9bb0914b2350188c1
+[2026-11-12 03:31:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 160/300 chars, resolved=True): Netflix to release never-before-seen interview Tupac Shakur did 30 yea
+[2026-11-12 03:32:42 PM] [DRAMAS_BOT] [SUCCESS] Published: 'Another Abuse Documentary?': Netflix's Russell Brand Project Raises Questions About True-Crime Profits
+[2026-11-12 03:32:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1154 in / 517 out tokens
