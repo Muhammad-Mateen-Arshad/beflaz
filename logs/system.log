@@ -25270,3 +25270,5 @@
 [2026-11-12 03:32:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Dinosaur identified as new species 25 years after it was unearthed at 
 [2026-11-12 03:32:37 AM] [HISTORY_BOT] [SUCCESS] Published: Climate Brief:‘The world we know is over’
 [2026-11-12 03:32:38 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1593 in / 454 out tokens
+[2026-11-12 07:31:31 AM] [NEWS_BOT] [SUCCESS] Published: President, PM condole martyrdom of 10 policemen in Kohat, vow to continue fight against terrorism
+[2026-11-12 07:31:32 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1155 in / 465 out tokens
