@@ -25178,3 +25178,11 @@
 [2026-11-12 01:43:39 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Transforming JK’s security, economy and political landscape
 [2026-11-12 01:44:16 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan AI Skill Training Initiative 2026 Overview
 [2026-11-12 01:44:17 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1135 in / 505 out tokens
+[2026-11-12 01:44:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-12 01:44:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-12 01:44:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af519f564f042b5b49c5a6055273a8
+[2026-11-12 01:44:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 141/300 chars, resolved=True): The luxe Italy hotels attracting the A-listers and the value-for-money
+[2026-11-12 01:44:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af519f564f042b5b49c5a6055273a8
+[2026-11-12 01:44:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-12 01:45:19 AM] [DRAMAS_BOT] [SUCCESS] Published: Talk Survivor 4 is Now Streaming on Netflix! A Thorough Guide to the 29 Cast Members and 8 Episodes
+[2026-11-12 01:45:20 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1801 in / 710 out tokens
