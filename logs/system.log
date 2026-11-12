@@ -25172,3 +25172,9 @@
 [2026-11-11 11:33:01 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 533 in / 333 out tokens
 [2026-11-12 01:43:37 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz highlights Pakistan's solar 'revolution by ordinary citizens' at COP31
 [2026-11-12 01:43:38 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1566 in / 518 out tokens
+[2026-11-12 01:43:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af519cbf6cc437bba6f4909090f053
+[2026-11-12 01:43:39 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan's jailed former PM Imran Khan taken to hospital for eye treat
+[2026-11-12 01:43:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af519cbf6cc437bba6f4909090f053
+[2026-11-12 01:43:39 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Transforming JK’s security, economy and political landscape
+[2026-11-12 01:44:16 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan AI Skill Training Initiative 2026 Overview
+[2026-11-12 01:44:17 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1135 in / 505 out tokens
