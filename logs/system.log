@@ -25526,3 +25526,11 @@
 [2026-11-12 11:37:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
 [2026-11-12 11:37:59 PM] [HEALTH_BOT] [SUCCESS] Published: New Study: Could Creatine's Precursor Work Better Than Creatine Itself?
 [2026-11-12 11:38:01 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 841 in / 581 out tokens
+[2026-11-12 11:38:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64dd9f2b14e3b85ba416afe85294
+[2026-11-12 11:38:02 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Dinosaurs may have shared their nights with this glowing creature, whi
+[2026-11-12 11:38:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64dd9f2b14e3b85ba416afe85294
+[2026-11-12 11:38:02 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Scientists create 'treasure map' revealing where Earth's missing prehi
+[2026-11-12 11:38:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64dd9f2b14e3b85ba416afe85294
+[2026-11-12 11:38:02 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Fossil fuel mega-profits 'morally unacceptable', Guterres tells AFP
+[2026-11-12 11:38:32 PM] [HISTORY_BOT] [SUCCESS] Published: Like many young people I lost faith in climate politics - could going to COP31 change my mind?
+[2026-11-12 11:38:33 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1527 in / 361 out tokens
