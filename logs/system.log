@@ -25438,3 +25438,11 @@
 [2026-11-12 03:32:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1154 in / 517 out tokens
 [2026-11-12 03:33:43 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: KPEF Merit-Cum-Inaffordability Scholarship 2026-27
 [2026-11-12 03:33:44 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1274 in / 614 out tokens
+[2026-11-12 03:33:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-12 03:33:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-12 03:33:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5dc59e6294b1b8efdc289ca7207c
+[2026-11-12 03:33:45 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): Scientists Studied a Daily Peanut Habit for 16 Weeks. Here’s What Chan
+[2026-11-12 03:33:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5dc59e6294b1b8efdc289ca7207c
+[2026-11-12 03:33:46 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 53/800 chars, resolved=True): What Drinking Coffee Every Day Does to Your Body, According to Nutriti
+[2026-11-12 03:34:27 PM] [HEALTH_BOT] [SUCCESS] Published: The Case for Taking the Stairs—Especially After 40
+[2026-11-12 03:34:28 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1162 in / 530 out tokens
