@@ -25339,3 +25339,8 @@
 [2026-11-12 11:31:46 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 160/300 chars, resolved=True): Netflix to release never-before-seen interview Tupac Shakur did 30 yea
 [2026-11-12 11:32:12 AM] [DRAMAS_BOT] [SUCCESS] Published: Bros Season 2 — Netflix brings the Beitar Jerusalem bar owners back from Krakow
 [2026-11-12 11:32:13 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1643 in / 575 out tokens
+[2026-11-12 11:32:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a3bdf6e74a0f9e461302cad2453
+[2026-11-12 11:32:14 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Germany Announces 1,200 Fully Funded Scholarships for Kenyans
+[2026-11-12 11:32:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-12 11:34:54 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: CUHK Hong Kong PhD Fellowship Scheme 2026 Details
+[2026-11-12 11:34:55 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1832 in / 663 out tokens
