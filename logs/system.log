@@ -25380,3 +25380,15 @@
 [2026-11-12 11:58:24 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Silk Road in orbit: China to build 20-satellite space AI system for Om
 [2026-11-12 11:58:55 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Sudhan Educational Conference Education Updates
 [2026-11-12 11:58:56 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1532 in / 527 out tokens
+[2026-11-12 11:58:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-12 11:58:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-12 11:58:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa0292f14cdaab9b019fc890026
+[2026-11-12 11:58:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): Scientists Studied a Daily Peanut Habit for 16 Weeks. Here’s What Chan
+[2026-11-12 11:58:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa0292f14cdaab9b019fc890026
+[2026-11-12 11:58:59 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): What the Protein Restriction and Longevity Headlines Are Missing
+[2026-11-12 11:58:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa0292f14cdaab9b019fc890026
+[2026-11-12 11:58:59 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-12 11:58:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa0292f14cdaab9b019fc890026
+[2026-11-12 11:58:59 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Daily Energy Drinks Linked to 11x Higher Risk of Cardiac Arrest: Why Y
+[2026-11-12 11:59:50 AM] [HEALTH_BOT] [SUCCESS] Published: SNFCC Launches Active Aging Hub With Activities for Seniors
+[2026-11-12 11:59:51 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1609 in / 539 out tokens
