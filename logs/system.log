@@ -25420,3 +25420,5 @@
 [2026-11-12 12:04:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-12 12:05:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-12 12:06:00 PM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-12 03:30:14 PM] [NEWS_BOT] [SUCCESS] Published: Naqvi suggests referendum as 'solution' to debate on new administrative units
+[2026-11-12 03:30:15 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1530 in / 541 out tokens
