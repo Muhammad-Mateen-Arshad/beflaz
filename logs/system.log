@@ -25323,3 +25323,6 @@
 [2026-11-12 07:32:41 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-12 07:33:20 AM] [HISTORY_BOT] [SUCCESS] Published: Guterres Targets Fossil Fuel Lobby as COP31 Leaders Divide Over Debt, Finance and War
 [2026-11-12 07:33:21 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1622 in / 519 out tokens
+[2026-11-12 11:30:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-12 11:30:53 AM] [NEWS_BOT] [SUCCESS] Published: At COP31, PM Shehbaz calls for grant-based finance, resilience funding for climate-vulnerable countries
+[2026-11-12 11:30:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1475 in / 563 out tokens
