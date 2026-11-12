@@ -25446,3 +25446,11 @@
 [2026-11-12 03:33:46 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 53/800 chars, resolved=True): What Drinking Coffee Every Day Does to Your Body, According to Nutriti
 [2026-11-12 03:34:27 PM] [HEALTH_BOT] [SUCCESS] Published: The Case for Taking the Stairs—Especially After 40
 [2026-11-12 03:34:28 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1162 in / 530 out tokens
+[2026-11-12 03:34:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5dc85160942b0b660c0a56d97df7
+[2026-11-12 03:34:29 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Believe it: Stolen dinosaur discovered in backyard with plastic bag ov
+[2026-11-12 03:34:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5dc85160942b0b660c0a56d97df7
+[2026-11-12 03:34:29 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): “Dinosaur Blood” Has Hit The Headlines Again. But Could It Ever Really
+[2026-11-12 03:34:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5dc85160942b0b660c0a56d97df7
+[2026-11-12 03:34:30 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): What is the oldest object discovered on Earth?
+[2026-11-12 03:35:12 PM] [HISTORY_BOT] [SUCCESS] Published: 10 tech gifts for kids who love to make and explore
+[2026-11-12 03:35:12 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1735 in / 414 out tokens
