@@ -25480,3 +25480,13 @@
 [2026-11-12 07:26:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-12 07:27:22 PM] [HEALTH_BOT] [SUCCESS] Published: For the first time, researchers map out the brain’s behavioral gatekeeper
 [2026-11-12 07:27:23 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1490 in / 468 out tokens
+[2026-11-12 07:27:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6131b9b20404696770626c608a72
+[2026-11-12 07:27:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Dinosaurs may have shared their nights with this glowing creature, whi
+[2026-11-12 07:27:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6131b9b20404696770626c608a72
+[2026-11-12 07:27:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Fossil fuel mega-profits 'morally unacceptable', Guterres tells AFP
+[2026-11-12 07:27:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6131b9b20404696770626c608a72
+[2026-11-12 07:27:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): What is the oldest object discovered on Earth?
+[2026-11-12 07:27:26 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-12 07:27:40 PM] [HISTORY_BOT] [INFO] Rejected by quality gate (too short (94 words, need 150)): November 13, 2026 | NewsDepth 2026-2027 | Episode 10
+[2026-11-12 07:32:06 PM] [HISTORY_BOT] [SUCCESS] Published: World leaders urged to dump fossil fuels as major names skip COP31 summit
+[2026-11-12 07:32:07 PM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 3255 in / 616 out tokens
