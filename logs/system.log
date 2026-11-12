@@ -25344,3 +25344,9 @@
 [2026-11-12 11:32:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-12 11:34:54 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: CUHK Hong Kong PhD Fellowship Scheme 2026 Details
 [2026-11-12 11:34:55 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1832 in / 663 out tokens
+[2026-11-12 11:34:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-12 11:34:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-12 11:34:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a4604a4143c9a567d775d8bbaa5
+[2026-11-12 11:34:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): Scientists Studied a Daily Peanut Habit for 16 Weeks. Here’s What Chan
+[2026-11-12 11:35:23 AM] [HEALTH_BOT] [SUCCESS] Published: Moderate Drinking Has No Health Benefit, US-Funded Alcohol Review Finds
+[2026-11-12 11:35:24 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1267 in / 541 out tokens
