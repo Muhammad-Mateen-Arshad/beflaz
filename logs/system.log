@@ -25374,3 +25374,9 @@
 [2026-11-12 11:57:54 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 160/300 chars, resolved=True): Netflix to release never-before-seen interview Tupac Shakur did 30 yea
 [2026-11-12 11:58:22 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s Spookiest Korean Horror Show Is No. 1 With 44 Million Hours Viewed
 [2026-11-12 11:58:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 821 in / 518 out tokens
+[2026-11-12 11:58:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a9df432440188955bec8ce6d45d
+[2026-11-12 11:58:23 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Germany Announces 1,200 Fully Funded Scholarships for Kenyans
+[2026-11-12 11:58:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a9df5c914819a0863951c8aeae4
+[2026-11-12 11:58:24 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Silk Road in orbit: China to build 20-satellite space AI system for Om
+[2026-11-12 11:58:55 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Sudhan Educational Conference Education Updates
+[2026-11-12 11:58:56 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1532 in / 527 out tokens
