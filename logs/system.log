@@ -25234,3 +25234,16 @@
 [2026-11-12 03:30:43 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-12 03:31:30 AM] [DRAMAS_BOT] [SUCCESS] Published: Paul Wesley Latest To Join Netflix’s ‘Icebreaker’
 [2026-11-12 03:31:31 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 870 in / 486 out tokens
+[2026-11-12 03:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af53313dd02431a8f5938437bff262
+[2026-11-12 03:31:32 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Germany Announces 1,200 Fully Funded Scholarships for Kenyans
+[2026-11-12 03:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af53313dd02431a8f5938437bff262
+[2026-11-12 03:31:32 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Full funding: UK opens 2027 Commonwealth master's scholarships
+[2026-11-12 03:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af53313dd02431a8f5938437bff262
+[2026-11-12 03:31:32 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): Gone but not forgotten: Black luminaries we lost in 2026
+[2026-11-12 03:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5331446a746c9a4ec09d8ef3e930
+[2026-11-12 03:31:32 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Public service wins elections as political slogans have limited lifesp
+[2026-11-12 03:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5331446a746c9a4ec09d8ef3e930
+[2026-11-12 03:31:32 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Why don’t you resign, CM Maryam hits back at federal ministers after c
+[2026-11-12 03:31:33 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-12 03:32:03 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Honhaar Scholarships in Punjab: Details and Overview
+[2026-11-12 03:32:04 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 874 in / 395 out tokens
