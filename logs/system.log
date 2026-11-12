@@ -25458,3 +25458,18 @@
 [2026-11-12 07:25:04 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 796 in / 553 out tokens
 [2026-11-12 07:25:34 PM] [JOBS_BOT] [SUCCESS] Published: Punjab School Education Department Jobs 2026: Apply Now
 [2026-11-12 07:25:35 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1269 in / 716 out tokens
+[2026-11-12 07:25:36 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-12 07:25:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af612b065094e309e45fe6e31d9045
+[2026-11-12 07:25:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-12 07:25:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af612b3181d44fabf5bb6e45549b79
+[2026-11-12 07:25:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 90/300 chars, resolved=True): 'Carrie meets Mean Girls': What are critics saying about Netflix horro
+[2026-11-12 07:25:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af612b3181d44fabf5bb6e45549b79
+[2026-11-12 07:25:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 165/300 chars, resolved=True): ‘The Twilight Between Us’: Gang Dong-won and Kim Go-Eun to Star in Net
+[2026-11-12 07:25:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af612b3181d44fabf5bb6e45549b79
+[2026-11-12 07:25:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): Alix Earle opens the doors to family’s $4.1 million New Jersey mansion
+[2026-11-12 07:25:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af612b3181d44fabf5bb6e45549b79
+[2026-11-12 07:25:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): 2 Seasons of Kat Dennings & Tim Allen Sitcom Are Finally Headed To Net
+[2026-11-12 07:25:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af612b3181d44fabf5bb6e45549b79
+[2026-11-12 07:25:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 160/300 chars, resolved=True): Netflix to release never-before-seen interview Tupac Shakur did 30 yea
+[2026-11-12 07:26:19 PM] [DRAMAS_BOT] [SUCCESS] Published: Ethos Season 2 lands on Netflix six years to the day, with half the episodes
+[2026-11-12 07:26:20 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1682 in / 618 out tokens
