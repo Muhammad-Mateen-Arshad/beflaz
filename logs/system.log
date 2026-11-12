@@ -25492,3 +25492,18 @@
 [2026-11-12 07:32:07 PM] [HISTORY_BOT] [INFO] AI usage: 2 calls, 3255 in / 616 out tokens
 [2026-11-12 11:34:52 PM] [NEWS_BOT] [SUCCESS] Published: 11 killed, 2 injured as passenger van plunges into river in GB's Ghizer: police
 [2026-11-12 11:34:54 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 779 in / 556 out tokens
+[2026-11-12 11:35:13 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to south
+[2026-11-12 11:35:14 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 291/400 chars, resolved=True): Shehbaz urges grant-based climate finance, warns against weaponising w
+[2026-11-12 11:35:15 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 236/400 chars, resolved=True): Daily Times
+[2026-11-12 11:35:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64d3178964694b2be95c53ca2dfd
+[2026-11-12 11:35:16 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Newspaper - Front Page - November 12, 2026
+[2026-11-12 11:35:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64d34b37b47578de8b720fd9aa2d
+[2026-11-12 11:35:16 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Opinion | History is repeating itself in Pakistan's Rawalkot, and Indi
+[2026-11-12 11:35:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64d34b37b47578de8b720fd9aa2d
+[2026-11-12 11:35:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): British Army signs landmark pact with UK halal meat giant
+[2026-11-12 11:35:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64d34b37b47578de8b720fd9aa2d
+[2026-11-12 11:35:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): NIA to investigate online recruitment network of Pak gangster Shahzad 
+[2026-11-12 11:35:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64d34b37b47578de8b720fd9aa2d
+[2026-11-12 11:35:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Former envoy suggests army facilitate Hasina's planned Bangladesh retu
+[2026-11-12 11:35:18 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1842 in / 588 out tokens
+[2026-11-12 11:35:18 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'rejected': 1, 'thin': 7}
