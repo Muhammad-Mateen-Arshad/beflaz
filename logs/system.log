@@ -25262,3 +25262,11 @@
 [2026-11-12 03:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5333639e847a0820cbbad2baf138
 [2026-11-12 03:32:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 167/800 chars, resolved=True): Eat and exercise for bone health, too
 [2026-11-12 03:32:07 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-12 03:32:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af53338d65c46f488ff4d4121815f3
+[2026-11-12 03:32:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Believe it: Stolen dinosaur discovered in backyard with plastic bag ov
+[2026-11-12 03:32:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af53338d65c46f488ff4d4121815f3
+[2026-11-12 03:32:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): “Dinosaur Blood” Has Hit The Headlines Again. But Could It Ever Really
+[2026-11-12 03:32:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af53338d65c46f488ff4d4121815f3
+[2026-11-12 03:32:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Dinosaur identified as new species 25 years after it was unearthed at 
+[2026-11-12 03:32:37 AM] [HISTORY_BOT] [SUCCESS] Published: Climate Brief:‘The world we know is over’
+[2026-11-12 03:32:38 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1593 in / 454 out tokens
