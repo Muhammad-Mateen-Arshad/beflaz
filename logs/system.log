@@ -25473,3 +25473,7 @@
 [2026-11-12 07:25:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 160/300 chars, resolved=True): Netflix to release never-before-seen interview Tupac Shakur did 30 yea
 [2026-11-12 07:26:19 PM] [DRAMAS_BOT] [SUCCESS] Published: Ethos Season 2 lands on Netflix six years to the day, with half the episodes
 [2026-11-12 07:26:20 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1682 in / 618 out tokens
+[2026-11-12 07:26:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af612dd49404b84ba1507beb6ee3a6
+[2026-11-12 07:26:21 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): 5 fully funded master's and PhD scholarships abroad with December appl
+[2026-11-12 07:26:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: WISE Programme Sustainable Energy Scholarships 2026
+[2026-11-12 07:26:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1136 in / 521 out tokens
