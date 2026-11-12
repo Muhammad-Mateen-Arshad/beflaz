@@ -25517,3 +25517,8 @@
 [2026-11-12 11:35:40 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-12 11:36:08 PM] [DRAMAS_BOT] [SUCCESS] Published: What’s Coming to Netflix in December 2026
 [2026-11-12 11:36:09 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1691 in / 563 out tokens
+[2026-11-12 11:36:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64d699a1649c58eb13151e7fcbc5
+[2026-11-12 11:36:10 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): 5 fully funded master's and PhD scholarships abroad with December appl
+[2026-11-12 11:36:11 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-12 11:37:06 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Yenching Academy Scholarship 2027: Application Guide
+[2026-11-12 11:37:06 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1604 in / 685 out tokens
