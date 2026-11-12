@@ -25186,3 +25186,12 @@
 [2026-11-12 01:44:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
 [2026-11-12 01:45:19 AM] [DRAMAS_BOT] [SUCCESS] Published: Talk Survivor 4 is Now Streaming on Netflix! A Thorough Guide to the 29 Cast Members and 8 Episodes
 [2026-11-12 01:45:20 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1801 in / 710 out tokens
+[2026-11-12 01:45:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af51a304de24524a2535260c6c4d78
+[2026-11-12 01:45:21 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Germany Announces 1,200 Fully Funded Scholarships for Kenyans
+[2026-11-12 01:45:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af51a304de24524a2535260c6c4d78
+[2026-11-12 01:45:21 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): Full funding: UK opens 2027 Commonwealth master's scholarships
+[2026-11-12 01:45:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af51a304de24524a2535260c6c4d78
+[2026-11-12 01:45:21 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): Gone but not forgotten: Black luminaries we lost in 2026
+[2026-11-12 01:45:23 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-12 01:46:08 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Teacher of Color Mentor Programs and Scholarships 2026
+[2026-11-12 01:46:09 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1376 in / 607 out tokens
