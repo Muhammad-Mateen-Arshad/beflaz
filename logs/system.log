@@ -25247,3 +25247,18 @@
 [2026-11-12 03:31:33 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-12 03:32:03 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Honhaar Scholarships in Punjab: Details and Overview
 [2026-11-12 03:32:04 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 874 in / 395 out tokens
+[2026-11-12 03:32:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-12 03:32:05 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-12 03:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af53335277d4bf19d749615a1dc4d1
+[2026-11-12 03:32:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 53/800 chars, resolved=True): What Drinking Coffee Every Day Does to Your Body, According to Nutriti
+[2026-11-12 03:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af53335277d4bf19d749615a1dc4d1
+[2026-11-12 03:32:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-12 03:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af53335277d4bf19d749615a1dc4d1
+[2026-11-12 03:32:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): 22 Longest-Living Dog Breeds for Furry Love That Lasts
+[2026-11-12 03:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5333639e847a0820cbbad2baf138
+[2026-11-12 03:32:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 183/800 chars, resolved=True): Mobile Health Interventions Boost Mobility and Ease Frailty in Older A
+[2026-11-12 03:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5333639e847a0820cbbad2baf138
+[2026-11-12 03:32:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 154/800 chars, resolved=True): Trajectories of odor identification during and after a 5-year exercise
+[2026-11-12 03:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5333639e847a0820cbbad2baf138
+[2026-11-12 03:32:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 167/800 chars, resolved=True): Eat and exercise for bone health, too
+[2026-11-12 03:32:07 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
