@@ -25362,3 +25362,15 @@
 [2026-11-12 11:57:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Transforming JK’s security, economy and political landscape
 [2026-11-12 11:57:45 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Global Investment Opportunities at WIC 2026
 [2026-11-12 11:57:46 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1510 in / 538 out tokens
+[2026-11-12 11:57:49 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-12 11:57:50 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-12 11:57:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a9be4f324076a92de8993752cfb
+[2026-11-12 11:57:53 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-12 11:57:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a9be4f324076a92de8993752cfb
+[2026-11-12 11:57:53 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-12 11:57:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a9be4f324076a92de8993752cfb
+[2026-11-12 11:57:54 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-12 11:57:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a9c2b4534b90b4ff688aec30644
+[2026-11-12 11:57:54 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 160/300 chars, resolved=True): Netflix to release never-before-seen interview Tupac Shakur did 30 yea
+[2026-11-12 11:58:22 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s Spookiest Korean Horror Show Is No. 1 With 44 Million Hours Viewed
+[2026-11-12 11:58:23 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 821 in / 518 out tokens
