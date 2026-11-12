@@ -25326,3 +25326,7 @@
 [2026-11-12 11:30:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-12 11:30:53 AM] [NEWS_BOT] [SUCCESS] Published: At COP31, PM Shehbaz calls for grant-based finance, resilience funding for climate-vulnerable countries
 [2026-11-12 11:30:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1475 in / 563 out tokens
+[2026-11-12 11:30:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a36e781a4efc980bca7de122337
+[2026-11-12 11:30:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Transforming JK’s security, economy and political landscape
+[2026-11-12 11:31:41 AM] [JOBS_BOT] [SUCCESS] Published: Global Finance Summit at COP31 Session Overview
+[2026-11-12 11:31:42 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1217 in / 590 out tokens
