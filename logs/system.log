@@ -25392,3 +25392,31 @@
 [2026-11-12 11:58:59 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Daily Energy Drinks Linked to 11x Higher Risk of Cardiac Arrest: Why Y
 [2026-11-12 11:59:50 AM] [HEALTH_BOT] [SUCCESS] Published: SNFCC Launches Active Aging Hub With Activities for Seniors
 [2026-11-12 11:59:51 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1609 in / 539 out tokens
+[2026-11-12 11:59:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa3795814550a329f9b285e6dd1
+[2026-11-12 11:59:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Believe it: Stolen dinosaur discovered in backyard with plastic bag ov
+[2026-11-12 11:59:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa3795814550a329f9b285e6dd1
+[2026-11-12 11:59:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): “Dinosaur Blood” Has Hit The Headlines Again. But Could It Ever Really
+[2026-11-12 11:59:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa3812374cd9aefedb86f2bd2ff
+[2026-11-12 11:59:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-12 11:59:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa3812374cd9aefedb86f2bd2ff
+[2026-11-12 11:59:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-12 11:59:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 241/400 chars, resolved=True): All about Rex
+[2026-11-12 11:59:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa38f99049e1999990bea896ef2
+[2026-11-12 11:59:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-12 11:59:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5aa387b5e427eaabf67d92ee67e4
+[2026-11-12 11:59:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Overlooked Ice Age Cave Art in Spain Could Be the World’s Oldest Carto
+[2026-11-12 11:59:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-12 12:00:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-12 12:00:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-12 12:00:58 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-12 12:01:00 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-12 12:01:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-12 12:01:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-12 12:02:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-12 12:02:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-12 12:03:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-12 12:03:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-12 12:04:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-12 12:04:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-12 12:05:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-12 12:06:00 PM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
