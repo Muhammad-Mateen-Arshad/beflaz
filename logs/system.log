@@ -25212,3 +25212,11 @@
 [2026-11-12 01:46:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af51a64a2204c0697ff456bf41ae0f
 [2026-11-12 01:46:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 128/800 chars, resolved=True): Why Your Future Self Wants You to Lift Weights—Especially If You’re a 
 [2026-11-12 01:46:14 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-12 01:46:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af51a67ddd6438eafa11f72c02712a
+[2026-11-12 01:46:15 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): “Dinosaur Blood” Has Hit The Headlines Again. But Could It Ever Really
+[2026-11-12 01:46:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af51a67ddd6438eafa11f72c02712a
+[2026-11-12 01:46:15 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Dinosaur identified as new species 25 years after it was unearthed at 
+[2026-11-12 01:46:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af51a67ddd6438eafa11f72c02712a
+[2026-11-12 01:46:15 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Farmer's garden wall hid a 240-million-year-old fossil with an unexpec
+[2026-11-12 01:46:44 AM] [HISTORY_BOT] [SUCCESS] Published: ‘The world we know is over’ without urgent climate action, leaders tell Cop31
+[2026-11-12 01:46:45 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1573 in / 388 out tokens
