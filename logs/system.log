@@ -25477,3 +25477,6 @@
 [2026-11-12 07:26:21 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): 5 fully funded master's and PhD scholarships abroad with December appl
 [2026-11-12 07:26:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: WISE Programme Sustainable Energy Scholarships 2026
 [2026-11-12 07:26:49 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1136 in / 521 out tokens
+[2026-11-12 07:26:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-12 07:27:22 PM] [HEALTH_BOT] [SUCCESS] Published: For the first time, researchers map out the brain’s behavioral gatekeeper
+[2026-11-12 07:27:23 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1490 in / 468 out tokens
