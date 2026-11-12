@@ -25356,3 +25356,9 @@
 [2026-11-12 11:35:56 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1784 in / 402 out tokens
 [2026-11-12 11:57:20 AM] [NEWS_BOT] [SUCCESS] Published: Imran’s sisters Uzma, Noreen released from jail after extended detention orders withdrawn, says lawyer
 [2026-11-12 11:57:21 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 855 in / 445 out tokens
+[2026-11-12 11:57:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a9a10dbd40d5a10c8c654d411b7
+[2026-11-12 11:57:21 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Sindh eyes mining boom through foreign investmentPublished on: Novembe
+[2026-11-12 11:57:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a9a10dbd40d5a10c8c654d411b7
+[2026-11-12 11:57:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Transforming JK’s security, economy and political landscape
+[2026-11-12 11:57:45 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Global Investment Opportunities at WIC 2026
+[2026-11-12 11:57:46 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1510 in / 538 out tokens
