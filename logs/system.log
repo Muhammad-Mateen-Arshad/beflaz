@@ -25330,3 +25330,12 @@
 [2026-11-12 11:30:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Transforming JK’s security, economy and political landscape
 [2026-11-12 11:31:41 AM] [JOBS_BOT] [SUCCESS] Published: Global Finance Summit at COP31 Session Overview
 [2026-11-12 11:31:42 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1217 in / 590 out tokens
+[2026-11-12 11:31:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-12 11:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a39f99f44ab187846568d968283
+[2026-11-12 11:31:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-12 11:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a39f99f44ab187846568d968283
+[2026-11-12 11:31:45 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-12 11:31:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a3a1ac304f8b9175e3bcad54770
+[2026-11-12 11:31:46 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 160/300 chars, resolved=True): Netflix to release never-before-seen interview Tupac Shakur did 30 yea
+[2026-11-12 11:32:12 AM] [DRAMAS_BOT] [SUCCESS] Published: Bros Season 2 — Netflix brings the Beitar Jerusalem bar owners back from Krakow
+[2026-11-12 11:32:13 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1643 in / 575 out tokens
