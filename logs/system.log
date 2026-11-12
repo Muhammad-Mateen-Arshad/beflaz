@@ -25507,3 +25507,13 @@
 [2026-11-12 11:35:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Former envoy suggests army facilitate Hasina's planned Bangladesh retu
 [2026-11-12 11:35:18 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1842 in / 588 out tokens
 [2026-11-12 11:35:18 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'rejected': 1, 'thin': 7}
+[2026-11-12 11:35:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64d369db44ccb8ea52a477c9344e
+[2026-11-12 11:35:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-12 11:35:35 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-12 11:35:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64d47598c426ca71d329c28ae022
+[2026-11-12 11:35:35 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-12 11:35:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af64d47598c426ca71d329c28ae022
+[2026-11-12 11:35:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-12 11:35:40 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-12 11:36:08 PM] [DRAMAS_BOT] [SUCCESS] Published: What’s Coming to Netflix in December 2026
+[2026-11-12 11:36:09 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1691 in / 563 out tokens
