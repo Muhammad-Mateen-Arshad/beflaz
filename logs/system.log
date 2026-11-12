@@ -25350,3 +25350,7 @@
 [2026-11-12 11:34:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): Scientists Studied a Daily Peanut Habit for 16 Weeks. Here’s What Chan
 [2026-11-12 11:35:23 AM] [HEALTH_BOT] [SUCCESS] Published: Moderate Drinking Has No Health Benefit, US-Funded Alcohol Review Finds
 [2026-11-12 11:35:24 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1267 in / 541 out tokens
+[2026-11-12 11:35:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5a47d04b044958b7f20017a61e75
+[2026-11-12 11:35:25 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Believe it: Stolen dinosaur discovered in backyard with plastic bag ov
+[2026-11-12 11:35:55 AM] [HISTORY_BOT] [SUCCESS] Published: Paleontology News
+[2026-11-12 11:35:56 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1784 in / 402 out tokens
