@@ -25522,3 +25522,7 @@
 [2026-11-12 11:36:11 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-12 11:37:06 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Yenching Academy Scholarship 2027: Application Guide
 [2026-11-12 11:37:06 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1604 in / 685 out tokens
+[2026-11-12 11:37:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-12 11:37:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-12 11:37:59 PM] [HEALTH_BOT] [SUCCESS] Published: New Study: Could Creatine's Precursor Work Better Than Creatine Itself?
+[2026-11-12 11:38:01 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 841 in / 581 out tokens
