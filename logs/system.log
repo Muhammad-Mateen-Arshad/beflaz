@@ -25272,3 +25272,7 @@
 [2026-11-12 03:32:38 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1593 in / 454 out tokens
 [2026-11-12 07:31:31 AM] [NEWS_BOT] [SUCCESS] Published: President, PM condole martyrdom of 10 policemen in Kohat, vow to continue fight against terrorism
 [2026-11-12 07:31:32 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1155 in / 465 out tokens
+[2026-11-12 07:31:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56b552b5f4335a20f6127a8b0e6f
+[2026-11-12 07:31:33 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Transforming JK’s security, economy and political landscape
+[2026-11-12 07:31:59 AM] [JOBS_BOT] [SUCCESS] Published: FPSC Assistant Audit Officer Jobs 2026: 160 Posts
+[2026-11-12 07:32:00 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1240 in / 748 out tokens
