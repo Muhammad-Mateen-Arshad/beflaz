@@ -25314,3 +25314,12 @@
 [2026-11-12 07:32:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56b960ddd4b22989979395268a84
 [2026-11-12 07:32:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 167/800 chars, resolved=True): Eat and exercise for bone health, too
 [2026-11-12 07:32:39 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-12 07:32:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56b984c9b436c9607a489b565fca
+[2026-11-12 07:32:40 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Believe it: Stolen dinosaur discovered in backyard with plastic bag ov
+[2026-11-12 07:32:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56b984c9b436c9607a489b565fca
+[2026-11-12 07:32:40 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 187/400 chars, resolved=True): “Dinosaur Blood” Has Hit The Headlines Again. But Could It Ever Really
+[2026-11-12 07:32:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56b984c9b436c9607a489b565fca
+[2026-11-12 07:32:40 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Dinosaur identified as new species 25 years after it was unearthed at 
+[2026-11-12 07:32:41 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-12 07:33:20 AM] [HISTORY_BOT] [SUCCESS] Published: Guterres Targets Fossil Fuel Lobby as COP31 Leaders Divide Over Debt, Finance and War
+[2026-11-12 07:33:21 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1622 in / 519 out tokens
