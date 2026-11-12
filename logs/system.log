@@ -25292,3 +25292,8 @@
 [2026-11-12 07:32:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56b7445c249d0a8c73497cf7687a
 [2026-11-12 07:32:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 153/300 chars, resolved=True): ‘MobLand’ Season 2, Episode 9 Release Time And Preview: Frankie’s Gunn
 [2026-11-12 07:32:05 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-11-12 07:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56b756d284785a862d338d3c9491
+[2026-11-12 07:32:06 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 185/400 chars, resolved=True): Germany Announces 1,200 Fully Funded Scholarships for Kenyans
+[2026-11-12 07:32:07 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-12 07:32:36 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Namibian Young Innovator Scholarships and IP Rights 2026
+[2026-11-12 07:32:36 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1193 in / 525 out tokens
