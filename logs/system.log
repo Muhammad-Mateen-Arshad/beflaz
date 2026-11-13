@@ -25569,3 +25569,12 @@
 [2026-11-13 12:48:47 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-13 12:49:17 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Tests a New “What’s Hot” Hub That Leans on Pure Popularity
 [2026-11-13 12:49:18 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1178 in / 504 out tokens
+[2026-11-13 12:49:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65e8e6f674ef3b60cdba0db9199c
+[2026-11-13 12:49:19 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): 5 fully funded master's and PhD scholarships abroad with December appl
+[2026-11-13 12:49:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65e8f7aa14be2bc487d9e2edd56d
+[2026-11-13 12:49:19 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): 5 fully funded master's and PhD scholarships abroad with December appl
+[2026-11-13 12:49:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65e8f7aa14be2bc487d9e2edd56d
+[2026-11-13 12:49:19 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Silk Road in orbit: China to build 20-satellite space AI system for Om
+[2026-11-13 12:49:20 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-13 12:49:47 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC HAT 2026 Registration Open: Submit by Nov 22
+[2026-11-13 12:49:48 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1160 in / 673 out tokens
