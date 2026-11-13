@@ -25701,3 +25701,8 @@
 [2026-11-13 07:30:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bcafe13f49518e55941cc5597c6
 [2026-11-13 07:30:56 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New OTT releases today (November 13, 2026): 11 movies and series on Ne
 [2026-11-13 07:30:56 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-11-13 07:30:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bcb025324da09a7bdc83208b401
+[2026-11-13 07:30:57 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): 5 fully funded master's and PhD scholarships abroad with December appl
+[2026-11-13 07:30:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-13 07:31:36 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: GR63 Karting Academy Fully Funded Racing Seats
+[2026-11-13 07:31:36 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1491 in / 555 out tokens
