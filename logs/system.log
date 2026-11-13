@@ -25540,3 +25540,17 @@
 [2026-11-13 12:47:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
 [2026-11-13 12:48:32 AM] [NEWS_BOT] [SUCCESS] Published: Jensen Huang steps down as Nvidia CEO after reports of extramarital affairs
 [2026-11-13 12:48:33 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1550 in / 479 out tokens
+[2026-11-13 12:48:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65e6233914cd59d2779667bd2c17
+[2026-11-13 12:48:34 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Newspaper - Front Page - November 12, 2026
+[2026-11-13 12:48:35 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 291/400 chars, resolved=True): Shehbaz urges grant-based climate finance, warns against weaponising w
+[2026-11-13 12:48:36 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 236/400 chars, resolved=True): Daily Times
+[2026-11-13 12:48:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65e643af5456ea9348dd901d224e
+[2026-11-13 12:48:37 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Opinion | History is repeating itself in Pakistan's Rawalkot, and Indi
+[2026-11-13 12:48:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65e643af5456ea9348dd901d224e
+[2026-11-13 12:48:37 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): British Army signs landmark pact with UK halal meat giant
+[2026-11-13 12:48:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65e643af5456ea9348dd901d224e
+[2026-11-13 12:48:38 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): NIA to investigate online recruitment network of Pak gangster Shahzad 
+[2026-11-13 12:48:38 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 363/400 chars, resolved=True): Mumbai security agencies alerted after hoax bomb threat emails target 
+[2026-11-13 12:48:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65e643af5456ea9348dd901d224e
+[2026-11-13 12:48:38 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 58/400 chars, resolved=True): At 6.09%, retail inflation exceeds RBI’s upper limit; rate hike likely
+[2026-11-13 12:48:38 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'thin': 8}
