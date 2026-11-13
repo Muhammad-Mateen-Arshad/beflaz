@@ -25858,3 +25858,5 @@
 [2026-11-13 11:40:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f74a31314e6882fc49bbe125a9c
 [2026-11-13 11:40:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): Collecting keepsakes may have helped autobiographical memory evolve in
 [2026-11-13 11:40:59 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-11-13 03:24:56 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan aiming to become competitive destination for long-term investment, CDF Munir tells minerals moot
+[2026-11-13 03:24:57 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1455 in / 465 out tokens
