@@ -25635,3 +25635,20 @@
 [2026-11-13 03:30:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Silk Road in orbit: China to build 20-satellite space AI system for Om
 [2026-11-13 03:31:06 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Lahore Schools Mandatory Face Mask Rule for Students
 [2026-11-13 03:31:07 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 928 in / 438 out tokens
+[2026-11-13 03:31:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-13 03:31:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-13 03:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6847d4ed147c39fec436b25752f5
+[2026-11-13 03:31:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-13 03:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6847d4ed147c39fec436b25752f5
+[2026-11-13 03:31:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): Scientists Studied a Daily Peanut Habit for 16 Weeks. Here’s What Chan
+[2026-11-13 03:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6847d4ed147c39fec436b25752f5
+[2026-11-13 03:31:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 79/800 chars, resolved=True): Are online workout programs enough for older adults to maintain indepe
+[2026-11-13 03:31:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6847d4ed147c39fec436b25752f5
+[2026-11-13 03:31:11 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): The New Era of Immune Defense
+[2026-11-13 03:31:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6847f61b64b9dae45f76d946a572
+[2026-11-13 03:31:11 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-13 03:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6847f61b64b9dae45f76d946a572
+[2026-11-13 03:31:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 155/800 chars, resolved=True): 11 Balance Exercises for Seniors to Improve Strength and Prevent Falls
+[2026-11-13 03:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6847f61b64b9dae45f76d946a572
+[2026-11-13 03:31:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): She began running at 50 and became Britain's oldest female Ironman fin
+[2026-11-13 03:31:12 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
