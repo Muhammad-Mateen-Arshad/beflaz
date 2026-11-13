@@ -26151,3 +26151,11 @@
 [2026-11-13 11:32:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-13 11:32:55 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: UCD Iseult Honohan Doctoral Scholarship 2027 Overview
 [2026-11-13 11:32:56 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1548 in / 673 out tokens
+[2026-11-13 11:32:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-13 11:32:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-13 11:32:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79e29eec44fc58d7d947bf754a13
+[2026-11-13 11:32:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-13 11:32:59 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-13 11:33:52 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-13 11:33:53 PM] [HEALTH_BOT] [SUCCESS] Published: Scientists Studied a Daily Peanut Habit for 16 Weeks. Here’s What Changed in the Brain
+[2026-11-13 11:33:54 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1344 in / 511 out tokens
