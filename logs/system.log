@@ -26077,3 +26077,13 @@
 [2026-11-13 07:30:42 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
 [2026-11-13 07:31:06 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s Long-Awaited ‘Magic: The Gathering’ Series Officially Gets a First Look and Release Window
 [2026-11-13 07:31:06 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1579 in / 458 out tokens
+[2026-11-13 07:31:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7657bb02042e0abb8069d1ac4a35
+[2026-11-13 07:31:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): US opens free university application advice for Nigerians: 5 steps to 
+[2026-11-13 07:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7657bb02042e0abb8069d1ac4a35
+[2026-11-13 07:31:08 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): From hawking on the streets to earning a degree: UI graduate shares he
+[2026-11-13 07:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7657bb02042e0abb8069d1ac4a35
+[2026-11-13 07:31:08 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): How African women's rugby teams broke the glass ceiling at Dakar 2026 
+[2026-11-13 07:31:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7657cfe2a4210b7ec74b198950ab
+[2026-11-13 07:31:09 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Sam Heughan Backs Arts Students: Outlander star funds RCS scholarships
+[2026-11-13 07:31:37 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Kyrgyzstan Presidential Candidates Nomination 2026
+[2026-11-13 07:31:38 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 2057 in / 482 out tokens
