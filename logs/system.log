@@ -25860,3 +25860,15 @@
 [2026-11-13 11:40:59 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
 [2026-11-13 03:24:56 PM] [NEWS_BOT] [SUCCESS] Published: Pakistan aiming to become competitive destination for long-term investment, CDF Munir tells minerals moot
 [2026-11-13 03:24:57 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1455 in / 465 out tokens
+[2026-11-13 03:24:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72bc9e6684e96afe9d56d753ac69
+[2026-11-13 03:24:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Who is Chris Van Hollen? Pakistan-born US senator, Trump critic and Ga
+[2026-11-13 03:24:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-13 03:24:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 291/400 chars, resolved=True): Shehbaz urges grant-based climate finance, warns against weaponising w
+[2026-11-13 03:25:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72bca5bdb48588fdba8cbb9069d9
+[2026-11-13 03:25:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - November 13, 2026
+[2026-11-13 03:25:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72bccd9414d6fa51223146c5e9af
+[2026-11-13 03:25:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): British Army signs landmark pact with UK halal meat giant
+[2026-11-13 03:25:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72bccd9414d6fa51223146c5e9af
+[2026-11-13 03:25:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Former envoy suggests army facilitate Hasina's planned Bangladesh retu
+[2026-11-13 03:27:34 PM] [JOBS_BOT] [SUCCESS] Published: Karnataka Seeks Ninth Schedule Quota Protection for Jobs
+[2026-11-13 03:27:35 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1263 in / 520 out tokens
