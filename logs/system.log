@@ -25806,3 +25806,16 @@
 [2026-11-13 11:40:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): British Army signs landmark pact with UK halal meat giant
 [2026-11-13 11:40:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 205/400 chars, resolved=True): England’s batting capitulates in defeat to lift Australia’s spirits
 [2026-11-13 11:40:03 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-13 11:40:06 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-13 11:40:09 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-13 11:40:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f71a70694c22b0d6b9516c7570b
+[2026-11-13 11:40:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-13 11:40:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f71a70694c22b0d6b9516c7570b
+[2026-11-13 11:40:15 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-13 11:40:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f71f8fd94e02806c38115f3e7ef
+[2026-11-13 11:40:15 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New OTT releases to watch this weekend: 10 new movies & shows on Netfl
+[2026-11-13 11:40:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f71f8fd94e02806c38115f3e7ef
+[2026-11-13 11:40:15 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): New Friday OTT Releases (November 13, 2026): 9 New Movies, Shows To Wa
+[2026-11-13 11:40:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f71f8be049e9b7492356de359c2
+[2026-11-13 11:40:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-13 11:40:16 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 10}
