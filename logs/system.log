@@ -25627,3 +25627,11 @@
 [2026-11-13 03:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af68452c96f47cd988a106ffa1a2ef
 [2026-11-13 03:30:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 139/300 chars, resolved=True): Alix Earle opens the doors to family’s $4.1 million New Jersey mansion
 [2026-11-13 03:30:27 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-13 03:30:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af68454340f4817a5a5c743141f95f
+[2026-11-13 03:30:28 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): 5 fully funded master's and PhD scholarships abroad with December appl
+[2026-11-13 03:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6845445eb4a84b24d9ff08b08f75
+[2026-11-13 03:30:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 162/400 chars, resolved=True): 5 fully funded master's and PhD scholarships abroad with December appl
+[2026-11-13 03:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6845445eb4a84b24d9ff08b08f75
+[2026-11-13 03:30:29 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Silk Road in orbit: China to build 20-satellite space AI system for Om
+[2026-11-13 03:31:06 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Lahore Schools Mandatory Face Mask Rule for Students
+[2026-11-13 03:31:07 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 928 in / 438 out tokens
