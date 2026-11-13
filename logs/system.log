@@ -25668,3 +25668,6 @@
 [2026-11-13 03:31:15 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
 [2026-11-13 03:31:15 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
 [2026-11-13 03:31:15 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-13 07:29:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-13 07:30:37 AM] [NEWS_BOT] [SUCCESS] Published: Security forces kill 74 terrorists during IBOs in Khyber Pakhtunkhwa, Balochistan: ISPR
+[2026-11-13 07:30:38 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1543 in / 501 out tokens
