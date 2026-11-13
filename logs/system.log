@@ -25842,3 +25842,19 @@
 [2026-11-13 11:40:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f747bd6a48eba75f72ec0a6f63c
 [2026-11-13 11:40:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): She began running at 50 and became Britain's oldest female Ironman fin
 [2026-11-13 11:40:56 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
+[2026-11-13 11:40:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f748452446bab87e4a29c05d3cf
+[2026-11-13 11:40:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Dinosaurs may have shared their nights with this glowing creature, whi
+[2026-11-13 11:40:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f748452446bab87e4a29c05d3cf
+[2026-11-13 11:40:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Scientists Create ‘Treasure Map’ Revealing Where Earth’s Missing Prehi
+[2026-11-13 11:40:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f748452446bab87e4a29c05d3cf
+[2026-11-13 11:40:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): What is the oldest object discovered on Earth?
+[2026-11-13 11:40:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f7495d974cf6b3f9df08ade8812
+[2026-11-13 11:40:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-13 11:40:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f7495d974cf6b3f9df08ade8812
+[2026-11-13 11:40:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-13 11:40:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f74a9d424eff9364ab431cea2ac
+[2026-11-13 11:40:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-13 11:40:58 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
+[2026-11-13 11:40:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f74a31314e6882fc49bbe125a9c
+[2026-11-13 11:40:59 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): Collecting keepsakes may have helped autobiographical memory evolve in
+[2026-11-13 11:40:59 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
