@@ -26007,3 +26007,17 @@
 [2026-11-13 06:51:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 205/400 chars, resolved=True): England’s batting capitulates in defeat to lift Australia’s spirits
 [2026-11-13 06:52:27 PM] [JOBS_BOT] [SUCCESS] Published: Press Trust of India Subediting Career Overview
 [2026-11-13 06:52:28 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1754 in / 467 out tokens
+[2026-11-13 06:52:31 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-13 06:52:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-13 06:52:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c70cb2848ca9330843b14b2e66
+[2026-11-13 06:52:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-13 06:52:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c70cb2848ca9330843b14b2e66
+[2026-11-13 06:52:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-13 06:52:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c706d274c42ac0b332df31806d
+[2026-11-13 06:52:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-13 06:52:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c706d274c42ac0b332df31806d
+[2026-11-13 06:52:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): New Friday OTT Releases (November 13, 2026): 9 New Movies, Shows To Wa
+[2026-11-13 06:52:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c706d274c42ac0b332df31806d
+[2026-11-13 06:52:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New OTT releases to watch this weekend: 10 new movies & shows on Netfl
+[2026-11-13 06:52:57 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Virgin River’ Renewed for Season 9: Everything We Know So Far
+[2026-11-13 06:52:58 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1138 in / 485 out tokens
