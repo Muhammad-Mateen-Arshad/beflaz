@@ -25767,3 +25767,20 @@
 [2026-11-13 11:35:30 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1568 in / 589 out tokens
 [2026-11-13 11:35:56 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Five Fully Funded Study Abroad Scholarships for 2026
 [2026-11-13 11:35:57 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1632 in / 616 out tokens
+[2026-11-13 11:35:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-13 11:35:59 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-13 11:35:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f61f39174714aa3d762833db412
+[2026-11-13 11:35:59 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-13 11:35:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f61f39174714aa3d762833db412
+[2026-11-13 11:36:00 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): Scientists Studied a Daily Peanut Habit for 16 Weeks. Here’s What Chan
+[2026-11-13 11:36:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f61f39174714aa3d762833db412
+[2026-11-13 11:36:00 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 79/800 chars, resolved=True): Are online workout programs enough for older adults to maintain indepe
+[2026-11-13 11:36:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f61f39174714aa3d762833db412
+[2026-11-13 11:36:00 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): The New Era of Immune Defense
+[2026-11-13 11:36:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f62000064c37b12b1c185058059
+[2026-11-13 11:36:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-13 11:36:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f62000064c37b12b1c185058059
+[2026-11-13 11:36:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Acute Exercise Temporarily Destabilizes Static Balance in Healthy Olde
+[2026-11-13 11:36:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f62000064c37b12b1c185058059
+[2026-11-13 11:36:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): She began running at 50 and became Britain's oldest female Ironman fin
+[2026-11-13 11:36:01 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
