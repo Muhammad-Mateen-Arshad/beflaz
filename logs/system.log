@@ -25784,3 +25784,9 @@
 [2026-11-13 11:36:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f62000064c37b12b1c185058059
 [2026-11-13 11:36:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): She began running at 50 and became Britain's oldest female Ironman fin
 [2026-11-13 11:36:01 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
+[2026-11-13 11:36:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f6222dbe412cb6dfcda400d8eb4
+[2026-11-13 11:36:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Dinosaurs may have shared their nights with this glowing creature, whi
+[2026-11-13 11:36:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f6222dbe412cb6dfcda400d8eb4
+[2026-11-13 11:36:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Scientists Create ‘Treasure Map’ Revealing Where Earth’s Missing Prehi
+[2026-11-13 11:36:44 AM] [HISTORY_BOT] [SUCCESS] Published: Tulsa King Season 4 Episode 5 Recap: Dwight Hunts His Assassins as Enemies Multiply
+[2026-11-13 11:36:45 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1506 in / 268 out tokens
