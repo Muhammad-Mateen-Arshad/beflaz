@@ -26104,3 +26104,19 @@
 [2026-11-13 07:31:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7659e43064a1bbb1c0a3d1b7b01f
 [2026-11-13 07:31:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Waves that clear waste from the brain during sleep are impaired in old
 [2026-11-13 07:31:43 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
+[2026-11-13 07:31:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7659f505d4ba8a43942f456d60d8
+[2026-11-13 07:31:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Scientists Create ‘Treasure Map’ Revealing Where Earth’s Missing Prehi
+[2026-11-13 07:31:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af765a035b244b799220feabacb09e
+[2026-11-13 07:31:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-13 07:31:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af765a035b244b799220feabacb09e
+[2026-11-13 07:31:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-13 07:31:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af765a035b244b799220feabacb09e
+[2026-11-13 07:31:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-13 07:31:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af765a19c014737b467dd25d2f39aa
+[2026-11-13 07:31:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-13 07:31:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
+[2026-11-13 07:31:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af765a170454a0f8d790d971079d9a
+[2026-11-13 07:31:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): Collecting keepsakes may have helped autobiographical memory evolve in
+[2026-11-13 07:31:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af765a170454a0f8d790d971079d9a
+[2026-11-13 07:31:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Overlooked Ice Age Cave Art in Spain Could Be the World’s Oldest Carto
+[2026-11-13 07:31:46 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
