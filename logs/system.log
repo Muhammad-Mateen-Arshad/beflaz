@@ -26048,3 +26048,5 @@
 [2026-11-13 06:53:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75cab67394d168996ddb0399d472
 [2026-11-13 06:53:32 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Waves that clear waste from the brain during sleep are impaired in old
 [2026-11-13 06:53:32 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
+[2026-11-13 06:53:56 PM] [HISTORY_BOT] [SUCCESS] Published: The ‘hell chicken’ dinosaur was a real terror — to fruit
+[2026-11-13 06:53:57 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 873 in / 526 out tokens
