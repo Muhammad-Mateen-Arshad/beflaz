@@ -26120,3 +26120,6 @@
 [2026-11-13 07:31:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af765a170454a0f8d790d971079d9a
 [2026-11-13 07:31:46 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Overlooked Ice Age Cave Art in Spain Could Be the World’s Oldest Carto
 [2026-11-13 07:31:46 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 8, 'tried': 8, 'thin': 8}
+[2026-11-13 11:30:14 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-13 11:30:15 PM] [NEWS_BOT] [SUCCESS] Published: Turkiye, Qatar sign defence agreement: Turkish presidency
+[2026-11-13 11:30:16 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 725 in / 443 out tokens
