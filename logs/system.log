@@ -26067,3 +26067,13 @@
 [2026-11-13 07:29:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan PM pushes domestic mineral processing as army chief pledges i
 [2026-11-13 07:30:34 PM] [JOBS_BOT] [SUCCESS] Published: Karnataka Industrial Policy 2025-30 Job Targets
 [2026-11-13 07:30:35 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1401 in / 638 out tokens
+[2026-11-13 07:30:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-13 07:30:41 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-13 07:30:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7655be8a341acb70727e1a4c227b
+[2026-11-13 07:30:41 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Mehmed: Fetihler Sultanı Haberleri
+[2026-11-13 07:30:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af76561b9d94c5f8a6e271cd5ecb66
+[2026-11-13 07:30:42 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-13 07:30:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af76561b9d94c5f8a6e271cd5ecb66
+[2026-11-13 07:30:42 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-13 07:31:06 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s Long-Awaited ‘Magic: The Gathering’ Series Officially Gets a First Look and Release Window
+[2026-11-13 07:31:06 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1579 in / 458 out tokens
