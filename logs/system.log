@@ -26021,3 +26021,13 @@
 [2026-11-13 06:52:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New OTT releases to watch this weekend: 10 new movies & shows on Netfl
 [2026-11-13 06:52:57 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Virgin River’ Renewed for Season 9: Everything We Know So Far
 [2026-11-13 06:52:58 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1138 in / 485 out tokens
+[2026-11-13 06:52:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c8bbd14449880589012cd82147
+[2026-11-13 06:52:59 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): US opens free university application advice for Nigerians: 5 steps to 
+[2026-11-13 06:52:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c8bbd14449880589012cd82147
+[2026-11-13 06:52:59 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): From hawking on the streets to earning a degree: UI graduate shares he
+[2026-11-13 06:53:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c8bbd14449880589012cd82147
+[2026-11-13 06:53:00 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): How African women's rugby teams broke the glass ceiling at Dakar 2026 
+[2026-11-13 06:53:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c8c98b1441a8ec721d90a3c0f7
+[2026-11-13 06:53:00 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): A London financier lost his £2.6 million claim to his mother's Chelsea
+[2026-11-13 06:53:27 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Honhaar Phase 4 Scholarships: 50,000 Student Grants
+[2026-11-13 06:53:28 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1704 in / 412 out tokens
