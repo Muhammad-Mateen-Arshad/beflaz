@@ -25595,3 +25595,16 @@
 [2026-11-13 12:49:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65eaffd94481c929d20e1f4c8ffb
 [2026-11-13 12:49:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 155/800 chars, resolved=True): 11 Balance Exercises for Seniors to Improve Strength and Prevent Falls
 [2026-11-13 12:49:52 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
+[2026-11-13 12:49:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65eb13d8e4b2a86add27370ebeee
+[2026-11-13 12:49:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Dinosaurs may have shared their nights with this glowing creature, whi
+[2026-11-13 12:49:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65eb13d8e4b2a86add27370ebeee
+[2026-11-13 12:49:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): What is the oldest object discovered on Earth?
+[2026-11-13 12:49:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65eb13d8e4b2a86add27370ebeee
+[2026-11-13 12:49:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): Scientists Create ‘Treasure Map’ Revealing Where Earth’s Missing Prehi
+[2026-11-13 12:49:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65eb204194bc6bba2c12d2b1bc22
+[2026-11-13 12:49:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-13 12:49:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af65eb204194bc6bba2c12d2b1bc22
+[2026-11-13 12:49:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-13 12:49:55 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-13 12:50:14 AM] [HISTORY_BOT] [SUCCESS] Published: Ancient burial site packed with treasures plus 38 bodies discovered after centuries
+[2026-11-13 12:50:14 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1097 in / 487 out tokens
