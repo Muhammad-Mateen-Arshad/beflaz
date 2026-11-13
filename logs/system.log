@@ -25739,3 +25739,5 @@
 [2026-11-13 07:31:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bce0195247f59561e483f7a1533
 [2026-11-13 07:31:44 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): Collecting keepsakes may have helped autobiographical memory evolve in
 [2026-11-13 07:31:44 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-13 11:30:19 AM] [NEWS_BOT] [SUCCESS] Published: IHC suspends local government elections in Islamabad
+[2026-11-13 11:30:21 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1221 in / 545 out tokens
