@@ -25792,3 +25792,17 @@
 [2026-11-13 11:36:45 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1506 in / 268 out tokens
 [2026-11-13 11:39:56 AM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz hopes Pakistan will become world's 6th largest economy 'earlier than 2050'
 [2026-11-13 11:39:57 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1085 in / 494 out tokens
+[2026-11-13 11:39:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f70ef33245f38b697cbf9942df2
+[2026-11-13 11:39:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Who is Chris Van Hollen? Pakistan-born US senator, Trump critic and Ga
+[2026-11-13 11:39:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f70ef33245f38b697cbf9942df2
+[2026-11-13 11:39:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Newspaper - Editorial - November 13, 2026
+[2026-11-13 11:39:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-13 11:40:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 291/400 chars, resolved=True): Shehbaz urges grant-based climate finance, warns against weaponising w
+[2026-11-13 11:40:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f70fd0494354972edd16d827c47
+[2026-11-13 11:40:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - November 13, 2026
+[2026-11-13 11:40:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f7101dd04bfca34a0439f7a45df
+[2026-11-13 11:40:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Opinion | History is repeating itself in Pakistan's Rawalkot, and Indi
+[2026-11-13 11:40:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6f7101dd04bfca34a0439f7a45df
+[2026-11-13 11:40:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): British Army signs landmark pact with UK halal meat giant
+[2026-11-13 11:40:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 205/400 chars, resolved=True): England’s batting capitulates in defeat to lift Australia’s spirits
+[2026-11-13 11:40:03 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
