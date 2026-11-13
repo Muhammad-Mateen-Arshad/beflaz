@@ -25996,3 +25996,14 @@
 [2026-11-13 03:32:07 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
 [2026-11-13 06:51:35 PM] [NEWS_BOT] [SUCCESS] Published: President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting
 [2026-11-13 06:51:35 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 776 in / 422 out tokens
+[2026-11-13 06:51:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c38238f4c7b9da6dd31a486e6f
+[2026-11-13 06:51:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Who is Chris Van Hollen? Pakistan-born US senator, Trump critic and Ga
+[2026-11-13 06:51:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c38238f4c7b9da6dd31a486e6f
+[2026-11-13 06:51:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Newspaper - Editorial - November 13, 2026
+[2026-11-13 06:51:37 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-13 06:51:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 294/400 chars, resolved=True): President House rejects reports of Zardari-Naqvi talks on ‘creation of
+[2026-11-13 06:51:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75c3866cc4e22b4cc7b46218fb32
+[2026-11-13 06:51:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - November 13, 2026
+[2026-11-13 06:51:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 205/400 chars, resolved=True): England’s batting capitulates in defeat to lift Australia’s spirits
+[2026-11-13 06:52:27 PM] [JOBS_BOT] [SUCCESS] Published: Press Trust of India Subediting Career Overview
+[2026-11-13 06:52:28 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1754 in / 467 out tokens
