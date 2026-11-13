@@ -25671,3 +25671,18 @@
 [2026-11-13 07:29:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-13 07:30:37 AM] [NEWS_BOT] [SUCCESS] Published: Security forces kill 74 terrorists during IBOs in Khyber Pakhtunkhwa, Balochistan: ISPR
 [2026-11-13 07:30:38 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1543 in / 501 out tokens
+[2026-11-13 07:30:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bc9fce7e4c03824fda42471293d
+[2026-11-13 07:30:39 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Who is Chris Van Hollen? Pakistan-born US senator, Trump critic and Ga
+[2026-11-13 07:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bc9fce7e4c03824fda42471293d
+[2026-11-13 07:30:40 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Newspaper - Editorial - November 13, 2026
+[2026-11-13 07:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-13 07:30:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 291/400 chars, resolved=True): Shehbaz urges grant-based climate finance, warns against weaponising w
+[2026-11-13 07:30:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bca0b25f40e88992a5b6ff27852
+[2026-11-13 07:30:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - November 13, 2026
+[2026-11-13 07:30:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bca251bb474ebe92c7d6b98cd55
+[2026-11-13 07:30:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Opinion | History is repeating itself in Pakistan's Rawalkot, and Indi
+[2026-11-13 07:30:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bca251bb474ebe92c7d6b98cd55
+[2026-11-13 07:30:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): British Army signs landmark pact with UK halal meat giant
+[2026-11-13 07:30:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bca251bb474ebe92c7d6b98cd55
+[2026-11-13 07:30:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): NIA to investigate online recruitment network of Pak gangster Shahzad 
+[2026-11-13 07:30:43 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
