@@ -11,8 +11,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 os.chdir(REPO_ROOT)
 
 # ---------------------------------------------------------------- site
-SITE_URL = (os.environ.get("SITE_URL") or "https://Muhammad-Mateen-Arshad.github.io/trendify-news").rstrip("/")
-SITE_NAME = "Trendify Portal"
+SITE_URL = (os.environ.get("SITE_URL") or "https://beflaz.com").rstrip("/")
+SITE_NAME = "Beflaz"
 TELEGRAM_CHANNEL = os.environ.get("TELEGRAM_CHANNEL") or "@trendify_news_live"
 
 # ---------------------------------------------------------------- SEO / indexing
