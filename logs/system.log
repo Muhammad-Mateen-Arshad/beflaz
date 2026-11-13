@@ -25872,3 +25872,18 @@
 [2026-11-13 03:25:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Former envoy suggests army facilitate Hasina's planned Bangladesh retu
 [2026-11-13 03:27:34 PM] [JOBS_BOT] [SUCCESS] Published: Karnataka Seeks Ninth Schedule Quota Protection for Jobs
 [2026-11-13 03:27:35 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1263 in / 520 out tokens
+[2026-11-13 03:27:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-13 03:27:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-13 03:27:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c6c8b134d7ba1e6ed47e4e3c1e
+[2026-11-13 03:27:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-13 03:27:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c6c8b134d7ba1e6ed47e4e3c1e
+[2026-11-13 03:27:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-13 03:27:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c6c7d554d7f8b28a704e923f70
+[2026-11-13 03:27:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 90/300 chars, resolved=True): 'Carrie meets Mean Girls': What are critics saying about Netflix horro
+[2026-11-13 03:27:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c6c7d554d7f8b28a704e923f70
+[2026-11-13 03:27:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New OTT releases to watch this weekend: 10 new movies & shows on Netfl
+[2026-11-13 03:27:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c6c7d554d7f8b28a704e923f70
+[2026-11-13 03:27:41 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): New Friday OTT Releases (November 13, 2026): 9 New Movies, Shows To Wa
+[2026-11-13 03:27:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c6d8e8e45949a25f845e5a0043
+[2026-11-13 03:27:41 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-13 03:27:41 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
