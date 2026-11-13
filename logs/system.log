@@ -26123,3 +26123,19 @@
 [2026-11-13 11:30:14 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-13 11:30:15 PM] [NEWS_BOT] [SUCCESS] Published: Turkiye, Qatar sign defence agreement: Turkish presidency
 [2026-11-13 11:30:16 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 725 in / 443 out tokens
+[2026-11-13 11:30:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79d88dbe54c70a3200b5e5911c38
+[2026-11-13 11:30:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Who is Chris Van Hollen? Pakistan-born US senator, Trump critic and Ga
+[2026-11-13 11:30:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79d88dbe54c70a3200b5e5911c38
+[2026-11-13 11:30:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Democrat Laubacher ousts Lauren Boebert in Colorado House race
+[2026-11-13 11:30:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-13 11:30:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 287/400 chars, resolved=True): Shehbaz urges grant-based climate finance, warns against weaponising w
+[2026-11-13 11:30:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79d89e99d4a8ab33dcaa8a09fd01
+[2026-11-13 11:30:18 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - November 13, 2026
+[2026-11-13 11:30:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-13 11:30:25 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-13 11:30:45 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Aussie aid workers recall 'miracle' escape from Taliban
+[2026-11-13 11:30:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79d8a0171478cbac4ef11a3e204b
+[2026-11-13 11:30:46 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Pakistan’s military says 43 militants were killed in raids on their hi
+[2026-11-13 11:31:20 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Rare diseases, Torraca (Apacs): "Early diagnosis of EGPA cannot depend
+[2026-11-13 11:31:20 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3995 in / 815 out tokens
+[2026-11-13 11:31:20 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 6, 'already_seen': 3, 'rejected': 2}
