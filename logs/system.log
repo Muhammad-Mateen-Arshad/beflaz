@@ -25534,3 +25534,9 @@
 [2026-11-12 11:38:02 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Fossil fuel mega-profits 'morally unacceptable', Guterres tells AFP
 [2026-11-12 11:38:32 PM] [HISTORY_BOT] [SUCCESS] Published: Like many young people I lost faith in climate politics - could going to COP31 change my mind?
 [2026-11-12 11:38:33 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1527 in / 361 out tokens
+[2026-11-13 12:46:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-13 12:46:42 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-13 12:46:44 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-13 12:47:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-13 12:48:32 AM] [NEWS_BOT] [SUCCESS] Published: Jensen Huang steps down as Nvidia CEO after reports of extramarital affairs
+[2026-11-13 12:48:33 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1550 in / 479 out tokens
