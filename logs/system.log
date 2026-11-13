@@ -25686,3 +25686,18 @@
 [2026-11-13 07:30:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bca251bb474ebe92c7d6b98cd55
 [2026-11-13 07:30:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): NIA to investigate online recruitment network of Pak gangster Shahzad 
 [2026-11-13 07:30:43 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-13 07:30:46 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-13 07:30:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-13 07:30:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bca438c64c5b97b049c8cb458af
+[2026-11-13 07:30:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Mehmed: Fetihler Sultanı Haberleri
+[2026-11-13 07:30:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bca79ffe46b3ada0eb97588e7b3
+[2026-11-13 07:30:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 149/300 chars, resolved=True): Pakistani actress jokingly reveals ending of drama ‘Dar-e-Nijat’
+[2026-11-13 07:30:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bca79ffe46b3ada0eb97588e7b3
+[2026-11-13 07:30:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-13 07:30:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bcafe13f49518e55941cc5597c6
+[2026-11-13 07:30:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): New Friday OTT Releases (November 13, 2026): 9 New Movies, Shows To Wa
+[2026-11-13 07:30:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bcafe13f49518e55941cc5597c6
+[2026-11-13 07:30:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New OTT releases to watch this weekend: 10 new movies & shows on Netfl
+[2026-11-13 07:30:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6bcafe13f49518e55941cc5597c6
+[2026-11-13 07:30:56 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New OTT releases today (November 13, 2026): 11 movies and series on Ne
+[2026-11-13 07:30:56 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
