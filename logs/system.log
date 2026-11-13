@@ -25957,3 +25957,7 @@
 [2026-11-13 03:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72d3b872644e9b35c4785e5f9e35
 [2026-11-13 03:31:08 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 197/300 chars, resolved=True): New Friday OTT Releases (November 13, 2026): 9 New Movies, Shows To Wa
 [2026-11-13 03:31:09 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-11-13 03:31:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72d3d828d488280283cee6823c3f
+[2026-11-13 03:31:10 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): How African women's rugby teams broke the glass ceiling at Dakar 2026 
+[2026-11-13 03:31:56 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistan Schools Hockey League Scholarships Launched
+[2026-11-13 03:31:57 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 931 in / 443 out tokens
