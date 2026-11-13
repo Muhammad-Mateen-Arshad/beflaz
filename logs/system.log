@@ -26031,3 +26031,20 @@
 [2026-11-13 06:53:00 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): A London financier lost his £2.6 million claim to his mother's Chelsea
 [2026-11-13 06:53:27 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Honhaar Phase 4 Scholarships: 50,000 Student Grants
 [2026-11-13 06:53:28 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1704 in / 412 out tokens
+[2026-11-13 06:53:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-13 06:53:29 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-13 06:53:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75ca9d98c40e7a734528e518add9
+[2026-11-13 06:53:30 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-13 06:53:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75ca9d98c40e7a734528e518add9
+[2026-11-13 06:53:30 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 159/800 chars, resolved=True): Scientists Studied a Daily Peanut Habit for 16 Weeks. Here’s What Chan
+[2026-11-13 06:53:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75ca9d98c40e7a734528e518add9
+[2026-11-13 06:53:30 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): The New Era of Immune Defense
+[2026-11-13 06:53:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75ca9d98c40e7a734528e518add9
+[2026-11-13 06:53:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-13 06:53:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75cab67394d168996ddb0399d472
+[2026-11-13 06:53:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-13 06:53:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75cab67394d168996ddb0399d472
+[2026-11-13 06:53:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Acute Exercise Temporarily Destabilizes Static Balance in Healthy Olde
+[2026-11-13 06:53:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af75cab67394d168996ddb0399d472
+[2026-11-13 06:53:32 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Waves that clear waste from the brain during sleep are impaired in old
+[2026-11-13 06:53:32 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
