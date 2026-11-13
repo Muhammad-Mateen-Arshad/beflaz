@@ -25926,3 +25926,5 @@
 [2026-11-13 03:28:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c902d4941fcaec44c5bfc49d41
 [2026-11-13 03:28:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Overlooked Ice Age Cave Art in Spain Could Be the World’s Oldest Carto
 [2026-11-13 03:28:17 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-13 03:30:53 PM] [NEWS_BOT] [SUCCESS] Published: Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar
+[2026-11-13 03:30:54 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1432 in / 534 out tokens
