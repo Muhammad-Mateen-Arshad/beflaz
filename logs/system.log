@@ -26053,3 +26053,17 @@
 [2026-11-13 07:29:51 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-13 07:29:52 PM] [NEWS_BOT] [SUCCESS] Published: Petrol price cut by by Rs2; high-speed diesel price remains unchanged
 [2026-11-13 07:29:54 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 940 in / 572 out tokens
+[2026-11-13 07:29:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7653226de485dab06a285fd00cf5
+[2026-11-13 07:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Who is Chris Van Hollen? Pakistan-born US senator, Trump critic and Ga
+[2026-11-13 07:29:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7653226de485dab06a285fd00cf5
+[2026-11-13 07:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Degrees vs first chance
+[2026-11-13 07:29:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7653226de485dab06a285fd00cf5
+[2026-11-13 07:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Newspaper - Editorial - November 13, 2026
+[2026-11-13 07:29:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-13 07:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 300/400 chars, resolved=True): Shehbaz urges grant-based climate finance, warns against weaponising w
+[2026-11-13 07:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7653325b94217a30bca6a786f961
+[2026-11-13 07:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - November 13, 2026
+[2026-11-13 07:29:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af765351ef540958917cb321b39670
+[2026-11-13 07:29:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan PM pushes domestic mineral processing as army chief pledges i
+[2026-11-13 07:30:34 PM] [JOBS_BOT] [SUCCESS] Published: Karnataka Industrial Policy 2025-30 Job Targets
+[2026-11-13 07:30:35 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1401 in / 638 out tokens
