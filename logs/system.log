@@ -25887,3 +25887,9 @@
 [2026-11-13 03:27:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c6d8e8e45949a25f845e5a0043
 [2026-11-13 03:27:41 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-13 03:27:41 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
+[2026-11-13 03:27:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c6df835495ba0064eb8b3f3c8a
+[2026-11-13 03:27:42 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): How African women's rugby teams broke the glass ceiling at Dakar 2026 
+[2026-11-13 03:27:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72c6e4cad496184dfcebfb4d6843
+[2026-11-13 03:27:42 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): A London financier lost his £2.6 million claim to his mother's Chelsea
+[2026-11-13 03:28:08 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: RCS Scholarships Funded by Sam Heughan for Arts Students
+[2026-11-13 03:28:09 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 985 in / 329 out tokens
