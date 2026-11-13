@@ -26159,3 +26159,19 @@
 [2026-11-13 11:33:52 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-13 11:33:53 PM] [HEALTH_BOT] [SUCCESS] Published: Scientists Studied a Daily Peanut Habit for 16 Weeks. Here’s What Changed in the Brain
 [2026-11-13 11:33:54 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1344 in / 511 out tokens
+[2026-11-13 11:33:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79e6249c8459488ff9e58c3bd143
+[2026-11-13 11:33:54 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): A newly discovered South African dinosaur was a heavyweight even as a 
+[2026-11-13 11:33:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79e6249c8459488ff9e58c3bd143
+[2026-11-13 11:33:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-13 11:33:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79e63f69b4038a6758bf3994af3c
+[2026-11-13 11:33:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-13 11:33:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79e63f69b4038a6758bf3994af3c
+[2026-11-13 11:33:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-13 11:33:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79e63f69b4038a6758bf3994af3c
+[2026-11-13 11:33:55 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-13 11:33:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79e6320cf40ea89542455b63c5a9
+[2026-11-13 11:33:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-13 11:33:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
+[2026-11-13 11:33:57 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-13 11:34:44 PM] [HISTORY_BOT] [SUCCESS] Published: Scientists Identify Giant 66-Pound Rodent That Lived 34 Million Years Ago
+[2026-11-13 11:34:45 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1213 in / 562 out tokens
