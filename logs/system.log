@@ -25928,3 +25928,17 @@
 [2026-11-13 03:28:17 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
 [2026-11-13 03:30:53 PM] [NEWS_BOT] [SUCCESS] Published: Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar
 [2026-11-13 03:30:54 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1432 in / 534 out tokens
+[2026-11-13 03:30:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72d2faaf64ff9ab9d56b331090be
+[2026-11-13 03:30:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Who is Chris Van Hollen? Pakistan-born US senator, Trump critic and Ga
+[2026-11-13 03:30:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72d2faaf64ff9ab9d56b331090be
+[2026-11-13 03:30:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): Newspaper - Editorial - November 13, 2026
+[2026-11-13 03:30:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-13 03:30:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 291/400 chars, resolved=True): Shehbaz urges grant-based climate finance, warns against weaponising w
+[2026-11-13 03:30:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72d2fcc0740909c9515560f223de
+[2026-11-13 03:30:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 62/400 chars, resolved=True): Newspaper - Front Page - November 13, 2026
+[2026-11-13 03:30:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72d3227ee476498fb88014baa634
+[2026-11-13 03:30:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan PM pushes domestic mineral processing as army chief pledges i
+[2026-11-13 03:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72d3227ee476498fb88014baa634
+[2026-11-13 03:30:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): British Army signs landmark pact with UK halal meat giant
+[2026-11-13 03:30:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 205/400 chars, resolved=True): England’s batting capitulates in defeat to lift Australia’s spirits
+[2026-11-13 03:30:59 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
