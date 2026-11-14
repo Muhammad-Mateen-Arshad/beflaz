@@ -26571,3 +26571,19 @@
 [2026-11-14 05:25:50 PM] [JOBS_BOT] [WARN] Telegram sendPhoto 502, falling back to text: {"ok":false,"error_code":502,"description":"Bad Gateway"}
 [2026-11-14 05:26:05 PM] [JOBS_BOT] [WARN] Telegram failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
 [2026-11-14 05:26:05 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1965 in / 646 out tokens
+[2026-11-14 05:26:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-14 05:26:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899af4afc43cf8fbadc70c6884b2
+[2026-11-14 05:26:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-14 05:26:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899af4afc43cf8fbadc70c6884b2
+[2026-11-14 05:26:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-14 05:26:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899af4afc43cf8fbadc70c6884b2
+[2026-11-14 05:26:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-14 05:26:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899b4c2d34cc3a7af043a709de98
+[2026-11-14 05:26:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 67/300 chars, resolved=True): New Horror Series 'The Body' Is a 'Global Streaming Hit' on Netflix 2 
+[2026-11-14 05:26:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899b4c2d34cc3a7af043a709de98
+[2026-11-14 05:26:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Virgin River season 9 OTT release date announced before season 8: New 
+[2026-11-14 05:26:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899b4c2d34cc3a7af043a709de98
+[2026-11-14 05:26:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): Netflix's smash hit series officially makes streaming history with ear
+[2026-11-14 05:26:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899b4c2d34cc3a7af043a709de98
+[2026-11-14 05:26:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Magic: The Gathering TV Show Gets Title, Release Date Window, Teaser V
+[2026-11-14 05:26:13 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
