@@ -26226,3 +26226,6 @@
 [2026-11-14 12:33:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7ac4a0e7f433a882867ffb324b5b
 [2026-11-14 12:33:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Acute Exercise Temporarily Destabilizes Static Balance in Healthy Olde
 [2026-11-14 12:33:31 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-14 12:33:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-14 12:34:09 AM] [HISTORY_BOT] [SUCCESS] Published: A newly discovered South African dinosaur was a heavyweight even as a youngster
+[2026-11-14 12:34:10 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1121 in / 488 out tokens
