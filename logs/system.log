@@ -26429,3 +26429,11 @@
 [2026-11-14 11:29:40 AM] [NEWS_BOT] [INFO] Rejected by quality gate (too short (117 words, need 150)): FO says Climate Minister Musadik Malik nominated to represent Pakistan
 [2026-11-14 11:30:09 AM] [NEWS_BOT] [SUCCESS] Published: 2 soldiers martyred, 16 terrorists killed in North Waziristan operations: ISPR
 [2026-11-14 11:30:10 AM] [NEWS_BOT] [INFO] AI usage: 2 calls, 1493 in / 790 out tokens
+[2026-11-14 11:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84643b3f84d26886e57d09351b1a
+[2026-11-14 11:30:11 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Degrees vs first chance
+[2026-11-14 11:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84643018e4b998003a9008da889a
+[2026-11-14 11:30:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): Newspaper - Karachi - November 14, 2026
+[2026-11-14 11:30:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84644d24047868f723bc34920cdf
+[2026-11-14 11:30:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan PM pushes domestic mineral processing as army chief pledges i
+[2026-11-14 11:30:44 AM] [JOBS_BOT] [SUCCESS] Published: Indian Army Agnipath Scheme Tenure Extension News
+[2026-11-14 11:30:46 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1872 in / 475 out tokens
