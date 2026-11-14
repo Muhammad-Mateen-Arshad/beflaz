@@ -26489,3 +26489,14 @@
 [2026-11-14 11:33:00 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1570 in / 423 out tokens
 [2026-11-14 03:30:11 PM] [NEWS_BOT] [SUCCESS] Published: Major among 4 troops martyred, 24 terrorists killed during operations in KP and Balochistan: ISPR
 [2026-11-14 03:30:13 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1567 in / 607 out tokens
+[2026-11-14 03:30:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87e8549304ec78d9aa5d724e1a71
+[2026-11-14 03:30:14 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): $40bn remittances at risk as number of overseas workers falls by 25%Pu
+[2026-11-14 03:30:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87e8549304ec78d9aa5d724e1a71
+[2026-11-14 03:30:14 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 177/400 chars, resolved=True): Haryana CM Nayab Saini slams Punjab's AAP government over drugs, crime
+[2026-11-14 03:30:14 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 245/400 chars, resolved=True): Seven years after ‘Bloody November,’ Iran rations gasoline it dares no
+[2026-11-14 03:30:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87e86282a4f44b3fcd8000abdf02
+[2026-11-14 03:30:15 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): Newspaper - Karachi - November 14, 2026
+[2026-11-14 03:30:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87e87fb904febaacdaf2d13ac02f
+[2026-11-14 03:30:15 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Soldiers given top priority in new India, UP to double cash value of g
+[2026-11-14 03:30:52 PM] [JOBS_BOT] [SUCCESS] Published: Shelter Now International Aid Worker Roles Overview
+[2026-11-14 03:30:53 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1885 in / 361 out tokens
