@@ -26383,3 +26383,13 @@
 [2026-11-14 11:02:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af83fd2ad33424cb0c41db71e77f7e
 [2026-11-14 11:02:42 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-14 11:02:42 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
+[2026-11-14 11:02:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af83fd2a5a947f89d6f4e263203b08
+[2026-11-14 11:02:43 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): US opens free university application advice for Nigerians: 5 steps to 
+[2026-11-14 11:02:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af83fd2a5a947f89d6f4e263203b08
+[2026-11-14 11:02:43 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): How African women's rugby teams broke the glass ceiling at Dakar 2026 
+[2026-11-14 11:02:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af83fd3d334499f98ac25b7b624c82
+[2026-11-14 11:02:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Türkiye, Qatar reaffirm defense ties, call for diplomacy on Iran
+[2026-11-14 11:02:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af83fd3d334499f98ac25b7b624c82
+[2026-11-14 11:02:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): Türkiye and Qatar reaffirm defense ties, urge diplomacy in US-Iran war
+[2026-11-14 11:03:24 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: IRCC Study Permit and Visa Processing Times Update
+[2026-11-14 11:03:25 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1123 in / 734 out tokens
