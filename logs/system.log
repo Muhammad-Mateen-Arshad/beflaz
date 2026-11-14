@@ -26354,3 +26354,12 @@
 [2026-11-14 07:31:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e54d3c448288b07443064b7aef
 [2026-11-14 07:31:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Acute Exercise Temporarily Destabilizes Static Balance in Healthy Olde
 [2026-11-14 07:31:49 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-14 07:31:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e654de24197a8dd4473ad85465
+[2026-11-14 07:31:50 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): 150 miljoen jaar oude dinosaurussen te zien in Pombal
+[2026-11-14 07:31:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e654de24197a8dd4473ad85465
+[2026-11-14 07:31:50 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): Dinosaurios de 150 millones de años de antigüedad se exhiben en Pombal
+[2026-11-14 07:31:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e654de24197a8dd4473ad85465
+[2026-11-14 07:31:50 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-14 07:31:52 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-14 07:33:08 AM] [HISTORY_BOT] [SUCCESS] Published: China adds three sites to world geological heritage list
+[2026-11-14 07:33:09 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 760 in / 583 out tokens
