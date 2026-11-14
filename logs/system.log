@@ -26591,3 +26591,20 @@
 [2026-11-14 05:27:08 PM] [SCHOLARSHIPS_BOT] [WARN] Telegram sendPhoto 502, falling back to text: {"ok":false,"error_code":502,"description":"Bad Gateway"}
 [2026-11-14 05:27:24 PM] [SCHOLARSHIPS_BOT] [WARN] Telegram failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
 [2026-11-14 05:27:24 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1468 in / 566 out tokens
+[2026-11-14 05:27:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-14 05:27:25 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-14 05:27:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899fdc27e4e0494c159c3ab06964
+[2026-11-14 05:27:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-14 05:27:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899fdc27e4e0494c159c3ab06964
+[2026-11-14 05:27:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 79/800 chars, resolved=True): Are online workout programs enough for older adults to maintain indepe
+[2026-11-14 05:27:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899fdc27e4e0494c159c3ab06964
+[2026-11-14 05:27:41 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Thanksgiving Food Safety Rules: 7 Mistakes That Can Make You Sick
+[2026-11-14 05:27:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89a0dbf264cc28fde62ca3f67e96
+[2026-11-14 05:27:41 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-14 05:27:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89a0dbf264cc28fde62ca3f67e96
+[2026-11-14 05:27:41 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): 5 morning routines older adults credit with helping them stay active
+[2026-11-14 05:27:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89a0dbf264cc28fde62ca3f67e96
+[2026-11-14 05:27:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-14 05:27:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89a0dbf264cc28fde62ca3f67e96
+[2026-11-14 05:27:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
+[2026-11-14 05:27:57 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
