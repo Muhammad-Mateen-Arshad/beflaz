@@ -26410,3 +26410,19 @@
 [2026-11-14 11:04:00 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Acute Exercise Temporarily Destabilizes Static Balance in Healthy Olde
 [2026-11-14 11:04:00 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1508 in / 500 out tokens
 [2026-11-14 11:04:00 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 7, 'rejected': 1}
+[2026-11-14 11:04:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af840200c5445828aca1280f327ef6
+[2026-11-14 11:04:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): 150 miljoen jaar oude dinosaurussen te zien in Pombal
+[2026-11-14 11:04:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af840200c5445828aca1280f327ef6
+[2026-11-14 11:04:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-14 11:04:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84021df1444939c90a1c5c7971bc
+[2026-11-14 11:04:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-14 11:04:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84021df1444939c90a1c5c7971bc
+[2026-11-14 11:04:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-14 11:04:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84021df1444939c90a1c5c7971bc
+[2026-11-14 11:04:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-14 11:04:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af840229cb94633ac6b59ef3b31999
+[2026-11-14 11:04:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-14 11:04:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
+[2026-11-14 11:04:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af840228f304df082aae8a10423a80
+[2026-11-14 11:04:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): Collecting keepsakes may have helped autobiographical memory evolve in
+[2026-11-14 11:04:03 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 8, 'thin': 8}
