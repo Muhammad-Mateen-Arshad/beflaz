@@ -26337,3 +26337,20 @@
 [2026-11-14 07:30:40 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): US opens free university application advice for Nigerians: 5 steps to 
 [2026-11-14 07:31:14 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Francis Olusegun UNILORIN Mathematics Graduate Profile
 [2026-11-14 07:31:15 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1626 in / 517 out tokens
+[2026-11-14 07:31:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-14 07:31:16 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-14 07:31:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e45ee244f8baa1cb9caf00c994
+[2026-11-14 07:31:17 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-14 07:31:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e45ee244f8baa1cb9caf00c994
+[2026-11-14 07:31:17 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 75/800 chars, resolved=True): Could the keto diet have a hidden cancer risk? New study raises questi
+[2026-11-14 07:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e45ee244f8baa1cb9caf00c994
+[2026-11-14 07:31:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Thanksgiving Food Safety Rules: 7 Mistakes That Can Make You Sick
+[2026-11-14 07:31:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e54d3c448288b07443064b7aef
+[2026-11-14 07:31:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-14 07:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e54d3c448288b07443064b7aef
+[2026-11-14 07:31:48 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-14 07:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e54d3c448288b07443064b7aef
+[2026-11-14 07:31:48 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 83/800 chars, resolved=True): Life experiences: 30 older adults discuss misconceptions of aging
+[2026-11-14 07:31:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e54d3c448288b07443064b7aef
+[2026-11-14 07:31:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Acute Exercise Temporarily Destabilizes Static Balance in Healthy Olde
+[2026-11-14 07:31:49 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
