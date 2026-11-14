@@ -26699,3 +26699,6 @@
 [2026-11-14 11:28:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8eeade1ed4b6c9b1f2a69070add1
 [2026-11-14 11:28:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 92/300 chars, resolved=True): New Releases on Netflix This Week and Top 10 Movies & Series: November
 [2026-11-14 11:28:45 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-14 11:28:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-14 11:30:03 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Freeborn County Updates on Youth Programs and Funding
+[2026-11-14 11:30:04 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1858 in / 464 out tokens
