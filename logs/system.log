@@ -26426,3 +26426,6 @@
 [2026-11-14 11:04:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af840228f304df082aae8a10423a80
 [2026-11-14 11:04:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): Collecting keepsakes may have helped autobiographical memory evolve in
 [2026-11-14 11:04:03 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 9, 'tried': 8, 'thin': 8}
+[2026-11-14 11:29:40 AM] [NEWS_BOT] [INFO] Rejected by quality gate (too short (117 words, need 150)): FO says Climate Minister Musadik Malik nominated to represent Pakistan
+[2026-11-14 11:30:09 AM] [NEWS_BOT] [SUCCESS] Published: 2 soldiers martyred, 16 terrorists killed in North Waziristan operations: ISPR
+[2026-11-14 11:30:10 AM] [NEWS_BOT] [INFO] AI usage: 2 calls, 1493 in / 790 out tokens
