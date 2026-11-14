@@ -26537,3 +26537,20 @@
 [2026-11-14 03:32:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f03035c47b79da902a259891f6
 [2026-11-14 03:32:35 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
 [2026-11-14 03:32:35 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-14 03:32:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f130f3742eba5b50ff70ea27a1
+[2026-11-14 03:32:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): New species of ‘heavyweight’ dinosaur discovered in the Eastern Cape [
+[2026-11-14 03:32:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f130f3742eba5b50ff70ea27a1
+[2026-11-14 03:32:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): In 2001, workers dug up bones in an English clay quarry, and they turn
+[2026-11-14 03:32:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f130f3742eba5b50ff70ea27a1
+[2026-11-14 03:32:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): 150 miljoen jaar oude dinosaurussen te zien in Pombal
+[2026-11-14 03:32:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f14d1044e589a3811292a6a2c3
+[2026-11-14 03:32:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-14 03:32:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f14d1044e589a3811292a6a2c3
+[2026-11-14 03:32:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-14 03:32:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f14d1044e589a3811292a6a2c3
+[2026-11-14 03:32:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-14 03:32:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f14927e4c1ba68f3d77ae10f9e
+[2026-11-14 03:32:37 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Saudi archaeological discovery reveals evidence of human activity dati
+[2026-11-14 03:32:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f14927e4c1ba68f3d77ae10f9e
+[2026-11-14 03:32:37 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
+[2026-11-14 03:32:37 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
