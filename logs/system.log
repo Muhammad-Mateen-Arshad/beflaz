@@ -26608,3 +26608,15 @@
 [2026-11-14 05:27:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89a0dbf264cc28fde62ca3f67e96
 [2026-11-14 05:27:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
 [2026-11-14 05:27:57 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-14 05:27:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89a1d294c49e38b36359190133c1
+[2026-11-14 05:27:57 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): New species of ‘heavyweight’ dinosaur discovered in the Eastern Cape [
+[2026-11-14 05:27:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89a1deded4562b720f74c56bb951
+[2026-11-14 05:27:58 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-14 05:27:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89a1deded4562b720f74c56bb951
+[2026-11-14 05:27:58 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-14 05:27:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89a1deded4562b720f74c56bb951
+[2026-11-14 05:27:58 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-14 05:28:44 PM] [HISTORY_BOT] [SUCCESS] Published: Celebrate the Opening of MIM’s New Special Exhibition, Unearthed Musical Masterpieces from the Southern Kingdoms of Ancient China
+[2026-11-14 05:29:00 PM] [HISTORY_BOT] [WARN] Telegram sendPhoto 502, falling back to text: {"ok":false,"error_code":502,"description":"Bad Gateway"}
+[2026-11-14 05:29:15 PM] [HISTORY_BOT] [WARN] Telegram failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
+[2026-11-14 05:29:15 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1334 in / 412 out tokens
