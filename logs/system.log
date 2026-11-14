@@ -26554,3 +26554,7 @@
 [2026-11-14 03:32:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87f14927e4c1ba68f3d77ae10f9e
 [2026-11-14 03:32:37 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 138/400 chars, resolved=True): Remarkably preserved 3,300-year-old sword discovered in Italian lake w
 [2026-11-14 03:32:37 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
+[2026-11-14 05:24:15 PM] [NEWS_BOT] [SUCCESS] Published: FO says Climate Minister Musadik Malik nominated to represent Pakistan at SCO moot in New Delhi
+[2026-11-14 05:24:31 PM] [NEWS_BOT] [WARN] Telegram sendPhoto 502, falling back to text: {"ok":false,"error_code":502,"description":"Bad Gateway"}
+[2026-11-14 05:24:46 PM] [NEWS_BOT] [WARN] Telegram failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
+[2026-11-14 05:24:46 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 992 in / 513 out tokens
