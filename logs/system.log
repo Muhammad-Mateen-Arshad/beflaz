@@ -26673,3 +26673,10 @@
 [2026-11-14 07:33:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b7616a214f298ddd6972fa4b873
 [2026-11-14 07:33:05 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 83/800 chars, resolved=True): Life experiences: 30 older adults discuss misconceptions of aging
 [2026-11-14 07:33:05 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-14 07:33:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b772a87a4b6dbc83cca261d51c8
+[2026-11-14 07:33:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 104/400 chars, resolved=True): Scientists discover new dinosaur species that weighed 880-pound as 2-y
+[2026-11-14 07:33:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b772a87a4b6dbc83cca261d51c8
+[2026-11-14 07:33:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): New species of ‘heavyweight’ dinosaur discovered in the Eastern Cape [
+[2026-11-14 07:33:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-14 07:33:31 PM] [HISTORY_BOT] [SUCCESS] Published: BC museum’s dinosaur celebrating 80,000,038th birthday
+[2026-11-14 07:33:32 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1741 in / 536 out tokens
