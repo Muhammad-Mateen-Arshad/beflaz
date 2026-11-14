@@ -26635,3 +26635,18 @@
 [2026-11-14 07:30:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-14 07:31:13 PM] [JOBS_BOT] [SUCCESS] Published: Iran Debates Non-Cleric Intelligence Minister Qualification
 [2026-11-14 07:31:13 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 645 in / 426 out tokens
+[2026-11-14 07:31:16 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-14 07:31:17 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-14 07:31:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b705ab06493eba991435ab687d8
+[2026-11-14 07:31:17 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-14 07:31:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b705ab06493eba991435ab687d8
+[2026-11-14 07:31:18 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-14 07:31:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b705ab06493eba991435ab687d8
+[2026-11-14 07:31:19 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-14 07:31:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b707f9654470ae5022c6a8b2156
+[2026-11-14 07:31:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 67/300 chars, resolved=True): New Horror Series 'The Body' Is a 'Global Streaming Hit' on Netflix 2 
+[2026-11-14 07:31:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b707f9654470ae5022c6a8b2156
+[2026-11-14 07:31:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Virgin River season 9 OTT release date announced before season 8: New 
+[2026-11-14 07:31:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b707f9654470ae5022c6a8b2156
+[2026-11-14 07:31:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): 3 best Netflix series to binge-watch this weekend (Nov 13–15, 2026)
+[2026-11-14 07:31:20 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
