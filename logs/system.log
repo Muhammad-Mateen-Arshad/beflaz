@@ -26587,3 +26587,7 @@
 [2026-11-14 05:26:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af899b4c2d34cc3a7af043a709de98
 [2026-11-14 05:26:12 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Magic: The Gathering TV Show Gets Title, Release Date Window, Teaser V
 [2026-11-14 05:26:13 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-11-14 05:26:52 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Shanghai Jiao Tong University Scholarships 2027 Guide
+[2026-11-14 05:27:08 PM] [SCHOLARSHIPS_BOT] [WARN] Telegram sendPhoto 502, falling back to text: {"ok":false,"error_code":502,"description":"Bad Gateway"}
+[2026-11-14 05:27:24 PM] [SCHOLARSHIPS_BOT] [WARN] Telegram failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
+[2026-11-14 05:27:24 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1468 in / 566 out tokens
