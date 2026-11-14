@@ -26650,3 +26650,9 @@
 [2026-11-14 07:31:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b707f9654470ae5022c6a8b2156
 [2026-11-14 07:31:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): 3 best Netflix series to binge-watch this weekend (Nov 13–15, 2026)
 [2026-11-14 07:31:20 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-14 07:31:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-14 07:31:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-14 07:31:41 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-14 07:31:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-14 07:32:32 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of Leeds PhD Scholarships 2027 Guide
+[2026-11-14 07:32:33 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1542 in / 602 out tokens
