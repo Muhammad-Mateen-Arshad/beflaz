@@ -26333,3 +26333,7 @@
 [2026-11-14 07:30:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e1f50d042fcb479e6f90e8c073
 [2026-11-14 07:30:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-14 07:30:39 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
+[2026-11-14 07:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80e1f9432462685e8b3c362b142b
+[2026-11-14 07:30:40 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): US opens free university application advice for Nigerians: 5 steps to 
+[2026-11-14 07:31:14 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Francis Olusegun UNILORIN Mathematics Graduate Profile
+[2026-11-14 07:31:15 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1626 in / 517 out tokens
