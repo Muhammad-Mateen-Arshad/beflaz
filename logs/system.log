@@ -26620,3 +26620,7 @@
 [2026-11-14 05:29:00 PM] [HISTORY_BOT] [WARN] Telegram sendPhoto 502, falling back to text: {"ok":false,"error_code":502,"description":"Bad Gateway"}
 [2026-11-14 05:29:15 PM] [HISTORY_BOT] [WARN] Telegram failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
 [2026-11-14 05:29:15 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1334 in / 412 out tokens
+[2026-11-14 07:29:34 PM] [NEWS_BOT] [WARN] Feed HTTP 403: https://www.dawn.com/feeds/home
+[2026-11-14 07:29:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-14 07:30:04 PM] [NEWS_BOT] [SUCCESS] Published: Copper wire upgrade caused nationwide flight suspension, US transport secretary says
+[2026-11-14 07:30:05 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1000 in / 523 out tokens
