@@ -26478,3 +26478,12 @@
 [2026-11-14 11:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af846991df8466a95ab6e25b4c1923
 [2026-11-14 11:31:53 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Acute Exercise Temporarily Destabilizes Static Balance in Healthy Olde
 [2026-11-14 11:31:53 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-14 11:31:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af846aa7bed4a6ab5a448ecc093781
+[2026-11-14 11:31:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Montana rancher found a dinosaur on her own land in 2019. Seven year
+[2026-11-14 11:31:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af846aa7bed4a6ab5a448ecc093781
+[2026-11-14 11:31:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 124/400 chars, resolved=True): Dinossauros de 150 milhões de anos são exibidos em Pombal.
+[2026-11-14 11:31:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-14 11:32:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-14 11:32:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-14 11:32:59 AM] [HISTORY_BOT] [SUCCESS] Published: Climate: China pulls out of the 2028 COP, but greenhouse gas emissions appear to have already peaked
+[2026-11-14 11:33:00 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1570 in / 423 out tokens
