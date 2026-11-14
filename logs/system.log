@@ -26270,3 +26270,20 @@
 [2026-11-14 03:31:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-14 03:31:49 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Khajoornama Project Grants and Scholarships Guide
 [2026-11-14 03:31:50 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1376 in / 374 out tokens
+[2026-11-14 03:31:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-14 03:31:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-14 03:31:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d628b52f4ae68823d55b40115bb
+[2026-11-14 03:31:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-14 03:31:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d628b52f4ae68823d55b40115bb
+[2026-11-14 03:31:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 79/800 chars, resolved=True): Are online workout programs enough for older adults to maintain indepe
+[2026-11-14 03:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d628b52f4ae68823d55b40115bb
+[2026-11-14 03:31:53 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): The New Era of Immune Defense
+[2026-11-14 03:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d6292f804c18b1903133b9f61b9
+[2026-11-14 03:31:53 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-14 03:32:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d6292f804c18b1903133b9f61b9
+[2026-11-14 03:32:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-14 03:32:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d6292f804c18b1903133b9f61b9
+[2026-11-14 03:32:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 83/800 chars, resolved=True): Life experiences: 30 older adults discuss misconceptions of aging
+[2026-11-14 03:32:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d6292f804c18b1903133b9f61b9
+[2026-11-14 03:32:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Acute Exercise Temporarily Destabilizes Static Balance in Healthy Olde
+[2026-11-14 03:32:09 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
