@@ -26305,3 +26305,16 @@
 [2026-11-14 03:32:36 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1497 in / 469 out tokens
 [2026-11-14 07:29:54 AM] [NEWS_BOT] [SUCCESS] Published: US says airspace now ‘opened up’ after grounding all flights for hours, sparking travel chaos
 [2026-11-14 07:29:55 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1598 in / 404 out tokens
+[2026-11-14 07:29:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80df4a3ea47e7a6704d219997483
+[2026-11-14 07:29:56 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Degrees vs first chance
+[2026-11-14 07:29:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80df4a3ea47e7a6704d219997483
+[2026-11-14 07:29:56 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Who is Chris Van Hollen? Pakistan-born US senator, Trump critic and Ga
+[2026-11-14 07:29:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-14 07:29:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80df47725434e9c667605be4c2dd
+[2026-11-14 07:29:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Newspaper - Front Page - November 14, 2026
+[2026-11-14 07:29:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80df6f42342b8a80cc5b15d456b2
+[2026-11-14 07:29:58 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Pakistan PM pushes domestic mineral processing as army chief pledges i
+[2026-11-14 07:29:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80df6cb914fe3946c1d2ee5a9572
+[2026-11-14 07:29:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): Newspaper - Karachi - November 14, 2026
+[2026-11-14 07:30:33 AM] [JOBS_BOT] [SUCCESS] Published: Lahore Green Bus Conductor Terminated Over Misconduct
+[2026-11-14 07:30:33 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1005 in / 503 out tokens
