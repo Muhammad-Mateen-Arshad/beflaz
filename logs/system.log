@@ -26500,3 +26500,19 @@
 [2026-11-14 03:30:15 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Soldiers given top priority in new India, UP to double cash value of g
 [2026-11-14 03:30:52 PM] [JOBS_BOT] [SUCCESS] Published: Shelter Now International Aid Worker Roles Overview
 [2026-11-14 03:30:53 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1885 in / 361 out tokens
+[2026-11-14 03:30:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-14 03:30:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87eaf6e414c439e950566c5c1c30
+[2026-11-14 03:30:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-14 03:30:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87eaf6e414c439e950566c5c1c30
+[2026-11-14 03:30:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-14 03:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87eaf6e414c439e950566c5c1c30
+[2026-11-14 03:30:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-14 03:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87eb32fb94bacb07712e945752ea
+[2026-11-14 03:31:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 67/300 chars, resolved=True): New Horror Series 'The Body' Is a 'Global Streaming Hit' on Netflix 2 
+[2026-11-14 03:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87eb32fb94bacb07712e945752ea
+[2026-11-14 03:31:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 142/300 chars, resolved=True): Netflix’s new 8-part psychological thriller series becomes an instant 
+[2026-11-14 03:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87eb32fb94bacb07712e945752ea
+[2026-11-14 03:31:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): 3 best Netflix series to binge-watch this weekend (Nov 13–15, 2026)
+[2026-11-14 03:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87eb32fb94bacb07712e945752ea
+[2026-11-14 03:31:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Magic: The Gathering TV Show Gets Title, Release Date Window, Teaser V
+[2026-11-14 03:31:00 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
