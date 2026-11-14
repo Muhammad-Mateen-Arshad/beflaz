@@ -26177,3 +26177,13 @@
 [2026-11-13 11:34:45 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1213 in / 562 out tokens
 [2026-11-14 12:31:34 AM] [NEWS_BOT] [SUCCESS] Published: 'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans
 [2026-11-14 12:31:35 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 932 in / 449 out tokens
+[2026-11-14 12:31:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7abe71fd44d6191fc6ce282892a8
+[2026-11-14 12:31:36 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Who is Chris Van Hollen? Pakistan-born US senator, Trump critic and Ga
+[2026-11-14 12:31:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7abe71fd44d6191fc6ce282892a8
+[2026-11-14 12:31:36 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Democrat Laubacher ousts Lauren Boebert in Colorado House race
+[2026-11-14 12:31:37 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-14 12:31:37 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 287/400 chars, resolved=True): PM, CDF vow security, push foreign miners to process Pakistan’s minera
+[2026-11-14 12:31:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7abe8c2ff44cf864ce9793946799
+[2026-11-14 12:31:37 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Newspaper - Front Page - November 13, 2026
+[2026-11-14 12:32:24 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Minerals Investment Forum 2026 Local Jobs Push
+[2026-11-14 12:32:24 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1738 in / 444 out tokens
