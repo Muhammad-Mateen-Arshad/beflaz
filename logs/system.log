@@ -26451,3 +26451,13 @@
 [2026-11-14 11:30:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af846697f5b44eead48c4839fac5d7
 [2026-11-14 11:30:49 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
 [2026-11-14 11:30:49 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 7, 'thin': 7, 'already_seen': 9}
+[2026-11-14 11:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84669663d445ebb49270e964aa70
+[2026-11-14 11:30:50 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): US opens free university application advice for Nigerians: 5 steps to 
+[2026-11-14 11:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84669663d445ebb49270e964aa70
+[2026-11-14 11:30:50 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): How African women's rugby teams broke the glass ceiling at Dakar 2026 
+[2026-11-14 11:30:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8466a968b4c4990b9c9a0efbd360
+[2026-11-14 11:30:54 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Türkiye, Qatar reaffirm defense ties, call for diplomacy on Iran
+[2026-11-14 11:30:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8466a968b4c4990b9c9a0efbd360
+[2026-11-14 11:30:54 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): Türkiye and Qatar reaffirm defense ties, urge diplomacy in US-Iran war
+[2026-11-14 11:31:19 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab Matric Exams 2027 Registration Schedule
+[2026-11-14 11:31:20 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 889 in / 526 out tokens
