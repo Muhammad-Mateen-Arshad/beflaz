@@ -26187,3 +26187,18 @@
 [2026-11-14 12:31:37 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Newspaper - Front Page - November 13, 2026
 [2026-11-14 12:32:24 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Minerals Investment Forum 2026 Local Jobs Push
 [2026-11-14 12:32:24 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1738 in / 444 out tokens
+[2026-11-14 12:32:28 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-14 12:32:28 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-14 12:32:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7ac1c12554fbb98c2babcb620224
+[2026-11-14 12:32:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-14 12:32:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7ac1c12554fbb98c2babcb620224
+[2026-11-14 12:32:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-14 12:32:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7ac1d22104963a71dc2ec6b76d3c
+[2026-11-14 12:32:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 67/300 chars, resolved=True): New horror series 'The Body' is a 'global streaming hit' on Netflix 2 
+[2026-11-14 12:32:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7ac1d22104963a71dc2ec6b76d3c
+[2026-11-14 12:32:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-14 12:32:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7ac1d22104963a71dc2ec6b76d3c
+[2026-11-14 12:32:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Magic: The Gathering TV Show Gets Title, Release Date Window, Teaser V
+[2026-11-14 12:32:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7ac1d40174ecc971696b2e24ad9c
+[2026-11-14 12:32:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And M
+[2026-11-14 12:32:30 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
