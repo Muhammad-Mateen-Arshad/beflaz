@@ -26252,3 +26252,14 @@
 [2026-11-14 03:30:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): Newspaper - Karachi - November 13, 2026
 [2026-11-14 03:30:43 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1929 in / 369 out tokens
 [2026-11-14 03:30:43 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 6, 'rejected': 1}
+[2026-11-14 03:30:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-14 03:30:49 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-14 03:30:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d5e93d694442ae7139dc4516e7c
+[2026-11-14 03:30:49 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-14 03:30:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d5e93d694442ae7139dc4516e7c
+[2026-11-14 03:30:49 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-14 03:30:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d5e9543f486e9e6b2bd7c0284dc
+[2026-11-14 03:30:49 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 67/300 chars, resolved=True): New Horror Series 'The Body' Is a 'Global Streaming Hit' on Netflix 2 
+[2026-11-14 03:30:50 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-14 03:31:11 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Reveals First Look at Magic: The Gathering Animated Series With Title and Release Window
+[2026-11-14 03:31:12 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1474 in / 457 out tokens
