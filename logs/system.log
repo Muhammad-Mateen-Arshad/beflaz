@@ -26624,3 +26624,14 @@
 [2026-11-14 07:29:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-14 07:30:04 PM] [NEWS_BOT] [SUCCESS] Published: Copper wire upgrade caused nationwide flight suspension, US transport secretary says
 [2026-11-14 07:30:05 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1000 in / 523 out tokens
+[2026-11-14 07:30:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b6bd308d43b38ccf9492b044da3
+[2026-11-14 07:30:06 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 177/400 chars, resolved=True): Haryana CM Nayab Saini slams Punjab's AAP government over drugs, crime
+[2026-11-14 07:30:06 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 245/400 chars, resolved=True): Seven years after ‘Bloody November,’ Iran rations gasoline it dares no
+[2026-11-14 07:30:07 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 208/400 chars, resolved=True): Daily Times
+[2026-11-14 07:30:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b6be0f5e4eb0a8de7760b977878
+[2026-11-14 07:30:07 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Newspaper - Front Page - November 14, 2026
+[2026-11-14 07:30:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8b6bf9ebb48d8adc3c4b7f199f2e
+[2026-11-14 07:30:07 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): https://tribune.com.pk/story/2640153/legislature-cannot-be-bypassed-mi
+[2026-11-14 07:30:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-14 07:31:13 PM] [JOBS_BOT] [SUCCESS] Published: Iran Debates Non-Cleric Intelligence Minister Qualification
+[2026-11-14 07:31:13 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 645 in / 426 out tokens
