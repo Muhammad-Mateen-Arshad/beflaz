@@ -26516,3 +26516,7 @@
 [2026-11-14 03:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87eb32fb94bacb07712e945752ea
 [2026-11-14 03:31:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Magic: The Gathering TV Show Gets Title, Release Date Window, Teaser V
 [2026-11-14 03:31:00 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
+[2026-11-14 03:31:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87eb4e43f49d9bdcf518ca7801fd
+[2026-11-14 03:31:01 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Who is Oba Olumide Osunsina, Ifo's new monarch with 30 years in busine
+[2026-11-14 03:32:00 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Capitol Journal November 13, 2026 Education Notice
+[2026-11-14 03:32:01 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1808 in / 425 out tokens
