@@ -26558,3 +26558,16 @@
 [2026-11-14 05:24:31 PM] [NEWS_BOT] [WARN] Telegram sendPhoto 502, falling back to text: {"ok":false,"error_code":502,"description":"Bad Gateway"}
 [2026-11-14 05:24:46 PM] [NEWS_BOT] [WARN] Telegram failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
 [2026-11-14 05:24:46 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 992 in / 513 out tokens
+[2026-11-14 05:24:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8995fa949409fb6772f9819b314c
+[2026-11-14 05:24:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): $40bn remittances at risk as number of overseas workers falls by 25%Pu
+[2026-11-14 05:24:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8995fa949409fb6772f9819b314c
+[2026-11-14 05:24:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 177/400 chars, resolved=True): Haryana CM Nayab Saini slams Punjab's AAP government over drugs, crime
+[2026-11-14 05:24:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 245/400 chars, resolved=True): Seven years after ‘Bloody November,’ Iran rations gasoline it dares no
+[2026-11-14 05:24:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af89960850845e89d977ed318aec6c
+[2026-11-14 05:24:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): Newspaper - Karachi - November 14, 2026
+[2026-11-14 05:24:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8996038cf4a9e9505f2a1342c62c
+[2026-11-14 05:24:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): https://tribune.com.pk/story/2640153/legislature-cannot-be-bypassed-mi
+[2026-11-14 05:25:34 PM] [JOBS_BOT] [SUCCESS] Published: UP Govt Jobs for Dependents of Martyred Soldiers Scheme
+[2026-11-14 05:25:50 PM] [JOBS_BOT] [WARN] Telegram sendPhoto 502, falling back to text: {"ok":false,"error_code":502,"description":"Bad Gateway"}
+[2026-11-14 05:26:05 PM] [JOBS_BOT] [WARN] Telegram failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
+[2026-11-14 05:26:05 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1965 in / 646 out tokens
