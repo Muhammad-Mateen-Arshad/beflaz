@@ -26263,3 +26263,10 @@
 [2026-11-14 03:30:50 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-14 03:31:11 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Reveals First Look at Magic: The Gathering Animated Series With Title and Release Window
 [2026-11-14 03:31:12 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1474 in / 457 out tokens
+[2026-11-14 03:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d6006098455d91ad4db17d4cef9
+[2026-11-14 03:31:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 164/400 chars, resolved=True): US opens free university application advice for Nigerians: 5 steps to 
+[2026-11-14 03:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d6006098455d91ad4db17d4cef9
+[2026-11-14 03:31:13 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): How African women's rugby teams broke the glass ceiling at Dakar 2026 
+[2026-11-14 03:31:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-14 03:31:49 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Khajoornama Project Grants and Scholarships Guide
+[2026-11-14 03:31:50 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1376 in / 374 out tokens
