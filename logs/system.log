@@ -26229,3 +26229,8 @@
 [2026-11-14 12:33:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-14 12:34:09 AM] [HISTORY_BOT] [SUCCESS] Published: A newly discovered South African dinosaur was a heavyweight even as a youngster
 [2026-11-14 12:34:10 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1121 in / 488 out tokens
+[2026-11-14 03:29:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-14 03:29:44 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-14 03:29:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-14 03:30:15 AM] [NEWS_BOT] [SUCCESS] Published: COP31 must deliver climate justice, not empty pledges, says Sherry
+[2026-11-14 03:30:16 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1417 in / 501 out tokens
