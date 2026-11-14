@@ -26365,3 +26365,7 @@
 [2026-11-14 07:33:09 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 760 in / 583 out tokens
 [2026-11-14 11:02:03 AM] [NEWS_BOT] [SUCCESS] Published: 2 soldiers martyred, 14 terrorists killed in North Waziristan operations: ISPR
 [2026-11-14 11:02:04 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 921 in / 532 out tokens
+[2026-11-14 11:02:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af83fad61d244259345bae82281040
+[2026-11-14 11:02:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Degrees vs first chance
+[2026-11-14 11:02:37 AM] [JOBS_BOT] [SUCCESS] Published: Delhi Court Updates on IAF Officer Chargesheet Case
+[2026-11-14 11:02:38 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1141 in / 414 out tokens
