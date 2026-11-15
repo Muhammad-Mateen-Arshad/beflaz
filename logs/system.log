@@ -26957,3 +26957,19 @@
 [2026-11-15 11:30:53 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
 [2026-11-15 11:35:49 AM] [NEWS_BOT] [SUCCESS] Published: Blasts rattle Bahrain as Iran launches second drone attack in 3 days
 [2026-11-15 11:35:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1548 in / 512 out tokens
+[2026-11-15 11:35:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991715604b52a9a77e13a770660
+[2026-11-15 11:35:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): UK to expand jobs guarantee scheme for young people: Over 90,000 peopl
+[2026-11-15 11:35:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991715604b52a9a77e13a770660
+[2026-11-15 11:35:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 177/400 chars, resolved=True): Haryana CM Nayab Saini slams Punjab's AAP government over drugs, crime
+[2026-11-15 11:35:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991715604b52a9a77e13a770660
+[2026-11-15 11:35:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): UK to expand jobs guarantee scheme for young people
+[2026-11-15 11:35:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af999185cb64804bb673997a0801d7
+[2026-11-15 11:35:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Newspaper - Karachi - November 15, 2026
+[2026-11-15 11:35:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af999185cb64804bb673997a0801d7
+[2026-11-15 11:35:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 149/400 chars, resolved=True): Newspaper - Front Page - November 15, 2026
+[2026-11-15 11:35:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 292/400 chars, resolved=True): Major among 4 troops martyred, 24 terrorists killed in operations acro
+[2026-11-15 11:35:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991a7962459294b28ae70dc91ff
+[2026-11-15 11:35:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Newspaper - Karachi - November 15, 2026
+[2026-11-15 11:35:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991aea794387bdef0591eab103a
+[2026-11-15 11:35:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): PAF opens online registration for commissioned officers in medical bra
+[2026-11-15 11:35:55 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
