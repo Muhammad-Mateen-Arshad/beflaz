@@ -26988,3 +26988,20 @@
 [2026-11-15 11:36:16 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1790 in / 573 out tokens
 [2026-11-15 11:36:36 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Fordham Pope Francis Global Poverty Report 2026 Overview
 [2026-11-15 11:36:37 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1877 in / 591 out tokens
+[2026-11-15 11:36:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-15 11:36:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-15 11:36:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9994724664bdcb9103e3c6c056bd
+[2026-11-15 11:36:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-15 11:36:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9994724664bdcb9103e3c6c056bd
+[2026-11-15 11:36:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): The New Era of Immune Defense
+[2026-11-15 11:36:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af99948e5c842238a7da390de18c04
+[2026-11-15 11:36:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-15 11:36:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af99948e5c842238a7da390de18c04
+[2026-11-15 11:36:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): 5 morning routines older adults credit with helping them stay active
+[2026-11-15 11:36:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af99948e5c842238a7da390de18c04
+[2026-11-15 11:36:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-15 11:36:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af99948e5c842238a7da390de18c04
+[2026-11-15 11:36:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
+[2026-11-15 11:36:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af99948e5c842238a7da390de18c04
+[2026-11-15 11:36:56 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 83/800 chars, resolved=True): Life experiences: 30 older adults discuss misconceptions of aging
+[2026-11-15 11:36:56 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
