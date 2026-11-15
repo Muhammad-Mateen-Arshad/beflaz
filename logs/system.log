@@ -27248,3 +27248,18 @@
 [2026-11-15 11:37:32 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-15 11:38:25 PM] [NEWS_BOT] [SUCCESS] Published: FIA books 8 Pakistanis deported from Turkiye for violating immigration laws
 [2026-11-15 11:38:26 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 643 in / 426 out tokens
+[2026-11-15 11:38:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa42720cc54667a83e3e929d4b96c
+[2026-11-15 11:38:27 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Shehbaz Sharif’s big 2050 dream for Pakistan: Can it become a top-6 ec
+[2026-11-15 11:38:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa42720cc54667a83e3e929d4b96c
+[2026-11-15 11:38:27 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): UK to expand jobs guarantee scheme for young people
+[2026-11-15 11:38:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa42731ec24f8290c87ed079c6ba3
+[2026-11-15 11:38:28 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 120/400 chars, resolved=True): Newspaper - Karachi - November 15, 2026
+[2026-11-15 11:38:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 296/400 chars, resolved=True): Pakistan sets regional connectivity agenda as ECO ministers converge i
+[2026-11-15 11:38:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa42731ec24f8290c87ed079c6ba3
+[2026-11-15 11:38:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 149/400 chars, resolved=True): Newspaper - Front Page - November 15, 2026
+[2026-11-15 11:38:30 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 253/400 chars, resolved=True): Iran’s Janfada campaign gives Basij recruitment a patriotic banner
+[2026-11-15 11:38:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa427516eb44989892305d5effdee
+[2026-11-15 11:38:30 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): Former Pakistan Army captain Rehman Gul appointed Baloch Liberation Ar
+[2026-11-15 11:38:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-15 11:38:54 PM] [JOBS_BOT] [SUCCESS] Published: Fiji Ministry of Health Food Safety Law Review
+[2026-11-15 11:38:55 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 735 in / 403 out tokens
