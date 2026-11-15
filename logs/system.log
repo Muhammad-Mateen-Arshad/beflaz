@@ -26903,3 +26903,7 @@
 [2026-11-15 07:32:24 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
 [2026-11-15 11:29:39 AM] [NEWS_BOT] [SUCCESS] Published: Islamabad gears up for ECO moot as Turkish, Azeri, Kazakh officials arrive
 [2026-11-15 11:29:40 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 786 in / 468 out tokens
+[2026-11-15 11:29:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af997a4b7444c899760d6552080be5
+[2026-11-15 11:29:40 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): UK to expand jobs guarantee scheme for young people: Over 90,000 peopl
+[2026-11-15 11:29:55 AM] [JOBS_BOT] [SUCCESS] Published: UK Nationwide Jobs Guarantee Scheme for Young People
+[2026-11-15 11:29:55 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1219 in / 492 out tokens
