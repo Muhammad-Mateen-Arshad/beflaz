@@ -27038,3 +27038,14 @@
 [2026-11-15 03:30:26 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Shumali Kashmir Job Fair 2026: Connecting North Kashmir’s youth with C
 [2026-11-15 03:30:26 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1421 in / 833 out tokens
 [2026-11-15 03:30:26 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 6, 'already_seen': 3, 'rejected': 2}
+[2026-11-15 03:30:27 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-15 03:30:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d014b70843a19a1b53b55530677
+[2026-11-15 03:30:28 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-15 03:30:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d014b70843a19a1b53b55530677
+[2026-11-15 03:30:28 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-15 03:30:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d014fe294d47b4ceb4aca1f07df
+[2026-11-15 03:30:28 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Virgin River season 9 OTT release date announced before season 8: New 
+[2026-11-15 03:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d014fe294d47b4ceb4aca1f07df
+[2026-11-15 03:30:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 123/300 chars, resolved=True): Netflix's Magic: The Gathering animated series will have a different a
+[2026-11-15 03:30:45 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Dragon Ball Super: Beerus’ Episode 7 Release Date, Time, Where to Watch and What to Expect
+[2026-11-15 03:30:46 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1133 in / 489 out tokens
