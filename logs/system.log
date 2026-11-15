@@ -27089,3 +27089,12 @@
 [2026-11-15 06:04:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f433a57d4bbd8e89e25f698264f
 [2026-11-15 06:04:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 149/400 chars, resolved=True): Newspaper - Front Page - November 15, 2026
 [2026-11-15 06:04:36 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-11-15 06:04:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-15 06:04:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f436fe1546488ffc15c87dbd4e0
+[2026-11-15 06:04:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-15 06:04:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f436fe1546488ffc15c87dbd4e0
+[2026-11-15 06:04:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-15 06:04:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f43750c54f119cfcbff99a38eea
+[2026-11-15 06:04:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Pride and Prejudice OTT release: When will Emma Corrin and Jack Lowden
+[2026-11-15 06:05:04 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Officially Brings Back a Hit 3-Part Rom-Com Series
+[2026-11-15 06:05:05 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1638 in / 484 out tokens
