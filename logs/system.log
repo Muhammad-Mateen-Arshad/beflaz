@@ -27073,3 +27073,19 @@
 [2026-11-15 03:31:59 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1052 in / 494 out tokens
 [2026-11-15 06:04:30 PM] [NEWS_BOT] [SUCCESS] Published: Asif hopeful of consensus on new provinces, says it will bring 'progressive' change in political landscape
 [2026-11-15 06:04:31 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1486 in / 451 out tokens
+[2026-11-15 06:04:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f43037324bfe95790983e1a672b
+[2026-11-15 06:04:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Shehbaz Sharif’s big 2050 dream for Pakistan: Can it become a top-6 ec
+[2026-11-15 06:04:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f43037324bfe95790983e1a672b
+[2026-11-15 06:04:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): UK to expand jobs guarantee scheme for young people
+[2026-11-15 06:04:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f43054f648c18963b83d72181a4
+[2026-11-15 06:04:33 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Newspaper - Karachi - November 15, 2026
+[2026-11-15 06:04:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f43054f648c18963b83d72181a4
+[2026-11-15 06:04:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 149/400 chars, resolved=True): Newspaper - Front Page - November 15, 2026
+[2026-11-15 06:04:34 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 298/400 chars, resolved=True): China launches AI-powered MAZU weather warning system globally, Pakist
+[2026-11-15 06:04:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f43315ec4d0fa49674418cf7efa
+[2026-11-15 06:04:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Newspaper - Karachi - November 15, 2026
+[2026-11-15 06:04:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f433a57d4bbd8e89e25f698264f
+[2026-11-15 06:04:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): PAF opens online registration for commissioned officers in medical bra
+[2026-11-15 06:04:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f433a57d4bbd8e89e25f698264f
+[2026-11-15 06:04:36 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 149/400 chars, resolved=True): Newspaper - Front Page - November 15, 2026
+[2026-11-15 06:04:36 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
