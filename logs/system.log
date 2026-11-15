@@ -26820,3 +26820,8 @@
 [2026-11-15 03:31:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af927ac45e143d3b1643a079f1fa43
 [2026-11-15 03:31:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): New OTT releases this week: Here's is what you can explore this week
 [2026-11-15 03:31:57 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-15 03:31:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af927ad48a34070bc9a84563176ed5
+[2026-11-15 03:31:57 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 151/400 chars, resolved=True): Who is Oba Olumide Osunsina, Ifo's new monarch with 30 years in busine
+[2026-11-15 03:31:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-15 03:32:33 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Sir Isaac Newton Scholarship: Legacy of Dr Ziauddin
+[2026-11-15 03:32:33 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1804 in / 418 out tokens
