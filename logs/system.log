@@ -27057,3 +27057,17 @@
 [2026-11-15 03:31:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
 [2026-11-15 03:31:39 PM] [HEALTH_BOT] [SUCCESS] Published: A Dietitian Found the Best Creatine Supplements for Women—Starting from $15
 [2026-11-15 03:31:39 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1643 in / 487 out tokens
+[2026-11-15 03:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d05bb2fd487985fff797bf4297b
+[2026-11-15 03:31:40 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 104/400 chars, resolved=True): Scientists discover new dinosaur species that weighed 880-pound as 2-y
+[2026-11-15 03:31:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d05bb2fd487985fff797bf4297b
+[2026-11-15 03:31:40 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists have drawn a treasure map of where fossils of ancient sea l
+[2026-11-15 03:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d05c9e9e4129b170162881a53a1
+[2026-11-15 03:31:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-15 03:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d05c9e9e4129b170162881a53a1
+[2026-11-15 03:31:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-15 03:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d05c9e9e4129b170162881a53a1
+[2026-11-15 03:31:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-15 03:31:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9d05c9e9e4129b170162881a53a1
+[2026-11-15 03:31:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Why some dinosaurs get all the attention and others don't
+[2026-11-15 03:31:58 PM] [HISTORY_BOT] [SUCCESS] Published: New visitors center opens at ancient Jewish and Christian site in Judean foothills
+[2026-11-15 03:31:59 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1052 in / 494 out tokens
