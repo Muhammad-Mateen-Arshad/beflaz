@@ -27117,3 +27117,17 @@
 [2026-11-15 06:05:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f46c06cd46c68a098dc92fd9c22
 [2026-11-15 06:05:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 83/800 chars, resolved=True): Life experiences: 30 older adults discuss misconceptions of aging
 [2026-11-15 06:05:48 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-15 06:05:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f47df23e4da19e9b5c4473a2728
+[2026-11-15 06:05:49 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 104/400 chars, resolved=True): Scientists discover new dinosaur species that weighed 880-pound as 2-y
+[2026-11-15 06:05:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f47df23e4da19e9b5c4473a2728
+[2026-11-15 06:05:49 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists have drawn a treasure map of where fossils of ancient sea l
+[2026-11-15 06:05:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f47dd971494dbe58725efd35801
+[2026-11-15 06:05:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-15 06:05:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f47dd971494dbe58725efd35801
+[2026-11-15 06:05:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-15 06:05:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f47dd971494dbe58725efd35801
+[2026-11-15 06:05:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-15 06:05:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f47dd971494dbe58725efd35801
+[2026-11-15 06:05:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Latest Research and News
+[2026-11-15 06:06:15 PM] [HISTORY_BOT] [SUCCESS] Published: Největší zabiják jurského světa
+[2026-11-15 06:06:17 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 2316 in / 593 out tokens
