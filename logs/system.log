@@ -26955,3 +26955,5 @@
 [2026-11-15 11:30:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af997edaf53493ba771f7b96a57dd6
 [2026-11-15 11:30:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Saudi archaeological discovery reveals evidence of human activity dati
 [2026-11-15 11:30:53 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-15 11:35:49 AM] [NEWS_BOT] [SUCCESS] Published: Blasts rattle Bahrain as Iran launches second drone attack in 3 days
+[2026-11-15 11:35:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1548 in / 512 out tokens
