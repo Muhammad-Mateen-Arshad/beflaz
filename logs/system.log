@@ -26851,3 +26851,17 @@
 [2026-11-15 07:29:54 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 907 in / 567 out tokens
 [2026-11-15 07:30:27 AM] [JOBS_BOT] [SUCCESS] Published: Karachi Urban Planning and Architecture Career Overview
 [2026-11-15 07:30:28 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1719 in / 509 out tokens
+[2026-11-15 07:30:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-15 07:30:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af95f9661c24b5fb43db2023e99adf
+[2026-11-15 07:30:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-15 07:30:47 AM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (105 words, need 150)): Ilva caught between the desire to survive and a future of hairy mussel
+[2026-11-15 07:30:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af95f9661c24b5fb43db2023e99adf
+[2026-11-15 07:30:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-15 07:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af95f9661c24b5fb43db2023e99adf
+[2026-11-15 07:30:50 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-15 07:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af95faad9024755a7785df3c9545f9
+[2026-11-15 07:30:50 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Virgin River season 9 OTT release date announced before season 8: New 
+[2026-11-15 07:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af95faad9024755a7785df3c9545f9
+[2026-11-15 07:30:50 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 123/300 chars, resolved=True): Netflix's Magic: The Gathering animated series will have a different a
+[2026-11-15 07:31:08 AM] [DRAMAS_BOT] [SUCCESS] Published: One Piece Officially Returns to Netflix With New Season This Week
+[2026-11-15 07:31:09 AM] [DRAMAS_BOT] [INFO] AI usage: 2 calls, 1668 in / 687 out tokens
