@@ -26782,3 +26782,9 @@
 [2026-11-15 03:28:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af926c8c46c41acb1e4fa316f5e240
 [2026-11-15 03:28:24 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
 [2026-11-15 03:28:24 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-15 03:28:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af926d8b7454568981a9a128a30674
+[2026-11-15 03:28:24 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 104/400 chars, resolved=True): Scientists discover new dinosaur species that weighed 880-pound as 2-y
+[2026-11-15 03:28:26 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-15 03:28:59 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-15 03:29:00 AM] [HISTORY_BOT] [SUCCESS] Published: Travels to National Natural History Museums [87] Kuzuryu Fossil Lab Ga-Ono
+[2026-11-15 03:29:01 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1545 in / 502 out tokens
