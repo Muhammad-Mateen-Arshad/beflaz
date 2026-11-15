@@ -26884,3 +26884,20 @@
 [2026-11-15 07:32:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af95ff5728f46838e4f68e0d676edb
 [2026-11-15 07:32:21 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): Exercise mindfulness links to resilience in older adults
 [2026-11-15 07:32:21 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-15 07:32:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af96006a41d4839ba6a1fe92745fab
+[2026-11-15 07:32:22 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): Goodie's discovery at Fennario Ranch opens a new door for Dwight in Tu
+[2026-11-15 07:32:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af96006a41d4839ba6a1fe92745fab
+[2026-11-15 07:32:22 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 104/400 chars, resolved=True): Scientists discover new dinosaur species that weighed 880-pound as 2-y
+[2026-11-15 07:32:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af96006a41d4839ba6a1fe92745fab
+[2026-11-15 07:32:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 136/400 chars, resolved=True): New species of heavyweight dinosaur discovered in the Eastern Cape [pi
+[2026-11-15 07:32:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af96006a41d4839ba6a1fe92745fab
+[2026-11-15 07:32:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 148/400 chars, resolved=True): 'Hundreds and hundreds of bones': In a hidden Alpine cave, a mountaine
+[2026-11-15 07:32:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9600707264ba292b4a6baa5accfa
+[2026-11-15 07:32:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-15 07:32:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9600707264ba292b4a6baa5accfa
+[2026-11-15 07:32:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-15 07:32:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9600707264ba292b4a6baa5accfa
+[2026-11-15 07:32:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-15 07:32:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9600707264ba292b4a6baa5accfa
+[2026-11-15 07:32:23 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Why some dinosaurs get all the attention and others don't
+[2026-11-15 07:32:24 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
