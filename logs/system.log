@@ -27174,3 +27174,19 @@
 [2026-11-15 07:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa08633b584016983ed6d0fdfae29
 [2026-11-15 07:30:59 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
 [2026-11-15 07:30:59 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-15 07:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa08736c2f4be483797af44e0f802
+[2026-11-15 07:31:00 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists have drawn a treasure map of where fossils of ancient sea l
+[2026-11-15 07:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa0874ee0147aa8840940fd384aff
+[2026-11-15 07:31:00 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-15 07:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa0874ee0147aa8840940fd384aff
+[2026-11-15 07:31:00 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-15 07:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa0874ee0147aa8840940fd384aff
+[2026-11-15 07:31:00 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 42/400 chars, resolved=True): I've Reviewed Hundreds Of Toys, Here Are 11 Your 3-Year-Old Will Come 
+[2026-11-15 07:31:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa0874ee0147aa8840940fd384aff
+[2026-11-15 07:31:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Why some dinosaurs get all the attention and others don't
+[2026-11-15 07:31:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa087579204df78efb40142e1ada3
+[2026-11-15 07:31:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Saudi archaeological discovery reveals evidence of human activity dati
+[2026-11-15 07:31:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
+[2026-11-15 07:31:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa087555a74bb3a9a7ef2ccd6f753
+[2026-11-15 07:31:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 78/400 chars, resolved=True): Scientists create treasure map to find fossils of undiscovered prehist
+[2026-11-15 07:31:01 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
