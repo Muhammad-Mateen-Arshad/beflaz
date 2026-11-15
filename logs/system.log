@@ -27024,3 +27024,17 @@
 [2026-11-15 11:36:59 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
 [2026-11-15 03:29:42 PM] [NEWS_BOT] [SUCCESS] Published: In call with Fazl, Bilawal condemns 'govt actions, political vengeance' against JUI-F
 [2026-11-15 03:29:43 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1187 in / 488 out tokens
+[2026-11-15 03:29:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9cfe8a4794600b47159296f24e2e
+[2026-11-15 03:29:44 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Shehbaz Sharif’s big 2050 dream for Pakistan: Can it become a top-6 ec
+[2026-11-15 03:29:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9cfe8a4794600b47159296f24e2e
+[2026-11-15 03:29:44 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): UK to expand jobs guarantee scheme for young people
+[2026-11-15 03:29:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9cfe885b34b279d502f7830f4dba
+[2026-11-15 03:29:45 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Newspaper - Karachi - November 15, 2026
+[2026-11-15 03:29:46 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 292/400 chars, resolved=True): Major among 4 troops martyred, 24 terrorists killed in operations acro
+[2026-11-15 03:29:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9cfe885b34b279d502f7830f4dba
+[2026-11-15 03:29:46 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 149/400 chars, resolved=True): Newspaper - Front Page - November 15, 2026
+[2026-11-15 03:29:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 253/400 chars, resolved=True): Iran’s Janfada campaign gives Basij recruitment a patriotic banner
+[2026-11-15 03:30:09 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Tehran's water crisis deepens with 80% of dam capacity empty
+[2026-11-15 03:30:26 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Shumali Kashmir Job Fair 2026: Connecting North Kashmir’s youth with C
+[2026-11-15 03:30:26 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1421 in / 833 out tokens
+[2026-11-15 03:30:26 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 6, 'already_seen': 3, 'rejected': 2}
