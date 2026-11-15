@@ -26761,3 +26761,7 @@
 [2026-11-15 03:26:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
 [2026-11-15 03:27:06 AM] [DRAMAS_BOT] [SUCCESS] Published: New Releases on Netflix This Week and Top 10 Movies & Series: November 14, 2026
 [2026-11-15 03:27:07 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1846 in / 561 out tokens
+[2026-11-15 03:27:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-15 03:27:49 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-15 03:27:50 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Simons Foundation and Flatiron Institute Careers Overview
+[2026-11-15 03:27:50 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1373 in / 560 out tokens
