@@ -27100,3 +27100,20 @@
 [2026-11-15 06:05:05 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1638 in / 484 out tokens
 [2026-11-15 06:05:28 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Asidisi Media Scholarship Programme: Details and Funding
 [2026-11-15 06:05:30 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1125 in / 565 out tokens
+[2026-11-15 06:05:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-15 06:05:31 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-15 06:05:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f46bc84542238b4a6406d254da9
+[2026-11-15 06:05:32 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-15 06:05:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f46bc84542238b4a6406d254da9
+[2026-11-15 06:05:32 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): The New Era of Immune Defense
+[2026-11-15 06:05:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f46c06cd46c68a098dc92fd9c22
+[2026-11-15 06:05:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-15 06:05:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f46c06cd46c68a098dc92fd9c22
+[2026-11-15 06:05:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-15 06:05:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f46c06cd46c68a098dc92fd9c22
+[2026-11-15 06:05:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): 5 morning routines older adults credit with helping them stay active
+[2026-11-15 06:05:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f46c06cd46c68a098dc92fd9c22
+[2026-11-15 06:05:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): Exercise mindfulness links to resilience in older adults
+[2026-11-15 06:05:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9f46c06cd46c68a098dc92fd9c22
+[2026-11-15 06:05:48 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 83/800 chars, resolved=True): Life experiences: 30 older adults discuss misconceptions of aging
+[2026-11-15 06:05:48 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
