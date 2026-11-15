@@ -27238,3 +27238,10 @@
 [2026-11-15 11:31:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa40c9edbc45e5b10f030dc0c2c1f
 [2026-11-15 11:31:38 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 184/800 chars, resolved=True): What is a healthy weight after 65? Why a few extra pounds may not be a
 [2026-11-15 11:31:38 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-15 11:31:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa40da68d449c9989c20b5d1fb9e3
+[2026-11-15 11:31:39 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 78/400 chars, resolved=True): Scientists create treasure map to find fossils of undiscovered prehist
+[2026-11-15 11:31:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa40da68d449c9989c20b5d1fb9e3
+[2026-11-15 11:31:39 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Drought exposes heritage risks: 80% of 938 UNESCO sites face heat stre
+[2026-11-15 11:31:41 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-15 11:32:20 PM] [HISTORY_BOT] [SUCCESS] Published: A 165-million-year-old mammal relative from China had a paddle-like tail and preserved throat suggesting aquatic hunting and unusual swallowing
+[2026-11-15 11:32:21 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1075 in / 509 out tokens
