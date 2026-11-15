@@ -26735,3 +26735,6 @@
 [2026-11-14 11:30:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Saudi archaeological discovery reveals evidence of human activity dati
 [2026-11-14 11:30:41 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Archaeologists identify possible ancient name of newly discovered Maya
 [2026-11-14 11:30:41 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-11-15 03:24:56 AM] [NEWS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 4000, 5000): US flight chaos caused by repair of old copper wiring: Trump admin
+[2026-11-15 03:25:25 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan guidebooks author dies at 83
+[2026-11-15 03:25:26 AM] [NEWS_BOT] [INFO] AI usage: 2 calls, 2686 in / 1118 out tokens
