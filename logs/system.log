@@ -27157,3 +27157,20 @@
 [2026-11-15 07:30:24 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1560 in / 478 out tokens
 [2026-11-15 07:30:40 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Jabali Towers Development in Tatu City Overview
 [2026-11-15 07:30:41 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 911 in / 544 out tokens
+[2026-11-15 07:30:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-15 07:30:42 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-15 07:30:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa0862cbb04de5b98d775e80b71ce
+[2026-11-15 07:30:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-15 07:30:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa0862cbb04de5b98d775e80b71ce
+[2026-11-15 07:30:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): The New Era of Immune Defense
+[2026-11-15 07:30:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa08633b584016983ed6d0fdfae29
+[2026-11-15 07:30:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-15 07:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa08633b584016983ed6d0fdfae29
+[2026-11-15 07:30:59 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-15 07:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa08633b584016983ed6d0fdfae29
+[2026-11-15 07:30:59 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): 5 morning routines older adults credit with helping them stay active
+[2026-11-15 07:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa08633b584016983ed6d0fdfae29
+[2026-11-15 07:30:59 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 184/800 chars, resolved=True): What is a healthy weight after 65? Why a few extra pounds may not be a
+[2026-11-15 07:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa08633b584016983ed6d0fdfae29
+[2026-11-15 07:30:59 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
+[2026-11-15 07:30:59 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
