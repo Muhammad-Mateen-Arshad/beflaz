@@ -26921,3 +26921,20 @@
 [2026-11-15 11:30:16 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1368 in / 510 out tokens
 [2026-11-15 11:30:33 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: DAAD EPOS Scholarships 2027/2028: Guide and Details
 [2026-11-15 11:30:33 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1013 in / 630 out tokens
+[2026-11-15 11:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-15 11:30:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-15 11:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af997db3f7e4880b1da20ef2e29dce
+[2026-11-15 11:30:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-15 11:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af997db3f7e4880b1da20ef2e29dce
+[2026-11-15 11:30:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): The New Era of Immune Defense
+[2026-11-15 11:30:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af997db214d41659581b9f1c949e0d
+[2026-11-15 11:30:36 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-15 11:30:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af997db214d41659581b9f1c949e0d
+[2026-11-15 11:30:36 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): 5 morning routines older adults credit with helping them stay active
+[2026-11-15 11:30:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af997db214d41659581b9f1c949e0d
+[2026-11-15 11:30:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-15 11:30:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af997db214d41659581b9f1c949e0d
+[2026-11-15 11:30:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 88/800 chars, resolved=True): Fitness: When you exercise, your brain is getting a workout, too
+[2026-11-15 11:30:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af997db214d41659581b9f1c949e0d
+[2026-11-15 11:30:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
+[2026-11-15 11:30:51 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
