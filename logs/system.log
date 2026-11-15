@@ -26791,3 +26791,17 @@
 [2026-11-15 03:29:31 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-15 03:31:09 AM] [NEWS_BOT] [SUCCESS] Published: Parliament’s nod deemed a must for referendum
 [2026-11-15 03:31:10 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1445 in / 515 out tokens
+[2026-11-15 03:31:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9277ef52c4d5db89987167600fa2
+[2026-11-15 03:31:11 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 177/400 chars, resolved=True): Haryana CM Nayab Saini slams Punjab's AAP government over drugs, crime
+[2026-11-15 03:31:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9277ef52c4d5db89987167600fa2
+[2026-11-15 03:31:11 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): UK to expand jobs guarantee scheme for young people
+[2026-11-15 03:31:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 245/400 chars, resolved=True): Seven years after ‘Bloody November,’ Iran rations gasoline it dares no
+[2026-11-15 03:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af927803e714eaa93dd888d6816b05
+[2026-11-15 03:31:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): Newspaper - Karachi - November 15, 2026
+[2026-11-15 03:31:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 292/400 chars, resolved=True): Major among 4 troops martyred, 24 terrorists killed in operations acro
+[2026-11-15 03:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af927803e714eaa93dd888d6816b05
+[2026-11-15 03:31:13 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Newspaper - Front Page - November 15, 2026
+[2026-11-15 03:31:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 253/400 chars, resolved=True): Iran’s Janfada campaign gives Basij recruitment a patriotic banner
+[2026-11-15 03:31:15 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-15 03:31:49 AM] [JOBS_BOT] [SUCCESS] Published: Police Officers Court Case Update in Suva 2024
+[2026-11-15 03:31:50 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 676 in / 378 out tokens
