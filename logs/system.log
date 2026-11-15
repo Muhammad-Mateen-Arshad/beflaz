@@ -27190,3 +27190,5 @@
 [2026-11-15 07:31:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa087555a74bb3a9a7ef2ccd6f753
 [2026-11-15 07:31:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 78/400 chars, resolved=True): Scientists create treasure map to find fossils of undiscovered prehist
 [2026-11-15 07:31:01 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
+[2026-11-15 11:29:45 PM] [NEWS_BOT] [SUCCESS] Published: Trump admin warns US air travellers of another messy day
+[2026-11-15 11:29:46 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1518 in / 476 out tokens
