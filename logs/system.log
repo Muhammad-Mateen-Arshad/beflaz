@@ -27133,3 +27133,14 @@
 [2026-11-15 06:06:17 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 2316 in / 593 out tokens
 [2026-11-15 07:29:45 PM] [NEWS_BOT] [SUCCESS] Published: Islamabad hosts foreign dignitaries for two-day ECO ministerial meeting
 [2026-11-15 07:29:46 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1448 in / 499 out tokens
+[2026-11-15 07:29:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa082b67e34d2aa1c909ea6289425
+[2026-11-15 07:29:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Shehbaz Sharif’s big 2050 dream for Pakistan: Can it become a top-6 ec
+[2026-11-15 07:29:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa082b67e34d2aa1c909ea6289425
+[2026-11-15 07:29:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): UK to expand jobs guarantee scheme for young people
+[2026-11-15 07:29:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa082c887441dd9f05067b4f19e23
+[2026-11-15 07:29:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Newspaper - Karachi - November 15, 2026
+[2026-11-15 07:29:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 292/400 chars, resolved=True): Reset or Reboot as much as you like, Imran Khan has upset everyone: Mo
+[2026-11-15 07:29:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa082c887441dd9f05067b4f19e23
+[2026-11-15 07:29:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 149/400 chars, resolved=True): Newspaper - Front Page - November 15, 2026
+[2026-11-15 07:30:06 PM] [JOBS_BOT] [SUCCESS] Published: IRGC Rejects French Cyberattack Allegations Summary
+[2026-11-15 07:30:08 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 658 in / 497 out tokens
