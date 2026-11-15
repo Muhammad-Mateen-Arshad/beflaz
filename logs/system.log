@@ -26973,3 +26973,16 @@
 [2026-11-15 11:35:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991aea794387bdef0591eab103a
 [2026-11-15 11:35:55 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): PAF opens online registration for commissioned officers in medical bra
 [2026-11-15 11:35:55 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-15 11:35:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-15 11:35:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991d351d49e88ecae1369f49fb9
+[2026-11-15 11:35:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-15 11:35:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991d351d49e88ecae1369f49fb9
+[2026-11-15 11:35:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-15 11:35:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991dbe86439da0ec7401ea9a971
+[2026-11-15 11:35:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 132/300 chars, resolved=True): Netflix preps Russell Brand docuseries, keeps his comedy special
+[2026-11-15 11:35:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991dbe86439da0ec7401ea9a971
+[2026-11-15 11:35:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Virgin River season 9 OTT release date announced before season 8: New 
+[2026-11-15 11:35:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9991dbe86439da0ec7401ea9a971
+[2026-11-15 11:35:58 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 118/300 chars, resolved=True): GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Rip
+[2026-11-15 11:36:15 AM] [DRAMAS_BOT] [SUCCESS] Published: What’s New on Netflix
+[2026-11-15 11:36:16 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1790 in / 573 out tokens
