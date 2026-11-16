@@ -27602,3 +27602,20 @@
 [2026-11-16 03:43:44 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
 [2026-11-16 03:45:57 PM] [HEALTH_BOT] [SUCCESS] Published: A stronger approach to healthy aging
 [2026-11-16 03:45:58 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 850 in / 519 out tokens
+[2026-11-16 03:45:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2536331b45c18b079630a23bfac
+[2026-11-16 03:45:59 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Tulsa King's fossil discovery could make Fennario Ranch a bigger prize
+[2026-11-16 03:45:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2536331b45c18b079630a23bfac
+[2026-11-16 03:45:59 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Children playing on an Indian riverbank dug up a prehistoric giant, an
+[2026-11-16 03:45:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2536331b45c18b079630a23bfac
+[2026-11-16 03:45:59 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Colorado and the King of Dinosaurs
+[2026-11-16 03:45:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2536331b45c18b079630a23bfac
+[2026-11-16 03:45:59 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Archaeologists uncover a witness to the Neolithic revolution
+[2026-11-16 03:46:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2536331b45c18b079630a23bfac
+[2026-11-16 03:46:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): Behind the paper: How a palaeontologist’s son helped uncover giants am
+[2026-11-16 03:46:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2539bef44db18c48415486c4444
+[2026-11-16 03:46:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-16 03:46:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2539bef44db18c48415486c4444
+[2026-11-16 03:46:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-16 03:46:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2539bef44db18c48415486c4444
+[2026-11-16 03:46:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Latest Research and News
+[2026-11-16 03:46:02 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 1}
