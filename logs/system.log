@@ -27448,3 +27448,11 @@
 [2026-11-16 07:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afab165fdef42439f92290f33e68c6
 [2026-11-16 07:32:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 83/800 chars, resolved=True): Life experiences: 30 older adults discuss misconceptions of aging
 [2026-11-16 07:32:06 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-16 07:32:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afab17698824b10861db76c6ebc37b
+[2026-11-16 07:32:06 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Tulsa King's fossil discovery could make Fennario Ranch a bigger prize
+[2026-11-16 07:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afab17698824b10861db76c6ebc37b
+[2026-11-16 07:32:07 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Palaeontologists discover dinosaur species that reached 440 kg by age 
+[2026-11-16 07:32:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afab17698824b10861db76c6ebc37b
+[2026-11-16 07:32:07 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 78/400 chars, resolved=True): Scientists create treasure map to find fossils of undiscovered prehist
+[2026-11-16 07:32:26 AM] [HISTORY_BOT] [SUCCESS] Published: Scientists discover new dinosaur species that weighed 440 kg at just two years old
+[2026-11-16 07:32:27 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 452 in / 289 out tokens
