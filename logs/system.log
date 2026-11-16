@@ -27383,3 +27383,10 @@
 [2026-11-16 03:30:17 AM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (63 words, need 150)): Sathyavan Savithiri - Official Telugu Trailer
 [2026-11-16 03:30:17 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1736 in / 168 out tokens
 [2026-11-16 03:30:17 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 7, 'rejected': 1}
+[2026-11-16 03:30:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa78c9139d4206aedefc2f6443f0e
+[2026-11-16 03:30:18 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): How Africa’s women’s rugby teams won at Dakar 2026 Youth Olympics
+[2026-11-16 03:30:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa78ca5fba489ea284c253279d30c
+[2026-11-16 03:30:18 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 134/400 chars, resolved=True): Four young organisers on what South Asia’s uprisings left unfinished
+[2026-11-16 03:30:19 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-16 03:30:40 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: COMSATS University OIC Scholarships and Campus Reforms
+[2026-11-16 03:30:41 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1628 in / 593 out tokens
