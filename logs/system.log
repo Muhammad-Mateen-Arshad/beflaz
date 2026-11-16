@@ -27592,3 +27592,13 @@
 [2026-11-16 03:41:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): EU pays KSh 190k per month to Kenyans to study master's in Europe: How
 [2026-11-16 03:43:39 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Cuba Undergraduate Scholarships 2027 for Pakistani Students
 [2026-11-16 03:43:41 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 915 in / 442 out tokens
+[2026-11-16 03:43:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-16 03:43:42 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-16 03:43:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb24ae19f9400a9a94c0fd9124c67
+[2026-11-16 03:43:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-16 03:43:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb24ae19f9400a9a94c0fd9124c67
+[2026-11-16 03:43:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-16 03:43:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb24b0d14a49fd8d09cb79c51efdf
+[2026-11-16 03:43:44 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-16 03:45:57 PM] [HEALTH_BOT] [SUCCESS] Published: A stronger approach to healthy aging
+[2026-11-16 03:45:58 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 850 in / 519 out tokens
