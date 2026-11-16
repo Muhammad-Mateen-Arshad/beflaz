@@ -27770,3 +27770,20 @@
 [2026-11-16 11:54:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97a9ed4f4fbfa21ab941614b9a3
 [2026-11-16 11:54:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
 [2026-11-16 11:54:34 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-16 11:54:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97ba520f40b0bbb50b07d35410c
+[2026-11-16 11:54:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Skip Yellowstone — visit Montana's largest state park for a fossil-fil
+[2026-11-16 11:54:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97ba520f40b0bbb50b07d35410c
+[2026-11-16 11:54:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Children playing on an Indian riverbank dug up a prehistoric giant, an
+[2026-11-16 11:54:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97ba520f40b0bbb50b07d35410c
+[2026-11-16 11:54:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Colorado and the King of Dinosaurs
+[2026-11-16 11:54:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97bb82e346f7bcfb2727f480bb5
+[2026-11-16 11:54:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-16 11:54:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97bb82e346f7bcfb2727f480bb5
+[2026-11-16 11:54:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-16 11:54:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97bb82e346f7bcfb2727f480bb5
+[2026-11-16 11:54:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Why some dinosaurs get all the attention and others don't
+[2026-11-16 11:54:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97bb82e346f7bcfb2727f480bb5
+[2026-11-16 11:54:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Latest Research and News
+[2026-11-16 11:54:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97bc59134b4ca5132738427d132
+[2026-11-16 11:54:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Ancient discoveries rediscovered: Treasures hidden for centuries
+[2026-11-16 11:54:36 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
