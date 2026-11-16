@@ -27536,3 +27536,20 @@
 [2026-11-16 12:10:54 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): 17 Mastercard Foundations scholarships open for Kenyans to apply ahead
 [2026-11-16 12:11:19 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: TU/e Scholarship for Excellence 2027-2028: Guide
 [2026-11-16 12:11:20 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1627 in / 830 out tokens
+[2026-11-16 12:11:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-16 12:11:21 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-16 12:11:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2e9f95140deabb0b87d1e89c05
+[2026-11-16 12:11:22 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-16 12:11:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2e9f95140deabb0b87d1e89c05
+[2026-11-16 12:11:23 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): One Park Visit a Week Could Give Your Child’s Mental Health a Boost, S
+[2026-11-16 12:11:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2e9f95140deabb0b87d1e89c05
+[2026-11-16 12:11:39 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): Why sleep matters when it comes to weight gain and loss
+[2026-11-16 12:11:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2fb76b34ad9bd478c01d9f060f
+[2026-11-16 12:11:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-16 12:11:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2fb76b34ad9bd478c01d9f060f
+[2026-11-16 12:11:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-16 12:11:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2fb76b34ad9bd478c01d9f060f
+[2026-11-16 12:11:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): 5 morning routines older adults credit with helping them stay active
+[2026-11-16 12:11:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2fb76b34ad9bd478c01d9f060f
+[2026-11-16 12:11:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 83/800 chars, resolved=True): Life experiences: 30 older adults discuss misconceptions of aging
+[2026-11-16 12:11:56 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
