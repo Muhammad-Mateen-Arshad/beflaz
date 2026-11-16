@@ -27639,3 +27639,11 @@
 [2026-11-16 07:30:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-16 07:31:16 PM] [DRAMAS_BOT] [SUCCESS] Published: New OTT Releases This Week (November 16 To 20, 2026): Campus Diaries, Dhindora, Percy Jackson And The Olympians On Netflix, Amazon Prime Video, JioHotstar And More
 [2026-11-16 07:31:17 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 997 in / 691 out tokens
+[2026-11-16 07:31:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a05ec78420f92a7a4d5e2fc749
+[2026-11-16 07:31:18 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 4 fully funded international scholarships South Africans can apply for
+[2026-11-16 07:31:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a05ec78420f92a7a4d5e2fc749
+[2026-11-16 07:31:18 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): 17 Mastercard Foundations scholarships open for Kenyans to apply ahead
+[2026-11-16 07:31:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a05ec78420f92a7a4d5e2fc749
+[2026-11-16 07:31:18 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): EU pays KSh 190k per month to Kenyans to study master's in Europe: How
+[2026-11-16 07:31:55 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Cuba Undergraduate Scholarships 2027 for Pakistani Students
+[2026-11-16 07:31:56 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 883 in / 485 out tokens
