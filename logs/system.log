@@ -27687,3 +27687,11 @@
 [2026-11-16 11:31:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): 'Spider-Man: Brand New Day' Returns to Theaters With Rosario Dawson's 
 [2026-11-16 11:32:40 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Cunk on Cinema’ Isn’t the Same Show on Netflix As It Is On The BBC
 [2026-11-16 11:32:42 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1643 in / 429 out tokens
+[2026-11-16 11:32:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb929a82ba414b92bfcb47bc795d1
+[2026-11-16 11:32:42 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 4 fully funded international scholarships South Africans can apply for
+[2026-11-16 11:32:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb929a82ba414b92bfcb47bc795d1
+[2026-11-16 11:32:43 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): EU pays KSh 190k per month to Kenyans to study master's in Europe: How
+[2026-11-16 11:32:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb929a82ba414b92bfcb47bc795d1
+[2026-11-16 11:32:43 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): 17 Mastercard Foundations scholarships open for Kenyans to apply ahead
+[2026-11-16 11:33:41 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC Balochistan and Former FATA Scholarships 2026-27
+[2026-11-16 11:33:42 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1278 in / 700 out tokens
