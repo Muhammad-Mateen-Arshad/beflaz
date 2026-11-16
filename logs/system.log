@@ -27420,3 +27420,9 @@
 [2026-11-16 07:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1311 in / 522 out tokens
 [2026-11-16 07:30:22 AM] [JOBS_BOT] [SUCCESS] Published: Saudi-Pakistan Private Equity Investment Details
 [2026-11-16 07:30:22 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1561 in / 468 out tokens
+[2026-11-16 07:30:24 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-16 07:30:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afab110ce3f46539511ea466e7644e
+[2026-11-16 07:30:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-16 07:30:26 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-16 07:30:53 AM] [DRAMAS_BOT] [SUCCESS] Published: Ezz Monem Built a Museum of Things Thrown at Politicians
+[2026-11-16 07:30:55 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1578 in / 541 out tokens
