@@ -27619,3 +27619,5 @@
 [2026-11-16 03:46:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2539bef44db18c48415486c4444
 [2026-11-16 03:46:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Latest Research and News
 [2026-11-16 03:46:02 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 1}
+[2026-11-16 07:29:50 PM] [NEWS_BOT] [SUCCESS] Published: Dar says Pakistan to host next Makkah alliance summit later this month
+[2026-11-16 07:29:51 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1512 in / 521 out tokens
