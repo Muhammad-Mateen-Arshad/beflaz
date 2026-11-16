@@ -27532,3 +27532,7 @@
 [2026-11-16 12:10:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): All 9 Major New & Upcoming KPop Demon Hunters Releases, From New 6-Epi
 [2026-11-16 12:10:52 PM] [DRAMAS_BOT] [SUCCESS] Published: Latest OTT releases (November 16-22): 15 new movies and TV shows on Netflix, Prime Video, JioHotstar and more
 [2026-11-16 12:10:53 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1495 in / 572 out tokens
+[2026-11-16 12:10:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2cd575b49e0a81e763a9ebbced
+[2026-11-16 12:10:54 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): 17 Mastercard Foundations scholarships open for Kenyans to apply ahead
+[2026-11-16 12:11:19 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: TU/e Scholarship for Excellence 2027-2028: Guide
+[2026-11-16 12:11:20 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1627 in / 830 out tokens
