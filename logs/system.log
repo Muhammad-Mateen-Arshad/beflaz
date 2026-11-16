@@ -27669,3 +27669,8 @@
 [2026-11-16 07:32:49 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
 [2026-11-16 11:30:08 PM] [NEWS_BOT] [SUCCESS] Published: We know how to hurt India, says Pakistan coach Solano ahead of SAFF Championship final
 [2026-11-16 11:30:09 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1491 in / 490 out tokens
+[2026-11-16 11:31:06 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Iran's FM meets Pakistan army chief in Islamabad
+[2026-11-16 11:31:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb920189f9468cbf32e7246eed9f2
+[2026-11-16 11:31:06 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is India rethinking its short-term military recruitment scheme?
+[2026-11-16 11:31:45 PM] [JOBS_BOT] [SUCCESS] Published: ECO Diplomatic Announcements and Regional Updates
+[2026-11-16 11:31:46 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1338 in / 817 out tokens
