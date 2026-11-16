@@ -27329,3 +27329,7 @@
 [2026-11-16 03:26:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): All 9 Major New & Upcoming KPop Demon Hunters Releases, From New 6-Epi
 [2026-11-16 03:26:43 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Officially Confirms Its Next Major Crime Thriller Is Coming in 2027
 [2026-11-16 03:26:44 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1669 in / 468 out tokens
+[2026-11-16 03:26:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa77f50fc74b5ebe199e65cbafbce
+[2026-11-16 03:26:46 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): How Africa’s women’s rugby teams won at Dakar 2026 Youth Olympics
+[2026-11-16 03:27:01 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Al-Azhar University Scholarships for Pakistani Students
+[2026-11-16 03:27:02 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1253 in / 437 out tokens
