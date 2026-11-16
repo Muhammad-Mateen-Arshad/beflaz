@@ -27584,3 +27584,11 @@
 [2026-11-16 03:38:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
 [2026-11-16 03:41:06 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Series ‘How to Kill Your Family’ Filming Moves to Spain: Anya Taylor-Joy Spotted in Barcelona
 [2026-11-16 03:41:06 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1025 in / 541 out tokens
+[2026-11-16 03:41:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2413f71845209e6d35428cde65a
+[2026-11-16 03:41:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): German embassy invites Kenyans to apply for full funded ITK course off
+[2026-11-16 03:41:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2413f71845209e6d35428cde65a
+[2026-11-16 03:41:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): 17 Mastercard Foundations scholarships open for Kenyans to apply ahead
+[2026-11-16 03:41:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb2413f71845209e6d35428cde65a
+[2026-11-16 03:41:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): EU pays KSh 190k per month to Kenyans to study master's in Europe: How
+[2026-11-16 03:43:39 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Cuba Undergraduate Scholarships 2027 for Pakistani Students
+[2026-11-16 03:43:41 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 915 in / 442 out tokens
