@@ -27521,3 +27521,14 @@
 [2026-11-16 12:09:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is India rethinking its short-term military recruitment scheme?
 [2026-11-16 12:10:17 PM] [JOBS_BOT] [SUCCESS] Published: Pathankot Poultry Enterprise Employment Impact
 [2026-11-16 12:10:18 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1353 in / 541 out tokens
+[2026-11-16 12:10:19 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-16 12:10:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2abdcea49ebab93120a5631736
+[2026-11-16 12:10:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-16 12:10:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2abdcea49ebab93120a5631736
+[2026-11-16 12:10:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-16 12:10:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2abdcea49ebab93120a5631736
+[2026-11-16 12:10:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-16 12:10:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf2ae7eb84e188cc48c64bfaac20
+[2026-11-16 12:10:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): All 9 Major New & Upcoming KPop Demon Hunters Releases, From New 6-Epi
+[2026-11-16 12:10:52 PM] [DRAMAS_BOT] [SUCCESS] Published: Latest OTT releases (November 16-22): 15 new movies and TV shows on Netflix, Prime Video, JioHotstar and more
+[2026-11-16 12:10:53 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1495 in / 572 out tokens
