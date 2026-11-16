@@ -27753,3 +27753,20 @@
 [2026-11-16 11:53:50 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 158/400 chars, resolved=True): 17 Mastercard Foundations scholarships open for Kenyans to apply ahead
 [2026-11-16 11:54:15 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC QS World University Rankings 2028 Initiative
 [2026-11-16 11:54:15 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 865 in / 635 out tokens
+[2026-11-16 11:54:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-16 11:54:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-16 11:54:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97a993934e8288b739e0beb600e
+[2026-11-16 11:54:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-16 11:54:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97a993934e8288b739e0beb600e
+[2026-11-16 11:54:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-16 11:54:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97a9ed4f4fbfa21ab941614b9a3
+[2026-11-16 11:54:18 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-16 11:54:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97a9ed4f4fbfa21ab941614b9a3
+[2026-11-16 11:54:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-16 11:54:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97a9ed4f4fbfa21ab941614b9a3
+[2026-11-16 11:54:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): 5 morning routines older adults credit with helping them stay active
+[2026-11-16 11:54:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97a9ed4f4fbfa21ab941614b9a3
+[2026-11-16 11:54:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 174/800 chars, resolved=True): Researchers Model Integrated Health and Exercise Framework for Aging R
+[2026-11-16 11:54:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97a9ed4f4fbfa21ab941614b9a3
+[2026-11-16 11:54:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
+[2026-11-16 11:54:34 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
