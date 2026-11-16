@@ -27508,3 +27508,16 @@
 [2026-11-16 11:32:55 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1310 in / 565 out tokens
 [2026-11-16 12:09:48 PM] [NEWS_BOT] [SUCCESS] Published: FCC conditionally allows PHC to hear cases related to PTI workers' preventive detention
 [2026-11-16 12:09:48 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1497 in / 552 out tokens
+[2026-11-16 12:09:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf28d4fca4336b4c193fda840bd7
+[2026-11-16 12:09:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Shehbaz Sharif’s big 2050 dream for Pakistan: Can it become a top-6 ec
+[2026-11-16 12:09:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf28d4fca4336b4c193fda840bd7
+[2026-11-16 12:09:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is India rethinking its short-term military recruitment scheme?
+[2026-11-16 12:09:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf28d092a41dcad1f0ecf0f2953c
+[2026-11-16 12:09:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 149/400 chars, resolved=True): Newspaper - Front Page - November 16, 2026
+[2026-11-16 12:09:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 296/400 chars, resolved=True): Pakistan sets regional connectivity agenda as ECO ministers converge i
+[2026-11-16 12:09:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf28d092a41dcad1f0ecf0f2953c
+[2026-11-16 12:09:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 120/400 chars, resolved=True): Newspaper - Karachi - November 16, 2026
+[2026-11-16 12:09:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaf28e04d2421591be196efdcda66
+[2026-11-16 12:09:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is India rethinking its short-term military recruitment scheme?
+[2026-11-16 12:10:17 PM] [JOBS_BOT] [SUCCESS] Published: Pathankot Poultry Enterprise Employment Impact
+[2026-11-16 12:10:18 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1353 in / 541 out tokens
