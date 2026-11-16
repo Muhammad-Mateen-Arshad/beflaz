@@ -27650,3 +27650,20 @@
 [2026-11-16 07:31:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-16 07:32:45 PM] [HEALTH_BOT] [SUCCESS] Published: Dr. John H. Powers III to serve as director of NIH’s National Institute of Allergy and Infectious Diseases
 [2026-11-16 07:32:46 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1334 in / 559 out tokens
+[2026-11-16 07:32:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a5f272a4327afd95e147e69341
+[2026-11-16 07:32:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Tulsa King's fossil discovery could make Fennario Ranch a bigger prize
+[2026-11-16 07:32:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a5f272a4327afd95e147e69341
+[2026-11-16 07:32:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Children playing on an Indian riverbank dug up a prehistoric giant, an
+[2026-11-16 07:32:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a5f272a4327afd95e147e69341
+[2026-11-16 07:32:47 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Palaeontologists discover dinosaur species that reached 440 kg by age 
+[2026-11-16 07:32:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a5f272a4327afd95e147e69341
+[2026-11-16 07:32:48 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Colorado and the King of Dinosaurs
+[2026-11-16 07:32:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a60ccf540e1899d309333b3afd
+[2026-11-16 07:32:48 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-16 07:32:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a60ccf540e1899d309333b3afd
+[2026-11-16 07:32:48 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-16 07:32:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a60ccf540e1899d309333b3afd
+[2026-11-16 07:32:49 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Why some dinosaurs get all the attention and others don't
+[2026-11-16 07:32:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a60ccf540e1899d309333b3afd
+[2026-11-16 07:32:49 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Latest Research and News
+[2026-11-16 07:32:49 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
