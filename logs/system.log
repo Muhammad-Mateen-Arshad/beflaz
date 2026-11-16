@@ -27426,3 +27426,8 @@
 [2026-11-16 07:30:26 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-16 07:30:53 AM] [DRAMAS_BOT] [SUCCESS] Published: Ezz Monem Built a Museum of Things Thrown at Politicians
 [2026-11-16 07:30:55 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1578 in / 541 out tokens
+[2026-11-16 07:30:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afab12fb6d74e8c90e1f1d02489c2d
+[2026-11-16 07:30:56 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): EU pays KSh 190k per month to Kenyans to study master's in Europe: How
+[2026-11-16 07:30:56 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-16 07:31:30 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Toronto Metropolitan University $25M Engineering Scholarship
+[2026-11-16 07:31:31 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1640 in / 415 out tokens
