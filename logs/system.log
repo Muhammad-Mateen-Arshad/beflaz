@@ -27318,3 +27318,14 @@
 [2026-11-16 03:25:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is India rethinking its short-term military recruitment scheme?
 [2026-11-16 03:26:19 AM] [JOBS_BOT] [SUCCESS] Published: Sindh Government Update December 2026: Public Overview
 [2026-11-16 03:26:20 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2738 in / 836 out tokens
+[2026-11-16 03:26:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-16 03:26:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa77de9d0f4a54ac5667ec48f7f87
+[2026-11-16 03:26:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-16 03:26:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa77de9d0f4a54ac5667ec48f7f87
+[2026-11-16 03:26:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 141/300 chars, resolved=True): The luxe Italy hotels attracting the A-listers and the value-for-money
+[2026-11-16 03:26:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa77de9d0f4a54ac5667ec48f7f87
+[2026-11-16 03:26:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-16 03:26:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa77e2a9dc4b1d863768eca85cf6e
+[2026-11-16 03:26:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 148/300 chars, resolved=True): All 9 Major New & Upcoming KPop Demon Hunters Releases, From New 6-Epi
+[2026-11-16 03:26:43 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Officially Confirms Its Next Major Crime Thriller Is Coming in 2027
+[2026-11-16 03:26:44 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1669 in / 468 out tokens
