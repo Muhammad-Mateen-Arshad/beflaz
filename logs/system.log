@@ -27623,3 +27623,19 @@
 [2026-11-16 07:29:51 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1512 in / 521 out tokens
 [2026-11-16 07:30:27 PM] [JOBS_BOT] [SUCCESS] Published: FDE Teaching Jobs 2026: 464 Vacancies in Islamabad
 [2026-11-16 07:30:28 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1401 in / 679 out tokens
+[2026-11-16 07:30:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-16 07:30:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb59d6ef544f2b8f9a31ad105dbc7
+[2026-11-16 07:30:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-16 07:30:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb59d6ef544f2b8f9a31ad105dbc7
+[2026-11-16 07:30:34 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-16 07:30:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb59d6ef544f2b8f9a31ad105dbc7
+[2026-11-16 07:30:34 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 185/300 chars, resolved=True): Why Turkey's luxury market is thriving: Beymen CEO Elif Çapçı explains
+[2026-11-16 07:30:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb59da0d47410282d5647c88bc58d
+[2026-11-16 07:30:35 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 142/300 chars, resolved=True): 5 best Netflix series to binge-watch this week (Nov 16–20, 2026)
+[2026-11-16 07:30:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb59da0d47410282d5647c88bc58d
+[2026-11-16 07:30:35 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 40/300 chars, resolved=True): Netflix's New Horror Show Reaches No. 1 Just Four Days After Release
+[2026-11-16 07:30:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb59da0d47410282d5647c88bc58d
+[2026-11-16 07:30:35 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): OTT releases this week (November 16-22): New movies and shows on Netfl
+[2026-11-16 07:30:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-16 07:31:16 PM] [DRAMAS_BOT] [SUCCESS] Published: New OTT Releases This Week (November 16 To 20, 2026): Campus Diaries, Dhindora, Percy Jackson And The Olympians On Netflix, Amazon Prime Video, JioHotstar And More
+[2026-11-16 07:31:17 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 997 in / 691 out tokens
