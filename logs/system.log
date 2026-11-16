@@ -27647,3 +27647,6 @@
 [2026-11-16 07:31:18 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): EU pays KSh 190k per month to Kenyans to study master's in Europe: How
 [2026-11-16 07:31:55 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Cuba Undergraduate Scholarships 2027 for Pakistani Students
 [2026-11-16 07:31:56 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 883 in / 485 out tokens
+[2026-11-16 07:31:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-16 07:32:45 PM] [HEALTH_BOT] [SUCCESS] Published: Dr. John H. Powers III to serve as director of NIH’s National Institute of Allergy and Infectious Diseases
+[2026-11-16 07:32:46 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1334 in / 559 out tokens
