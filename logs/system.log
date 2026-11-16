@@ -27721,3 +27721,11 @@
 [2026-11-16 11:34:32 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1594 in / 448 out tokens
 [2026-11-16 11:53:15 PM] [NEWS_BOT] [SUCCESS] Published: Govt reduces petrol, diesel prices by Rs2 per litre
 [2026-11-16 11:53:16 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 930 in / 572 out tokens
+[2026-11-16 11:53:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb976d1c7a4720b7454f56effd741
+[2026-11-16 11:53:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is India rethinking its short-term military recruitment scheme?
+[2026-11-16 11:53:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 300/400 chars, resolved=True): Dar links ECO trade, connectivity push to Afghan action on terrorism
+[2026-11-16 11:53:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb976dec754250b3f86e21aaf9d5b
+[2026-11-16 11:53:19 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 118/400 chars, resolved=True): Newspaper - Karachi - November 16, 2026
+[2026-11-16 11:53:21 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-16 11:53:41 PM] [JOBS_BOT] [SUCCESS] Published: ECO Council of Ministers Meeting 2026 Overview
+[2026-11-16 11:53:43 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1091 in / 503 out tokens
