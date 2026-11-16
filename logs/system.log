@@ -27350,3 +27350,11 @@
 [2026-11-16 03:27:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa78089c9f41d8886e150f964e26f
 [2026-11-16 03:27:20 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 83/800 chars, resolved=True): Life experiences: 30 older adults discuss misconceptions of aging
 [2026-11-16 03:27:20 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-16 03:27:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa781866c5471a916339676ca743e
+[2026-11-16 03:27:21 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Tulsa King's fossil discovery could make Fennario Ranch a bigger prize
+[2026-11-16 03:27:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa781866c5471a916339676ca743e
+[2026-11-16 03:27:21 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 78/400 chars, resolved=True): Scientists create treasure map to find fossils of undiscovered prehist
+[2026-11-16 03:27:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa781866c5471a916339676ca743e
+[2026-11-16 03:27:21 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Drought exposes heritage risks: 80% of 938 UNESCO sites face heat stre
+[2026-11-16 03:27:37 AM] [HISTORY_BOT] [SUCCESS] Published: Escape The Tourist Traps At This Incredible, Little-Known Kentucky State Park Nobody Talks About
+[2026-11-16 03:27:38 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1630 in / 462 out tokens
