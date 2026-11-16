@@ -27490,3 +27490,19 @@
 [2026-11-16 11:32:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afae9bb545940fe9c32b243b0ca5d8
 [2026-11-16 11:32:26 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
 [2026-11-16 11:32:26 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-16 11:32:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afae9cbf5bd442c9a980d9f060a4d2
+[2026-11-16 11:32:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 142/400 chars, resolved=True): Tulsa King's fossil discovery could make Fennario Ranch a bigger prize
+[2026-11-16 11:32:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afae9cbf5bd442c9a980d9f060a4d2
+[2026-11-16 11:32:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Palaeontologists discover dinosaur species that reached 440 kg by age 
+[2026-11-16 11:32:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afae9cbf5bd442c9a980d9f060a4d2
+[2026-11-16 11:32:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists have drawn a treasure map of where fossils of ancient sea l
+[2026-11-16 11:32:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afae9cbf5bd442c9a980d9f060a4d2
+[2026-11-16 11:32:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Colorado and the King of Dinosaurs
+[2026-11-16 11:32:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afae9cc432945ffa2aed9555469fd5
+[2026-11-16 11:32:28 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-16 11:32:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afae9cc432945ffa2aed9555469fd5
+[2026-11-16 11:32:29 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-16 11:32:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afae9cc432945ffa2aed9555469fd5
+[2026-11-16 11:32:29 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Why some dinosaurs get all the attention and others don't
+[2026-11-16 11:32:54 AM] [HISTORY_BOT] [SUCCESS] Published: Scientists discover a giant 66-pound rodent that lived 34 million years ago
+[2026-11-16 11:32:55 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1310 in / 565 out tokens
