@@ -27712,3 +27712,10 @@
 [2026-11-16 11:34:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb92d7a9134636b5f1f75dea0019c
 [2026-11-16 11:34:00 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 139/800 chars, resolved=True): A PharmD Shares The Best Supplements for Older Adults
 [2026-11-16 11:34:00 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-16 11:34:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb92e8d023436695540675459fb8e
+[2026-11-16 11:34:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Skip Yellowstone — visit Montana's largest state park for a fossil-fil
+[2026-11-16 11:34:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb92e8d023436695540675459fb8e
+[2026-11-16 11:34:01 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Children playing on an Indian riverbank dug up a prehistoric giant, an
+[2026-11-16 11:34:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-16 11:34:31 PM] [HISTORY_BOT] [SUCCESS] Published: A Thorough Explanation of the Masterpiece "Wonderful Life"! A Scientific Mystery About Strange 500-Million-Year-Old Fossils and the Contingency of Evolution
+[2026-11-16 11:34:32 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1594 in / 448 out tokens
