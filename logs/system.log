@@ -28001,3 +28001,7 @@
 [2026-11-17 11:30:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-17 11:32:58 AM] [NEWS_BOT] [SUCCESS] Published: In hard-hitting speech, Bilawal says system was ‘made to collapse’ amid debate on governance ‘reset’
 [2026-11-17 11:32:59 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1022 in / 459 out tokens
+[2026-11-17 11:33:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc3b6b03094c8bbce7bdadd625129
+[2026-11-17 11:33:00 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 31/400 chars, resolved=True): Gupta discussed killing targets in US, Pakistan, Nepal and Canada, pro
+[2026-11-17 11:33:16 AM] [JOBS_BOT] [SUCCESS] Published: SBP Report Highlights Job Creation Trends in Pakistan
+[2026-11-17 11:33:17 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1682 in / 519 out tokens
