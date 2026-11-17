@@ -28074,3 +28074,24 @@
 [2026-11-17 03:46:55 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-17 03:54:53 PM] [DRAMAS_BOT] [SUCCESS] Published: 3 Body Problem Season 2 Teaser & First Looks Reveals the San-Ti’s Peace Offer and Humanity Isn’t Buying It
 [2026-11-17 03:54:59 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1725 in / 645 out tokens
+[2026-11-17 03:55:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc78d4ea074d4fa4bebbd6aa4c04d
+[2026-11-17 03:55:00 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): 7 fully funded scholarships Kenyans can apply before December 5
+[2026-11-17 03:55:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc78d4ea074d4fa4bebbd6aa4c04d
+[2026-11-17 03:55:00 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 4 fully funded international scholarships South Africans can apply for
+[2026-11-17 03:55:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc78d4ea074d4fa4bebbd6aa4c04d
+[2026-11-17 03:55:01 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 122/400 chars, resolved=True): Two Indian Americans selected as 2027 Rhodes Scholars
+[2026-11-17 03:59:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-17 04:00:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 04:00:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-17 04:00:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-17 04:00:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-17 04:01:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:01:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:02:05 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-17 04:02:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:02:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:03:17 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:09:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:10:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:10:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:11:12 PM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
