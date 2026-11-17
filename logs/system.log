@@ -28155,3 +28155,15 @@
 [2026-11-17 05:24:06 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-17 05:25:24 PM] [HEALTH_BOT] [SUCCESS] Published: What’s the bare minimum workout for healthy aging?
 [2026-11-17 05:25:32 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1638 in / 597 out tokens
+[2026-11-17 05:25:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8e0d74124e67b65044088a8075d
+[2026-11-17 05:25:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Five-metre dinosaur found in Surrey named as a new species after 25 ye
+[2026-11-17 05:25:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8e0d74124e67b65044088a8075d
+[2026-11-17 05:25:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): 95-year-old widow faces £1m legal bill after losing appeal in decade-l
+[2026-11-17 05:25:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8e0d74124e67b65044088a8075d
+[2026-11-17 05:25:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): A fossil sat in a London museum drawer for nearly 100 years. It turned
+[2026-11-17 05:25:34 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 05:25:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-17 05:26:06 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-17 05:27:41 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-17 05:27:42 PM] [HISTORY_BOT] [SUCCESS] Published: Where did it go? National Park Service investigates 88-year mystery of missing snake fossil
+[2026-11-17 05:27:53 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 875 in / 489 out tokens
