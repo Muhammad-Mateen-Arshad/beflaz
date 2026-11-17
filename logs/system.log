@@ -27902,3 +27902,20 @@
 [2026-11-17 07:39:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 07:40:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 07:40:33 AM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-17 07:40:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc04f2d0f84a768635ffddec78977
+[2026-11-17 07:40:35 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 31/400 chars, resolved=True): Gupta discussed killing targets in US, Pakistan, Nepal and Canada, pro
+[2026-11-17 07:40:35 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 07:40:43 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-17 07:41:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-17 07:42:17 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-17 07:44:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-17 07:44:30 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-17 07:44:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:45:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:45:34 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:46:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:47:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:47:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:48:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:48:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:49:02 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
