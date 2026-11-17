@@ -27787,3 +27787,5 @@
 [2026-11-16 11:54:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb97bc59134b4ca5132738427d132
 [2026-11-16 11:54:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Ancient discoveries rediscovered: Treasures hidden for centuries
 [2026-11-16 11:54:36 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-11-17 03:29:59 AM] [NEWS_BOT] [SUCCESS] Published: Flour gets costlier as imports stay insufficient
+[2026-11-17 03:29:59 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1773 in / 626 out tokens
