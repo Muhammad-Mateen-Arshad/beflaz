@@ -27798,3 +27798,12 @@
 [2026-11-17 03:31:23 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-17 03:32:19 AM] [DRAMAS_BOT] [SUCCESS] Published: [Turkey Travelogue 2026 Part 11] The Final Day at Topkapi Palace and the Blue Mosque
 [2026-11-17 03:32:20 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1706 in / 459 out tokens
+[2026-11-17 03:32:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbcac5390e45e7a0e8d0e1d04e9e1
+[2026-11-17 03:32:21 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 4 fully funded international scholarships South Africans can apply for
+[2026-11-17 03:32:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbcac5390e45e7a0e8d0e1d04e9e1
+[2026-11-17 03:32:22 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Trump admin opens civil rights probes into 15 colleges over DEI grants
+[2026-11-17 03:32:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbcac5390e45e7a0e8d0e1d04e9e1
+[2026-11-17 03:32:22 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): EU pays KSh 190k per month to Kenyans to study master's in Europe: How
+[2026-11-17 03:32:24 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 03:33:04 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC Online Degree Attestation and Verification Guide
+[2026-11-17 03:33:05 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 790 in / 402 out tokens
