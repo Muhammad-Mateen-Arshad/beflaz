@@ -28182,3 +28182,26 @@
 [2026-11-17 11:36:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 11:37:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 11:37:39 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-17 11:37:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afce54534e44a0581aca2b8cb864c4
+[2026-11-17 11:37:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 157/400 chars, resolved=True): Pakistan’s Reko Diq Project Faces $2.1 Billion Cost Hike: Report
+[2026-11-17 11:37:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afce54534e44a0581aca2b8cb864c4
+[2026-11-17 11:37:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 31/400 chars, resolved=True): Gupta discussed killing targets in US, Pakistan, Nepal and Canada, pro
+[2026-11-17 11:37:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afce54534e44a0581aca2b8cb864c4
+[2026-11-17 11:37:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 188/400 chars, resolved=True): Rich nations' debt surge raises borrowing costs for poorer economies
+[2026-11-17 11:37:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afce54534e44a0581aca2b8cb864c4
+[2026-11-17 11:37:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): SBP projects GDP growth at 3.5 to 4.5 percent in FY27
+[2026-11-17 11:38:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-17 11:38:07 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 11:38:09 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-17 11:38:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-17 11:38:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-17 11:42:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:42:49 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-17 11:42:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:43:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:43:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:44:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:45:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:45:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:46:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:46:39 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
