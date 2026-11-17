@@ -28020,3 +28020,11 @@
 [2026-11-17 11:33:37 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 4 fully funded international scholarships South Africans can apply for
 [2026-11-17 11:33:51 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Choreomundus Erasmus Mundus Scholarship 2027-2028
 [2026-11-17 11:33:51 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1627 in / 697 out tokens
+[2026-11-17 11:33:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-17 11:33:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-17 11:33:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc3ba03605481dab823e6bd11ef21
+[2026-11-17 11:33:53 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-17 11:33:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc3ba03605481dab823e6bd11ef21
+[2026-11-17 11:33:53 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-17 11:34:26 AM] [HEALTH_BOT] [SUCCESS] Published: As AI Changes How Students Approach College, Old Challenges Persist
+[2026-11-17 11:34:27 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1618 in / 527 out tokens
