@@ -27887,3 +27887,18 @@
 [2026-11-17 05:27:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Children playing on an Indian riverbank dug up a prehistoric giant, an
 [2026-11-17 05:28:14 AM] [HISTORY_BOT] [SUCCESS] Published: This 1958 Willem de Kooning Painting Could Fetch $18 Million
 [2026-11-17 05:28:15 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1342 in / 582 out tokens
+[2026-11-17 07:29:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-17 07:29:42 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 07:34:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-17 07:34:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-17 07:34:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-17 07:35:06 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:35:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:36:09 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:37:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:38:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:38:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:39:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:39:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:40:03 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 07:40:33 AM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
