@@ -27789,3 +27789,6 @@
 [2026-11-16 11:54:36 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
 [2026-11-17 03:29:59 AM] [NEWS_BOT] [SUCCESS] Published: Flour gets costlier as imports stay insufficient
 [2026-11-17 03:29:59 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1773 in / 626 out tokens
+[2026-11-17 03:30:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-17 03:31:19 AM] [JOBS_BOT] [SUCCESS] Published: Ivanhoe Atlantic and Mari Minerals Mining Exploration
+[2026-11-17 03:31:20 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1849 in / 423 out tokens
