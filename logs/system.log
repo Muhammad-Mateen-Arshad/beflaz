@@ -27824,3 +27824,10 @@
 [2026-11-17 03:33:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbcaf4599a47a5835b7f488082cab
 [2026-11-17 03:33:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 174/800 chars, resolved=True): Researchers Model Integrated Health and Exercise Framework for Aging R
 [2026-11-17 03:33:25 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-17 03:33:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbcb06132245c9bfe44956761a091
+[2026-11-17 03:33:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Skip Yellowstone — visit Montana's largest state park for a fossil-fil
+[2026-11-17 03:33:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbcb06132245c9bfe44956761a091
+[2026-11-17 03:33:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Children playing on an Indian riverbank dug up a prehistoric giant, an
+[2026-11-17 03:33:27 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 03:34:01 AM] [HISTORY_BOT] [SUCCESS] Published: Global Warming Approaches 1.5 Degrees in “Calamity for the World’s Ecosystems”
+[2026-11-17 03:34:02 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1725 in / 544 out tokens
