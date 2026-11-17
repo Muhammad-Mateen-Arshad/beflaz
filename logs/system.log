@@ -28095,3 +28095,16 @@
 [2026-11-17 04:10:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 04:10:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 04:11:12 PM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-17 04:11:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-17 04:11:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-17 04:11:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc7ca359cf41248a67a4fc465330d
+[2026-11-17 04:11:16 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-17 04:11:17 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 04:11:19 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-17 04:11:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-17 04:12:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-17 04:12:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-17 04:13:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:13:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 04:17:17 PM] [HEALTH_BOT] [SUCCESS] Published: Does This New Anti-Aging Pill Work?
+[2026-11-17 04:17:18 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1469 in / 496 out tokens
