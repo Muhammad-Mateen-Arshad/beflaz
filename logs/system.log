@@ -28014,3 +28014,9 @@
 [2026-11-17 11:33:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 127/300 chars, resolved=True): ‘The Devil’s Plan’ season 3 release schedule: When do new episodes of 
 [2026-11-17 11:33:35 AM] [DRAMAS_BOT] [SUCCESS] Published: OTT Releases Of The Week: 10 New Shows And Films Streaming On Netflix, Prime Video, JioHotstar And SonyLIV
 [2026-11-17 11:33:36 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1546 in / 637 out tokens
+[2026-11-17 11:33:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc3b913ad343158a270866b3205d2
+[2026-11-17 11:33:37 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): 7 fully funded scholarships Kenyans can apply before December 5
+[2026-11-17 11:33:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc3b913ad343158a270866b3205d2
+[2026-11-17 11:33:37 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 4 fully funded international scholarships South Africans can apply for
+[2026-11-17 11:33:51 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Choreomundus Erasmus Mundus Scholarship 2027-2028
+[2026-11-17 11:33:51 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1627 in / 697 out tokens
