@@ -28108,3 +28108,15 @@
 [2026-11-17 04:13:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 04:17:17 PM] [HEALTH_BOT] [SUCCESS] Published: Does This New Anti-Aging Pill Work?
 [2026-11-17 04:17:18 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1469 in / 496 out tokens
+[2026-11-17 04:17:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc7e0ed4024e7e9b57a3816eaed50
+[2026-11-17 04:17:19 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Five-metre dinosaur found in Surrey named as a new species after 25 ye
+[2026-11-17 04:17:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc7e0ed4024e7e9b57a3816eaed50
+[2026-11-17 04:17:19 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Skip Yellowstone — visit Montana's largest state park for a fossil-fil
+[2026-11-17 04:17:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc7e0f5ba5471e96ae06facce3d00
+[2026-11-17 04:17:19 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-17 04:17:22 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 04:17:25 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-17 04:21:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-17 04:21:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-17 04:23:56 PM] [HISTORY_BOT] [SUCCESS] Published: DINO-A-LIVE DINOSAUR ODYSSEY brings 15 life-sized dinosaurs to Singapore
+[2026-11-17 04:23:57 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 982 in / 688 out tokens
