@@ -27996,3 +27996,8 @@
 [2026-11-17 08:05:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 08:06:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 08:07:00 AM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-17 11:29:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-17 11:29:37 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-17 11:30:41 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-17 11:32:58 AM] [NEWS_BOT] [SUCCESS] Published: In hard-hitting speech, Bilawal says system was ‘made to collapse’ amid debate on governance ‘reset’
+[2026-11-17 11:32:59 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1022 in / 459 out tokens
