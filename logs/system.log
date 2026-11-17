@@ -28122,3 +28122,9 @@
 [2026-11-17 04:23:57 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 982 in / 688 out tokens
 [2026-11-17 05:15:53 PM] [NEWS_BOT] [SUCCESS] Published: In hard-hitting speech, Bilawal says system was ‘made to collapse’
 [2026-11-17 05:16:11 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1574 in / 498 out tokens
+[2026-11-17 05:16:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8bdb7f964b9d982591dcf4334bf
+[2026-11-17 05:16:12 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 31/400 chars, resolved=True): Gupta discussed killing targets in US, Pakistan, Nepal and Canada, pro
+[2026-11-17 05:16:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-17 05:16:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-17 05:19:31 PM] [JOBS_BOT] [SUCCESS] Published: Fake Defense Job Websites Used in Cyberespionage Campaign
+[2026-11-17 05:19:37 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 876 in / 471 out tokens
