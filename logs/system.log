@@ -27833,3 +27833,8 @@
 [2026-11-17 03:34:02 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1725 in / 544 out tokens
 [2026-11-17 05:25:55 AM] [NEWS_BOT] [SUCCESS] Published: Unmarried women aged 45 or above included in BISP
 [2026-11-17 05:25:56 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 797 in / 453 out tokens
+[2026-11-17 05:25:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbe564baa5487f90b98649987a3bb
+[2026-11-17 05:25:57 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 31/400 chars, resolved=True): Gupta discussed killing targets in US, Pakistan, Nepal and Canada, pro
+[2026-11-17 05:25:57 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 05:26:29 AM] [JOBS_BOT] [SUCCESS] Published: SPSC Recruitment Rules Notice: Official Actions
+[2026-11-17 05:26:30 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 903 in / 516 out tokens
