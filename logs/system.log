@@ -27854,3 +27854,13 @@
 [2026-11-17 05:26:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbe58dc7e840d3ae0fb9ea134a632
 [2026-11-17 05:26:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 160/300 chars, resolved=True): Trump tells advisers he may hold off on Iran attacks barring new provo
 [2026-11-17 05:26:37 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-11-17 05:26:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbe58efc154c38a4b0557fe3aa4f0
+[2026-11-17 05:26:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): 4 fully funded international scholarships South Africans can apply for
+[2026-11-17 05:26:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbe58efc154c38a4b0557fe3aa4f0
+[2026-11-17 05:26:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): Tomorrow’s Leaders Program Welcomes Record-Breaking Class
+[2026-11-17 05:26:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbe58efc154c38a4b0557fe3aa4f0
+[2026-11-17 05:26:39 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): EU pays KSh 190k per month to Kenyans to study master's in Europe: How
+[2026-11-17 05:26:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbe58fcec1469c89af63dad7a9335
+[2026-11-17 05:26:39 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): HEC urges universities to participate in QS World University Rankings 
+[2026-11-17 05:27:23 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: DAAD RISE Internship Program Overview and Details
+[2026-11-17 05:27:23 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1251 in / 567 out tokens
