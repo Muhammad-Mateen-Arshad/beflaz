@@ -28063,3 +28063,14 @@
 [2026-11-17 03:45:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 03:46:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 03:46:42 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-17 03:46:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-17 03:46:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc76e58cf8453da7addfd2dfd7861
+[2026-11-17 03:46:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-17 03:46:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc76e58cf8453da7addfd2dfd7861
+[2026-11-17 03:46:48 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
+[2026-11-17 03:46:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc76e8f2324fa395ec63ad386ea74
+[2026-11-17 03:46:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 123/300 chars, resolved=True): Unexpected Supernatural Horror Series Just Took Over Netflix Streaming
+[2026-11-17 03:46:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-17 03:46:55 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 03:54:53 PM] [DRAMAS_BOT] [SUCCESS] Published: 3 Body Problem Season 2 Teaser & First Looks Reveals the San-Ti’s Peace Offer and Humanity Isn’t Buying It
+[2026-11-17 03:54:59 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1725 in / 645 out tokens
