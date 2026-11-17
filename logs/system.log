@@ -27881,3 +27881,9 @@
 [2026-11-17 05:27:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbe5be6b164db4bc8a9b8a52eed13
 [2026-11-17 05:27:42 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 174/800 chars, resolved=True): Researchers Model Integrated Health and Exercise Framework for Aging R
 [2026-11-17 05:27:42 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-17 05:27:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbe5cfe1da486fb5f3504e06258db
+[2026-11-17 05:27:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Skip Yellowstone — visit Montana's largest state park for a fossil-fil
+[2026-11-17 05:27:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbe5cfe1da486fb5f3504e06258db
+[2026-11-17 05:27:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Children playing on an Indian riverbank dug up a prehistoric giant, an
+[2026-11-17 05:28:14 AM] [HISTORY_BOT] [SUCCESS] Published: This 1958 Willem de Kooning Painting Could Fetch $18 Million
+[2026-11-17 05:28:15 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1342 in / 582 out tokens
