@@ -28136,3 +28136,9 @@
 [2026-11-17 05:19:47 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Morning Briefing: Nov. 12
 [2026-11-17 05:21:39 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix to Debut ‘Gabby’s Dollhouse: Makers and Bakers’ Competition Show in December | Exclusive
 [2026-11-17 05:21:50 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 734 in / 487 out tokens
+[2026-11-17 05:21:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8d2ec23a424cb8ebcb3dd5a970e
+[2026-11-17 05:21:51 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): 7 fully funded scholarships Kenyans can apply before December 5
+[2026-11-17 05:21:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 05:21:54 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-17 05:23:41 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Four International Scholarships for South Africans 2026
+[2026-11-17 05:23:46 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1472 in / 700 out tokens
