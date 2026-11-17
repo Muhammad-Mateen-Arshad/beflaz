@@ -27975,3 +27975,24 @@
 [2026-11-17 07:57:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc08c1bc5944349564f0ecff99809
 [2026-11-17 07:57:05 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 174/800 chars, resolved=True): Researchers Model Integrated Health and Exercise Framework for Aging R
 [2026-11-17 07:57:05 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-17 07:57:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc08d1b841403ba18dd8918f88e50
+[2026-11-17 07:57:06 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 144/400 chars, resolved=True): Skip Yellowstone — visit Montana's largest state park for a fossil-fil
+[2026-11-17 07:57:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc08d1b841403ba18dd8918f88e50
+[2026-11-17 07:57:06 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Children playing on an Indian riverbank dug up a prehistoric giant, an
+[2026-11-17 07:57:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc08d1b841403ba18dd8918f88e50
+[2026-11-17 07:57:06 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Miracle at Cockroach Bay: How a 1983 Ruskin dig uncovered 50,000 fossi
+[2026-11-17 07:57:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 07:57:10 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-17 07:58:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-17 07:59:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-17 07:59:43 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-17 07:59:46 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 08:00:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 08:01:25 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 08:01:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 08:02:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 08:02:58 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 08:03:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 08:05:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 08:06:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 08:07:00 AM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
