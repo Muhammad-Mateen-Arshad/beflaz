@@ -28577,3 +28577,18 @@
 [2026-11-18 12:28:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99d6e9de41c1b884fa5409d26b1
 [2026-11-18 12:28:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is that a pterodactyl? Social media video spots something over Mexican
 [2026-11-18 12:28:08 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-11-18 03:29:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-18 03:29:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-18 03:29:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-18 03:30:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-18 03:30:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-18 03:31:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:31:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:32:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:32:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:33:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:33:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:34:17 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 03:34:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:34:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:35:22 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
