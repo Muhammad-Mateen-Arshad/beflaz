@@ -28496,3 +28496,9 @@
 [2026-11-18 11:31:30 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-18 11:31:31 AM] [JOBS_BOT] [SUCCESS] Published: Australian Media Launch Campaign Against AI Copyright Changes
 [2026-11-18 11:31:31 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1226 in / 501 out tokens
+[2026-11-18 11:31:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-18 11:31:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-18 11:31:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd8c974af74d249482872dfdf43d0
+[2026-11-18 11:31:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-18 11:32:35 AM] [DRAMAS_BOT] [SUCCESS] Published: The Leading Ladies Of Netflix's The Empress Are Gorgeous In Real Life
+[2026-11-18 11:32:36 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1312 in / 518 out tokens
