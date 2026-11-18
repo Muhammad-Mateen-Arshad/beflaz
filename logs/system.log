@@ -28658,3 +28658,12 @@
 [2026-11-18 04:07:48 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1601 in / 467 out tokens
 [2026-11-18 07:29:57 PM] [NEWS_BOT] [SUCCESS] Published: ‘Have the courage to listen to the debate you started’: Bilawal sticks to his guns after speaking his ‘truth’
 [2026-11-18 07:30:01 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1577 in / 473 out tokens
+[2026-11-18 07:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdfcba01ea4db3babd92f77322ead
+[2026-11-18 07:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Growing poverty in Pakistan
+[2026-11-18 07:30:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdfcba01ea4db3babd92f77322ead
+[2026-11-18 07:30:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Pakistan vows to proceed with U.S.-Iran diplomacy
+[2026-11-18 07:30:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdfcba01ea4db3babd92f77322ead
+[2026-11-18 07:30:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 77/400 chars, resolved=True): Tech outage wave reaches US government; Trump says all is 'fine'
+[2026-11-18 07:30:04 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 07:30:42 PM] [JOBS_BOT] [SUCCESS] Published: UK Government Youth Employment Scheme: Over 90,000 Jobs
+[2026-11-18 07:30:54 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 933 in / 404 out tokens
