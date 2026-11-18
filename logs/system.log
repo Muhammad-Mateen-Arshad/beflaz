@@ -28645,3 +28645,6 @@
 [2026-11-18 04:05:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-18 04:06:52 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: EUI Doctoral Scholarships 2027-2028: How to Apply
 [2026-11-18 04:06:53 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1505 in / 596 out tokens
+[2026-11-18 04:06:55 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 04:07:12 PM] [HEALTH_BOT] [SUCCESS] Published: NIH research team lays groundwork for new treatment of Neimann-Pick Type C in infants
+[2026-11-18 04:07:13 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1330 in / 520 out tokens
