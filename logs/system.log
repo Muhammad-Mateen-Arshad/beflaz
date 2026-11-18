@@ -28791,3 +28791,31 @@
 [2026-11-18 11:33:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-18 11:34:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-18 11:34:46 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-18 11:34:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe36187cf04267bbbfba4e6003127
+[2026-11-18 11:34:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Growing poverty in Pakistan
+[2026-11-18 11:34:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe36187cf04267bbbfba4e6003127
+[2026-11-18 11:34:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Pakistan vows to proceed with U.S.-Iran diplomacy
+[2026-11-18 11:34:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe36187cf04267bbbfba4e6003127
+[2026-11-18 11:34:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 77/400 chars, resolved=True): Tech outage wave reaches US government; Trump says all is 'fine'
+[2026-11-18 11:34:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe36187cf04267bbbfba4e6003127
+[2026-11-18 11:34:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): BAE Systems to axe more than 1,000 jobs under cost-saving plan
+[2026-11-18 11:34:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 295/400 chars, resolved=True): Bilawal stirs up 'political hornet’s nest,' calls for political reset 
+[2026-11-18 11:34:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe361a8e764fbd8d459dce6a17b41
+[2026-11-18 11:34:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): UP makes BrahMos, not bombs: CM Yogi's fierce take on Pakistan
+[2026-11-18 11:34:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe361a8e764fbd8d459dce6a17b41
+[2026-11-18 11:34:50 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Pakistan vows to proceed with U.S.-Iran diplomacy
+[2026-11-18 11:34:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-18 11:35:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-18 11:35:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-18 11:35:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-18 11:35:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-18 11:36:18 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 11:36:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:36:50 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-18 11:36:52 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-18 11:36:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:37:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:38:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:38:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:39:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:39:34 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
