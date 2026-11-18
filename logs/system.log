@@ -28819,3 +28819,19 @@
 [2026-11-18 11:38:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-18 11:39:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-18 11:39:34 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-18 11:39:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-18 11:39:39 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-18 11:39:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe373b907f4549845c829a718424f
+[2026-11-18 11:39:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-18 11:39:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe373cdeb14d02ac51d2a7d45bd73
+[2026-11-18 11:39:40 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 78/300 chars, resolved=True): The Circle season 8 release schedule: When do new episodes come out?
+[2026-11-18 11:39:41 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 11:39:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-18 11:39:58 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-18 11:40:00 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-18 11:40:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-18 11:40:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:41:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:41:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:43:53 PM] [DRAMAS_BOT] [SUCCESS] Published: Upcoming K-Drama ‘Gift’ Brings Supernatural Baseball to Netflix in December 2026
+[2026-11-18 11:43:54 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 856 in / 531 out tokens
