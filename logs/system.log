@@ -28523,3 +28523,19 @@
 [2026-11-18 12:24:35 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-18 12:24:35 PM] [NEWS_BOT] [SUCCESS] Published: Xi, Trump, Putin exchange first greetings in China ahead of historic meeting
 [2026-11-18 12:24:37 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1533 in / 496 out tokens
+[2026-11-18 12:24:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd9905587b41acbbb4312b571b2ec
+[2026-11-18 12:24:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Pakistan vows to proceed with U.S.-Iran diplomacy
+[2026-11-18 12:24:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd9905587b41acbbb4312b571b2ec
+[2026-11-18 12:24:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Growing Poverty in Pakistan
+[2026-11-18 12:24:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd9905587b41acbbb4312b571b2ec
+[2026-11-18 12:24:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 77/400 chars, resolved=True): Tech outage wave reaches US government; Trump says all is 'fine'
+[2026-11-18 12:24:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 295/400 chars, resolved=True): Bilawal stirs up 'political hornet’s nest,' calls for political reset 
+[2026-11-18 12:24:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99089619475f9256ec5a393e659
+[2026-11-18 12:24:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): UP makes BrahMos, not bombs: CM Yogi's fierce take on Pakistan
+[2026-11-18 12:24:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99089619475f9256ec5a393e659
+[2026-11-18 12:24:40 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Pakistan vows to proceed with U.S.-Iran diplomacy
+[2026-11-18 12:24:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99089619475f9256ec5a393e659
+[2026-11-18 12:24:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): Trump nominates new top Army general, setting stage for confirmation f
+[2026-11-18 12:24:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd991874964de4adb144f6ec56ddf
+[2026-11-18 12:24:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 133/400 chars, resolved=True): 72 of 118 traditional water channels affected in Panjgur, senate panel
+[2026-11-18 12:24:56 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
