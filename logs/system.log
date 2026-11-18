@@ -28504,3 +28504,15 @@
 [2026-11-18 11:32:36 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1312 in / 518 out tokens
 [2026-11-18 11:33:22 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC Chinese Government Scholarships 2027-28: Apply Online
 [2026-11-18 11:33:23 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1563 in / 709 out tokens
+[2026-11-18 11:33:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-18 11:33:24 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-18 11:33:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd8d043f8d422d90de4c926184ea8
+[2026-11-18 11:33:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): 9 everyday health and wellness habits linked to a longer life
+[2026-11-18 11:33:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd8d043f8d422d90de4c926184ea8
+[2026-11-18 11:33:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-18 11:33:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd8d0553d447cca2c57bc51717b95
+[2026-11-18 11:33:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): Influential Women Profiles Heidi Gillis: Helping Older Adults Stay Str
+[2026-11-18 11:33:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd8d0553d447cca2c57bc51717b95
+[2026-11-18 11:33:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-18 11:34:22 AM] [HEALTH_BOT] [SUCCESS] Published: Middle-aged and older adults favor TV and YouTube for home exercise, survey finds
+[2026-11-18 11:34:23 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 977 in / 452 out tokens
