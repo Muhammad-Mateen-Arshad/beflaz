@@ -28707,3 +28707,18 @@
 [2026-11-18 10:45:15 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-18 10:45:35 PM] [NEWS_BOT] [SUCCESS] Published: PTA says submarine cable fault may cause internet connectivity issues
 [2026-11-18 10:45:36 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 590 in / 385 out tokens
+[2026-11-18 10:45:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe2a91f1774dab819c8beca2c4134
+[2026-11-18 10:45:37 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Growing poverty in Pakistan
+[2026-11-18 10:45:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe2a91f1774dab819c8beca2c4134
+[2026-11-18 10:45:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Pakistan vows to proceed with U.S.-Iran diplomacy
+[2026-11-18 10:45:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe2a91f1774dab819c8beca2c4134
+[2026-11-18 10:45:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 77/400 chars, resolved=True): Tech outage wave reaches US government; Trump says all is 'fine'
+[2026-11-18 10:45:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe2a91f1774dab819c8beca2c4134
+[2026-11-18 10:45:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): BAE Systems to axe more than 1,000 jobs under cost-saving plan
+[2026-11-18 10:45:38 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 295/400 chars, resolved=True): Bilawal stirs up 'political hornet’s nest,' calls for political reset 
+[2026-11-18 10:45:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe2a926a694da9ba5be33b5b179ea
+[2026-11-18 10:45:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): UP makes BrahMos, not bombs: CM Yogi's fierce take on Pakistan
+[2026-11-18 10:45:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe2a926a694da9ba5be33b5b179ea
+[2026-11-18 10:45:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Pakistan vows to proceed with U.S.-Iran diplomacy
+[2026-11-18 10:46:03 PM] [JOBS_BOT] [SUCCESS] Published: Balochistan Federal Government Job Quota Review
+[2026-11-18 10:46:03 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1246 in / 409 out tokens
