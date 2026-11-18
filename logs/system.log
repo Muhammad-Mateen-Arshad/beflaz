@@ -28224,3 +28224,22 @@
 [2026-11-17 11:54:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 11:55:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-17 11:56:12 PM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-17 11:56:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afce99e550e4ea59ce054254fd375b
+[2026-11-17 11:56:15 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): 7 fully funded scholarships Kenyans can apply before December 5
+[2026-11-17 11:56:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afce99e550e4ea59ce054254fd375b
+[2026-11-17 11:56:15 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 153/400 chars, resolved=True): MSU student earns coveted Rhodes Scholarship
+[2026-11-17 11:56:17 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-17 11:56:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-17 11:56:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-17 11:56:50 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-17 11:56:52 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-17 11:56:54 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-11-17 11:56:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:57:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:58:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-17 11:59:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 12:03:01 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 12:03:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 12:04:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 12:04:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 12:05:02 AM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
