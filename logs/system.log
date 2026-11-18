@@ -28592,3 +28592,23 @@
 [2026-11-18 03:34:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-18 03:34:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-18 03:35:22 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-18 03:35:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdc5bc0471448b8f12ad60c571a99
+[2026-11-18 03:35:25 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Growing poverty in Pakistan
+[2026-11-18 03:35:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdc5bc0471448b8f12ad60c571a99
+[2026-11-18 03:35:25 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Pakistan vows to proceed with U.S.-Iran diplomacy
+[2026-11-18 03:35:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdc5bc0471448b8f12ad60c571a99
+[2026-11-18 03:35:25 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 77/400 chars, resolved=True): Tech outage wave reaches US government; Trump says all is 'fine'
+[2026-11-18 03:35:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdc5bc0471448b8f12ad60c571a99
+[2026-11-18 03:35:25 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): 'Are your hands clean?': Khawaja Asif's sharp attack on Bilawal Bhutto
+[2026-11-18 03:35:27 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 03:35:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-18 03:35:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-18 03:35:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-18 03:36:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-18 03:36:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:37:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:38:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:39:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:54:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 03:56:01 PM] [JOBS_BOT] [SUCCESS] Published: Balochistan CSS Vacant Seats Update for 2024 and 2025
+[2026-11-18 03:56:02 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1091 in / 577 out tokens
