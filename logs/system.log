@@ -28835,3 +28835,10 @@
 [2026-11-18 11:41:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-18 11:43:53 PM] [DRAMAS_BOT] [SUCCESS] Published: Upcoming K-Drama ‘Gift’ Brings Supernatural Baseball to Netflix in December 2026
 [2026-11-18 11:43:54 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 856 in / 531 out tokens
+[2026-11-18 11:43:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe383a2b5146e9893cd9a4b6ed95c
+[2026-11-18 11:43:55 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Netherlands' university offers fully funded scholarships to African st
+[2026-11-18 11:43:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe383a2b5146e9893cd9a4b6ed95c
+[2026-11-18 11:43:55 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Embassy Kenya announces deadline for 2027 fully funded Commonwealth
+[2026-11-18 11:43:56 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 11:44:31 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Funza Lushaka Bursary 2027: Teaching Scholarships
+[2026-11-18 11:44:32 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1484 in / 619 out tokens
