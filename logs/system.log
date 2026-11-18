@@ -28859,3 +28859,14 @@
 [2026-11-18 11:44:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe3862c11945a59ad3ba76dc462f0
 [2026-11-18 11:44:51 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
 [2026-11-18 11:44:51 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-18 11:44:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe387458784f4eaf7789bdd3de135
+[2026-11-18 11:44:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Rare dinosaur discovery: Palaeontologists may uncover new dinosaur spe
+[2026-11-18 11:44:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 11:44:55 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-18 11:47:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-18 11:48:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-18 11:48:33 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-18 11:48:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-18 11:49:20 PM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-11-18 11:50:14 PM] [HISTORY_BOT] [SUCCESS] Published: This strange creature lived 309 million years ago, long before the dinosaurs
+[2026-11-18 11:50:14 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1494 in / 510 out tokens
