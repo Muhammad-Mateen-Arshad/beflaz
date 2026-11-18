@@ -28516,3 +28516,7 @@
 [2026-11-18 11:33:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
 [2026-11-18 11:34:22 AM] [HEALTH_BOT] [SUCCESS] Published: Middle-aged and older adults favor TV and YouTube for home exercise, survey finds
 [2026-11-18 11:34:23 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 977 in / 452 out tokens
+[2026-11-18 11:34:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd8d3f01514b18b56ccbbaad0310b
+[2026-11-18 11:34:24 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Rare dinosaur discovery: Palaeontologists may uncover new dinosaur spe
+[2026-11-18 11:35:09 AM] [HISTORY_BOT] [SUCCESS] Published: A five-metre dinosaur fossil found at a Surrey quarry in 2001 has been identified as a new species 25 years later; it has been named after a former works manager who died ...
+[2026-11-18 11:35:11 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 783 in / 308 out tokens
