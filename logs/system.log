@@ -28722,3 +28722,13 @@
 [2026-11-18 10:45:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 180/400 chars, resolved=True): Pakistan vows to proceed with U.S.-Iran diplomacy
 [2026-11-18 10:46:03 PM] [JOBS_BOT] [SUCCESS] Published: Balochistan Federal Government Job Quota Review
 [2026-11-18 10:46:03 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1246 in / 409 out tokens
+[2026-11-18 10:46:06 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-18 10:46:07 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-18 10:46:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe2aafce9f4b3a81f927d57137f85
+[2026-11-18 10:46:08 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-18 10:46:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe2ab0fef9466db64ef50596502a6
+[2026-11-18 10:46:08 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 78/300 chars, resolved=True): The Circle season 8 release schedule: When do new episodes come out?
+[2026-11-18 10:46:09 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 10:46:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-18 10:46:41 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Ginny & Georgia’ Season 4 Finally Gets Netflix Release Date
+[2026-11-18 10:46:42 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1395 in / 561 out tokens
