@@ -28560,3 +28560,20 @@
 [2026-11-18 12:28:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99c566494a27b16c9aa8073c3ac
 [2026-11-18 12:28:05 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 155/800 chars, resolved=True): Why do older adults have trouble sleeping?
 [2026-11-18 12:28:05 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-18 12:28:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99d52cd243169c8973e8f378dc2
+[2026-11-18 12:28:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Rare dinosaur discovery: Palaeontologists may uncover new dinosaur spe
+[2026-11-18 12:28:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99d52cd243169c8973e8f378dc2
+[2026-11-18 12:28:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Five-metre dinosaur found in Surrey named as a new species after 25 ye
+[2026-11-18 12:28:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99d52cd243169c8973e8f378dc2
+[2026-11-18 12:28:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 149/400 chars, resolved=True): 75-Cm prehistoric Elephant Jaw discovered along Narmada River in Madhy
+[2026-11-18 12:28:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99d52cd243169c8973e8f378dc2
+[2026-11-18 12:28:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): The fossilised jaw of a prehistoric animal has been discovered in MP. 
+[2026-11-18 12:28:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99d6e9de41c1b884fa5409d26b1
+[2026-11-18 12:28:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-18 12:28:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99d6e9de41c1b884fa5409d26b1
+[2026-11-18 12:28:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Why must the dinosaur always be the bad guy?
+[2026-11-18 12:28:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99d6e9de41c1b884fa5409d26b1
+[2026-11-18 12:28:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Why some dinosaurs get all the attention and others don't
+[2026-11-18 12:28:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd99d6e9de41c1b884fa5409d26b1
+[2026-11-18 12:28:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is that a pterodactyl? Social media video spots something over Mexican
+[2026-11-18 12:28:08 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
