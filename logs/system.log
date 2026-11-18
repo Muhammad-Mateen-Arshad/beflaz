@@ -28682,3 +28682,6 @@
 [2026-11-18 07:34:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-18 07:38:56 PM] [DRAMAS_BOT] [SUCCESS] Published: 'Neuromancer:' Release date, cast & everything we know about Apple TV's new cyberpunk series
 [2026-11-18 07:39:10 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1767 in / 519 out tokens
+[2026-11-18 07:39:11 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-18 07:47:12 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Wageningen Africa Scholarship Programme 2027 Guide
+[2026-11-18 07:47:19 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1281 in / 554 out tokens
