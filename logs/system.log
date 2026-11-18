@@ -28520,3 +28520,6 @@
 [2026-11-18 11:34:24 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Rare dinosaur discovery: Palaeontologists may uncover new dinosaur spe
 [2026-11-18 11:35:09 AM] [HISTORY_BOT] [SUCCESS] Published: A five-metre dinosaur fossil found at a Surrey quarry in 2001 has been identified as a new species 25 years later; it has been named after a former works manager who died ...
 [2026-11-18 11:35:11 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 783 in / 308 out tokens
+[2026-11-18 12:24:35 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-18 12:24:35 PM] [NEWS_BOT] [SUCCESS] Published: Xi, Trump, Putin exchange first greetings in China ahead of historic meeting
+[2026-11-18 12:24:37 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1533 in / 496 out tokens
