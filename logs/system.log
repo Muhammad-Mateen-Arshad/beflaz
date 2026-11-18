@@ -28485,3 +28485,5 @@
 [2026-11-18 03:48:28 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-18 03:48:31 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-11-18 03:48:33 AM] [HISTORY_BOT] [ERROR] AI unavailable: All Gemini keys are rate-limited (429)
+[2026-11-18 11:30:10 AM] [NEWS_BOT] [SUCCESS] Published: 'He who claims equity must come with clean hands': Asif hits back at Bilawal
+[2026-11-18 11:30:13 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1569 in / 534 out tokens
