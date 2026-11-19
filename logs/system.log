@@ -29236,3 +29236,14 @@
 [2026-11-19 05:02:48 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-19 05:04:55 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Baba Guru Nanak Scholarship Programme in Pakistan
 [2026-11-19 05:04:55 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 967 in / 425 out tokens
+[2026-11-19 05:04:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-19 05:04:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-19 05:05:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2c39d7454749bb7722e43c9869f
+[2026-11-19 05:05:12 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
+[2026-11-19 05:05:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2c39d7454749bb7722e43c9869f
+[2026-11-19 05:05:13 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): FNCE 2026: Protein, Fiber, Gut Health and Personalized Nutrition Take 
+[2026-11-19 05:05:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2c39d7454749bb7722e43c9869f
+[2026-11-19 05:05:13 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-19 05:05:14 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 05:08:08 PM] [HEALTH_BOT] [SUCCESS] Published: Herbalife and Ulster University to collaborate on GLP-1 nutrition support research
+[2026-11-19 05:08:08 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1083 in / 590 out tokens
