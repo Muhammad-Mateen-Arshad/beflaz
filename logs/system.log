@@ -29107,3 +29107,16 @@
 [2026-11-19 11:30:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 295/400 chars, resolved=True): Bilawal stirs up 'political hornet’s nest,' calls for political reset 
 [2026-11-19 11:32:15 AM] [JOBS_BOT] [SUCCESS] Published: WAPDA KAPCO Ownership Stake Update 2026 Details
 [2026-11-19 11:32:15 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1103 in / 522 out tokens
+[2026-11-19 11:32:16 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-19 11:32:17 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-19 11:32:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afede414db6490bae7df7aa42ae23f
+[2026-11-19 11:32:28 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-19 11:32:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afede4de4414c5f87355568a53d0d5
+[2026-11-19 11:32:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 78/300 chars, resolved=True): The Circle season 8 release schedule: When do new episodes come out?
+[2026-11-19 11:32:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afede4de4414c5f87355568a53d0d5
+[2026-11-19 11:32:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Friday OTT releases (November 20, 2026): 11 new movies, shows to watch
+[2026-11-19 11:32:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afede4de4414c5f87355568a53d0d5
+[2026-11-19 11:32:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): November OTT releases: 10 new shows and movies premiering on Netflix, 
+[2026-11-19 11:32:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 270/300 chars, resolved=True): Line of Duty and Bad Sisters favourites star in first look at Irish fa
+[2026-11-19 11:33:35 AM] [DRAMAS_BOT] [SUCCESS] Published: Last Dinner: Prime Video’s Turkish romance whose director spent a year looking for another lead
+[2026-11-19 11:33:35 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1644 in / 469 out tokens
