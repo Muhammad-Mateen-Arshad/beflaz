@@ -29210,3 +29210,7 @@
 [2026-11-19 04:00:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-19 04:03:18 PM] [HISTORY_BOT] [SUCCESS] Published: Neutrons, death metal and a tiny prehistoric dragon
 [2026-11-19 04:03:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1586 in / 527 out tokens
+[2026-11-19 04:52:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-19 04:52:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 04:57:50 PM] [NEWS_BOT] [SUCCESS] Published: US, China, Russia sign ‘peace declaration’ after historic Trump, Xi, Putin meeting
+[2026-11-19 04:57:51 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1490 in / 439 out tokens
