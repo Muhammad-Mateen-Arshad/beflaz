@@ -28986,3 +28986,10 @@
 [2026-11-19 04:01:28 AM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
 [2026-11-19 04:45:05 AM] [NEWS_BOT] [SUCCESS] Published: Suparco warns of worsening smog across Punjab
 [2026-11-19 04:45:06 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1642 in / 581 out tokens
+[2026-11-19 04:45:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe7ed2cd844ddbb8ba8f0413cf40f
+[2026-11-19 04:45:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Growing poverty in Pakistan
+[2026-11-19 04:45:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe7ed2cd844ddbb8ba8f0413cf40f
+[2026-11-19 04:45:07 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): BAE Systems to axe more than 1,000 jobs under cost-saving plan
+[2026-11-19 04:45:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 04:45:43 AM] [JOBS_BOT] [SUCCESS] Published: Punjab Police Clearance Certificate Reforms 2026: Key Updates
+[2026-11-19 04:45:44 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1377 in / 573 out tokens
