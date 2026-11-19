@@ -29145,3 +29145,11 @@
 [2026-11-19 11:35:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afedf00fcb7464da30d6c2a749dbf6
 [2026-11-19 11:35:44 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
 [2026-11-19 11:35:44 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-19 11:35:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afedf10e0b04445aa7f1847a24b9c4
+[2026-11-19 11:35:45 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Ancient dinosaur fossil reveals surprising discovery that has been bur
+[2026-11-19 11:35:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afedf10e0b04445aa7f1847a24b9c4
+[2026-11-19 11:35:45 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A nearly complete dinosaur skull unearthed near a South African villag
+[2026-11-19 11:35:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afedf10e0b04445aa7f1847a24b9c4
+[2026-11-19 11:35:46 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 39/400 chars, resolved=True): Forgotten dinosaur fossil at London Natural History Museum identified
+[2026-11-19 11:36:42 AM] [HISTORY_BOT] [SUCCESS] Published: The 9 Most Wonderfully Weird Spots In Arizona That Truly Deserve Their Legendary Reputations
+[2026-11-19 11:36:43 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1552 in / 444 out tokens
