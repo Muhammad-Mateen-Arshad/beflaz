@@ -28885,3 +28885,22 @@
 [2026-11-19 03:33:25 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-19 03:33:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-19 03:34:26 AM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-19 03:34:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe6e44c7d94e608f8702018603689
+[2026-11-19 03:34:28 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Growing poverty in Pakistan
+[2026-11-19 03:34:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe6e44c7d94e608f8702018603689
+[2026-11-19 03:34:28 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): BAE Systems to axe more than 1,000 jobs under cost-saving plan
+[2026-11-19 03:34:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-19 03:34:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-19 03:34:48 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 03:34:50 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-19 03:34:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-19 03:35:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:35:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:36:20 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:36:50 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-19 03:36:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:37:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:37:58 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:38:29 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:38:59 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-11-19 03:39:01 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
