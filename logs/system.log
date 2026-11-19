@@ -29084,3 +29084,17 @@
 [2026-11-19 07:35:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
 [2026-11-19 07:35:51 AM] [HEALTH_BOT] [SUCCESS] Published: Could a common diabetes drug slow ageing? What doctors say about its potential and a key caveat
 [2026-11-19 07:35:52 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1435 in / 498 out tokens
+[2026-11-19 07:35:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea6d883dc4b8cbb6684ec6479175
+[2026-11-19 07:35:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Ancient dinosaur fossil reveals surprising discovery that has been bur
+[2026-11-19 07:35:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea6d883dc4b8cbb6684ec6479175
+[2026-11-19 07:35:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A nearly complete dinosaur skull unearthed near a South African villag
+[2026-11-19 07:35:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea6d883dc4b8cbb6684ec6479175
+[2026-11-19 07:35:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 39/400 chars, resolved=True): Forgotten dinosaur fossil at London Natural History Museum identified
+[2026-11-19 07:35:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea6d92db74157b2a40458c41c991
+[2026-11-19 07:35:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-19 07:35:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea6d92db74157b2a40458c41c991
+[2026-11-19 07:35:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is that a pterodactyl? Social media video spots something over Mexican
+[2026-11-19 07:35:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 244/400 chars, resolved=True): Latest Research and News
+[2026-11-19 07:35:54 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 233/400 chars, resolved=True): Archaeologists present newly discovered Maya sculptures in Northern Gu
+[2026-11-19 07:36:12 AM] [HISTORY_BOT] [SUCCESS] Published: Latest archaeological discoveries shedding new light on Yangtze River civilization
+[2026-11-19 07:36:13 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1324 in / 577 out tokens
