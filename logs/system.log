@@ -28925,3 +28925,28 @@
 [2026-11-19 03:44:59 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-19 03:45:40 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-19 03:46:10 AM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-19 03:46:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe7104e6e04c1cbb1a29e41bcbacc
+[2026-11-19 03:46:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Netherlands' university offers fully funded scholarships to African st
+[2026-11-19 03:46:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe7104e6e04c1cbb1a29e41bcbacc
+[2026-11-19 03:46:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Embassy Kenya announces deadline for 2027 fully funded Commonwealth
+[2026-11-19 03:46:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe7104719644a6b708a939c9dc853
+[2026-11-19 03:46:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): HEC opens GRE training applications, announces Chinese scholarships fo
+[2026-11-19 03:46:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe7104719644a6b708a939c9dc853
+[2026-11-19 03:46:13 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): SAU plans UG, PG, PhD scholarships for Maldivian students to boost reg
+[2026-11-19 03:46:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe7104719644a6b708a939c9dc853
+[2026-11-19 03:46:13 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): HEC asks universities to strengthen support for international scholars
+[2026-11-19 03:46:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-19 03:46:20 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 03:46:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-19 03:46:41 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-19 03:46:43 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-19 03:46:45 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-11-19 03:46:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:47:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:47:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:48:21 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:48:52 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:50:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:50:36 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:51:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 03:51:38 AM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
