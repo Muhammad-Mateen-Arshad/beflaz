@@ -29179,3 +29179,7 @@
 [2026-11-19 03:47:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-19 03:49:28 PM] [DRAMAS_BOT] [SUCCESS] Published: What the romances in this Turkish series can teach us about homeland and patriotism
 [2026-11-19 03:49:29 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1497 in / 524 out tokens
+[2026-11-19 03:49:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1a89d1364301b11a3e408eab5fe
+[2026-11-19 03:49:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Japan-World Bank Programme Offers 44 Fully Funded Master’s Scholarship
+[2026-11-19 03:53:35 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Ireland Fully Funded Scholarships for Gaza Students
+[2026-11-19 03:53:37 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1747 in / 433 out tokens
