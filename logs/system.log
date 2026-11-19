@@ -29270,3 +29270,7 @@
 [2026-11-19 05:11:58 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 421 in / 326 out tokens
 [2026-11-19 07:30:33 PM] [NEWS_BOT] [SUCCESS] Published: Govt snaps petrol price reduction spree as rate raised by Re1 per litre; diesel remains unchanged
 [2026-11-19 07:30:34 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1040 in / 498 out tokens
+[2026-11-19 07:30:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-19 07:30:44 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 07:32:08 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan SME Sector Job Creation Initiatives 2026
+[2026-11-19 07:32:08 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 820 in / 445 out tokens
