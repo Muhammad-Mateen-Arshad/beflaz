@@ -29057,3 +29057,14 @@
 [2026-11-19 07:34:23 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-19 07:34:42 AM] [JOBS_BOT] [SUCCESS] Published: AJK Supreme Court Ruling on PSC Recruitment Quotas
 [2026-11-19 07:34:43 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1243 in / 560 out tokens
+[2026-11-19 07:34:46 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-19 07:34:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-19 07:34:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea6974d224d18baabffb5317d45c
+[2026-11-19 07:34:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-19 07:34:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea697f418474ea48480999b014cd
+[2026-11-19 07:34:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 78/300 chars, resolved=True): The Circle season 8 release schedule: When do new episodes come out?
+[2026-11-19 07:34:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea697f418474ea48480999b014cd
+[2026-11-19 07:34:48 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 172/300 chars, resolved=True): Keira Knightley Netflix spy series Black Doves is back for season 2
+[2026-11-19 07:34:57 AM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (70 words, need 150)): Is expensive Maldon salt really healthier than the bog-standard table 
+[2026-11-19 07:35:10 AM] [DRAMAS_BOT] [SUCCESS] Published: Showbiz Today: Baby oil strictly for the furniture
+[2026-11-19 07:35:11 AM] [DRAMAS_BOT] [INFO] AI usage: 2 calls, 3173 in / 498 out tokens
