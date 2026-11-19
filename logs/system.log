@@ -29313,3 +29313,12 @@
 [2026-11-19 11:31:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-19 11:31:26 PM] [DRAMAS_BOT] [SUCCESS] Published: Rosario Dawson Drops First Look at Night Nurse in ‘Spider-Man: Brand New Day’ Re-Release as Her Cut Scenes Are Restored
 [2026-11-19 11:31:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1071 in / 422 out tokens
+[2026-11-19 11:31:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff86d066e842eb933328374a14260
+[2026-11-19 11:31:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Japan-World Bank Programme Offers 44 Fully Funded Master’s Scholarship
+[2026-11-19 11:31:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff86d066e842eb933328374a14260
+[2026-11-19 11:31:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Northampton school opens applications for 100% sixth form scholarships
+[2026-11-19 11:31:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff86d187cd420f9cdc87f583e0c2a
+[2026-11-19 11:31:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 126/400 chars, resolved=True): Pakistan evacuee board to offer scholarships to 200 Sikh, Hindu studen
+[2026-11-19 11:31:31 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 11:31:53 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: ETPB Baba Guru Nanak Scholarship Programme Details
+[2026-11-19 11:31:54 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 897 in / 486 out tokens
