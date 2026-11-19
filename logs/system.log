@@ -29214,3 +29214,7 @@
 [2026-11-19 04:52:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-19 04:57:50 PM] [NEWS_BOT] [SUCCESS] Published: US, China, Russia sign ‘peace declaration’ after historic Trump, Xi, Putin meeting
 [2026-11-19 04:57:51 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1490 in / 439 out tokens
+[2026-11-19 04:57:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2a8fc3944b6c928f65e77eaf32d
+[2026-11-19 04:57:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): BAE Systems to axe more than 1,000 jobs under cost-saving plan
+[2026-11-19 05:00:24 PM] [JOBS_BOT] [SUCCESS] Published: Methodist Church in Fiji Disaster Response Notice
+[2026-11-19 05:00:26 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 807 in / 407 out tokens
