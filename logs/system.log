@@ -29339,3 +29339,8 @@
 [2026-11-19 11:32:30 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-19 11:32:51 PM] [HEALTH_BOT] [SUCCESS] Published: Why Older Adults Take Longer to Bounce Back—and What to Do About It
 [2026-11-19 11:32:51 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1426 in / 423 out tokens
+[2026-11-19 11:32:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff8724d080443f9ad163a205491f8
+[2026-11-19 11:32:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Ancient dinosaur fossil reveals surprising discovery that has been bur
+[2026-11-19 11:32:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 11:33:09 PM] [HISTORY_BOT] [SUCCESS] Published: We May Have Found Dinosaur Blood in a Fossil, But That Doesn't Mean We're Close to Bringing Dinosaurs Back
+[2026-11-19 11:33:10 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1312 in / 440 out tokens
