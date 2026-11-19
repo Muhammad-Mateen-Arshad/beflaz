@@ -29227,3 +29227,12 @@
 [2026-11-19 05:00:48 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-19 05:02:45 PM] [DRAMAS_BOT] [SUCCESS] Published: “The Circle” Season 8 Release Schedule: When Do New Episodes Come Out?
 [2026-11-19 05:02:46 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1090 in / 419 out tokens
+[2026-11-19 05:02:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2bb6900c46dab6e380e5a3e3f41
+[2026-11-19 05:02:47 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Japan-World Bank Programme Offers 44 Fully Funded Master’s Scholarship
+[2026-11-19 05:02:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2bb6900c46dab6e380e5a3e3f41
+[2026-11-19 05:02:47 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Northampton school opens applications for 100% sixth form scholarships
+[2026-11-19 05:02:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2bb7f986459499ca860b776f1a5
+[2026-11-19 05:02:47 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 126/400 chars, resolved=True): Pakistan evacuee board to offer scholarships to 200 Sikh, Hindu studen
+[2026-11-19 05:02:48 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 05:04:55 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Baba Guru Nanak Scholarship Programme in Pakistan
+[2026-11-19 05:04:55 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 967 in / 425 out tokens
