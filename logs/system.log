@@ -29200,3 +29200,13 @@
 [2026-11-19 03:54:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1b93d99042c0852bb7c672ccd25
 [2026-11-19 03:54:12 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Physical Limitations and Low Social Participation Hinder Older Adults’
 [2026-11-19 03:54:12 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-19 03:54:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1ba499ea41f4bff4fa67ae83794
+[2026-11-19 03:54:13 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Ancient dinosaur fossil reveals surprising discovery that has been bur
+[2026-11-19 03:54:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1ba499ea41f4bff4fa67ae83794
+[2026-11-19 03:54:13 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Roaring back: Hong Kong’s 100 million-year-old dinosaur fossil makes i
+[2026-11-19 03:54:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1ba499ea41f4bff4fa67ae83794
+[2026-11-19 03:54:13 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): A giant 85-foot dinosaur buried for 147 million years was accidentally
+[2026-11-19 03:59:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-19 04:00:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-19 04:03:18 PM] [HISTORY_BOT] [SUCCESS] Published: Neutrons, death metal and a tiny prehistoric dragon
+[2026-11-19 04:03:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1586 in / 527 out tokens
