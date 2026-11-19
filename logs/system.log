@@ -28984,3 +28984,5 @@
 [2026-11-19 04:00:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-19 04:01:26 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-11-19 04:01:28 AM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-19 04:45:05 AM] [NEWS_BOT] [SUCCESS] Published: Suparco warns of worsening smog across Punjab
+[2026-11-19 04:45:06 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1642 in / 581 out tokens
