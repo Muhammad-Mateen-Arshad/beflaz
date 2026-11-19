@@ -29183,3 +29183,20 @@
 [2026-11-19 03:49:29 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Japan-World Bank Programme Offers 44 Fully Funded Master’s Scholarship
 [2026-11-19 03:53:35 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Ireland Fully Funded Scholarships for Gaza Students
 [2026-11-19 03:53:37 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1747 in / 433 out tokens
+[2026-11-19 03:53:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-19 03:53:39 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-19 03:53:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1b83fb9140fba4e8f45bb3b1e0a
+[2026-11-19 03:53:54 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
+[2026-11-19 03:53:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1b83fb9140fba4e8f45bb3b1e0a
+[2026-11-19 03:53:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): FNCE 2026: Protein, Fiber, Gut Health and Personalized Nutrition Take 
+[2026-11-19 03:53:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1b83fb9140fba4e8f45bb3b1e0a
+[2026-11-19 03:53:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-19 03:53:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1b93d99042c0852bb7c672ccd25
+[2026-11-19 03:53:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-19 03:54:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1b93d99042c0852bb7c672ccd25
+[2026-11-19 03:54:11 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-19 03:54:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1b93d99042c0852bb7c672ccd25
+[2026-11-19 03:54:11 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 199/800 chars, resolved=True): Daily peanut consumption may improve brain insulin responsiveness in o
+[2026-11-19 03:54:12 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff1b93d99042c0852bb7c672ccd25
+[2026-11-19 03:54:12 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Physical Limitations and Low Social Participation Hinder Older Adults’
+[2026-11-19 03:54:12 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
