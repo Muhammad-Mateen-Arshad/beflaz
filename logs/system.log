@@ -29304,3 +29304,12 @@
 [2026-11-19 11:29:59 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1602 in / 576 out tokens
 [2026-11-19 11:30:57 PM] [JOBS_BOT] [SUCCESS] Published: Govt Rs 2 Trillion Small Business Loans Overview
 [2026-11-19 11:30:58 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1062 in / 471 out tokens
+[2026-11-19 11:30:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-19 11:31:01 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-19 11:31:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff86b5ddcc4b12b34604d16ceed2f
+[2026-11-19 11:31:02 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-19 11:31:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff86b6b65744fda9eeba7027211bc
+[2026-11-19 11:31:02 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Rosario Dawson shows off her Night Nurse cameo in 'Spider-Man: Brand N
+[2026-11-19 11:31:02 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 11:31:26 PM] [DRAMAS_BOT] [SUCCESS] Published: Rosario Dawson Drops First Look at Night Nurse in ‘Spider-Man: Brand New Day’ Re-Release as Her Cut Scenes Are Restored
+[2026-11-19 11:31:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1071 in / 422 out tokens
