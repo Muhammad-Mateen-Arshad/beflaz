@@ -29247,3 +29247,24 @@
 [2026-11-19 05:05:14 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-19 05:08:08 PM] [HEALTH_BOT] [SUCCESS] Published: Herbalife and Ulster University to collaborate on GLP-1 nutrition support research
 [2026-11-19 05:08:08 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1083 in / 590 out tokens
+[2026-11-19 05:08:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2cf9730e48ba95a72facb2cd153
+[2026-11-19 05:08:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Ancient dinosaur fossil reveals surprising discovery that has been bur
+[2026-11-19 05:08:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2cf9730e48ba95a72facb2cd153
+[2026-11-19 05:08:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Roaring back: Hong Kong’s 100 million-year-old dinosaur fossil makes i
+[2026-11-19 05:08:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2cf9730e48ba95a72facb2cd153
+[2026-11-19 05:08:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): A giant 85-foot dinosaur buried for 147 million years was accidentally
+[2026-11-19 05:08:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2cfa28a4495a8159267552f20e5
+[2026-11-19 05:08:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-19 05:08:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2cfa28a4495a8159267552f20e5
+[2026-11-19 05:08:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is that a pterodactyl? Social media video spots something over Mexican
+[2026-11-19 05:08:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 246/400 chars, resolved=True): Latest Research and News
+[2026-11-19 05:08:13 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 05:08:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-19 05:08:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-19 05:08:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-19 05:09:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-19 05:09:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 05:09:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 05:10:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 05:11:57 PM] [HISTORY_BOT] [SUCCESS] Published: Four major archaeological findings give new insight into Yangtze River civilization
+[2026-11-19 05:11:58 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 421 in / 326 out tokens
