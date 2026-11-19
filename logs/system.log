@@ -29120,3 +29120,11 @@
 [2026-11-19 11:32:30 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 270/300 chars, resolved=True): Line of Duty and Bad Sisters favourites star in first look at Irish fa
 [2026-11-19 11:33:35 AM] [DRAMAS_BOT] [SUCCESS] Published: Last Dinner: Prime Video’s Turkish romance whose director spent a year looking for another lead
 [2026-11-19 11:33:35 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1644 in / 469 out tokens
+[2026-11-19 11:33:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afede90305b4b8e95bef18443f5679
+[2026-11-19 11:33:36 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Japan-World Bank Programme Offers 44 Fully Funded Master’s Scholarship
+[2026-11-19 11:33:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afede90305b4b8e95bef18443f5679
+[2026-11-19 11:33:37 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Netherlands' university offers fully funded scholarships to African st
+[2026-11-19 11:33:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afede90305b4b8e95bef18443f5679
+[2026-11-19 11:33:37 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Embassy Kenya announces deadline for 2027 fully funded Commonwealth
+[2026-11-19 11:35:23 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Chevening Scholarship UK Master's Programme Details
+[2026-11-19 11:35:24 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1198 in / 459 out tokens
