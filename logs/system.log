@@ -29295,3 +29295,8 @@
 [2026-11-19 07:34:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
 [2026-11-19 07:35:47 PM] [HEALTH_BOT] [SUCCESS] Published: Novo launches the new Novocare®: Free support program connects people with Wegovy® in addition to home delivery, everyday support, wellness partners and rewards
 [2026-11-19 07:35:49 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1522 in / 493 out tokens
+[2026-11-19 07:35:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff4f95278f4f8d8c8bc8a63be48c5
+[2026-11-19 07:35:49 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Ancient dinosaur fossil reveals surprising discovery that has been bur
+[2026-11-19 07:35:50 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 07:36:20 PM] [HISTORY_BOT] [SUCCESS] Published: Neutrons, death metal and a tiny prehistoric dragon: Scans reveal new horned reptile species from 156 million years ago
+[2026-11-19 07:36:21 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1577 in / 484 out tokens
