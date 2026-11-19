@@ -29156,3 +29156,22 @@
 [2026-11-19 03:33:54 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-19 03:33:55 PM] [NEWS_BOT] [SUCCESS] Published: President, PM agree on resolving 'all matters' through dialogue amid rising political temperatures
 [2026-11-19 03:33:55 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 978 in / 503 out tokens
+[2026-11-19 03:33:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff16e4702d400ca7d3fd162b0f5e8
+[2026-11-19 03:33:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 143/400 chars, resolved=True): Growing Poverty in Pakistan
+[2026-11-19 03:33:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff16e4702d400ca7d3fd162b0f5e8
+[2026-11-19 03:33:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): BAE Systems to axe more than 1,000 jobs under cost-saving plan
+[2026-11-19 03:33:58 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 295/400 chars, resolved=True): Bilawal stirs up 'political hornet’s nest,' calls for political reset 
+[2026-11-19 03:33:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff16e61c0947569a6ec07fa80ba43
+[2026-11-19 03:33:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Punjab PCS exam 2026: High Court stays PPSC recruitment process amid i
+[2026-11-19 03:33:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff16e61c0947569a6ec07fa80ba43
+[2026-11-19 03:33:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Rescue 1122 Jobs 2026 CTS Apply Online for Drivers, Fire Rescuers & Ot
+[2026-11-19 03:33:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff16e61c0947569a6ec07fa80ba43
+[2026-11-19 03:33:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Health & Population Department Punjab Jobs 2026 for 527 Surveillance A
+[2026-11-19 03:34:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-19 03:34:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-19 03:34:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-19 03:34:34 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-19 03:34:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-19 03:38:30 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Job Moves
+[2026-11-19 03:47:42 PM] [JOBS_BOT] [SUCCESS] Published: SPSC Job Announcement 2026: Apply by December 14
+[2026-11-19 03:47:43 PM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3249 in / 1370 out tokens
