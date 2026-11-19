@@ -29068,3 +29068,11 @@
 [2026-11-19 07:34:57 AM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (70 words, need 150)): Is expensive Maldon salt really healthier than the bog-standard table 
 [2026-11-19 07:35:10 AM] [DRAMAS_BOT] [SUCCESS] Published: Showbiz Today: Baby oil strictly for the furniture
 [2026-11-19 07:35:11 AM] [DRAMAS_BOT] [INFO] AI usage: 2 calls, 3173 in / 498 out tokens
+[2026-11-19 07:35:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea6af710645808d9331d23cc8dc9
+[2026-11-19 07:35:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Japan-World Bank Programme Offers 44 Fully Funded Master’s Scholarship
+[2026-11-19 07:35:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea6af710645808d9331d23cc8dc9
+[2026-11-19 07:35:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 165/400 chars, resolved=True): Netherlands' university offers fully funded scholarships to African st
+[2026-11-19 07:35:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea6af710645808d9331d23cc8dc9
+[2026-11-19 07:35:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): UK Embassy Kenya announces deadline for 2027 fully funded Commonwealth
+[2026-11-19 07:35:29 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Chinese Government Scholarship 2027-28 for Pakistan
+[2026-11-19 07:35:29 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1003 in / 598 out tokens
