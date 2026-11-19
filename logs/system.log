@@ -29036,3 +29036,19 @@
 [2026-11-19 04:51:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe803175b44ae281f9129c1bcd327
 [2026-11-19 04:51:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
 [2026-11-19 04:51:14 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-19 04:51:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe80422b6d444c916120e4478c836
+[2026-11-19 04:51:14 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Ancient dinosaur fossil reveals surprising discovery that has been bur
+[2026-11-19 04:51:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe80422b6d444c916120e4478c836
+[2026-11-19 04:51:15 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Rare dinosaur discovery: Palaeontologists may uncover new dinosaur spe
+[2026-11-19 04:51:15 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-19 04:51:17 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-19 04:52:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-19 04:52:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-19 04:53:10 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-19 04:53:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 04:53:48 AM] [AI_BOT] [INFO] Switched to Gemini key 5 of 5
+[2026-11-19 04:53:53 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 04:54:50 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 04:56:15 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-19 04:57:01 AM] [HISTORY_BOT] [SUCCESS] Published: ‘I Was Jumping Up And Down’: Scientists Believe They’ve Just Uncovered The First Dinosaur Blood Ever Found
+[2026-11-19 04:57:02 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1395 in / 548 out tokens
