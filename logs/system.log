@@ -29548,3 +29548,16 @@
 [2026-11-20 12:19:03 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 3, 'thin': 3, 'already_seen': 13}
 [2026-11-20 12:19:39 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PWWF COMSATS Free Education Scholarship Scheme 2027
 [2026-11-20 12:19:40 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1608 in / 806 out tokens
+[2026-11-20 12:19:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-20 12:19:41 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-20 12:19:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003addc2e74d77808387aa6d668fd
+[2026-11-20 12:19:42 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): FNCE 2026: Protein, Fiber, Gut Health and Personalized Nutrition Take 
+[2026-11-20 12:19:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003addc2e74d77808387aa6d668fd
+[2026-11-20 12:19:42 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-20 12:19:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003ade838b4c3eb581645b8b56941
+[2026-11-20 12:19:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-20 12:19:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003ade838b4c3eb581645b8b56941
+[2026-11-20 12:19:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
+[2026-11-20 12:19:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003ade838b4c3eb581645b8b56941
+[2026-11-20 12:19:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
+[2026-11-20 12:19:43 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
