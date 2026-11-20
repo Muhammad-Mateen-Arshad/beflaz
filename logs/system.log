@@ -29496,3 +29496,8 @@
 [2026-11-20 07:46:04 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1523 in / 458 out tokens
 [2026-11-20 11:31:02 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan’s natural resources worth $8-10tr at 'most conservative estimate', says Dar
 [2026-11-20 11:31:04 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1157 in / 497 out tokens
+[2026-11-20 11:31:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b002f7848724aa9bbdc8312b965cc6
+[2026-11-20 11:31:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Indus ire forgotten? Wadettiwar takes dig at Centre over Pakistan mini
+[2026-11-20 11:34:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-20 11:34:58 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Job Market Update: Population Emergency Declared
+[2026-11-20 11:34:59 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1093 in / 538 out tokens
