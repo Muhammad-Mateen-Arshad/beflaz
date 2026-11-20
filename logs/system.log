@@ -29620,3 +29620,11 @@
 [2026-11-20 03:35:53 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1474 in / 576 out tokens
 [2026-11-20 07:29:51 PM] [NEWS_BOT] [SUCCESS] Published: Minister insists referendum on new provinces 'will happen'
 [2026-11-20 07:29:52 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1550 in / 498 out tokens
+[2026-11-20 07:29:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b009fb07d584d619cead636e0185ea
+[2026-11-20 07:29:53 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Indus ire forgotten? Wadettiwar takes dig at Centre over Pakistan mini
+[2026-11-20 07:29:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b009fb07d584d619cead636e0185ea
+[2026-11-20 07:29:53 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Bilawal will be responsible for any bloodshed over new provinces: Kama
+[2026-11-20 07:29:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b009fb07d584d619cead636e0185ea
+[2026-11-20 07:29:53 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Israel Just Handed Donald Trump a Giant Clue That It Wants to Start Bo
+[2026-11-20 07:30:16 PM] [JOBS_BOT] [SUCCESS] Published: Rahim Yar Khan Sugar Mills Crushing Updates Notice
+[2026-11-20 07:30:16 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 727 in / 391 out tokens
