@@ -29579,3 +29579,6 @@
 [2026-11-20 03:30:06 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Newspaper - Front Page - November 20, 2026
 [2026-11-20 03:31:39 PM] [JOBS_BOT] [SUCCESS] Published: 25,000 Federal Jobs Announced for Balochistan Youth
 [2026-11-20 03:31:40 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 913 in / 559 out tokens
+[2026-11-20 03:31:42 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-20 03:31:59 PM] [DRAMAS_BOT] [SUCCESS] Published: New shows & movies to watch this weekend: ‘The Altruists’ on Netflix + more
+[2026-11-20 03:32:02 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1341 in / 483 out tokens
