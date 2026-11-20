@@ -29484,3 +29484,9 @@
 [2026-11-20 07:39:44 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-20 07:41:23 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Rise Empowerment Foundation Scholarship Overview
 [2026-11-20 07:41:24 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1358 in / 367 out tokens
+[2026-11-20 07:41:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-20 07:41:26 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-20 07:41:28 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-20 07:41:30 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-20 07:44:39 AM] [HEALTH_BOT] [SUCCESS] Published: Are Your Plant-Based Meat Alternatives Hiding Fungal Toxins?
+[2026-11-20 07:44:39 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1001 in / 483 out tokens
