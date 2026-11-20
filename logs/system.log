@@ -29705,3 +29705,12 @@
 [2026-11-20 11:34:06 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-20 11:34:06 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC Chinese Government Scholarships 2027-28 for Pakistan
 [2026-11-20 11:34:06 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 930 in / 572 out tokens
+[2026-11-20 11:34:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-20 11:34:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-20 11:34:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d8f0057247698fecddd6196effd
+[2026-11-20 11:34:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-20 11:34:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d8f0b60b4c6abb4f2d3dab4f76a
+[2026-11-20 11:34:09 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-20 11:34:10 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-20 11:35:08 PM] [HEALTH_BOT] [SUCCESS] Published: Resistance training could help boost brain health and confidence in older adults
+[2026-11-20 11:35:08 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1526 in / 577 out tokens
