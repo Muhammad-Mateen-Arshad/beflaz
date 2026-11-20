@@ -29370,3 +29370,13 @@
 [2026-11-20 01:28:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Friday OTT releases (November 20, 2026): 11 new movies, shows to watch
 [2026-11-20 01:29:06 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Unveils Trailer for Colombian Series Based on Marvel Moreno Novel
 [2026-11-20 01:29:06 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1420 in / 518 out tokens
+[2026-11-20 01:29:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa2636cc645578a27ab3e4e5ef48
+[2026-11-20 01:29:07 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Japan-World Bank Programme Offers 44 Fully Funded Master’s Scholarship
+[2026-11-20 01:29:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa2636cc645578a27ab3e4e5ef48
+[2026-11-20 01:29:07 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Northampton school opens applications for 100% sixth form scholarships
+[2026-11-20 01:29:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa263cb7f497da1fd3a8b1c08fa5
+[2026-11-20 01:29:08 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 126/400 chars, resolved=True): Pakistan evacuee board to offer scholarships to 200 Sikh, Hindu studen
+[2026-11-20 01:29:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa263cb7f497da1fd3a8b1c08fa5
+[2026-11-20 01:29:09 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): President Zardari calls for swift implementation of 20 MoUs signed wit
+[2026-11-20 01:29:28 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistan Scholarships for Maldivian Students Guide
+[2026-11-20 01:29:29 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 842 in / 385 out tokens
