@@ -29546,3 +29546,5 @@
 [2026-11-20 12:19:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003ab721f94504a2ee500cc893872
 [2026-11-20 12:19:03 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): OTT releases this week (November 20,2026): List of latest movies and s
 [2026-11-20 12:19:03 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 3, 'thin': 3, 'already_seen': 13}
+[2026-11-20 12:19:39 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PWWF COMSATS Free Education Scholarship Scheme 2027
+[2026-11-20 12:19:40 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1608 in / 806 out tokens
