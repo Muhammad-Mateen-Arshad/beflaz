@@ -29611,3 +29611,10 @@
 [2026-11-20 03:35:03 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
 [2026-11-20 03:35:03 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1202 in / 493 out tokens
 [2026-11-20 03:35:03 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'tried': 7, 'rejected': 1, 'already_seen': 13, 'thin': 6}
+[2026-11-20 03:35:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0068a868174070966e0440e72b430
+[2026-11-20 03:35:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Duck-billed dinosaur discovered in Italy had a birdlike beak hidden am
+[2026-11-20 03:35:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0068a868174070966e0440e72b430
+[2026-11-20 03:35:04 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 45/400 chars, resolved=True): 3 new dinosaurs coming to Pittsburgh's Carnegie Museum of Natural Hist
+[2026-11-20 03:35:05 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-20 03:35:52 PM] [HISTORY_BOT] [SUCCESS] Published: 67-Million-Year-Old T. Rex to Make UK Debut in Portsmouth
+[2026-11-20 03:35:53 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1474 in / 576 out tokens
