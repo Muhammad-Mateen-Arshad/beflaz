@@ -29561,3 +29561,8 @@
 [2026-11-20 12:19:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003ade838b4c3eb581645b8b56941
 [2026-11-20 12:19:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
 [2026-11-20 12:19:43 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-20 12:19:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003adf82384078927fba4db56fa4f
+[2026-11-20 12:19:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Roaring back: Hong Kong’s 100 million-year-old dinosaur fossil makes i
+[2026-11-20 12:19:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-20 12:21:39 PM] [HISTORY_BOT] [SUCCESS] Published: Hong Kong's first dinosaur fossils go on display, revealing a giant over 20 meters long
+[2026-11-20 12:21:40 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1171 in / 361 out tokens
