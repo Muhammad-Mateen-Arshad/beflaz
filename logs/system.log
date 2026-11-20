@@ -29568,3 +29568,14 @@
 [2026-11-20 12:21:40 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1171 in / 361 out tokens
 [2026-11-20 03:30:02 PM] [NEWS_BOT] [SUCCESS] Published: FO rejects India's 'undiplomatic, irresponsible' remarks about Pakistan's mineral wealth
 [2026-11-20 03:30:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1066 in / 455 out tokens
+[2026-11-20 03:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00677c7f9f47dfbf44a9231156f31
+[2026-11-20 03:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Indus ire forgotten? Wadettiwar takes dig at Centre over Pakistan mini
+[2026-11-20 03:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00677c7f9f47dfbf44a9231156f31
+[2026-11-20 03:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Bilawal will be responsible for any bloodshed over new provinces: Kama
+[2026-11-20 03:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00677c7f9f47dfbf44a9231156f31
+[2026-11-20 03:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Israel Just Handed Donald Trump a Giant Clue That It Wants to Start Bo
+[2026-11-20 03:30:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 247/400 chars, resolved=True): Bilawal backs Shehbaz for historic five-year stint
+[2026-11-20 03:30:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00677c84c34c2e9e22e9a211bdf81
+[2026-11-20 03:30:06 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Newspaper - Front Page - November 20, 2026
+[2026-11-20 03:31:39 PM] [JOBS_BOT] [SUCCESS] Published: 25,000 Federal Jobs Announced for Balochistan Youth
+[2026-11-20 03:31:40 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 913 in / 559 out tokens
