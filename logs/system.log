@@ -29648,3 +29648,10 @@
 [2026-11-20 07:33:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 898 in / 426 out tokens
 [2026-11-20 10:25:13 PM] [NEWS_BOT] [SUCCESS] Published: Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre
 [2026-11-20 10:25:18 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1046 in / 572 out tokens
+[2026-11-20 10:25:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00c8cfb71247d68e3aa7c6c794580
+[2026-11-20 10:25:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Indus ire forgotten? Wadettiwar takes dig at Centre over Pakistan mini
+[2026-11-20 10:25:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00c8cfb71247d68e3aa7c6c794580
+[2026-11-20 10:25:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Bilawal will be responsible for any bloodshed over new provinces: Kama
+[2026-11-20 10:26:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-20 10:26:22 PM] [JOBS_BOT] [SUCCESS] Published: Federal Government Officers Transfers and Postings 2026
+[2026-11-20 10:26:27 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 808 in / 501 out tokens
