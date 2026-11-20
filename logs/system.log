@@ -29646,3 +29646,5 @@
 [2026-11-20 07:32:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 45/400 chars, resolved=True): 3 new dinosaurs coming to Pittsburgh's Carnegie Museum of Natural Hist
 [2026-11-20 07:33:17 PM] [HISTORY_BOT] [SUCCESS] Published: Trinity the T-Rex to arrive in UK for the first time in 2027
 [2026-11-20 07:33:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 898 in / 426 out tokens
+[2026-11-20 10:25:13 PM] [NEWS_BOT] [SUCCESS] Published: Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre
+[2026-11-20 10:25:18 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1046 in / 572 out tokens
