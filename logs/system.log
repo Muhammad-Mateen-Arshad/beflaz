@@ -29684,3 +29684,8 @@
 [2026-11-20 11:30:27 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-20 11:31:43 PM] [JOBS_BOT] [SUCCESS] Published: 1st Special Forces Command Airborne Information and Roles
 [2026-11-20 11:31:44 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1617 in / 363 out tokens
+[2026-11-20 11:31:46 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-20 11:31:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-20 11:31:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-20 11:32:50 PM] [DRAMAS_BOT] [SUCCESS] Published: Every Harlan Coben Series Coming Soon to Netflix: 2027 and Beyond
+[2026-11-20 11:32:51 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1752 in / 568 out tokens
