@@ -29667,3 +29667,10 @@
 [2026-11-20 10:27:24 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-20 10:27:41 PM] [HEALTH_BOT] [SUCCESS] Published: The Future of Aging Well May Have More to Do With Your Cells Than Your Skin Care Routine
 [2026-11-20 10:27:49 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1422 in / 534 out tokens
+[2026-11-20 10:27:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00c96594ca4cd882e1a34682931e6
+[2026-11-20 10:27:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Mystery Skeleton Buried in Sandstone Revealed to Be Tiny Jurassic "Dra
+[2026-11-20 10:27:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00c96594ca4cd882e1a34682931e6
+[2026-11-20 10:27:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 45/400 chars, resolved=True): 3 new dinosaurs coming to Pittsburgh's Carnegie Museum of Natural Hist
+[2026-11-20 10:27:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-20 10:28:08 PM] [HISTORY_BOT] [SUCCESS] Published: Giant T. rex skeleton as long as a double-decker bus to go on display in UK for first time
+[2026-11-20 10:28:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 932 in / 555 out tokens
