@@ -29423,3 +29423,20 @@
 [2026-11-20 03:31:57 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-20 03:32:18 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC GRE Training: US-Pakistan Scholarship Program 2026
 [2026-11-20 03:32:19 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1139 in / 541 out tokens
+[2026-11-20 03:32:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-20 03:32:21 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-20 03:32:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf458ac1452b9423de478c20038
+[2026-11-20 03:32:36 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
+[2026-11-20 03:32:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf458ac1452b9423de478c20038
+[2026-11-20 03:32:37 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): FNCE 2026: Protein, Fiber, Gut Health and Personalized Nutrition Take 
+[2026-11-20 03:32:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf458ac1452b9423de478c20038
+[2026-11-20 03:32:37 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-20 03:32:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf458ac1452b9423de478c20038
+[2026-11-20 03:32:37 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-20 03:32:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf5699ad4fc9b2b930ba0f75a0a
+[2026-11-20 03:32:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-20 03:32:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf5699ad4fc9b2b930ba0f75a0a
+[2026-11-20 03:32:54 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): The Best In-Person Fitness Classes for Older Adults: A Guide to Stayin
+[2026-11-20 03:32:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf5699ad4fc9b2b930ba0f75a0a
+[2026-11-20 03:32:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Lower Estimated Fitness Linked to Cardiometabolic Multimorbidity in Ol
+[2026-11-20 03:32:55 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
