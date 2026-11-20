@@ -29346,3 +29346,19 @@
 [2026-11-19 11:33:10 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1312 in / 440 out tokens
 [2026-11-20 01:28:38 AM] [NEWS_BOT] [SUCCESS] Published: NCCIA claims uncovering network allegedly involved in up to Rs1tr betting, money laundering
 [2026-11-20 01:28:39 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1342 in / 583 out tokens
+[2026-11-20 01:28:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa247a5a04df69e31f95dd6a7cda
+[2026-11-20 01:28:39 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Israel Just Handed Donald Trump a Giant Clue That It Wants to Start Bo
+[2026-11-20 01:28:40 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 295/400 chars, resolved=True): Pakistan, Asean agree to deepen cooperation on security, trade and reg
+[2026-11-20 01:28:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa2478f8f476e935d9fe0f93c155
+[2026-11-20 01:28:40 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Newspaper - Front Page - November 19, 2026
+[2026-11-20 01:28:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa24854ac4279a5051829e63a79c
+[2026-11-20 01:28:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan military says it killed 22 militants in raids on hideouts in 
+[2026-11-20 01:28:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa249cf354af6baec6bd01b9a41f
+[2026-11-20 01:28:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Newspaper - Front Page - November 19, 2026
+[2026-11-20 01:28:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa24964164647af6cfabcb3e4eff
+[2026-11-20 01:28:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Punjab PCS exam 2026: High Court stays PPSC recruitment process amid i
+[2026-11-20 01:28:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa24964164647af6cfabcb3e4eff
+[2026-11-20 01:28:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Rescue 1122 Jobs 2026 CTS Apply Online for Drivers, Fire Rescuers & Ot
+[2026-11-20 01:28:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa24964164647af6cfabcb3e4eff
+[2026-11-20 01:28:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): 8 Best Free Job Posting Sites
+[2026-11-20 01:28:42 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
