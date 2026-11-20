@@ -29362,3 +29362,11 @@
 [2026-11-20 01:28:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa24964164647af6cfabcb3e4eff
 [2026-11-20 01:28:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): 8 Best Free Job Posting Sites
 [2026-11-20 01:28:42 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
+[2026-11-20 01:28:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-20 01:28:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-20 01:28:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa24bf695489391e2ab02604e57c
+[2026-11-20 01:28:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 71/300 chars, resolved=True): 3 new Netflix shows you should binge-watch this weekend (Nov. 13-15)
+[2026-11-20 01:28:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa24ce77a48f198e17917dbf1479
+[2026-11-20 01:28:44 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 200/300 chars, resolved=True): Friday OTT releases (November 20, 2026): 11 new movies, shows to watch
+[2026-11-20 01:29:06 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix Unveils Trailer for Colombian Series Based on Marvel Moreno Novel
+[2026-11-20 01:29:06 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1420 in / 518 out tokens
