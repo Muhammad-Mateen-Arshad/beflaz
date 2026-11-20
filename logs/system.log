@@ -29501,3 +29501,10 @@
 [2026-11-20 11:34:02 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-20 11:34:58 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Job Market Update: Population Emergency Declared
 [2026-11-20 11:34:59 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1093 in / 538 out tokens
+[2026-11-20 11:35:00 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-20 11:35:01 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-20 11:35:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0030669f8c4a50bd029c98cf84139
+[2026-11-20 11:35:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 195/300 chars, resolved=True): Rosario Dawson Shows Off Her Night Nurse Cameo in 'Spider-Man: Brand N
+[2026-11-20 11:35:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0030669f8c4a50bd029c98cf84139
+[2026-11-20 11:35:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 143/300 chars, resolved=True): Netflix's most-watched thriller series of 2026 so far is one of its be
+[2026-11-20 11:35:02 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 4, 'thin': 4, 'already_seen': 13}
