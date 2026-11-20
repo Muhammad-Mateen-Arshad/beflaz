@@ -29508,3 +29508,17 @@
 [2026-11-20 11:35:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0030669f8c4a50bd029c98cf84139
 [2026-11-20 11:35:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 143/300 chars, resolved=True): Netflix's most-watched thriller series of 2026 so far is one of its be
 [2026-11-20 11:35:02 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 4, 'thin': 4, 'already_seen': 13}
+[2026-11-20 11:35:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0030669d794864b38903356eb00a2
+[2026-11-20 11:35:03 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): UK launches KSh 6.8 billion platform to help Kenyan businesses find in
+[2026-11-20 11:35:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0030669d794864b38903356eb00a2
+[2026-11-20 11:35:03 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Planning to study in New Zealand? AUT scholarship applications for Ind
+[2026-11-20 11:35:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0030669d794864b38903356eb00a2
+[2026-11-20 11:35:03 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Applications open for Global Citizen Scholarship
+[2026-11-20 11:35:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0030669d794864b38903356eb00a2
+[2026-11-20 11:35:03 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Whitmer mulls federal education tax credit as Democrats urge rejection
+[2026-11-20 11:35:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003067df234dbc83b3cf56a43c920
+[2026-11-20 11:35:03 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 126/400 chars, resolved=True): Pakistan evacuee board to offer scholarships to 200 Sikh, Hindu studen
+[2026-11-20 11:35:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003067df234dbc83b3cf56a43c920
+[2026-11-20 11:35:04 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Planning to study in New Zealand? AUT scholarship applications for Ind
+[2026-11-20 11:36:04 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Sindh AI and Nursing Scholarships: PEF Expansion
+[2026-11-20 11:36:05 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 834 in / 470 out tokens
