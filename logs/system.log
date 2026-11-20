@@ -29640,3 +29640,9 @@
 [2026-11-20 07:31:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
 [2026-11-20 07:32:48 PM] [HEALTH_BOT] [SUCCESS] Published: A Handful of Pistachios May Help You Sleep Better
 [2026-11-20 07:32:49 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 944 in / 513 out tokens
+[2026-11-20 07:32:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00a06217f042deb188ad6e5c64b9b
+[2026-11-20 07:32:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): Sighting Dragons in the Field: An Exhibition of Dinosaur Fossils from 
+[2026-11-20 07:32:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00a06217f042deb188ad6e5c64b9b
+[2026-11-20 07:32:50 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 45/400 chars, resolved=True): 3 new dinosaurs coming to Pittsburgh's Carnegie Museum of Natural Hist
+[2026-11-20 07:33:17 PM] [HISTORY_BOT] [SUCCESS] Published: Trinity the T-Rex to arrive in UK for the first time in 2027
+[2026-11-20 07:33:18 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 898 in / 426 out tokens
