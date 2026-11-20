@@ -29689,3 +29689,19 @@
 [2026-11-20 11:31:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-20 11:32:50 PM] [DRAMAS_BOT] [SUCCESS] Published: Every Harlan Coben Series Coming Soon to Netflix: 2027 and Beyond
 [2026-11-20 11:32:51 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1752 in / 568 out tokens
+[2026-11-20 11:32:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d8a30baf4bba95fe3559ec58d59
+[2026-11-20 11:32:52 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Planning to study in New Zealand? AUT scholarship applications for Ind
+[2026-11-20 11:32:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d8a30baf4bba95fe3559ec58d59
+[2026-11-20 11:32:52 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Applications open for Global Citizen Scholarship
+[2026-11-20 11:32:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d8a455f5400ea2c7468d55e5902
+[2026-11-20 11:32:52 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Planning to study in New Zealand? AUT scholarship applications for Ind
+[2026-11-20 11:32:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d8a455f5400ea2c7468d55e5902
+[2026-11-20 11:32:52 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Punjab: Pak body to award scholarship to 200 Sikh, Hindu students from
+[2026-11-20 11:32:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d8a455f5400ea2c7468d55e5902
+[2026-11-20 11:32:52 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): Pakistan-Turkey Friendship Finds New Strength In Student Exchanges – O
+[2026-11-20 11:32:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d8a4455f48f7a326308472eafa2
+[2026-11-20 11:32:53 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): HEC announces Chinese government scholarship programme for Pakistani s
+[2026-11-20 11:32:54 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-20 11:34:06 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-20 11:34:06 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC Chinese Government Scholarships 2027-28 for Pakistan
+[2026-11-20 11:34:06 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 930 in / 572 out tokens
