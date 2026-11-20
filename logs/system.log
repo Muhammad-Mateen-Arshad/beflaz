@@ -29582,3 +29582,17 @@
 [2026-11-20 03:31:42 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-20 03:31:59 PM] [DRAMAS_BOT] [SUCCESS] Published: New shows & movies to watch this weekend: ‘The Altruists’ on Netflix + more
 [2026-11-20 03:32:02 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1341 in / 483 out tokens
+[2026-11-20 03:32:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0067f37c2344caa323c2d92a31119
+[2026-11-20 03:32:03 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): UK launches KSh 6.8 billion platform to help Kenyan businesses find in
+[2026-11-20 03:32:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0067f37c2344caa323c2d92a31119
+[2026-11-20 03:32:03 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Whitmer signals she may punt education tax credit decision to Benson
+[2026-11-20 03:32:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0067f37c2344caa323c2d92a31119
+[2026-11-20 03:32:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Democrats Took Power in the States. Now Comes the Hard Part on Educati
+[2026-11-20 03:32:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0067f37c2344caa323c2d92a31119
+[2026-11-20 03:32:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Northampton school opens applications for 100% sixth form scholarships
+[2026-11-20 03:32:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0067f42a1548989f6ea1b5362285e
+[2026-11-20 03:32:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Planning to study in New Zealand? AUT scholarship applications for Ind
+[2026-11-20 03:32:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0067f42a1548989f6ea1b5362285e
+[2026-11-20 03:32:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Punjab: Pak body to award scholarship to 200 Sikh, Hindu students from
+[2026-11-20 03:33:39 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: IIUI Spring 2027 Admissions: Eligibility and Deadline
+[2026-11-20 03:33:42 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1560 in / 612 out tokens
