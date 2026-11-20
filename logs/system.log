@@ -29440,3 +29440,19 @@
 [2026-11-20 03:32:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf5699ad4fc9b2b930ba0f75a0a
 [2026-11-20 03:32:55 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Lower Estimated Fitness Linked to Cardiometabolic Multimorbidity in Ol
 [2026-11-20 03:32:55 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 10, 'tried': 8, 'thin': 8}
+[2026-11-20 03:32:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf67158c4fee906d1797979943b
+[2026-11-20 03:32:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Roaring back: Hong Kong’s 100 million-year-old dinosaur fossil makes i
+[2026-11-20 03:32:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf67158c4fee906d1797979943b
+[2026-11-20 03:32:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Duck-billed dinosaur discovered in Italy had a birdlike beak hidden am
+[2026-11-20 03:32:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf6886ed4c579578b6af7e7ff1a
+[2026-11-20 03:32:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): What if we raised dinosaurs for food?
+[2026-11-20 03:32:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf6886ed4c579578b6af7e7ff1a
+[2026-11-20 03:32:56 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is that a pterodactyl? Social media video spots something over Mexican
+[2026-11-20 03:32:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 244/400 chars, resolved=True): Latest Research and News
+[2026-11-20 03:32:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf698fd0498888160055f3c90e0
+[2026-11-20 03:32:57 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Remarkable archaeological discoveries that changed our understanding o
+[2026-11-20 03:33:11 AM] [HISTORY_BOT] [INFO] Rejected by quality gate (too short (140 words, need 150)): Discovering The Lost Legacy of Africa’s Great Trading Empire
+[2026-11-20 03:33:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf698fd0498888160055f3c90e0
+[2026-11-20 03:33:11 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Ancient discoveries rediscovered: Treasures hidden for centuries
+[2026-11-20 03:33:11 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 505 in / 261 out tokens
+[2026-11-20 03:33:11 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 7, 'rejected': 1}
