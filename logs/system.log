@@ -29659,3 +29659,6 @@
 [2026-11-20 10:26:51 PM] [DRAMAS_BOT] [SUCCESS] Published: 8 new TV shows to watch this weekend on Netflix, Disney, and Paramount (November 20-22)
 [2026-11-20 10:26:58 PM] [DRAMAS_BOT] [WARN] Telegram sendPhoto 400, falling back to text: {"ok":false,"error_code":400,"description":"Bad Request: failed to get HTTP URL content"}
 [2026-11-20 10:26:58 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1677 in / 634 out tokens
+[2026-11-20 10:27:15 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Bosworth Independent School 100% Scholarships 2027
+[2026-11-20 10:27:21 PM] [SCHOLARSHIPS_BOT] [WARN] Telegram sendPhoto 400, falling back to text: {"ok":false,"error_code":400,"description":"Bad Request: failed to get HTTP URL content"}
+[2026-11-20 10:27:21 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1095 in / 571 out tokens
