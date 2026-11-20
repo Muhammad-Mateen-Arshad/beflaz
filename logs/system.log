@@ -29456,3 +29456,5 @@
 [2026-11-20 03:33:11 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Ancient discoveries rediscovered: Treasures hidden for centuries
 [2026-11-20 03:33:11 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 505 in / 261 out tokens
 [2026-11-20 03:33:11 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 5, 'tried': 8, 'thin': 7, 'rejected': 1}
+[2026-11-20 07:32:34 AM] [NEWS_BOT] [SUCCESS] Published: On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP
+[2026-11-20 07:32:35 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1189 in / 580 out tokens
