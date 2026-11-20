@@ -29410,3 +29410,16 @@
 [2026-11-20 03:31:06 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-20 03:31:50 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix users create petition to remove 'blasphemous' series with 5 million streams
 [2026-11-20 03:31:51 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1146 in / 481 out tokens
+[2026-11-20 03:31:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf2833544174b9c807abac90d7c
+[2026-11-20 03:31:52 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Japan-World Bank Programme Offers 44 Fully Funded Master’s Scholarship
+[2026-11-20 03:31:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf2833544174b9c807abac90d7c
+[2026-11-20 03:31:52 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): Whitmer mulls federal education tax credit as Democrats urge rejection
+[2026-11-20 03:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf2811fe4597af378e20c8155b3
+[2026-11-20 03:31:53 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 126/400 chars, resolved=True): Pakistan evacuee board to offer scholarships to 200 Sikh, Hindu studen
+[2026-11-20 03:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf2811fe4597af378e20c8155b3
+[2026-11-20 03:31:53 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Punjab: Pak body to award scholarship to 200 Sikh, Hindu students from
+[2026-11-20 03:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbf2811fe4597af378e20c8155b3
+[2026-11-20 03:31:53 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Skills, right attitude essential for graduates’ success: Aamer
+[2026-11-20 03:31:57 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-20 03:32:18 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC GRE Training: US-Pakistan Scholarship Program 2026
+[2026-11-20 03:32:19 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1139 in / 541 out tokens
