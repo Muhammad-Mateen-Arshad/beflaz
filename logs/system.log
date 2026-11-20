@@ -29596,3 +29596,18 @@
 [2026-11-20 03:32:04 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Punjab: Pak body to award scholarship to 200 Sikh, Hindu students from
 [2026-11-20 03:33:39 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: IIUI Spring 2027 Admissions: Eligibility and Deadline
 [2026-11-20 03:33:42 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1560 in / 612 out tokens
+[2026-11-20 03:34:59 PM] [HEALTH_BOT] [INFO] Rejected by quality gate (risky health claim wording): Large NIH-supported study identifies key underlying pathways in endome
+[2026-11-20 03:35:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-20 03:35:00 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-20 03:35:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0068a4020f43f986abb7445b01c0a
+[2026-11-20 03:35:01 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-20 03:35:01 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0068a4020f43f986abb7445b01c0a
+[2026-11-20 03:35:01 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-20 03:35:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0068a5c02c4c95b30ba39493cb871
+[2026-11-20 03:35:02 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-20 03:35:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0068a5c02c4c95b30ba39493cb871
+[2026-11-20 03:35:03 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
+[2026-11-20 03:35:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0068a5c02c4c95b30ba39493cb871
+[2026-11-20 03:35:03 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
+[2026-11-20 03:35:03 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1202 in / 493 out tokens
+[2026-11-20 03:35:03 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'tried': 7, 'rejected': 1, 'already_seen': 13, 'thin': 6}
