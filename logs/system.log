@@ -29655,3 +29655,7 @@
 [2026-11-20 10:26:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-20 10:26:22 PM] [JOBS_BOT] [SUCCESS] Published: Federal Government Officers Transfers and Postings 2026
 [2026-11-20 10:26:27 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 808 in / 501 out tokens
+[2026-11-20 10:26:28 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-20 10:26:51 PM] [DRAMAS_BOT] [SUCCESS] Published: 8 new TV shows to watch this weekend on Netflix, Disney, and Paramount (November 20-22)
+[2026-11-20 10:26:58 PM] [DRAMAS_BOT] [WARN] Telegram sendPhoto 400, falling back to text: {"ok":false,"error_code":400,"description":"Bad Request: failed to get HTTP URL content"}
+[2026-11-20 10:26:58 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1677 in / 634 out tokens
