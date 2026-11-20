@@ -29396,3 +29396,10 @@
 [2026-11-20 01:30:02 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1515 in / 449 out tokens
 [2026-11-20 03:30:10 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan among 15 nations welcoming UK, Australia sanctions on Israeli settlements, hoping others follow suit
 [2026-11-20 03:30:11 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1398 in / 491 out tokens
+[2026-11-20 03:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affbec49b0f4f279e47fe107de4083
+[2026-11-20 03:30:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Israel Just Handed Donald Trump a Giant Clue That It Wants to Start Bo
+[2026-11-20 03:30:13 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 295/400 chars, resolved=True): Pakistan, Asean agree to deepen cooperation on security, trade and reg
+[2026-11-20 03:30:30 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Pakistan Army Tests New Fatah-3 Supersonic Cruise Missile to Extend Lo
+[2026-11-20 03:30:44 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Pakistan military says it killed 22 militants in raids on hideouts in 
+[2026-11-20 03:31:02 AM] [JOBS_BOT] [SUCCESS] Published: WAPDA KAPCO Share Transfer Update 2026 Notice
+[2026-11-20 03:31:02 AM] [JOBS_BOT] [INFO] AI usage: 3 calls, 3481 in / 1465 out tokens
