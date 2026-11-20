@@ -29714,3 +29714,17 @@
 [2026-11-20 11:34:10 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-20 11:35:08 PM] [HEALTH_BOT] [SUCCESS] Published: Resistance training could help boost brain health and confidence in older adults
 [2026-11-20 11:35:08 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1526 in / 577 out tokens
+[2026-11-20 11:35:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d92d5fd34cae8397c29d52991f2
+[2026-11-20 11:35:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Fresno Discovery Center needs help building ADA Dino Dig exhibit
+[2026-11-20 11:35:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d92d5fd34cae8397c29d52991f2
+[2026-11-20 11:35:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Mystery Skeleton Buried in Sandstone Revealed to Be Tiny Jurassic "Dra
+[2026-11-20 11:35:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d92d5fd34cae8397c29d52991f2
+[2026-11-20 11:35:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): Sighting Dragons in the Field: An Exhibition of Dinosaur Fossils from 
+[2026-11-20 11:35:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d92ee34d40c59acfaeb83b547ad
+[2026-11-20 11:35:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-20 11:35:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00d92ee34d40c59acfaeb83b547ad
+[2026-11-20 11:35:10 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is that a pterodactyl? Social media video spots something over Mexican
+[2026-11-20 11:35:11 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 244/400 chars, resolved=True): Latest Research and News
+[2026-11-20 11:35:12 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-20 11:35:48 PM] [HISTORY_BOT] [SUCCESS] Published: Ancient Stairway-Like Stone Structures Found Beneath Sacred Lake Titicaca
+[2026-11-20 11:35:49 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1487 in / 503 out tokens
