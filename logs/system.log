@@ -29380,3 +29380,11 @@
 [2026-11-20 01:29:09 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 163/400 chars, resolved=True): President Zardari calls for swift implementation of 20 MoUs signed wit
 [2026-11-20 01:29:28 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistan Scholarships for Maldivian Students Guide
 [2026-11-20 01:29:29 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 842 in / 385 out tokens
+[2026-11-20 01:29:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-20 01:29:30 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-20 01:29:30 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa27ac64f40589d0f9e51b7a83a2
+[2026-11-20 01:29:30 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): FNCE 2026: Protein, Fiber, Gut Health and Personalized Nutrition Take 
+[2026-11-20 01:29:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa27ac64f40589d0f9e51b7a83a2
+[2026-11-20 01:29:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-20 01:29:44 AM] [HEALTH_BOT] [SUCCESS] Published: The astonishing toll of America’s food stamp cuts
+[2026-11-20 01:29:44 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1602 in / 548 out tokens
