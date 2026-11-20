@@ -29533,3 +29533,10 @@
 [2026-11-20 12:16:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-20 12:17:37 PM] [NEWS_BOT] [SUCCESS] Published: Bilawal wants PM Shehbaz to become first premier to complete 5-year term
 [2026-11-20 12:17:38 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1022 in / 440 out tokens
+[2026-11-20 12:17:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003a62d79f400d921b803c2cce859
+[2026-11-20 12:17:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Indus ire forgotten? Wadettiwar takes dig at Centre over Pakistan mini
+[2026-11-20 12:17:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b003a62d79f400d921b803c2cce859
+[2026-11-20 12:17:39 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Bilawal will be responsible for any bloodshed over new provinces: Kama
+[2026-11-20 12:17:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-20 12:19:00 PM] [JOBS_BOT] [SUCCESS] Published: Canada Express Entry PR Rules for Professors 2026
+[2026-11-20 12:19:01 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1070 in / 602 out tokens
