@@ -29388,3 +29388,9 @@
 [2026-11-20 01:29:31 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
 [2026-11-20 01:29:44 AM] [HEALTH_BOT] [SUCCESS] Published: The astonishing toll of America’s food stamp cuts
 [2026-11-20 01:29:44 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1602 in / 548 out tokens
+[2026-11-20 01:29:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa289ba214040beefee17309bdd7
+[2026-11-20 01:29:45 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 141/400 chars, resolved=True): Ancient dinosaur fossil reveals surprising discovery that has been bur
+[2026-11-20 01:29:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affa289ba214040beefee17309bdd7
+[2026-11-20 01:29:45 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Roaring back: Hong Kong’s 100 million-year-old dinosaur fossil makes i
+[2026-11-20 01:30:01 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur Fossil Exhibition Opens in Hong Kong, Showcasing Treasures from Port Island and Mainland China
+[2026-11-20 01:30:02 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1515 in / 449 out tokens
