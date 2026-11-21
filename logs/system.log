@@ -29769,3 +29769,10 @@
 [2026-11-21 03:33:07 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1344 in / 452 out tokens
 [2026-11-21 04:29:07 AM] [NEWS_BOT] [SUCCESS] Published: Provinces cannot assume ‘unexercised’ federal powers: FCC
 [2026-11-21 04:29:08 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1364 in / 481 out tokens
+[2026-11-21 04:29:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e14f8584c25bcdc24b7d3f7f3b
+[2026-11-21 04:29:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Indus ire forgotten? Wadettiwar takes dig at Centre over Pakistan mini
+[2026-11-21 04:29:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e14f8584c25bcdc24b7d3f7f3b
+[2026-11-21 04:29:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Bilawal will be responsible for any bloodshed over new provinces: Kama
+[2026-11-21 04:29:10 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 04:29:58 AM] [JOBS_BOT] [SUCCESS] Published: Balochistan Federal Posts Recruitment: 25,000 Jobs
+[2026-11-21 04:29:58 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 842 in / 413 out tokens
