@@ -29922,3 +29922,16 @@
 [2026-11-21 03:34:37 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-21 03:34:37 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Jada Badu Profile: Uber Ghana Tech Leadership 2026
 [2026-11-21 03:34:38 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1611 in / 533 out tokens
+[2026-11-21 03:34:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-21 03:34:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-21 03:34:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01ba10fc584208ab5f446a2bf2d5c
+[2026-11-21 03:34:41 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-21 03:34:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01ba10fc584208ab5f446a2bf2d5c
+[2026-11-21 03:34:41 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-21 03:34:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01ba1127aa44d991097381988f2c0
+[2026-11-21 03:34:42 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 116/800 chars, resolved=True): Why do older adults fall out of bed?
+[2026-11-21 03:34:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01ba1127aa44d991097381988f2c0
+[2026-11-21 03:34:42 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-21 03:34:44 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 03:35:37 PM] [HEALTH_BOT] [SUCCESS] Published: VO2 Max in Your 70s May Predict Your Brain Health a Decade Later
+[2026-11-21 03:35:37 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1221 in / 496 out tokens
