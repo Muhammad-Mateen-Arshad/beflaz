@@ -29856,3 +29856,13 @@
 [2026-11-21 07:31:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Billionaire Ken Griffin lends 3 rare dinosaur fossils to US museum, do
 [2026-11-21 07:31:31 AM] [HISTORY_BOT] [SUCCESS] Published: Sighting Dragons in the Field: An Exhibition of Dinosaur Fossils from Port Island and the Chinese Mainland
 [2026-11-21 07:31:33 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1579 in / 514 out tokens
+[2026-11-21 11:29:30 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-21 11:29:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-21 11:29:48 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-21 11:30:06 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-21 11:30:26 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-21 11:30:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-21 11:31:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-21 11:31:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-21 11:34:15 AM] [NEWS_BOT] [SUCCESS] Published: FM Dar calls for multilateralism, says bloc or unilateral politics will not work
+[2026-11-21 11:34:16 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1529 in / 551 out tokens
