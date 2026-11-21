@@ -29781,3 +29781,16 @@
 [2026-11-21 04:30:03 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 04:30:31 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix taps Nikki Glaser for new scripted series under studio partnership
 [2026-11-21 04:30:32 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1466 in / 513 out tokens
+[2026-11-21 04:30:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e697bad40dfbaf1100fce7e8c6
+[2026-11-21 04:30:33 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Planning to study in New Zealand? AUT scholarship applications for Ind
+[2026-11-21 04:30:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e697bad40dfbaf1100fce7e8c6
+[2026-11-21 04:30:33 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): UK launches KSh 6.8 billion platform to help Kenyan businesses find in
+[2026-11-21 04:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e6968584842a3758d687b10524
+[2026-11-21 04:30:34 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Planning to study in New Zealand? AUT scholarship applications for Ind
+[2026-11-21 04:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e6968584842a3758d687b10524
+[2026-11-21 04:30:34 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan attaches great importance to its relations with Bangladesh: D
+[2026-11-21 04:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e6a5ff047d6b8de21cf3c2b19f
+[2026-11-21 04:30:35 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): HEC announces Chinese government scholarship programme for Pakistani s
+[2026-11-21 04:30:36 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 04:31:12 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: University of Delaware Endowments and Scholarships Guide
+[2026-11-21 04:31:13 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1214 in / 661 out tokens
