@@ -29730,3 +29730,9 @@
 [2026-11-20 11:35:49 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1487 in / 503 out tokens
 [2026-11-21 03:30:01 AM] [NEWS_BOT] [SUCCESS] Published: In New Delhi, Musadik hails opportunity for multilateral dialogue
 [2026-11-21 03:30:02 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1396 in / 426 out tokens
+[2026-11-21 03:30:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01103acbe847d2a8da4479127e283
+[2026-11-21 03:30:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Indus ire forgotten? Wadettiwar takes dig at Centre over Pakistan mini
+[2026-11-21 03:30:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01103acbe847d2a8da4479127e283
+[2026-11-21 03:30:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Bilawal will be responsible for any bloodshed over new provinces: Kama
+[2026-11-21 03:30:49 AM] [JOBS_BOT] [SUCCESS] Published: Sindh Government Grade 1 to 4 Jobs Recruitment Update
+[2026-11-21 03:30:50 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1376 in / 417 out tokens
