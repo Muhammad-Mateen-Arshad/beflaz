@@ -29966,3 +29966,8 @@
 [2026-11-21 03:47:39 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 03:48:55 PM] [HEALTH_BOT] [SUCCESS] Published: Daily Iron Cuts Child Anemia, Cochrane Review of 114 Studies Finds
 [2026-11-21 03:48:56 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1427 in / 499 out tokens
+[2026-11-21 03:48:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01bd69bd98447f8cd73777efb6fce
+[2026-11-21 03:48:57 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Fresno Discovery Center needs help building ADA Dino Dig exhibit
+[2026-11-21 03:48:58 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 03:50:04 PM] [HISTORY_BOT] [SUCCESS] Published: A tiny skull changed the story of human origins, and it’s doing it again
+[2026-11-21 03:50:05 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1430 in / 504 out tokens
