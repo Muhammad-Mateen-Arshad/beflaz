@@ -30075,3 +30075,12 @@
 [2026-11-21 11:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229bbe6f64951a3cceb4cd0784b5
 [2026-11-21 11:31:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
 [2026-11-21 11:31:08 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-21 11:31:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229bd3c694b2bb036236935c02fe
+[2026-11-21 11:31:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): How scientists saved a Normandy dinosaur fossil from the auction block
+[2026-11-21 11:31:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229bd3c694b2bb036236935c02fe
+[2026-11-21 11:31:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Dinosaurs of Alaska's Prince Creek Formation and how they coped with c
+[2026-11-21 11:31:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229bd203d471c998449655e78b00
+[2026-11-21 11:31:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-21 11:31:10 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 11:31:41 PM] [HISTORY_BOT] [SUCCESS] Published: Crocodiles outlived the dinosaurs, and a 250-million-year-old habit may explain why
+[2026-11-21 11:31:42 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1622 in / 506 out tokens
