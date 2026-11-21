@@ -29836,3 +29836,12 @@
 [2026-11-21 07:30:28 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-21 07:30:47 AM] [DRAMAS_BOT] [SUCCESS] Published: What happened to Caroline Ellison? Her life after prison as Netflix’s hit new series ‘The Altruists’ premieres
 [2026-11-21 07:30:48 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1435 in / 471 out tokens
+[2026-11-21 07:30:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0148a86e2f425c90aee0d371801da
+[2026-11-21 07:30:49 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): UK launches KSh 6.8 billion platform to help Kenyan businesses find in
+[2026-11-21 07:30:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0148a86e2f425c90aee0d371801da
+[2026-11-21 07:30:49 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): I turned nine-year university delay into research, professional growth
+[2026-11-21 07:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0148a973b44593a5c4d4aff5bab44
+[2026-11-21 07:30:50 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 161/400 chars, resolved=True): HEC announces Chinese government scholarship programme for Pakistani s
+[2026-11-21 07:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0148aad3a949b39176a8b66f788fe
+[2026-11-21 07:30:50 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): U.S. Presidential Scholars Program
+[2026-11-21 07:30:50 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 4, 'thin': 4}
