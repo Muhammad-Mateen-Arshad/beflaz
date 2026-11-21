@@ -29908,3 +29908,11 @@
 [2026-11-21 03:30:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Indus ire forgotten? Wadettiwar takes dig at Centre over Pakistan mini
 [2026-11-21 03:31:35 PM] [JOBS_BOT] [SUCCESS] Published: Sindh Government Grade 1 to 4 Jobs Update 2026
 [2026-11-21 03:31:36 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1377 in / 419 out tokens
+[2026-11-21 03:31:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-21 03:31:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01b95ab7af4d4f8de3b91b1a3f908
+[2026-11-21 03:31:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): The 27 best shows on BritBox to stream right now
+[2026-11-21 03:31:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01b95ab7af4d4f8de3b91b1a3f908
+[2026-11-21 03:31:38 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): The 25 best miniseries ready to binge-watch this weekend
+[2026-11-21 03:32:30 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-21 03:32:42 PM] [DRAMAS_BOT] [SUCCESS] Published: Best TV Shows of 2026: New Series to Watch Now
+[2026-11-21 03:32:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1594 in / 646 out tokens
