@@ -29736,3 +29736,9 @@
 [2026-11-21 03:30:03 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Bilawal will be responsible for any bloodshed over new provinces: Kama
 [2026-11-21 03:30:49 AM] [JOBS_BOT] [SUCCESS] Published: Sindh Government Grade 1 to 4 Jobs Recruitment Update
 [2026-11-21 03:30:50 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1376 in / 417 out tokens
+[2026-11-21 03:30:51 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Alya Al-Sultani
+[2026-11-21 03:30:53 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-21 03:30:55 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-21 03:31:00 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 03:31:42 AM] [DRAMAS_BOT] [SUCCESS] Published: La Cage season 2 on Netflix: Amine Guedja plays Boss’s new favorite.
+[2026-11-21 03:31:43 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 662 in / 563 out tokens
