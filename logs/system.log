@@ -30051,3 +30051,14 @@
 [2026-11-21 11:30:22 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 11:30:39 PM] [DRAMAS_BOT] [SUCCESS] Published: New Releases on Netflix This Week and Top 10 Movies & Series: November 21, 2026
 [2026-11-21 11:30:40 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1868 in / 510 out tokens
+[2026-11-21 11:30:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229a04aaa45b48f107221b5b276f
+[2026-11-21 11:30:41 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Florida Education Freedom Tax Credit: How the $1,700 scholarship credi
+[2026-11-21 11:30:41 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229a04aaa45b48f107221b5b276f
+[2026-11-21 11:30:41 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): I turned nine-year university delay into research, professional growth
+[2026-11-21 11:30:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229a1c7c546a88e862608a3cd431
+[2026-11-21 11:30:43 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Opinion: Pakistan and Somalia — Building Bridges Through Education
+[2026-11-21 11:30:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229a1c7c546a88e862608a3cd431
+[2026-11-21 11:30:44 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 160/400 chars, resolved=True): Barrie student's app aims to take stress out of university application
+[2026-11-21 11:30:45 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 11:31:04 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Hong Kong Outstanding Maritime Cadets Scheme 2026
+[2026-11-21 11:31:04 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1716 in / 420 out tokens
