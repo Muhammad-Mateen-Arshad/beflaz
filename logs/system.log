@@ -29850,3 +29850,9 @@
 [2026-11-21 07:30:52 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 07:31:13 AM] [HEALTH_BOT] [SUCCESS] Published: The Surprising Nutrient That Could Lower Your Risk of Frailty by 18%, According to a New Study
 [2026-11-21 07:31:15 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1473 in / 504 out tokens
+[2026-11-21 07:31:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0148c3aebb4f0c96e322e894003b8
+[2026-11-21 07:31:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Fresno Discovery Center needs help building ADA Dino Dig exhibit
+[2026-11-21 07:31:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0148c3aebb4f0c96e322e894003b8
+[2026-11-21 07:31:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Billionaire Ken Griffin lends 3 rare dinosaur fossils to US museum, do
+[2026-11-21 07:31:31 AM] [HISTORY_BOT] [SUCCESS] Published: Sighting Dragons in the Field: An Exhibition of Dinosaur Fossils from Port Island and the Chinese Mainland
+[2026-11-21 07:31:33 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1579 in / 514 out tokens
