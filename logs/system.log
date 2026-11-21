@@ -29992,3 +29992,12 @@
 [2026-11-21 07:32:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 07:34:30 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Québec Immigration Target Changes and Union History 2026
 [2026-11-21 07:34:31 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1717 in / 507 out tokens
+[2026-11-21 07:34:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-21 07:34:32 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-21 07:34:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f24989ef4389bdbb2e22a4ed15e
+[2026-11-21 07:34:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-21 07:34:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f249c7a1443ba9b7be33f19643f
+[2026-11-21 07:34:34 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-21 07:34:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f249c7a1443ba9b7be33f19643f
+[2026-11-21 07:34:35 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
+[2026-11-21 07:34:35 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
