@@ -30017,3 +30017,11 @@
 [2026-11-21 09:15:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Newspaper - Front Page - November 21, 2026
 [2026-11-21 09:15:50 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Overseas Employment Registrations for 2025
 [2026-11-21 09:15:50 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1853 in / 566 out tokens
+[2026-11-21 09:15:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-21 09:15:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b020a0863914abe87342a1747bae7b
+[2026-11-21 09:15:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 147/300 chars, resolved=True): Netflix’s New 4-Part Crime Thriller Is #2 Worldwide & The Ultimate One
+[2026-11-21 09:15:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b020a0863914abe87342a1747bae7b
+[2026-11-21 09:15:52 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Netflix's Solo Leveling live action gets a release date update
+[2026-11-21 09:15:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 09:16:12 PM] [DRAMAS_BOT] [SUCCESS] Published: 5 Most Universally Loved TV Dramas of All Time, Ranked
+[2026-11-21 09:16:13 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1614 in / 540 out tokens
