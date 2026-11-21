@@ -30062,3 +30062,16 @@
 [2026-11-21 11:30:45 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 11:31:04 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Hong Kong Outstanding Maritime Cadets Scheme 2026
 [2026-11-21 11:31:04 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1716 in / 420 out tokens
+[2026-11-21 11:31:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-21 11:31:06 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-21 11:31:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229baff80446fb89a85dfff98cd7
+[2026-11-21 11:31:06 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-21 11:31:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229baff80446fb89a85dfff98cd7
+[2026-11-21 11:31:07 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-21 11:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229bbe6f64951a3cceb4cd0784b5
+[2026-11-21 11:31:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-21 11:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229bbe6f64951a3cceb4cd0784b5
+[2026-11-21 11:31:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Researchers found that doing this is just as effective as the gym for 
+[2026-11-21 11:31:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0229bbe6f64951a3cceb4cd0784b5
+[2026-11-21 11:31:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
+[2026-11-21 11:31:08 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
