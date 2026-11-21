@@ -29950,3 +29950,7 @@
 [2026-11-21 03:43:45 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 03:44:43 PM] [JOBS_BOT] [SUCCESS] Published: NCCIA Recruitment Rules and Regularisation Updates
 [2026-11-21 03:44:43 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1358 in / 496 out tokens
+[2026-11-21 03:44:45 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-21 03:44:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 03:45:48 PM] [DRAMAS_BOT] [SUCCESS] Published: Discover New Netflix Releases This Weekend: Reality Show 'Win the Mall' and More
+[2026-11-21 03:45:49 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1067 in / 532 out tokens
