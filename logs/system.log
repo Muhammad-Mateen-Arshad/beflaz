@@ -29805,3 +29805,18 @@
 [2026-11-21 04:31:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e94de2945778a39208e0db357a
 [2026-11-21 04:31:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
 [2026-11-21 04:31:18 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-21 04:31:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e96b01e47dbbddaff6c7cd1f60
+[2026-11-21 04:31:18 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Fresno Discovery Center needs help building ADA Dino Dig exhibit
+[2026-11-21 04:31:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e96b01e47dbbddaff6c7cd1f60
+[2026-11-21 04:31:18 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): Fresh off a record $3 billion CMU pledge, Ken Griffin sends Pittsburgh
+[2026-11-21 04:31:19 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 272/400 chars, resolved=True): Sighting Dragons in the Field: An Exhibition of Dinosaur Fossils from 
+[2026-11-21 04:31:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e97f4c74b7aad6d0e9c39b23aa
+[2026-11-21 04:31:19 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-21 04:31:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e97f4c74b7aad6d0e9c39b23aa
+[2026-11-21 04:31:19 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is that a pterodactyl? Social media video spots something over Mexican
+[2026-11-21 04:31:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 244/400 chars, resolved=True): Latest Research and News
+[2026-11-21 04:31:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b011e98b53442aeaabb61d98f7b869
+[2026-11-21 04:31:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Remarkable archaeological discoveries that changed our understanding o
+[2026-11-21 04:31:22 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 04:31:58 AM] [HISTORY_BOT] [SUCCESS] Published: Archaeologists uncover ancient structures and artifacts at Syria’s Amrit
+[2026-11-21 04:32:00 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 713 in / 493 out tokens
