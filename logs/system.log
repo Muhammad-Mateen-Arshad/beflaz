@@ -30036,3 +30036,9 @@
 [2026-11-21 09:16:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b020a34a0aa4430b1b037dfaaa49e3
 [2026-11-21 09:16:38 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
 [2026-11-21 09:16:38 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
+[2026-11-21 09:16:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b020a367b2e477c8d197c08faefddc
+[2026-11-21 09:16:39 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Fresno Discovery Center needs help building ADA Dino Dig exhibit
+[2026-11-21 09:16:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b020a367b2e477c8d197c08faefddc
+[2026-11-21 09:16:39 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 107/400 chars, resolved=True): Billionaire Ken Griffin lends 3 rare dinosaur fossils to US museum, do
+[2026-11-21 09:16:56 PM] [HISTORY_BOT] [SUCCESS] Published: Jeanerpeton: “New” Amphibian Lived Before Dinosaurs
+[2026-11-21 09:16:57 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 766 in / 564 out tokens
