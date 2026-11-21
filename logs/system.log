@@ -29742,3 +29742,12 @@
 [2026-11-21 03:31:00 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 03:31:42 AM] [DRAMAS_BOT] [SUCCESS] Published: La Cage season 2 on Netflix: Amine Guedja plays Boss’s new favorite.
 [2026-11-21 03:31:43 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 662 in / 563 out tokens
+[2026-11-21 03:31:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0110a0cfb544048de0c94fbff36ba
+[2026-11-21 03:31:44 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Planning to study in New Zealand? AUT scholarship applications for Ind
+[2026-11-21 03:31:44 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0110a0cfb544048de0c94fbff36ba
+[2026-11-21 03:31:44 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): UK launches KSh 6.8 billion platform to help Kenyan businesses find in
+[2026-11-21 03:31:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0110a0016a4d7991756547bcecd7c
+[2026-11-21 03:31:45 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Planning to study in New Zealand? AUT scholarship applications for Ind
+[2026-11-21 03:31:45 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 03:32:27 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Pakistani Student Scholarships in Turkey 2026 Details
+[2026-11-21 03:32:28 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1572 in / 520 out tokens
