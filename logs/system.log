@@ -29870,3 +29870,7 @@
 [2026-11-21 11:35:21 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-21 11:35:22 AM] [JOBS_BOT] [SUCCESS] Published: Tirah Valley Displaced Persons Return Notice 2026
 [2026-11-21 11:35:23 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3375 in / 993 out tokens
+[2026-11-21 11:35:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-21 11:35:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0181fd4b4c4d10bdb24386bc8c16d
+[2026-11-21 11:35:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): Netflix's hit 8-part psychological thriller ignites cancellation petit
+[2026-11-21 11:35:25 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 2, 'thin': 2, 'already_seen': 14}
