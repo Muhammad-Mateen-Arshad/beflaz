@@ -29845,3 +29845,8 @@
 [2026-11-21 07:30:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0148aad3a949b39176a8b66f788fe
 [2026-11-21 07:30:50 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): U.S. Presidential Scholars Program
 [2026-11-21 07:30:50 AM] [SCHOLARSHIPS_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 4, 'thin': 4}
+[2026-11-21 07:30:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-21 07:30:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-21 07:30:52 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 07:31:13 AM] [HEALTH_BOT] [SUCCESS] Published: The Surprising Nutrient That Could Lower Your Risk of Frailty by 18%, According to a New Study
+[2026-11-21 07:31:15 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1473 in / 504 out tokens
