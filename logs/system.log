@@ -29876,3 +29876,20 @@
 [2026-11-21 11:35:25 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 2, 'thin': 2, 'already_seen': 14}
 [2026-11-21 11:35:57 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Rhodes Scholarship for Postgraduate Study at Oxford
 [2026-11-21 11:35:58 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 663 in / 442 out tokens
+[2026-11-21 11:36:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-21 11:36:00 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-21 11:36:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b018220b2a4457eb1808a483d9aa9d
+[2026-11-21 11:36:00 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-21 11:36:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b018220b2a4457eb1808a483d9aa9d
+[2026-11-21 11:36:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-21 11:36:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b018220b2a4457eb1808a483d9aa9d
+[2026-11-21 11:36:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-21 11:36:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0182210fa34dc9850c2bc9c6dbe58
+[2026-11-21 11:36:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-21 11:36:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0182210fa34dc9850c2bc9c6dbe58
+[2026-11-21 11:36:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 197/800 chars, resolved=True): 5 morning routines older adults credit with helping them stay active
+[2026-11-21 11:36:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0182210fa34dc9850c2bc9c6dbe58
+[2026-11-21 11:36:03 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
+[2026-11-21 11:36:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0182210fa34dc9850c2bc9c6dbe58
+[2026-11-21 11:36:03 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
+[2026-11-21 11:36:03 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
