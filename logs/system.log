@@ -29959,3 +29959,10 @@
 [2026-11-21 03:45:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 03:47:34 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: KP Rehmatul-lil-Alameen Scholarship Scheme 2026 Guide
 [2026-11-21 03:47:35 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1143 in / 612 out tokens
+[2026-11-21 03:47:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-21 03:47:37 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-21 03:47:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01bd1940c94ad88f97161e76aedd4
+[2026-11-21 03:47:37 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-21 03:47:39 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 03:48:55 PM] [HEALTH_BOT] [SUCCESS] Published: Daily Iron Cuts Child Anemia, Cochrane Review of 114 Studies Finds
+[2026-11-21 03:48:56 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1427 in / 499 out tokens
