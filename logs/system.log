@@ -30010,3 +30010,10 @@
 [2026-11-21 07:35:40 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1392 in / 614 out tokens
 [2026-11-21 09:15:28 PM] [NEWS_BOT] [SUCCESS] Published: 4 guards of Sardar Khetran held after body recovered from Barkhan property
 [2026-11-21 09:15:30 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1086 in / 529 out tokens
+[2026-11-21 09:15:31 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0209f295f745c68a9f5a457b6eb92
+[2026-11-21 09:15:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Youth Pakistan’s greatest asset, guarantee of its bright future: Law M
+[2026-11-21 09:15:31 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 284/400 chars, resolved=True): President Zardari promulgates five KP ordinances, strips lawmakers of 
+[2026-11-21 09:15:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0209f37d1b4377a35f7543a401e96
+[2026-11-21 09:15:32 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Newspaper - Front Page - November 21, 2026
+[2026-11-21 09:15:50 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Overseas Employment Registrations for 2025
+[2026-11-21 09:15:50 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1853 in / 566 out tokens
