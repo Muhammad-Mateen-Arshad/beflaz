@@ -30001,3 +30001,10 @@
 [2026-11-21 07:34:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f249c7a1443ba9b7be33f19643f
 [2026-11-21 07:34:35 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
 [2026-11-21 07:34:35 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
+[2026-11-21 07:34:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f24b07834713a5639b436b33ed9
+[2026-11-21 07:34:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Fresno Discovery Center needs help building ADA Dino Dig exhibit
+[2026-11-21 07:34:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f24b07834713a5639b436b33ed9
+[2026-11-21 07:34:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Dinosaurs of Alaska's Prince Creek Formation and how they coped with c
+[2026-11-21 07:34:37 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 07:35:39 PM] [HISTORY_BOT] [SUCCESS] Published: Fossilized Jaw And Teeth Of Giant Elephant, Believed To Be Of Palaeoloxodon Species Found In MP's Raisen
+[2026-11-21 07:35:40 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1392 in / 614 out tokens
