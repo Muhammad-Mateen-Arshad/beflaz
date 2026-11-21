@@ -30027,3 +30027,12 @@
 [2026-11-21 09:16:13 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1614 in / 540 out tokens
 [2026-11-21 09:16:33 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Makerere University PhD Scholarships 2027/2028
 [2026-11-21 09:16:34 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1591 in / 631 out tokens
+[2026-11-21 09:16:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-21 09:16:36 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-21 09:16:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b020a34620e45dca231fad11b8eea7
+[2026-11-21 09:16:36 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-21 09:16:37 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b020a34a0aa4430b1b037dfaaa49e3
+[2026-11-21 09:16:37 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-21 09:16:38 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b020a34a0aa4430b1b037dfaaa49e3
+[2026-11-21 09:16:38 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
+[2026-11-21 09:16:38 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 16, 'tried': 4, 'thin': 4}
