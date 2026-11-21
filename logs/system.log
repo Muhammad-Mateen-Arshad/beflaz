@@ -29823,3 +29823,13 @@
 [2026-11-21 07:29:44 AM] [NEWS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 200): Yemen’s Houthis launch strikes after Saudi coalition’s 'special operat
 [2026-11-21 07:30:03 AM] [NEWS_BOT] [SUCCESS] Published: Internet provider expects submarine cable repairs to be completed by Dec 6
 [2026-11-21 07:30:04 AM] [NEWS_BOT] [INFO] AI usage: 2 calls, 2392 in / 975 out tokens
+[2026-11-21 07:30:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01487c677c4e83a1f43825c9e6c1c
+[2026-11-21 07:30:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Indus ire forgotten? Wadettiwar takes dig at Centre over Pakistan mini
+[2026-11-21 07:30:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01487c677c4e83a1f43825c9e6c1c
+[2026-11-21 07:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): China trying to suppress India's rise, backed Pakistan during Operatio
+[2026-11-21 07:30:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01487e72684389b99b7afc1f30b75
+[2026-11-21 07:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): China trying to suppress India's rise, backed Pakistan during Operatio
+[2026-11-21 07:30:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01487e72684389b99b7afc1f30b75
+[2026-11-21 07:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Politics latest: UK and EU agree new deal on three areas - as Burnham 
+[2026-11-21 07:30:26 AM] [JOBS_BOT] [SUCCESS] Published: 25,000 Federal Jobs for Balochistan Youth Announced
+[2026-11-21 07:30:27 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 876 in / 491 out tokens
