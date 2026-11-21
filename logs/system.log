@@ -29985,3 +29985,10 @@
 [2026-11-21 07:31:44 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 07:32:48 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix New Releases This Week — Here’s What Just Dropped and What Everyone’s Watching
 [2026-11-21 07:32:49 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1833 in / 518 out tokens
+[2026-11-21 07:32:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f1e25eb342aba2bb254039e3676
+[2026-11-21 07:32:50 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Florida Education Freedom Tax Credit: How the $1,700 scholarship credi
+[2026-11-21 07:32:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f1e25eb342aba2bb254039e3676
+[2026-11-21 07:32:50 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): I turned nine-year university delay into research, professional growth
+[2026-11-21 07:32:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 07:34:30 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Québec Immigration Target Changes and Union History 2026
+[2026-11-21 07:34:31 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1717 in / 507 out tokens
