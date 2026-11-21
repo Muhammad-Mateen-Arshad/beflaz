@@ -29954,3 +29954,8 @@
 [2026-11-21 03:44:47 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-21 03:45:48 PM] [DRAMAS_BOT] [SUCCESS] Published: Discover New Netflix Releases This Weekend: Reality Show 'Win the Mall' and More
 [2026-11-21 03:45:49 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1067 in / 532 out tokens
+[2026-11-21 03:45:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01bcad984349868f715cf12bcfb85
+[2026-11-21 03:45:50 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 156/400 chars, resolved=True): Primary Care Pharmacists Expand Roles While Long-Term Evidence Remains
+[2026-11-21 03:45:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-21 03:47:34 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: KP Rehmatul-lil-Alameen Scholarship Scheme 2026 Guide
+[2026-11-21 03:47:35 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1143 in / 612 out tokens
