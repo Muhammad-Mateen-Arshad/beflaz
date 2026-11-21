@@ -29901,3 +29901,6 @@
 [2026-11-21 11:37:58 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-21 11:41:01 AM] [HISTORY_BOT] [SUCCESS] Published: Wyoming bone fossils reveal 156-million-year-old reptile unlike any known species
 [2026-11-21 11:41:04 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1459 in / 516 out tokens
+[2026-11-21 03:30:27 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-21 03:30:27 PM] [NEWS_BOT] [SUCCESS] Published: At SCO moot in India, Musadik Malik declares climate change ‘enemy’ of civilisations
+[2026-11-21 03:30:28 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1554 in / 554 out tokens
