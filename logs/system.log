@@ -29973,3 +29973,7 @@
 [2026-11-21 03:50:05 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1430 in / 504 out tokens
 [2026-11-21 07:30:04 PM] [NEWS_BOT] [SUCCESS] Published: Presidential ordinance withdraws most privileges of KP MPAs, including protection against preventive detention
 [2026-11-21 07:30:05 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1519 in / 551 out tokens
+[2026-11-21 07:30:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f13db8dd4d24b753136a8a8287f
+[2026-11-21 07:30:06 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Youth Pakistan’s greatest asset, guarantee of its bright future: Law M
+[2026-11-21 07:31:40 PM] [JOBS_BOT] [SUCCESS] Published: CDWP Youth Skill Development and Employment Projects
+[2026-11-21 07:31:41 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1115 in / 547 out tokens
