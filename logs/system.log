@@ -29866,3 +29866,7 @@
 [2026-11-21 11:31:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-21 11:34:15 AM] [NEWS_BOT] [SUCCESS] Published: FM Dar calls for multilateralism, says bloc or unilateral politics will not work
 [2026-11-21 11:34:16 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1529 in / 551 out tokens
+[2026-11-21 11:34:38 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): The Challenge Is Bread And Butter, Not Boundaries
+[2026-11-21 11:35:21 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-21 11:35:22 AM] [JOBS_BOT] [SUCCESS] Published: Tirah Valley Displaced Persons Return Notice 2026
+[2026-11-21 11:35:23 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 3375 in / 993 out tokens
