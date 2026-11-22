@@ -30332,3 +30332,7 @@
 [2026-11-22 03:56:21 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-22 03:56:21 PM] [JOBS_BOT] [SUCCESS] Published: Balochistan 25,000 Jobs Recruitment Initiative
 [2026-11-22 03:56:22 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1168 in / 452 out tokens
+[2026-11-22 03:56:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-22 03:57:22 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-22 03:57:23 PM] [DRAMAS_BOT] [SUCCESS] Published: TV Shows Like ‘Shōgun’ to Watch While You Wait for Season 2
+[2026-11-22 03:57:24 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1532 in / 557 out tokens
