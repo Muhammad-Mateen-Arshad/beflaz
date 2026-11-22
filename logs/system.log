@@ -30141,3 +30141,16 @@
 [2026-11-22 03:44:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b026511cf8f43aab75fc92b378394e
 [2026-11-22 03:44:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
 [2026-11-22 03:44:19 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-22 03:44:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0265135f2b45a8880a25745d9217c
+[2026-11-22 03:44:19 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): How scientists saved a Normandy dinosaur fossil from the auction block
+[2026-11-22 03:44:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0265135f2b45a8880a25745d9217c
+[2026-11-22 03:44:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Dinosaurs of Alaska's Prince Creek Formation and how they coped with c
+[2026-11-22 03:44:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02651424d8461cbdcdda1c45de690
+[2026-11-22 03:44:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-22 03:44:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02651424d8461cbdcdda1c45de690
+[2026-11-22 03:44:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): How To Build A Dinosaur: A 67-Million-Year-Old T. Rex Is Coming To UK 
+[2026-11-22 03:44:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0265140875497283667bee2ca0d83
+[2026-11-22 03:44:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Remarkable archaeological discoveries that changed our understanding o
+[2026-11-22 03:44:21 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-22 03:44:49 AM] [HISTORY_BOT] [SUCCESS] Published: 622 Qin Bamboo Slips Record Soldiers, Grain and Lessons for Women
+[2026-11-22 03:44:50 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1663 in / 558 out tokens
