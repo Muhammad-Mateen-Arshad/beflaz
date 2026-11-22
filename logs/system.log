@@ -30261,3 +30261,5 @@
 [2026-11-22 11:31:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Child’s Fingerprints on a 15,000-Year-Old Figurine Reveal a Surprisi
 [2026-11-22 11:31:27 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 419 in / 256 out tokens
 [2026-11-22 11:31:27 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'rejected': 1, 'already_seen': 8}
+[2026-11-22 12:04:01 PM] [NEWS_BOT] [SUCCESS] Published: Mutiple roads closed for traffic in Karachi ahead of demonstration, rally by political parties
+[2026-11-22 12:04:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 941 in / 485 out tokens
