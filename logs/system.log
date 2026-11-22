@@ -30373,3 +30373,8 @@
 [2026-11-22 07:30:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342cf8cb64aaf885a1d10dbbeb16
 [2026-11-22 07:30:23 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
 [2026-11-22 07:30:23 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-11-22 07:30:24 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-22 07:30:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342d114d84a9c9e6175d6efda033
+[2026-11-22 07:30:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 120/300 chars, resolved=True): Netflix's new gritty 4-part drama is 1 of the most-watched shows in th
+[2026-11-22 07:31:08 PM] [DRAMAS_BOT] [SUCCESS] Published: Controversial Erotic Thriller Returns With More Netflix Releases This Week
+[2026-11-22 07:31:09 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 729 in / 452 out tokens
