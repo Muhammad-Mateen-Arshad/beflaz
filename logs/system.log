@@ -30495,3 +30495,11 @@
 [2026-11-22 11:30:08 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 120/300 chars, resolved=True): Netflix's new gritty 4-part drama is 1 of the most-watched shows in th
 [2026-11-22 11:30:45 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s 4-Part ‘Mindhunter’ Rival Is Now the World’s #1 Serial Killer Series
 [2026-11-22 11:30:45 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1209 in / 564 out tokens
+[2026-11-22 11:30:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037b265d8a44a7ba28354bb2ddac1
+[2026-11-22 11:30:48 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Osunyikanmi: A Scholar, Builder of Dreams Leaves Legacy of Service (19
+[2026-11-22 11:30:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037b265d8a44a7ba28354bb2ddac1
+[2026-11-22 11:30:49 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 168/400 chars, resolved=True): Wole Bakare challenges African collectors to invest in artists at Stat
+[2026-11-22 11:30:51 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): How women’s rugby teams thrived at Youth Olympics
+[2026-11-22 11:32:37 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-22 11:33:02 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: UniTrack University Application Platform: Overview
+[2026-11-22 11:33:03 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1205 in / 494 out tokens
