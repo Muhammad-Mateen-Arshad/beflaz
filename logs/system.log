@@ -30454,3 +30454,20 @@
 [2026-11-22 09:24:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d7e05c94b78bd6cfbb789d8666
 [2026-11-22 09:24:16 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
 [2026-11-22 09:24:16 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-22 09:24:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d8048604f56b1341e6eda3eabc
+[2026-11-22 09:24:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Scientists find 156-million-year-old horned reptile fossil in Wyoming 
+[2026-11-22 09:24:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d8048604f56b1341e6eda3eabc
+[2026-11-22 09:24:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): How scientists saved a Normandy dinosaur fossil from the auction block
+[2026-11-22 09:24:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d8188b14d2fbd14903d99ca7d5
+[2026-11-22 09:24:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-22 09:24:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d8188b14d2fbd14903d99ca7d5
+[2026-11-22 09:24:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): How To Build A Dinosaur: A 67-Million-Year-Old T. Rex Is Coming To UK 
+[2026-11-22 09:24:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d8166894d8fb35bb91e9ba7231
+[2026-11-22 09:24:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Mind-blowing ancient inscriptions unveiled in recent archaeological di
+[2026-11-22 09:24:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d8166894d8fb35bb91e9ba7231
+[2026-11-22 09:24:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Remarkable archaeological discoveries that changed our understanding o
+[2026-11-22 09:24:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d820c1a4cffb6124ca5be52b0f
+[2026-11-22 09:24:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 171/400 chars, resolved=True): Israeli researchers uncover 15,000-year-old clay figurines, the earlie
+[2026-11-22 09:24:19 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-22 09:24:54 PM] [HISTORY_BOT] [SUCCESS] Published: At Least Seven Hunts Over 3,000 Years Reveal Rare Texas Bison Jump
+[2026-11-22 09:24:56 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1747 in / 550 out tokens
