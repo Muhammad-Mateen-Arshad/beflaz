@@ -30218,3 +30218,6 @@
 [2026-11-22 11:29:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d2311e3347d9b027d8f88e7242d
 [2026-11-22 11:29:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
 [2026-11-22 11:29:54 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-22 11:29:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-22 11:30:24 AM] [DRAMAS_BOT] [SUCCESS] Published: “You’re No Jack Kennedy”
+[2026-11-22 11:30:24 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 461 in / 322 out tokens
