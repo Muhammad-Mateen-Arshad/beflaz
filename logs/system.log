@@ -30357,3 +30357,19 @@
 [2026-11-22 03:59:52 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1393 in / 616 out tokens
 [2026-11-22 07:30:19 PM] [NEWS_BOT] [SUCCESS] Published: Any talks with India on terrorism must be 'evidence-based', says Musadik Malik
 [2026-11-22 07:30:20 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1567 in / 472 out tokens
+[2026-11-22 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342cc0f214daf80339befa048d71
+[2026-11-22 07:30:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Tharoor: Dialogue with Pakistan only after dismantling terror groups
+[2026-11-22 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342cc0f214daf80339befa048d71
+[2026-11-22 07:30:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
+[2026-11-22 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342cc0f214daf80339befa048d71
+[2026-11-22 07:30:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): RMG industry caught between wages and competitiveness
+[2026-11-22 07:30:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342cd780e44a2a6187711ce7f168
+[2026-11-22 07:30:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-22 07:30:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 275/400 chars, resolved=True): Pakistan hosts 49-member nuclear security network’s annual meeting in 
+[2026-11-22 07:30:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342ce119142dabc85a199921ecd5
+[2026-11-22 07:30:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 22, 2026
+[2026-11-22 07:30:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342cebe624d33b947b021ae5c300
+[2026-11-22 07:30:23 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-22 07:30:23 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342cf8cb64aaf885a1d10dbbeb16
+[2026-11-22 07:30:23 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 07:30:23 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
