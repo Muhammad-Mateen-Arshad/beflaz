@@ -30196,3 +30196,6 @@
 [2026-11-22 07:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029a35744f48b7a81f09f94366302
 [2026-11-22 07:31:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
 [2026-11-22 07:31:02 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-22 07:31:04 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-22 07:31:22 AM] [HISTORY_BOT] [SUCCESS] Published: [Research is Interesting! #44] A footprint about 70cm long was found. How much can we tell from a footprint?
+[2026-11-22 07:31:23 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1582 in / 524 out tokens
