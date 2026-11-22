@@ -30107,3 +30107,11 @@
 [2026-11-22 03:32:02 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1566 in / 558 out tokens
 [2026-11-22 03:42:44 AM] [NEWS_BOT] [SUCCESS] Published: Focus on public issues, avoid new fault lines: PPP
 [2026-11-22 03:42:45 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1535 in / 521 out tokens
+[2026-11-22 03:42:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0264b68922449a8ba80ace987097f
+[2026-11-22 03:42:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Youth Pakistan’s greatest asset, guarantee of its bright future: Law M
+[2026-11-22 03:42:46 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0264b682534c9aa5df6a64de3ce67
+[2026-11-22 03:42:46 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 03:42:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0264b682534c9aa5df6a64de3ce67
+[2026-11-22 03:42:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-22 03:43:09 AM] [JOBS_BOT] [SUCCESS] Published: International Court of Justice Myanmar Ruling 2026
+[2026-11-22 03:43:10 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1297 in / 489 out tokens
