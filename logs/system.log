@@ -30490,3 +30490,8 @@
 [2026-11-22 11:30:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037afda2ff49fcb362e7bd771a225
 [2026-11-22 11:30:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): ASF Jobs 2026 Apply Online for 1036+ ASI, Corporals, Drivers & Others 
 [2026-11-22 11:30:06 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 3, 'tried': 8, 'thin': 8}
+[2026-11-22 11:30:08 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-22 11:30:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037b0086e9404c8a48d2f56cd1360
+[2026-11-22 11:30:08 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 120/300 chars, resolved=True): Netflix's new gritty 4-part drama is 1 of the most-watched shows in th
+[2026-11-22 11:30:45 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s 4-Part ‘Mindhunter’ Rival Is Now the World’s #1 Serial Killer Series
+[2026-11-22 11:30:45 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1209 in / 564 out tokens
