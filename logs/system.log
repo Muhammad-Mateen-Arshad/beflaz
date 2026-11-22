@@ -30168,3 +30168,8 @@
 [2026-11-22 07:29:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 22, 2026
 [2026-11-22 07:30:00 AM] [JOBS_BOT] [SUCCESS] Published: Nadra Domicile Reform Proposal and FIA Inquiry Details
 [2026-11-22 07:30:00 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1748 in / 591 out tokens
+[2026-11-22 07:30:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-22 07:30:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0299fa796a4c5dbf109fd06833d75
+[2026-11-22 07:30:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 106/300 chars, resolved=True): Zombie fans are loving From after it exploded on Netflix
+[2026-11-22 07:30:25 AM] [DRAMAS_BOT] [SUCCESS] Published: The 10 Most Exciting TV Shows To Look Out For This Winter
+[2026-11-22 07:30:26 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1758 in / 645 out tokens
