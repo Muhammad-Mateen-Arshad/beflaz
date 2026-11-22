@@ -30123,3 +30123,8 @@
 [2026-11-22 03:43:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-22 03:43:43 AM] [DRAMAS_BOT] [SUCCESS] Published: Hayley Atwell’s 2-Part Netflix Series Will Officially Test Prime Video’s Biggest 2027 Release
 [2026-11-22 03:43:44 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1140 in / 498 out tokens
+[2026-11-22 03:43:45 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0264f1be07476e9971084d1516854
+[2026-11-22 03:43:45 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Florida Education Freedom Tax Credit: How the $1,700 scholarship credi
+[2026-11-22 03:43:47 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): How women’s rugby teams thrived at Youth Olympics
+[2026-11-22 03:44:14 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HMEL Meritorious Student Scholarships in Bathinda
+[2026-11-22 03:44:14 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 992 in / 555 out tokens
