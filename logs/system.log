@@ -30231,3 +30231,16 @@
 [2026-11-22 11:30:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Opinion: Pakistan and Somalia — Building Bridges Through Education
 [2026-11-22 11:30:51 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: KP Agriculture Scholarships to China: Overview
 [2026-11-22 11:30:52 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 874 in / 589 out tokens
+[2026-11-22 11:30:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-22 11:30:53 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-22 11:30:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d26de5ff462694c3751c04d932a
+[2026-11-22 11:30:54 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-22 11:31:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d26de5ff462694c3751c04d932a
+[2026-11-22 11:31:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
+[2026-11-22 11:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d27d0ba9425e91e5e9c3981a900
+[2026-11-22 11:31:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-22 11:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d27d0ba9425e91e5e9c3981a900
+[2026-11-22 11:31:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): Scientists Design Habit-Based Exercise Strategy for Older Adults With 
+[2026-11-22 11:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d27d0ba9425e91e5e9c3981a900
+[2026-11-22 11:31:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Researchers found that doing this is just as effective as the gym for 
+[2026-11-22 11:31:10 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
