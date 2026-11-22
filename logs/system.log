@@ -30115,3 +30115,11 @@
 [2026-11-22 03:42:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
 [2026-11-22 03:43:09 AM] [JOBS_BOT] [SUCCESS] Published: International Court of Justice Myanmar Ruling 2026
 [2026-11-22 03:43:10 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1297 in / 489 out tokens
+[2026-11-22 03:43:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-22 03:43:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0264d017d54b5e92cbe7917076483
+[2026-11-22 03:43:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 147/300 chars, resolved=True): Netflix’s New 4-Part Crime Thriller Is #2 Worldwide & The Ultimate One
+[2026-11-22 03:43:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0264d017d54b5e92cbe7917076483
+[2026-11-22 03:43:13 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 106/300 chars, resolved=True): Zombie fans are loving From after it exploded on Netflix
+[2026-11-22 03:43:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-22 03:43:43 AM] [DRAMAS_BOT] [SUCCESS] Published: Hayley Atwell’s 2-Part Netflix Series Will Officially Test Prime Video’s Biggest 2027 Release
+[2026-11-22 03:43:44 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1140 in / 498 out tokens
