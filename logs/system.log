@@ -30244,3 +30244,20 @@
 [2026-11-22 11:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d27d0ba9425e91e5e9c3981a900
 [2026-11-22 11:31:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Researchers found that doing this is just as effective as the gym for 
 [2026-11-22 11:31:10 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-22 11:31:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d27e42724d01be16bfed26a9647
+[2026-11-22 11:31:11 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Bizarre 'Vampire Camel' Discovered in Museum Fossils Collected Decades
+[2026-11-22 11:31:26 AM] [HISTORY_BOT] [INFO] Rejected by quality gate (too short (140 words, need 150)): New dinosaur fossil discovery fills gap in Early Cretaceous fossil rec
+[2026-11-22 11:31:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d27e42724d01be16bfed26a9647
+[2026-11-22 11:31:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): How scientists saved a Normandy dinosaur fossil from the auction block
+[2026-11-22 11:31:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d28ef335458fa3096fe3bde7b0d
+[2026-11-22 11:31:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-22 11:31:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d28ef335458fa3096fe3bde7b0d
+[2026-11-22 11:31:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is that a pterodactyl? Social media video spots something over Mexican
+[2026-11-22 11:31:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d28e1d72408e81277e0522ba2e0
+[2026-11-22 11:31:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Remarkable archaeological discoveries that changed our understanding o
+[2026-11-22 11:31:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d28e1d72408e81277e0522ba2e0
+[2026-11-22 11:31:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Ancient discoveries rediscovered: Treasures hidden for centuries
+[2026-11-22 11:31:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d28fa2194ff98469490bf92ec1f
+[2026-11-22 11:31:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Child’s Fingerprints on a 15,000-Year-Old Figurine Reveal a Surprisi
+[2026-11-22 11:31:27 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 419 in / 256 out tokens
+[2026-11-22 11:31:27 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'rejected': 1, 'already_seen': 8}
