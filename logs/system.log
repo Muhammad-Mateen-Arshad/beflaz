@@ -30441,3 +30441,16 @@
 [2026-11-22 09:23:39 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): How women’s rugby teams thrived at Youth Olympics
 [2026-11-22 09:24:12 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Iran Academic Ties with Kenya: Student Recruitment Goals
 [2026-11-22 09:24:13 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1219 in / 516 out tokens
+[2026-11-22 09:24:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-22 09:24:14 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-22 09:24:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d7eff6c411aaf89900291b9e5d
+[2026-11-22 09:24:14 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-22 09:24:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d7e05c94b78bd6cfbb789d8666
+[2026-11-22 09:24:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-22 09:24:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d7e05c94b78bd6cfbb789d8666
+[2026-11-22 09:24:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Why do older adults feel nauseous in the morning?
+[2026-11-22 09:24:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d7e05c94b78bd6cfbb789d8666
+[2026-11-22 09:24:16 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): Scientists Design Habit-Based Exercise Strategy for Older Adults With 
+[2026-11-22 09:24:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d7e05c94b78bd6cfbb789d8666
+[2026-11-22 09:24:16 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
+[2026-11-22 09:24:16 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
