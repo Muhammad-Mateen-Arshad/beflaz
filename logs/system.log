@@ -30128,3 +30128,16 @@
 [2026-11-22 03:43:47 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 178/400 chars, resolved=True): How women’s rugby teams thrived at Youth Olympics
 [2026-11-22 03:44:14 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HMEL Meritorious Student Scholarships in Bathinda
 [2026-11-22 03:44:14 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 992 in / 555 out tokens
+[2026-11-22 03:44:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-22 03:44:16 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-22 03:44:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0265105543409ca51d78dcabd7c45
+[2026-11-22 03:44:17 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-22 03:44:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0265105543409ca51d78dcabd7c45
+[2026-11-22 03:44:17 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-22 03:44:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0265105543409ca51d78dcabd7c45
+[2026-11-22 03:44:17 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-22 03:44:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b026511cf8f43aab75fc92b378394e
+[2026-11-22 03:44:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-22 03:44:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b026511cf8f43aab75fc92b378394e
+[2026-11-22 03:44:19 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
+[2026-11-22 03:44:19 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
