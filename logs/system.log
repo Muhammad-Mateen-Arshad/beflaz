@@ -30088,3 +30088,9 @@
 [2026-11-22 03:29:48 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1497 in / 488 out tokens
 [2026-11-22 03:30:07 AM] [JOBS_BOT] [SUCCESS] Published: Pakistani Women Digital Entrepreneurship Opportunities
 [2026-11-22 03:30:08 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1844 in / 576 out tokens
+[2026-11-22 03:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-22 03:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0261c3ed2e4ada840260585c328a3
+[2026-11-22 03:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 147/300 chars, resolved=True): Netflix’s New 4-Part Crime Thriller Is #2 Worldwide & The Ultimate One
+[2026-11-22 03:30:12 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-22 03:30:42 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Mindhunter’ Officially Meets ‘True Detective’ in Netflix’s New 4-Part Crime Thriller
+[2026-11-22 03:30:43 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1560 in / 528 out tokens
