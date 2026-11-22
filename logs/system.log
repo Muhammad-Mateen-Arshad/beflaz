@@ -30288,3 +30288,14 @@
 [2026-11-22 12:04:48 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Opinion: Pakistan and Somalia — Building Bridges Through Education
 [2026-11-22 12:05:22 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: LUMS Alumni Support for SZABIST Scholarship Story
 [2026-11-22 12:05:23 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1523 in / 491 out tokens
+[2026-11-22 12:05:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-22 12:05:25 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-22 12:05:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da85ed5e4106804059bab9d8dbc
+[2026-11-22 12:05:25 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-22 12:05:25 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da85ed5e4106804059bab9d8dbc
+[2026-11-22 12:05:25 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-22 12:05:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da8517744906abdea1880db8116
+[2026-11-22 12:05:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-22 12:05:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da8517744906abdea1880db8116
+[2026-11-22 12:05:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
+[2026-11-22 12:05:26 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
