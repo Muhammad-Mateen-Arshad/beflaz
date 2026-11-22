@@ -30263,3 +30263,15 @@
 [2026-11-22 11:31:27 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'rejected': 1, 'already_seen': 8}
 [2026-11-22 12:04:01 PM] [NEWS_BOT] [SUCCESS] Published: Mutiple roads closed for traffic in Karachi ahead of demonstration, rally by political parties
 [2026-11-22 12:04:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 941 in / 485 out tokens
+[2026-11-22 12:04:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da34cefc4105a535d398038378b
+[2026-11-22 12:04:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
+[2026-11-22 12:04:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da34cefc4105a535d398038378b
+[2026-11-22 12:04:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Youth Pakistan’s greatest asset, guarantee of its bright future: Law M
+[2026-11-22 12:04:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da34cefc4105a535d398038378b
+[2026-11-22 12:04:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 12:04:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da34501d42dfb1e76b42af126db
+[2026-11-22 12:04:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 12:04:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da34a417491da83651060bc3768
+[2026-11-22 12:04:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 22, 2026
+[2026-11-22 12:04:22 PM] [JOBS_BOT] [SUCCESS] Published: Islamabad Expressway Service Road Project Update
+[2026-11-22 12:04:23 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 849 in / 459 out tokens
