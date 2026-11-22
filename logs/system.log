@@ -30351,3 +30351,7 @@
 [2026-11-22 03:58:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b031140ca114ee59bd48526fd01eb2
 [2026-11-22 03:58:58 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
 [2026-11-22 03:58:58 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-22 03:58:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b031143f79441ddab3aee0fc9c8323
+[2026-11-22 03:58:59 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): How scientists saved a Normandy dinosaur fossil from the auction block
+[2026-11-22 03:59:51 PM] [HISTORY_BOT] [SUCCESS] Published: Fossilised Jaw And Teeth Of Giant Elephant, Believed To Be Of Palaeoloxodon Species, Found In MP's Raisen
+[2026-11-22 03:59:52 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1393 in / 616 out tokens
