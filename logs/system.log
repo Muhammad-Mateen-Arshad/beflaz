@@ -30320,3 +30320,15 @@
 [2026-11-22 03:52:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-22 03:55:02 PM] [NEWS_BOT] [SUCCESS] Published: Oman to supply petroleum products, $200m credit facility to PSO under new agreement
 [2026-11-22 03:55:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 959 in / 545 out tokens
+[2026-11-22 03:55:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03105770a74a07b3916ae003d8889
+[2026-11-22 03:55:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
+[2026-11-22 03:55:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03105770a74a07b3916ae003d8889
+[2026-11-22 03:55:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 103/400 chars, resolved=True): Job readiness matters more than degrees alone: Fadnavis
+[2026-11-22 03:55:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b031058a5a640bfb18df9a7f7c06f9
+[2026-11-22 03:55:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 03:55:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 284/400 chars, resolved=True): President Zardari promulgates five KP ordinances, strips lawmakers of 
+[2026-11-22 03:55:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b031058a5a640bfb18df9a7f7c06f9
+[2026-11-22 03:55:06 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 22, 2026
+[2026-11-22 03:56:21 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-22 03:56:21 PM] [JOBS_BOT] [SUCCESS] Published: Balochistan 25,000 Jobs Recruitment Initiative
+[2026-11-22 03:56:22 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1168 in / 452 out tokens
