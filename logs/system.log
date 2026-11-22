@@ -30221,3 +30221,13 @@
 [2026-11-22 11:29:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-22 11:30:24 AM] [DRAMAS_BOT] [SUCCESS] Published: “You’re No Jack Kennedy”
 [2026-11-22 11:30:24 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 461 in / 322 out tokens
+[2026-11-22 11:30:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d2517f2e42658b6be0250b2e3e2
+[2026-11-22 11:30:25 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Austria Recruiting Winter Staff for 2026/27: Free Accommodation and Sa
+[2026-11-22 11:30:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d2517f2e42658b6be0250b2e3e2
+[2026-11-22 11:30:26 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Florida Education Freedom Tax Credit: How the $1,700 scholarship credi
+[2026-11-22 11:30:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d2517f2e42658b6be0250b2e3e2
+[2026-11-22 11:30:26 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 168/400 chars, resolved=True): Wole Bakare challenges African collectors to invest in artists at Stat
+[2026-11-22 11:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d2528b3f41e5a42ad98fdae9ed9
+[2026-11-22 11:30:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Opinion: Pakistan and Somalia — Building Bridges Through Education
+[2026-11-22 11:30:51 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: KP Agriculture Scholarships to China: Overview
+[2026-11-22 11:30:52 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 874 in / 589 out tokens
