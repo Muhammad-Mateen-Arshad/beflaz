@@ -30156,3 +30156,15 @@
 [2026-11-22 03:44:50 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1663 in / 558 out tokens
 [2026-11-22 07:29:39 AM] [NEWS_BOT] [SUCCESS] Published: Portuguese foreign minister arrives in Pakistan for official visit: FO
 [2026-11-22 07:29:40 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 599 in / 398 out tokens
+[2026-11-22 07:29:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0299e408b84406b2fbb773351f3d9
+[2026-11-22 07:29:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
+[2026-11-22 07:29:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0299e408b84406b2fbb773351f3d9
+[2026-11-22 07:29:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Youth Pakistan’s greatest asset, guarantee of its bright future: Law M
+[2026-11-22 07:29:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0299e5d8c74f708839918ad6d3ffe
+[2026-11-22 07:29:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 07:29:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0299e5d8c74f708839918ad6d3ffe
+[2026-11-22 07:29:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-22 07:29:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0299e7d0d348fc98bbd08bce5ecbf
+[2026-11-22 07:29:43 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 22, 2026
+[2026-11-22 07:30:00 AM] [JOBS_BOT] [SUCCESS] Published: Nadra Domicile Reform Proposal and FIA Inquiry Details
+[2026-11-22 07:30:00 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1748 in / 591 out tokens
