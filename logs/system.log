@@ -30173,3 +30173,11 @@
 [2026-11-22 07:30:02 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 106/300 chars, resolved=True): Zombie fans are loving From after it exploded on Netflix
 [2026-11-22 07:30:25 AM] [DRAMAS_BOT] [SUCCESS] Published: The 10 Most Exciting TV Shows To Look Out For This Winter
 [2026-11-22 07:30:26 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1758 in / 645 out tokens
+[2026-11-22 07:30:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029a123d68457e8ade33cab453547
+[2026-11-22 07:30:26 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 168/400 chars, resolved=True): Wole Bakare challenges African collectors to invest in artists at Stat
+[2026-11-22 07:30:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029a123d68457e8ade33cab453547
+[2026-11-22 07:30:27 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Austria Recruiting Winter Staff for 2026/27: Free Accommodation and Sa
+[2026-11-22 07:30:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029a13476e4bc2a6084f3a67f0266
+[2026-11-22 07:30:28 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Opinion: Pakistan and Somalia — Building Bridges Through Education
+[2026-11-22 07:30:43 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Dhahan Prize for Punjabi Literature: Details and Benefits
+[2026-11-22 07:30:44 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1697 in / 454 out tokens
