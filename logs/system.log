@@ -30201,3 +30201,20 @@
 [2026-11-22 07:31:23 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1582 in / 524 out tokens
 [2026-11-22 11:29:50 AM] [NEWS_BOT] [SUCCESS] Published: PPP-PML-N spat continues as Asif's jibe at Bilawal draws 'red line' warning
 [2026-11-22 11:29:50 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1598 in / 462 out tokens
+[2026-11-22 11:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d22f2cb8465aa0ceb20353f07ba
+[2026-11-22 11:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
+[2026-11-22 11:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d22f2cb8465aa0ceb20353f07ba
+[2026-11-22 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): A journalist has to take sides: Justice Sudhanshu Dhulia challenges me
+[2026-11-22 11:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d22f2cb8465aa0ceb20353f07ba
+[2026-11-22 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Politics latest: Minister says the PM 'in no way pulling punches' with
+[2026-11-22 11:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d23025bd4437b3c7bcb589d3a51
+[2026-11-22 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 11:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d23025bd4437b3c7bcb589d3a51
+[2026-11-22 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-22 11:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d2317ba441199e446002552bc43
+[2026-11-22 11:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 22, 2026
+[2026-11-22 11:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d2315a1f46e1aedf454f9584e4a
+[2026-11-22 11:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-22 11:29:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d2311e3347d9b027d8f88e7242d
+[2026-11-22 11:29:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 11:29:54 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
