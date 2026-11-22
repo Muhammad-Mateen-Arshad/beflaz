@@ -30414,3 +30414,18 @@
 [2026-11-22 07:33:00 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1596 in / 563 out tokens
 [2026-11-22 09:22:18 PM] [NEWS_BOT] [SUCCESS] Published: Varma century in vain as Pakistan Shaheens down India A in Asia Cup Rising Stars clash
 [2026-11-22 09:22:19 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1686 in / 600 out tokens
+[2026-11-22 09:22:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d0c9792455ab6980b9e93e9f94
+[2026-11-22 09:22:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-22 09:22:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 249/400 chars, resolved=True): Pakistan hosts 49-member nuclear security network’s annual meeting in 
+[2026-11-22 09:22:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d0df0cd4d4f8a5abdbbc8371e4
+[2026-11-22 09:22:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 22, 2026
+[2026-11-22 09:22:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d0d37a54c04ab2668cac923377
+[2026-11-22 09:22:21 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-22 09:22:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d0d5a3e4eb7a11513789105580
+[2026-11-22 09:22:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 09:22:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d0d5a3e4eb7a11513789105580
+[2026-11-22 09:22:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Punjab PCS exam 2026: High Court stays PPSC recruitment process amid i
+[2026-11-22 09:22:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b035d0ed07345df87fd6e3d3e761e0
+[2026-11-22 09:22:22 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Sindh CM proposes Wuhan-style governance pilot in KarachiPublished on:
+[2026-11-22 09:22:55 PM] [JOBS_BOT] [SUCCESS] Published: SPSC Recruitment Update: Staff Actions and Advisory
+[2026-11-22 09:22:56 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 902 in / 491 out tokens
