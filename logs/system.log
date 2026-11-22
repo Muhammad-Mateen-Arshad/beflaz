@@ -30313,3 +30313,10 @@
 [2026-11-22 12:05:29 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Child’s Fingerprints on a 15,000-Year-Old Figurine Reveal a Surprisi
 [2026-11-22 12:05:54 PM] [HISTORY_BOT] [SUCCESS] Published: Prehistoric Humans May Have Hunted Hippos With Poisoned Spears
 [2026-11-22 12:05:56 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 882 in / 430 out tokens
+[2026-11-22 03:29:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-22 03:29:51 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-22 03:35:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-22 03:51:18 PM] [NEWS_BOT] [ERROR] Naqvi hits back at 'minister' for repeated criticism: report -> RemoteProtocolError: Server disconnected without sending a response.
+[2026-11-22 03:52:09 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-22 03:55:02 PM] [NEWS_BOT] [SUCCESS] Published: Oman to supply petroleum products, $200m credit facility to PSO under new agreement
+[2026-11-22 03:55:03 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 959 in / 545 out tokens
