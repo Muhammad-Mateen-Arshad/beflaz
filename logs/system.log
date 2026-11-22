@@ -30299,3 +30299,17 @@
 [2026-11-22 12:05:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da8517744906abdea1880db8116
 [2026-11-22 12:05:26 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
 [2026-11-22 12:05:26 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 15, 'tried': 5, 'thin': 5}
+[2026-11-22 12:05:27 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da8776cd482e8dc9ede85969d94
+[2026-11-22 12:05:27 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): How scientists saved a Normandy dinosaur fossil from the auction block
+[2026-11-22 12:05:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da87177e4f35a3ce6c964442752
+[2026-11-22 12:05:28 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-22 12:05:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da87177e4f35a3ce6c964442752
+[2026-11-22 12:05:28 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Is that a pterodactyl? Social media video spots something over Mexican
+[2026-11-22 12:05:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da8882e34fc4bacf44444d45bc7
+[2026-11-22 12:05:28 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Remarkable archaeological discoveries that changed our understanding o
+[2026-11-22 12:05:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da8882e34fc4bacf44444d45bc7
+[2026-11-22 12:05:28 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Ancient discoveries rediscovered: Treasures hidden for centuries
+[2026-11-22 12:05:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da886c1847beaad7f08cdc70764
+[2026-11-22 12:05:29 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Child’s Fingerprints on a 15,000-Year-Old Figurine Reveal a Surprisi
+[2026-11-22 12:05:54 PM] [HISTORY_BOT] [SUCCESS] Published: Prehistoric Humans May Have Hunted Hippos With Poisoned Spears
+[2026-11-22 12:05:56 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 882 in / 430 out tokens
