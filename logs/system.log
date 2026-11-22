@@ -30275,3 +30275,6 @@
 [2026-11-22 12:04:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 22, 2026
 [2026-11-22 12:04:22 PM] [JOBS_BOT] [SUCCESS] Published: Islamabad Expressway Service Road Project Update
 [2026-11-22 12:04:23 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 849 in / 459 out tokens
+[2026-11-22 12:04:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-22 12:04:45 PM] [DRAMAS_BOT] [SUCCESS] Published: Tom Brady fires back at Eli Manning’s Super Bowl XLII jab ahead of Netflix documentary release
+[2026-11-22 12:04:46 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1098 in / 513 out tokens
