@@ -30473,3 +30473,20 @@
 [2026-11-22 09:24:56 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1747 in / 550 out tokens
 [2026-11-22 11:29:59 PM] [NEWS_BOT] [SUCCESS] Published: Naqvi hits back at minister for repeated criticism: report
 [2026-11-22 11:30:00 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1417 in / 475 out tokens
+[2026-11-22 11:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037af9e8134b5a87926b5c6ec2ccc
+[2026-11-22 11:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): ASF Jobs 2026 Apply Online for 1036+ ASI, Corporals, Drivers & Others 
+[2026-11-22 11:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037af9e8134b5a87926b5c6ec2ccc
+[2026-11-22 11:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Tharoor: Dialogue with Pakistan only after dismantling terror groups
+[2026-11-22 11:30:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037af9e8134b5a87926b5c6ec2ccc
+[2026-11-22 11:30:02 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
+[2026-11-22 11:30:03 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037afa5b0642e78c2a02ece660f26
+[2026-11-22 11:30:03 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): ASF Jobs 2026 Apply Online for 1036+ ASI, Corporals, Drivers & Others 
+[2026-11-22 11:30:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037afa5b0642e78c2a02ece660f26
+[2026-11-22 11:30:04 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-22 11:30:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037afa5b0642e78c2a02ece660f26
+[2026-11-22 11:30:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-22 11:30:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037afa5b0642e78c2a02ece660f26
+[2026-11-22 11:30:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 166/400 chars, resolved=True): Newspaper - Karachi - November 22, 2026
+[2026-11-22 11:30:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037afda2ff49fcb362e7bd771a225
+[2026-11-22 11:30:05 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): ASF Jobs 2026 Apply Online for 1036+ ASI, Corporals, Drivers & Others 
+[2026-11-22 11:30:06 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 3, 'tried': 8, 'thin': 8}
