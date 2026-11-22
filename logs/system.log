@@ -30278,3 +30278,13 @@
 [2026-11-22 12:04:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-22 12:04:45 PM] [DRAMAS_BOT] [SUCCESS] Published: Tom Brady fires back at Eli Manning’s Super Bowl XLII jab ahead of Netflix documentary release
 [2026-11-22 12:04:46 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1098 in / 513 out tokens
+[2026-11-22 12:04:46 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da5eb28345cda42507d7a1b949f
+[2026-11-22 12:04:46 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Austria Recruiting Winter Staff for 2026/27: Free Accommodation and Sa
+[2026-11-22 12:04:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da5eb28345cda42507d7a1b949f
+[2026-11-22 12:04:47 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 191/400 chars, resolved=True): Florida Education Freedom Tax Credit: How the $1,700 scholarship credi
+[2026-11-22 12:04:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da5eb28345cda42507d7a1b949f
+[2026-11-22 12:04:47 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 168/400 chars, resolved=True): Wole Bakare challenges African collectors to invest in artists at Stat
+[2026-11-22 12:04:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02da5f52ae4122ae4f42f9286ab86
+[2026-11-22 12:04:48 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Opinion: Pakistan and Somalia — Building Bridges Through Education
+[2026-11-22 12:05:22 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: LUMS Alumni Support for SZABIST Scholarship Story
+[2026-11-22 12:05:23 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1523 in / 491 out tokens
