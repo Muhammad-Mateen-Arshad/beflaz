@@ -30378,3 +30378,11 @@
 [2026-11-22 07:30:25 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 120/300 chars, resolved=True): Netflix's new gritty 4-part drama is 1 of the most-watched shows in th
 [2026-11-22 07:31:08 PM] [DRAMAS_BOT] [SUCCESS] Published: Controversial Erotic Thriller Returns With More Netflix Releases This Week
 [2026-11-22 07:31:09 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 729 in / 452 out tokens
+[2026-11-22 07:31:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342fdbc4a4f5dab95a9c46a548c3
+[2026-11-22 07:31:10 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 154/400 chars, resolved=True): Austria Recruiting Winter Staff for 2026/27: Free Accommodation and Sa
+[2026-11-22 07:31:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342fdbc4a4f5dab95a9c46a548c3
+[2026-11-22 07:31:10 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 168/400 chars, resolved=True): Wole Bakare challenges African collectors to invest in artists at Stat
+[2026-11-22 07:31:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0342fdbc4a4f5dab95a9c46a548c3
+[2026-11-22 07:31:11 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): From ASCON to a National School of Government: Towards a Future-Ready 
+[2026-11-22 07:31:54 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Study in Korea Online Education Fair 2026: Apply Free
+[2026-11-22 07:31:54 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1156 in / 478 out tokens
