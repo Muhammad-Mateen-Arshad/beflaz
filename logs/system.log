@@ -30516,3 +30516,7 @@
 [2026-11-22 11:33:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037bb2f13a4ea282e89d89fd2ada8
 [2026-11-22 11:33:08 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
 [2026-11-22 11:33:08 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-22 11:33:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b037bb405f74e57afb884d897f34a1
+[2026-11-22 11:33:08 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Scientists find 156-million-year-old horned reptile fossil in Wyoming 
+[2026-11-22 11:33:32 PM] [HISTORY_BOT] [SUCCESS] Published: Tiny reptile found in Wyoming sandstone is a prehistoric ‘dragon’
+[2026-11-22 11:33:33 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1593 in / 559 out tokens
