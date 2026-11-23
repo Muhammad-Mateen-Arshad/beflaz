@@ -30720,3 +30720,10 @@
 [2026-11-23 11:32:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b042455078c4ffc8f948afcc2734ae
 [2026-11-23 11:32:38 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 183/300 chars, resolved=True): Latest OTT And Theatrical Releases This Week: Blade Runner, You Can Se
 [2026-11-23 11:32:38 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 11}
+[2026-11-23 11:32:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04245603e44aec84e45daa9b9ca04
+[2026-11-23 11:32:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): From pre-K to school funding, Texas Dems hope power shift gives educat
+[2026-11-23 11:32:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04245603e44aec84e45daa9b9ca04
+[2026-11-23 11:32:38 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 134/400 chars, resolved=True): New tech for veterans and holiday fun in Greenville - In the know 11.2
+[2026-11-23 11:33:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-23 11:35:05 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Ireland Fashion Week Graduate Show Scholarships
+[2026-11-23 11:35:06 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1688 in / 480 out tokens
