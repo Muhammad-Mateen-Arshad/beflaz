@@ -30806,3 +30806,18 @@
 [2026-11-23 03:48:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-23 03:49:24 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-23 03:49:54 PM] [HEALTH_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-23 03:49:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Rare fossil discovery reveals new dinosaur species that were specializ
+[2026-11-23 03:49:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0460a497a84cd3ae3999c3ebd8ce2
+[2026-11-23 03:49:56 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Scientists find 156-million-year-old horned reptile fossil in Wyoming 
+[2026-11-23 03:49:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0460a53a684046a26b157eb1181df
+[2026-11-23 03:49:57 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-23 03:49:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0460a53a684046a26b157eb1181df
+[2026-11-23 03:49:57 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): How To Build A Dinosaur: A 67-Million-Year-Old T. Rex Is Coming To UK 
+[2026-11-23 03:49:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0460a57d7f4cafbb89e9696d6ea9d
+[2026-11-23 03:49:57 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
+[2026-11-23 03:49:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0460a57d7f4cafbb89e9696d6ea9d
+[2026-11-23 03:49:58 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Mind-blowing ancient inscriptions unveiled in recent archaeological di
+[2026-11-23 03:49:58 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Exhibition exploring the power and splendor of ancient Maya civilizati
+[2026-11-23 03:49:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0460a6e264481e8fdd76d815eb81e
+[2026-11-23 03:49:59 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Child’s Fingerprints on a 15,000-Year-Old Figurine Reveal a Surprisi
+[2026-11-23 03:49:59 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 9}
