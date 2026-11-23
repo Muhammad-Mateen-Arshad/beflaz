@@ -30685,3 +30685,9 @@
 [2026-11-23 10:47:53 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 967 in / 452 out tokens
 [2026-11-23 10:48:20 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Mastercard Foundation Africa Oxford Initiative Scholarship
 [2026-11-23 10:48:21 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1685 in / 442 out tokens
+[2026-11-23 10:48:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-23 10:48:22 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-23 10:48:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419f6986a4baeaf53675a0351ffa
+[2026-11-23 10:48:22 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-23 10:48:50 AM] [HEALTH_BOT] [SUCCESS] Published: Whether you're team plastic or wood, here's how to sanitize your cutting board
+[2026-11-23 10:48:50 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1612 in / 576 out tokens
