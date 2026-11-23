@@ -30841,3 +30841,9 @@
 [2026-11-23 07:40:26 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1443 in / 521 out tokens
 [2026-11-23 07:40:56 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Erasmus Mundus 2027 Master's Scholarships: How to Apply
 [2026-11-23 07:40:56 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1305 in / 509 out tokens
+[2026-11-23 07:40:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-23 07:40:59 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-23 07:41:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0496cb425f45989a28810ef5f120e
+[2026-11-23 07:41:00 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-23 07:41:39 PM] [HEALTH_BOT] [SUCCESS] Published: Saturated Fat Hits Hardest in Women With High Genetic Cholesterol Risk
+[2026-11-23 07:41:40 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1434 in / 549 out tokens
