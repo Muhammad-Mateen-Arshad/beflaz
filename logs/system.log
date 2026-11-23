@@ -30710,3 +30710,13 @@
 [2026-11-23 11:31:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-23 11:32:33 AM] [JOBS_BOT] [SUCCESS] Published: Wapda Ghotki Drainage Project Details and Notice
 [2026-11-23 11:32:34 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1002 in / 509 out tokens
+[2026-11-23 11:32:36 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-23 11:32:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0424544e6a4dcf8f031558e82c8dd
+[2026-11-23 11:32:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): Razane Jammal scores brand ambassador role
+[2026-11-23 11:32:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0424544e6a4dcf8f031558e82c8dd
+[2026-11-23 11:32:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 66/300 chars, resolved=True): Who slept worst last night? Charles Leclerc
+[2026-11-23 11:32:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b042455f157483b8d504a8f32f9f3e
+[2026-11-23 11:32:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 95/300 chars, resolved=True): Netflix’s new 106-minute thriller is a global hit with 162 million vie
+[2026-11-23 11:32:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b042455078c4ffc8f948afcc2734ae
+[2026-11-23 11:32:38 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 183/300 chars, resolved=True): Latest OTT And Theatrical Releases This Week: Blade Runner, You Can Se
+[2026-11-23 11:32:38 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 5, 'thin': 5, 'already_seen': 11}
