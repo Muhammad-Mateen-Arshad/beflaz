@@ -30567,3 +30567,5 @@
 [2026-11-23 03:30:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b36fc9824b729229201ecf31268
 [2026-11-23 03:30:55 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Remarkable archaeological discoveries that changed our understanding o
 [2026-11-23 03:30:55 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-23 04:19:00 AM] [NEWS_BOT] [SUCCESS] Published: PM to attend ECO moot in Iran after Russia trip
+[2026-11-23 04:19:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 828 in / 423 out tokens
