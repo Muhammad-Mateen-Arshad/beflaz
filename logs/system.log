@@ -30626,3 +30626,18 @@
 [2026-11-23 07:30:50 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1347 in / 480 out tokens
 [2026-11-23 07:31:16 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Allcargo School of Logistics MBA Scholarships Guide
 [2026-11-23 07:31:16 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1391 in / 466 out tokens
+[2026-11-23 07:31:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-23 07:31:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-23 07:31:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebc6245a465fa65e858ff4aa1fe
+[2026-11-23 07:31:18 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-23 07:31:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebc6245a465fa65e858ff4aa1fe
+[2026-11-23 07:31:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
+[2026-11-23 07:31:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd5f80d4a3b99ec285ba614a09
+[2026-11-23 07:31:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-23 07:31:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd5f80d4a3b99ec285ba614a09
+[2026-11-23 07:31:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
+[2026-11-23 07:31:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd5f80d4a3b99ec285ba614a09
+[2026-11-23 07:31:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Researchers found that doing this is just as effective as the gym for 
+[2026-11-23 07:31:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd5f80d4a3b99ec285ba614a09
+[2026-11-23 07:31:36 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
+[2026-11-23 07:31:36 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
