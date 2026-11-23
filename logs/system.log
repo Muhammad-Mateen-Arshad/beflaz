@@ -30727,3 +30727,20 @@
 [2026-11-23 11:33:56 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-23 11:35:05 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Ireland Fashion Week Graduate Show Scholarships
 [2026-11-23 11:35:06 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1688 in / 480 out tokens
+[2026-11-23 11:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-23 11:35:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-23 11:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0424ec9f6d44dda960ff58acf86d9
+[2026-11-23 11:35:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-23 11:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0424ec9f6d44dda960ff58acf86d9
+[2026-11-23 11:35:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-23 11:35:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0424ec9f6d44dda960ff58acf86d9
+[2026-11-23 11:35:08 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 158/800 chars, resolved=True): More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution
+[2026-11-23 11:35:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0424ec280f43598142719d54be456
+[2026-11-23 11:35:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-23 11:35:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0424ec280f43598142719d54be456
+[2026-11-23 11:35:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 154/800 chars, resolved=True): Why do older adults fall asleep sitting up?
+[2026-11-23 11:35:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0424ec280f43598142719d54be456
+[2026-11-23 11:35:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 200/800 chars, resolved=True): 5 helpful tools for adults juggling both aging parents and growing chi
+[2026-11-23 11:35:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0424ec280f43598142719d54be456
+[2026-11-23 11:35:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): Scientists Design Habit-Based Exercise Strategy for Older Adults With 
+[2026-11-23 11:35:10 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
