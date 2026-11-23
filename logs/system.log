@@ -30658,3 +30658,19 @@
 [2026-11-23 07:31:38 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
 [2026-11-23 10:47:21 AM] [NEWS_BOT] [SUCCESS] Published: Asif says process for referendum on new provinces likely to move forward early next year
 [2026-11-23 10:47:21 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1258 in / 470 out tokens
+[2026-11-23 10:47:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419ba12244cb788ca221cf6f9e1e
+[2026-11-23 10:47:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Tharoor: Dialogue with Pakistan only after dismantling terror groups
+[2026-11-23 10:47:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419ba12244cb788ca221cf6f9e1e
+[2026-11-23 10:47:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 103/400 chars, resolved=True): Job readiness matters more than degrees alone: Fadnavis
+[2026-11-23 10:47:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419ba12244cb788ca221cf6f9e1e
+[2026-11-23 10:47:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): RMG industry caught between wages and competitiveness
+[2026-11-23 10:47:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419bbf7014fc0a8be655f136b874
+[2026-11-23 10:47:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 23, 2026
+[2026-11-23 10:47:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419bbf7014fc0a8be655f136b874
+[2026-11-23 10:47:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Newspaper - Front Page - November 23, 2026
+[2026-11-23 10:47:24 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 249/400 chars, resolved=True): PPP draws ‘red line’ as Kh Asif’s jibe at Bilawal draws ire
+[2026-11-23 10:47:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419bcaeac402a848ba839dab5149
+[2026-11-23 10:47:25 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Tharoor: Dialogue with Pakistan only after dismantling terror groups
+[2026-11-23 10:47:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419bcaeac402a848ba839dab5149
+[2026-11-23 10:47:25 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Diljit Dosanjh questions song restrictions at Ahmedabad concert
+[2026-11-23 10:47:25 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
