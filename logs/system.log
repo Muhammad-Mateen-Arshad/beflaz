@@ -30611,3 +30611,10 @@
 [2026-11-23 04:21:37 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 863 in / 461 out tokens
 [2026-11-23 07:29:52 AM] [NEWS_BOT] [SUCCESS] Published: In meeting with Dar, Portugese foreign minister reaffirms commitment to further bolster Islamabad-Lisbon ties
 [2026-11-23 07:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 764 in / 420 out tokens
+[2026-11-23 07:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03eb714d0b46218e42eed33366498
+[2026-11-23 07:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Tharoor: Dialogue with Pakistan only after dismantling terror groups
+[2026-11-23 07:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03eb714d0b46218e42eed33366498
+[2026-11-23 07:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
+[2026-11-23 07:29:55 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-23 07:30:24 AM] [JOBS_BOT] [SUCCESS] Published: Bangladesh Garment Workers Rice Ration Program 2026
+[2026-11-23 07:30:24 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1743 in / 521 out tokens
