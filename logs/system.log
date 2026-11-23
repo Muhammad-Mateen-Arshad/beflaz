@@ -30751,3 +30751,15 @@
 [2026-11-23 11:55:28 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1024 in / 432 out tokens
 [2026-11-23 03:29:57 PM] [NEWS_BOT] [SUCCESS] Published: Peshawar to host opening ceremony, inaugural match for 12th edition of PSL: PCB chief
 [2026-11-23 03:29:58 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1604 in / 605 out tokens
+[2026-11-23 03:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b045bf6d43146e89cfc70bed74e394
+[2026-11-23 03:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Bengal govt plans to rename state Paschim Banga; 8 bills lined up in a
+[2026-11-23 03:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b045bf6d43146e89cfc70bed74e394
+[2026-11-23 03:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Tharoor: Dialogue with Pakistan only after dismantling terror groups
+[2026-11-23 03:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b045bf6d43146e89cfc70bed74e394
+[2026-11-23 03:29:59 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): RMG industry caught between wages and competitiveness
+[2026-11-23 03:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b045bf7cafa4d9483ab6ab422f2ea5
+[2026-11-23 03:30:00 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 116/400 chars, resolved=True): Newspaper - Karachi - November 23, 2026
+[2026-11-23 03:30:01 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Trump accuses Iran of intensifying its military aggression following U
+[2026-11-23 03:30:56 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-23 03:30:56 PM] [JOBS_BOT] [SUCCESS] Published: Dwarka Job Fraud Racket Busted: Details for Job Seekers
+[2026-11-23 03:30:57 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1227 in / 564 out tokens
