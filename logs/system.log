@@ -30588,3 +30588,18 @@
 [2026-11-23 04:20:28 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-23 04:20:56 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab Student Scholarships and Laptops Announcement
 [2026-11-23 04:20:56 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2754 in / 633 out tokens
+[2026-11-23 04:20:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-23 04:20:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-23 04:20:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bf2a8cbb45ffa93b64d96796dab
+[2026-11-23 04:20:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-23 04:21:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bf2a8cbb45ffa93b64d96796dab
+[2026-11-23 04:21:14 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
+[2026-11-23 04:21:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bf3a9d6c46f9b86d2b4df2272d3
+[2026-11-23 04:21:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-23 04:21:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bf3a9d6c46f9b86d2b4df2272d3
+[2026-11-23 04:21:15 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): Scientists Design Habit-Based Exercise Strategy for Older Adults With 
+[2026-11-23 04:21:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bf3a9d6c46f9b86d2b4df2272d3
+[2026-11-23 04:21:16 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Dance May Be the Most Effective Exercise for Easing Depression in Olde
+[2026-11-23 04:21:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bf3a9d6c46f9b86d2b4df2272d3
+[2026-11-23 04:21:16 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
+[2026-11-23 04:21:16 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
