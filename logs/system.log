@@ -30656,3 +30656,5 @@
 [2026-11-23 07:31:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd9df0a4a748c1efff75f2dcbb
 [2026-11-23 07:31:38 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Remarkable archaeological discoveries that changed our understanding o
 [2026-11-23 07:31:38 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
+[2026-11-23 10:47:21 AM] [NEWS_BOT] [SUCCESS] Published: Asif says process for referendum on new provinces likely to move forward early next year
+[2026-11-23 10:47:21 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1258 in / 470 out tokens
