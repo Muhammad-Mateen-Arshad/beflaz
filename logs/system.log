@@ -30531,3 +30531,9 @@
 [2026-11-23 03:29:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-23 03:30:14 AM] [DRAMAS_BOT] [SUCCESS] Published: Latest OTT releases (November 23-November 29): 17 new movies and TV shows on Netflix, Prime Video, JioHotstar and more
 [2026-11-23 03:30:15 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1544 in / 531 out tokens
+[2026-11-23 03:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b347a2b042dea100c49769f424d
+[2026-11-23 03:30:16 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Osunyikanmi: A Scholar, Builder of Dreams Leaves Legacy of Service (19
+[2026-11-23 03:30:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b347a2b042dea100c49769f424d
+[2026-11-23 03:30:17 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): From ASCON to a National School of Government: Towards a Future-Ready 
+[2026-11-23 03:30:32 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Stanford University Predoctoral Research Fellowship 2027
+[2026-11-23 03:30:33 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1494 in / 580 out tokens
