@@ -30522,3 +30522,9 @@
 [2026-11-22 11:33:33 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1593 in / 559 out tokens
 [2026-11-23 03:29:40 AM] [NEWS_BOT] [SUCCESS] Published: Govt moves to overhaul ‘weak’ audit system
 [2026-11-23 03:29:41 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1446 in / 540 out tokens
+[2026-11-23 03:29:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b32505e449818064d52ade07d20
+[2026-11-23 03:29:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Tharoor: Dialogue with Pakistan only after dismantling terror groups
+[2026-11-23 03:29:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b32505e449818064d52ade07d20
+[2026-11-23 03:29:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
+[2026-11-23 03:29:56 AM] [JOBS_BOT] [SUCCESS] Published: 18th Economic Cooperation Organization Summit Update
+[2026-11-23 03:29:56 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 703 in / 377 out tokens
