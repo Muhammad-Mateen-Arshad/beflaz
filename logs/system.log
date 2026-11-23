@@ -30825,3 +30825,8 @@
 [2026-11-23 07:38:32 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-23 07:38:33 PM] [NEWS_BOT] [SUCCESS] Published: Naqvi complicated provinces debate by 'irrelevant speech at irrelevant forum', says Rana Sanaullah
 [2026-11-23 07:38:34 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1501 in / 489 out tokens
+[2026-11-23 07:38:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04963a4f214a3898737f61cfb0640
+[2026-11-23 07:38:35 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Bengal govt plans to rename state Paschim Banga; 8 bills lined up in a
+[2026-11-23 07:38:36 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-23 07:39:52 PM] [JOBS_BOT] [SUCCESS] Published: Sindh Youth Card Initiative: Eligibility and Details
+[2026-11-23 07:39:53 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1754 in / 602 out tokens
