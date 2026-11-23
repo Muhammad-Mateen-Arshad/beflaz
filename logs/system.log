@@ -30641,3 +30641,18 @@
 [2026-11-23 07:31:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd5f80d4a3b99ec285ba614a09
 [2026-11-23 07:31:36 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 201/800 chars, resolved=True): Survey Denominators Invert Perceived Exercise Constraints Among Older 
 [2026-11-23 07:31:36 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-23 07:31:37 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Rare fossil discovery reveals new dinosaur species that were specializ
+[2026-11-23 07:31:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd804294b379063d406d60a4d8
+[2026-11-23 07:31:37 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Scientists find 156-million-year-old horned reptile fossil in Wyoming 
+[2026-11-23 07:31:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd804294b379063d406d60a4d8
+[2026-11-23 07:31:37 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Tyrannotitan chubutensis: Life and discovery of a carcharodontosaurid
+[2026-11-23 07:31:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd9bab640a093b89616d05de65
+[2026-11-23 07:31:37 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-23 07:31:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd9bab640a093b89616d05de65
+[2026-11-23 07:31:37 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): How To Build A Dinosaur: A 67-Million-Year-Old T. Rex Is Coming To UK 
+[2026-11-23 07:31:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd9df0a4a748c1efff75f2dcbb
+[2026-11-23 07:31:38 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Mind-blowing ancient inscriptions unveiled in recent archaeological di
+[2026-11-23 07:31:38 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Exhibition exploring the power and splendor of ancient Maya civilizati
+[2026-11-23 07:31:38 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ebd9df0a4a748c1efff75f2dcbb
+[2026-11-23 07:31:38 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 159/400 chars, resolved=True): Remarkable archaeological discoveries that changed our understanding o
+[2026-11-23 07:31:38 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
