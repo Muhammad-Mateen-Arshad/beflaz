@@ -30763,3 +30763,12 @@
 [2026-11-23 03:30:56 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-23 03:30:56 PM] [JOBS_BOT] [SUCCESS] Published: Dwarka Job Fraud Racket Busted: Details for Job Seekers
 [2026-11-23 03:30:57 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1227 in / 564 out tokens
+[2026-11-23 03:30:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-23 03:30:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b045c33fb20436f971276483d07b25
+[2026-11-23 03:30:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 66/300 chars, resolved=True): Who slept worst last night? Charles Leclerc
+[2026-11-23 03:31:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b045c33fb20436f971276483d07b25
+[2026-11-23 03:31:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): Razane Jammal scores brand ambassador role
+[2026-11-23 03:36:20 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-23 03:36:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-23 03:37:12 PM] [DRAMAS_BOT] [SUCCESS] Published: Beyond history: Reimagining cultural ties between Istanbul, London
+[2026-11-23 03:37:13 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1375 in / 528 out tokens
