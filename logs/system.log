@@ -30528,3 +30528,6 @@
 [2026-11-23 03:29:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
 [2026-11-23 03:29:56 AM] [JOBS_BOT] [SUCCESS] Published: 18th Economic Cooperation Organization Summit Update
 [2026-11-23 03:29:56 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 703 in / 377 out tokens
+[2026-11-23 03:29:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-23 03:30:14 AM] [DRAMAS_BOT] [SUCCESS] Published: Latest OTT releases (November 23-November 29): 17 new movies and TV shows on Netflix, Prime Video, JioHotstar and more
+[2026-11-23 03:30:15 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1544 in / 531 out tokens
