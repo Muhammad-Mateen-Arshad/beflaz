@@ -30618,3 +30618,9 @@
 [2026-11-23 07:29:55 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-23 07:30:24 AM] [JOBS_BOT] [SUCCESS] Published: Bangladesh Garment Workers Rice Ration Program 2026
 [2026-11-23 07:30:24 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1743 in / 521 out tokens
+[2026-11-23 07:30:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03eb912ca84c21ba969556e3f1512
+[2026-11-23 07:30:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-23 07:30:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-23 07:30:28 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-23 07:30:49 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Stranger Things’ Officially Sets 2028 Netflix Return
+[2026-11-23 07:30:50 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1347 in / 480 out tokens
