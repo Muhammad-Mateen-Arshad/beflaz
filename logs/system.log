@@ -30580,3 +30580,11 @@
 [2026-11-23 04:19:31 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-23 04:20:02 AM] [DRAMAS_BOT] [SUCCESS] Published: Josh Brolin’s WWII Series Officially Sets Netflix Streaming Release Date
 [2026-11-23 04:20:03 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1622 in / 481 out tokens
+[2026-11-23 04:20:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bef3466648b684c166fce465ee2
+[2026-11-23 04:20:05 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Osunyikanmi: A Scholar, Builder of Dreams Leaves Legacy of Service (19
+[2026-11-23 04:20:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bef3466648b684c166fce465ee2
+[2026-11-23 04:20:06 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): From ASCON to a National School of Government: Towards a Future-Ready 
+[2026-11-23 04:20:27 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (too short (134 words, need 150)): Air Chaos: Lesson in Humility
+[2026-11-23 04:20:28 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-23 04:20:56 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab Student Scholarships and Laptops Announcement
+[2026-11-23 04:20:56 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2754 in / 633 out tokens
