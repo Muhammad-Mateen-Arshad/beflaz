@@ -30830,3 +30830,12 @@
 [2026-11-23 07:38:36 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-23 07:39:52 PM] [JOBS_BOT] [SUCCESS] Published: Sindh Youth Card Initiative: Eligibility and Details
 [2026-11-23 07:39:53 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1754 in / 602 out tokens
+[2026-11-23 07:39:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04968a426347c4a86f32116ca93bc
+[2026-11-23 07:39:54 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-23 07:39:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-23 07:39:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04968c8eda4b369f080a2e3d92839
+[2026-11-23 07:39:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 66/300 chars, resolved=True): Who slept worst last night? Charles Leclerc
+[2026-11-23 07:39:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04968c8eda4b369f080a2e3d92839
+[2026-11-23 07:39:57 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): Razane Jammal scores brand ambassador role
+[2026-11-23 07:40:25 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Akane-banashi’ Season 2 Confirms January 2027 Release Date but Netflix Subscribers May Have to Wait
+[2026-11-23 07:40:26 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1443 in / 521 out tokens
