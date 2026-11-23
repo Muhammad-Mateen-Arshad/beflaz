@@ -30698,3 +30698,15 @@
 [2026-11-23 10:49:26 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1570 in / 528 out tokens
 [2026-11-23 11:30:08 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during delegation-level talks in Islamabad
 [2026-11-23 11:30:09 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1457 in / 492 out tokens
+[2026-11-23 11:30:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0423c1b347454f81a6eb2cbd8dda1
+[2026-11-23 11:30:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Tharoor: Dialogue with Pakistan only after dismantling terror groups
+[2026-11-23 11:30:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0423c1b347454f81a6eb2cbd8dda1
+[2026-11-23 11:30:09 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 103/400 chars, resolved=True): Job readiness matters more than degrees alone: Fadnavis
+[2026-11-23 11:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0423c1b347454f81a6eb2cbd8dda1
+[2026-11-23 11:30:10 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 140/400 chars, resolved=True): RMG industry caught between wages and competitiveness
+[2026-11-23 11:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0423c2c5ce4ee38616909de4194fc
+[2026-11-23 11:30:10 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): Newspaper - Front Page - November 22, 2026
+[2026-11-23 11:30:11 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 249/400 chars, resolved=True): PPP draws ‘red line’ as Kh Asif’s jibe at Bilawal draws ire
+[2026-11-23 11:31:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-23 11:32:33 AM] [JOBS_BOT] [SUCCESS] Published: Wapda Ghotki Drainage Project Details and Notice
+[2026-11-23 11:32:34 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1002 in / 509 out tokens
