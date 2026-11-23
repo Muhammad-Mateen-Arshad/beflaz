@@ -30603,3 +30603,9 @@
 [2026-11-23 04:21:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bf3a9d6c46f9b86d2b4df2272d3
 [2026-11-23 04:21:16 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults lose strength in their legs?
 [2026-11-23 04:21:16 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-23 04:21:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Rare fossil discovery reveals new dinosaur species that were specializ
+[2026-11-23 04:21:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03bf3cfdfc451aae565d869c65438
+[2026-11-23 04:21:17 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Scientists find 156-million-year-old horned reptile fossil in Wyoming 
+[2026-11-23 04:21:18 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-23 04:21:37 AM] [HISTORY_BOT] [SUCCESS] Published: Were T. rexes good parents? Tiny fossils offer new clues
+[2026-11-23 04:21:37 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 863 in / 461 out tokens
