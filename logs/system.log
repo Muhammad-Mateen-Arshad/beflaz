@@ -30674,3 +30674,12 @@
 [2026-11-23 10:47:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419bcaeac402a848ba839dab5149
 [2026-11-23 10:47:25 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Diljit Dosanjh questions song restrictions at Ahmedabad concert
 [2026-11-23 10:47:25 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-23 10:47:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419bd508f4807bf871d1018b2681
+[2026-11-23 10:47:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-23 10:47:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-23 10:47:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419beb956434ba668f245517e93a
+[2026-11-23 10:47:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 66/300 chars, resolved=True): Who slept worst last night? Charles Leclerc
+[2026-11-23 10:47:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0419beb956434ba668f245517e93a
+[2026-11-23 10:47:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Razane Jammal scores brand ambassador role
+[2026-11-23 10:47:51 AM] [DRAMAS_BOT] [SUCCESS] Published: Imtiaz Ali returns with romance drama 'O Saathi Re': Here's what to expect from Netflix series
+[2026-11-23 10:47:53 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 967 in / 452 out tokens
