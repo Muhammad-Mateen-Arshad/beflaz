@@ -30847,3 +30847,18 @@
 [2026-11-23 07:41:00 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
 [2026-11-23 07:41:39 PM] [HEALTH_BOT] [SUCCESS] Published: Saturated Fat Hits Hardest in Women With High Genetic Cholesterol Risk
 [2026-11-23 07:41:40 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1434 in / 549 out tokens
+[2026-11-23 07:41:43 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Rare fossil discovery reveals new dinosaur species that were specializ
+[2026-11-23 07:41:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0496f5b5284e41b22fabfd38271a6
+[2026-11-23 07:41:43 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): How did intact dinosaur cells survive 75 million years?
+[2026-11-23 07:41:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0496f7c3d64fafaea3c4c0e0e457d
+[2026-11-23 07:41:43 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-23 07:41:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0496f7f8c142a2afe3545b816d764
+[2026-11-23 07:41:43 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
+[2026-11-23 07:41:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0496f7f8c142a2afe3545b816d764
+[2026-11-23 07:41:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Mind-blowing ancient inscriptions unveiled in recent archaeological di
+[2026-11-23 07:41:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Exhibition exploring the power and splendor of ancient Maya civilizati
+[2026-11-23 07:41:44 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0496f834994989ad371181eea57cc
+[2026-11-23 07:41:44 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): A Child’s Fingerprints on a 15,000-Year-Old Figurine Reveal a Surprisi
+[2026-11-23 07:41:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0496f834994989ad371181eea57cc
+[2026-11-23 07:41:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 171/400 chars, resolved=True): Israeli researchers uncover 15,000-year-old clay figurines, the earlie
+[2026-11-23 07:41:45 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 10}
