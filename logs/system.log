@@ -30569,3 +30569,9 @@
 [2026-11-23 03:30:55 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
 [2026-11-23 04:19:00 AM] [NEWS_BOT] [SUCCESS] Published: PM to attend ECO moot in Iran after Russia trip
 [2026-11-23 04:19:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 828 in / 423 out tokens
+[2026-11-23 04:19:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03beb55c8e4e11b319c659612f794
+[2026-11-23 04:19:01 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Tharoor: Dialogue with Pakistan only after dismantling terror groups
+[2026-11-23 04:19:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03beb55c8e4e11b319c659612f794
+[2026-11-23 04:19:02 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Aaditya Thackeray targets BJP over jobs, drought relief
+[2026-11-23 04:19:29 AM] [JOBS_BOT] [SUCCESS] Published: KP Health Department 600 BPS-18 Vacancies Overview
+[2026-11-23 04:19:29 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1338 in / 657 out tokens
