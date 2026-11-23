@@ -30691,3 +30691,8 @@
 [2026-11-23 10:48:22 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
 [2026-11-23 10:48:50 AM] [HEALTH_BOT] [SUCCESS] Published: Whether you're team plastic or wood, here's how to sanitize your cutting board
 [2026-11-23 10:48:50 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1612 in / 576 out tokens
+[2026-11-23 10:48:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 235/400 chars, resolved=True): Rare fossil discovery reveals new dinosaur species that were specializ
+[2026-11-23 10:48:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b041a13e7c64b1e96805a92a6ae796
+[2026-11-23 10:48:51 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Scientists find 156-million-year-old horned reptile fossil in Wyoming 
+[2026-11-23 10:49:26 AM] [HISTORY_BOT] [SUCCESS] Published: Hidden for 100 million years: X-rays reveal an ancient flower from the age of dinosaurs
+[2026-11-23 10:49:26 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1570 in / 528 out tokens
