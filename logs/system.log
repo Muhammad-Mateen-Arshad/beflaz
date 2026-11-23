@@ -30537,3 +30537,18 @@
 [2026-11-23 03:30:17 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 135/400 chars, resolved=True): From ASCON to a National School of Government: Towards a Future-Ready 
 [2026-11-23 03:30:32 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Stanford University Predoctoral Research Fellowship 2027
 [2026-11-23 03:30:33 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1494 in / 580 out tokens
+[2026-11-23 03:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-23 03:30:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-23 03:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b35af9574372b74d50df27fa868
+[2026-11-23 03:30:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-23 03:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b35af9574372b74d50df27fa868
+[2026-11-23 03:30:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-23 03:30:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b35bab3445cf9c381a54e9907dc
+[2026-11-23 03:30:36 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-23 03:30:51 AM] [HEALTH_BOT] [INFO] Rejected by quality gate (risky health claim wording): Healthy Lifespan — 72% Prefer Shorter Life with Good Health Over Long 
+[2026-11-23 03:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b35bab3445cf9c381a54e9907dc
+[2026-11-23 03:30:52 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Dance May Be the Most Effective Exercise for Easing Depression in Olde
+[2026-11-23 03:30:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03b35bab3445cf9c381a54e9907dc
+[2026-11-23 03:30:53 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 198/800 chars, resolved=True): Scientists Design Habit-Based Exercise Strategy for Older Adults With 
+[2026-11-23 03:30:53 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 991 in / 642 out tokens
+[2026-11-23 03:30:53 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 6, 'rejected': 1}
