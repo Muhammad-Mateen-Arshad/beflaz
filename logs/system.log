@@ -31071,3 +31071,7 @@
 [2026-11-24 03:41:36 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1675 in / 612 out tokens
 [2026-11-24 03:43:34 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: New Europe College Fellowships 2027–2028 Overview
 [2026-11-24 03:43:34 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1632 in / 572 out tokens
+[2026-11-24 03:45:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-24 03:45:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-24 03:47:08 PM] [HEALTH_BOT] [SUCCESS] Published: NIH diagnostics accelerator enables first-ever FDA authorization for a point-of-care test for active syphilis
+[2026-11-24 03:47:08 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1456 in / 565 out tokens
