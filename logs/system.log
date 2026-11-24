@@ -31110,3 +31110,5 @@
 [2026-11-24 07:10:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
 [2026-11-24 07:10:33 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 597 in / 266 out tokens
 [2026-11-24 07:10:33 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 6, 'rejected': 1}
+[2026-11-24 07:11:04 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Europubhealth+ Erasmus Mundus Master Scholarship 2027
+[2026-11-24 07:11:05 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1540 in / 631 out tokens
