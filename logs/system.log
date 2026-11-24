@@ -30961,3 +30961,9 @@
 [2026-11-24 07:32:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-24 07:34:46 AM] [NEWS_BOT] [SUCCESS] Published: 'Carrying hopes of 250m people': Zeeshan Ali to be 'first' Pakistani astronaut in space aboard China’s Shenzhou-24
 [2026-11-24 07:34:47 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1641 in / 519 out tokens
+[2026-11-24 07:34:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b053e17fd274778bf679f9998bda33
+[2026-11-24 07:34:48 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-24 07:34:49 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 07:34:51 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-24 07:35:17 AM] [JOBS_BOT] [SUCCESS] Published: Finance Division Debt Management Office Job Openings
+[2026-11-24 07:35:17 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1009 in / 549 out tokens
