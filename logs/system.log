@@ -31112,3 +31112,8 @@
 [2026-11-24 07:10:33 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 6, 'rejected': 1}
 [2026-11-24 07:11:04 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Europubhealth+ Erasmus Mundus Master Scholarship 2027
 [2026-11-24 07:11:05 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1540 in / 631 out tokens
+[2026-11-24 07:11:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-24 07:11:06 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-24 07:11:08 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 07:11:48 PM] [HEALTH_BOT] [SUCCESS] Published: This Diet May Help Build Cognitive Resilience As You Age, Study Shows
+[2026-11-24 07:11:49 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1565 in / 518 out tokens
