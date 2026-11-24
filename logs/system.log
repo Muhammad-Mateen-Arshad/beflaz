@@ -31055,3 +31055,8 @@
 [2026-11-24 03:35:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-24 03:39:17 PM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz assures KP governor of continued support to eliminate terrorism
 [2026-11-24 03:39:19 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 751 in / 485 out tokens
+[2026-11-24 03:39:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05afa84eeb4f9790098b52e949cca
+[2026-11-24 03:39:20 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-24 03:39:21 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 03:40:48 PM] [JOBS_BOT] [SUCCESS] Published: Sindh Domicile Verification and Government Job Scrutiny
+[2026-11-24 03:40:49 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1080 in / 523 out tokens
