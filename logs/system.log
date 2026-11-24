@@ -31130,3 +31130,6 @@
 [2026-11-24 07:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Provinces denied their constitutional share in Rs3.6tr oil, gas profit
 [2026-11-24 07:31:00 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Culture Ministers Meeting Notice Update
 [2026-11-24 07:31:01 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 594 in / 351 out tokens
+[2026-11-24 07:31:03 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-24 07:31:23 PM] [DRAMAS_BOT] [SUCCESS] Published: International Emmys 2026: ‘Leyla,’ ‘Carême’ and all the winners
+[2026-11-24 07:31:26 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1449 in / 508 out tokens
