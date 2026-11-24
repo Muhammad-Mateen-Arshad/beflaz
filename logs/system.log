@@ -31124,3 +31124,9 @@
 [2026-11-24 07:12:53 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1000 in / 493 out tokens
 [2026-11-24 07:29:52 PM] [NEWS_BOT] [SUCCESS] Published: Cabinet approves deregulation of sugar sector to meet vital IMF benchmark
 [2026-11-24 07:29:53 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1098 in / 471 out tokens
+[2026-11-24 07:29:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e5b21f274cf1bd1b26dc3d917e0
+[2026-11-24 07:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-24 07:29:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e5b3e16e4438a55848be7d21f00
+[2026-11-24 07:29:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Provinces denied their constitutional share in Rs3.6tr oil, gas profit
+[2026-11-24 07:31:00 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Culture Ministers Meeting Notice Update
+[2026-11-24 07:31:01 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 594 in / 351 out tokens
