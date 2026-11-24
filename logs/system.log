@@ -31135,3 +31135,10 @@
 [2026-11-24 07:31:26 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1449 in / 508 out tokens
 [2026-11-24 07:31:48 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Gates Cambridge Scholarship for Nigerians: Requirements
 [2026-11-24 07:31:50 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1805 in / 610 out tokens
+[2026-11-24 07:31:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-24 07:31:52 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-24 07:31:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e6281043425a90418b506049207
+[2026-11-24 07:31:53 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-24 07:31:53 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 07:32:17 PM] [HEALTH_BOT] [SUCCESS] Published: When good science isn’t enough
+[2026-11-24 07:32:19 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1486 in / 442 out tokens
