@@ -30918,3 +30918,9 @@
 [2026-11-24 04:30:46 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 147/300 chars, resolved=True): Josh Brolin’s gritty new 4-part WWII series officially sets Netflix re
 [2026-11-24 04:31:40 AM] [DRAMAS_BOT] [SUCCESS] Published: Forget 'The Staircase,' Netflix's 7-Episode True-Crime-Inspired Thriller Gets Under Your Skin
 [2026-11-24 04:31:41 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1421 in / 535 out tokens
+[2026-11-24 04:31:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05132e9a9649f2a3cb987cb57c237
+[2026-11-24 04:31:42 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): From pre-K to school funding, Texas Dems hope power shift gives educat
+[2026-11-24 04:31:43 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 04:32:35 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-24 04:32:36 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Newmont Ghana Mining Jobs: Vacancies and Application Guide
+[2026-11-24 04:32:37 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1486 in / 516 out tokens
