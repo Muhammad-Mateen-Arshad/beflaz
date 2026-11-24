@@ -30948,3 +30948,16 @@
 [2026-11-24 04:34:22 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-24 04:34:22 AM] [HISTORY_BOT] [SUCCESS] Published: New study reveals how modern humans may have driven Neanderthals to extinction
 [2026-11-24 04:34:23 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1085 in / 475 out tokens
+[2026-11-24 07:29:27 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-24 07:29:58 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-24 07:30:08 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-24 07:30:23 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-24 07:30:43 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 07:30:46 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 07:31:16 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 07:31:47 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 07:32:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 07:32:49 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-24 07:32:51 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 07:34:46 AM] [NEWS_BOT] [SUCCESS] Published: 'Carrying hopes of 250m people': Zeeshan Ali to be 'first' Pakistani astronaut in space aboard China’s Shenzhou-24
+[2026-11-24 07:34:47 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1641 in / 519 out tokens
