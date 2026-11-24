@@ -31060,3 +31060,12 @@
 [2026-11-24 03:39:21 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-24 03:40:48 PM] [JOBS_BOT] [SUCCESS] Published: Sindh Domicile Verification and Government Job Scrutiny
 [2026-11-24 03:40:49 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1080 in / 523 out tokens
+[2026-11-24 03:40:50 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05b002c0474175bb1258131e680e4
+[2026-11-24 03:40:50 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-24 03:40:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-24 03:40:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05b003baee41a1a33f094c292e424
+[2026-11-24 03:40:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-24 03:40:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05b003baee41a1a33f094c292e424
+[2026-11-24 03:40:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 66/300 chars, resolved=True): Who slept worst last night? Charles Leclerc
+[2026-11-24 03:41:35 PM] [DRAMAS_BOT] [SUCCESS] Published: “I Didn’t Kill My Baby”: Netflix Drops First Trailer for Melissa McCarthy’s JonBenét Ramsey Series
+[2026-11-24 03:41:36 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1675 in / 612 out tokens
