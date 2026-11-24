@@ -31087,3 +31087,10 @@
 [2026-11-24 03:48:16 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 867 in / 565 out tokens
 [2026-11-24 07:09:34 PM] [NEWS_BOT] [SUCCESS] Published: 11 injured as Riyadh skyscraper hit second time in less than a week
 [2026-11-24 07:09:41 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1475 in / 493 out tokens
+[2026-11-24 07:09:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e0f521de4e848943223147beec9
+[2026-11-24 07:09:42 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-24 07:09:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e0f6fb38436fb12e11a1afda580
+[2026-11-24 07:09:42 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Provinces denied their constitutional share in Rs3.6tr oil, gas profit
+[2026-11-24 07:09:43 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 07:10:18 PM] [JOBS_BOT] [SUCCESS] Published: Federal Jobs Provincial Share Updates for Candidates
+[2026-11-24 07:10:19 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1499 in / 595 out tokens
