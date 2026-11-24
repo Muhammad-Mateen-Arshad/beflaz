@@ -31035,3 +31035,9 @@
 [2026-11-24 11:32:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0575c91f944084a6521e7a7c7ca8d
 [2026-11-24 11:32:26 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Influential Women: Kathleen Potempa, Turns Decades of Aging Science In
 [2026-11-24 11:32:26 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-24 11:32:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0575ca8d1848998cdb07143924ffc
+[2026-11-24 11:32:26 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 184/400 chars, resolved=True): 70 years after being lost, dinosaur footprint site rediscovered in Mon
+[2026-11-24 11:32:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0575ca8d1848998cdb07143924ffc
+[2026-11-24 11:32:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): A nearly 40-foot dinosaur towers over visitors less than 10 miles from
+[2026-11-24 11:32:44 AM] [HISTORY_BOT] [SUCCESS] Published: Spain may have uncovered Europe’s biggest dinosaur as 18-tonne fossil is recovered
+[2026-11-24 11:32:45 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1476 in / 509 out tokens
