@@ -31161,3 +31161,18 @@
 [2026-11-24 07:32:22 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
 [2026-11-24 11:29:54 PM] [NEWS_BOT] [SUCCESS] Published: Govt reduces diesel price by Rs4 per litre, petrol by Re1 per litre
 [2026-11-24 11:29:55 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 928 in / 538 out tokens
+[2026-11-24 11:29:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df35c3e43f2b9606152d159ad8
+[2026-11-24 11:29:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-24 11:29:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df4e3af431c8e322ea4f99782e
+[2026-11-24 11:29:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Provinces denied their constitutional share in Rs3.6tr oil, gas profit
+[2026-11-24 11:29:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df4e3af431c8e322ea4f99782e
+[2026-11-24 11:29:56 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-24 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Taliban Press Afghan Journalists To Promote Their 'Achievements'
+[2026-11-24 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 211/400 chars, resolved=True): How Secure Is The Taliban's Grip On Afghanistan?
+[2026-11-24 11:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df4e72e4603b4e2fbcefbb071d
+[2026-11-24 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 145/400 chars, resolved=True): Fears Nvidia CEO Huang could have gone to China drove Trump's lobbying
+[2026-11-24 11:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df4e72e4603b4e2fbcefbb071d
+[2026-11-24 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Pakistan JUI-F Chief Fazlur Rehman confined to Lahore home amid critic
+[2026-11-24 11:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df4e72e4603b4e2fbcefbb071d
+[2026-11-24 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 172/400 chars, resolved=True): Mixed reaction in Pennsylvania as U.S. state remains epicenter of meas
+[2026-11-24 11:29:58 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
