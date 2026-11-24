@@ -31003,3 +31003,9 @@
 [2026-11-24 07:38:52 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 967 in / 564 out tokens
 [2026-11-24 11:29:50 AM] [NEWS_BOT] [SUCCESS] Published: Freedom of speech should not become a shield for those crossing 'red lines', says Naqvi
 [2026-11-24 11:29:51 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1127 in / 504 out tokens
+[2026-11-24 11:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05752f34194d8ba00a8f994a80a4c
+[2026-11-24 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-24 11:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05752f34194d8ba00a8f994a80a4c
+[2026-11-24 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Bengal govt plans to rename state Paschim Banga; 8 bills lined up in a
+[2026-11-24 11:31:02 AM] [JOBS_BOT] [SUCCESS] Published: Federal Secretariat Jobs 2025-26: Senate Directs Quotas
+[2026-11-24 11:31:04 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1425 in / 616 out tokens
