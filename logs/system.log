@@ -31075,3 +31075,13 @@
 [2026-11-24 03:45:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-24 03:47:08 PM] [HEALTH_BOT] [SUCCESS] Published: NIH diagnostics accelerator enables first-ever FDA authorization for a point-of-care test for active syphilis
 [2026-11-24 03:47:08 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1456 in / 565 out tokens
+[2026-11-24 03:47:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05b17df3b84c7a858d69f85fea851
+[2026-11-24 03:47:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Chinese farmer discovered a 159-million-year-old dinosaur with bat-lik
+[2026-11-24 03:47:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05b17df3b84c7a858d69f85fea851
+[2026-11-24 03:47:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 126/400 chars, resolved=True): Scientists Discover 156-Million-Year-Old ‘Dragon’ Hidden Inside Rock a
+[2026-11-24 03:47:09 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05b17df3b84c7a858d69f85fea851
+[2026-11-24 03:47:09 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Scientists needed 38 crates weighing nearly 13,200 pounds to transport
+[2026-11-24 03:47:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-24 03:47:26 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 03:48:15 PM] [HISTORY_BOT] [SUCCESS] Published: They find in Spain what could be Europe's largest titanosaur: it has a seven-meter neck
+[2026-11-24 03:48:16 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 867 in / 565 out tokens
