@@ -31009,3 +31009,14 @@
 [2026-11-24 11:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 115/400 chars, resolved=True): Bengal govt plans to rename state Paschim Banga; 8 bills lined up in a
 [2026-11-24 11:31:02 AM] [JOBS_BOT] [SUCCESS] Published: Federal Secretariat Jobs 2025-26: Senate Directs Quotas
 [2026-11-24 11:31:04 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1425 in / 616 out tokens
+[2026-11-24 11:31:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-24 11:31:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b057579286e4b499a6901daeaa8a74
+[2026-11-24 11:31:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-24 11:31:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b057579286e4b499a6901daeaa8a74
+[2026-11-24 11:31:05 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das fails to win third International Emmy, loses to Argentina’s ‘D
+[2026-11-24 11:31:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b057579286e4b499a6901daeaa8a74
+[2026-11-24 11:31:06 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 66/300 chars, resolved=True): Who slept worst last night? Charles Leclerc
+[2026-11-24 11:31:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05757a03d347f79b6022db6e62cc8
+[2026-11-24 11:31:06 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 143/300 chars, resolved=True): Netflix’s new 8-part psychological thriller series passes major stream
+[2026-11-24 11:31:33 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘Elite Force’ Renewed at Netflix for Season 2: Filming Begins on French Action Hit
+[2026-11-24 11:31:34 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1635 in / 527 out tokens
