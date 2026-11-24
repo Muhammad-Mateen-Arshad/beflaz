@@ -31159,3 +31159,5 @@
 [2026-11-24 07:32:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e645ca624fc7b12384991d4d547
 [2026-11-24 07:32:22 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Greek archaeological mission uncovers massive limestone foundations in
 [2026-11-24 07:32:22 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-11-24 11:29:54 PM] [NEWS_BOT] [SUCCESS] Published: Govt reduces diesel price by Rs4 per litre, petrol by Re1 per litre
+[2026-11-24 11:29:55 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 928 in / 538 out tokens
