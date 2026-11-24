@@ -30895,3 +30895,10 @@
 [2026-11-24 03:32:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0505597cfe4598914ad3750969f1a
 [2026-11-24 03:32:42 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Influential Women: Kathleen Potempa, Turns Decades of Aging Science In
 [2026-11-24 03:32:42 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-24 03:32:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05055ac45c41f3a8651d987c907a3
+[2026-11-24 03:32:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): A nearly 40-foot dinosaur towers over visitors less than 10 miles from
+[2026-11-24 03:32:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05055ac45c41f3a8651d987c907a3
+[2026-11-24 03:32:43 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): How did intact dinosaur cells survive 75 million years?
+[2026-11-24 03:32:44 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 03:33:30 AM] [HISTORY_BOT] [SUCCESS] Published: New Silesaurid Species from Brazil Helps Close Gap in Early Record of Dinosaur Lineage
+[2026-11-24 03:33:30 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1229 in / 535 out tokens
