@@ -30867,3 +30867,13 @@
 [2026-11-24 03:30:57 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-24 03:30:57 AM] [JOBS_BOT] [SUCCESS] Published: Federal Secretariat Grade 22 Jobs Quota and Share Details
 [2026-11-24 03:30:58 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1766 in / 701 out tokens
+[2026-11-24 03:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0504f292554cccaf6232f92c7bc72
+[2026-11-24 03:30:59 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-24 03:31:00 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-24 03:31:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0504f4ea7b42d3aecacf7f36df852
+[2026-11-24 03:31:00 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 66/300 chars, resolved=True): Who slept worst last night? Charles Leclerc
+[2026-11-24 03:31:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0504f4ea7b42d3aecacf7f36df852
+[2026-11-24 03:31:01 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 199/300 chars, resolved=True): Razane Jammal scores brand ambassador role
+[2026-11-24 03:31:03 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 03:31:42 AM] [DRAMAS_BOT] [SUCCESS] Published: Stranger Things Returns to Netflix in 2028 With a New Series That Leaves Its Original Cast Behind
+[2026-11-24 03:31:42 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1066 in / 553 out tokens
