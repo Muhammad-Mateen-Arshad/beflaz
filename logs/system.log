@@ -30993,3 +30993,11 @@
 [2026-11-24 07:36:37 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
 [2026-11-24 07:37:01 AM] [HEALTH_BOT] [SUCCESS] Published: The one movement habit older adults should adopt to stay strong and independent
 [2026-11-24 07:37:02 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1113 in / 523 out tokens
+[2026-11-24 07:37:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b053e9fa6a6431a835419e1acd9e35
+[2026-11-24 07:37:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 184/400 chars, resolved=True): 70 years after being lost, dinosaur footprint site rediscovered in Mon
+[2026-11-24 07:37:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b053e9fa6a6431a835419e1acd9e35
+[2026-11-24 07:37:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): A nearly 40-foot dinosaur towers over visitors less than 10 miles from
+[2026-11-24 07:37:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b053e9fa6a6431a835419e1acd9e35
+[2026-11-24 07:37:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): How did intact dinosaur cells survive 75 million years?
+[2026-11-24 07:38:51 AM] [HISTORY_BOT] [SUCCESS] Published: Rock-Bound Fossil Finally Identified via Non-Invasive Imaging
+[2026-11-24 07:38:52 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 967 in / 564 out tokens
