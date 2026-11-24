@@ -31022,3 +31022,16 @@
 [2026-11-24 11:31:34 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1635 in / 527 out tokens
 [2026-11-24 11:32:07 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Fully-Funded Airline Pilot Training Programmes Guide
 [2026-11-24 11:32:08 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1399 in / 525 out tokens
+[2026-11-24 11:32:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-24 11:32:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-24 11:32:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0575b9e2c348ff81b5e53f6b52067
+[2026-11-24 11:32:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-24 11:32:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0575b9e2c348ff81b5e53f6b52067
+[2026-11-24 11:32:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 31/800 chars, resolved=True): Are Cranberries Good for You? Experts Explain What They Can and Can’t 
+[2026-11-24 11:32:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0575b9e2c348ff81b5e53f6b52067
+[2026-11-24 11:32:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
+[2026-11-24 11:32:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0575c91f944084a6521e7a7c7ca8d
+[2026-11-24 11:32:26 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-24 11:32:26 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0575c91f944084a6521e7a7c7ca8d
+[2026-11-24 11:32:26 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Influential Women: Kathleen Potempa, Turns Decades of Aging Science In
+[2026-11-24 11:32:26 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
