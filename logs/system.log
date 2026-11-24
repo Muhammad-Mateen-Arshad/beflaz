@@ -31176,3 +31176,19 @@
 [2026-11-24 11:29:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df4e72e4603b4e2fbcefbb071d
 [2026-11-24 11:29:57 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 172/400 chars, resolved=True): Mixed reaction in Pennsylvania as U.S. state remains epicenter of meas
 [2026-11-24 11:29:58 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-11-24 11:29:58 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df642c641a78a937648319aaf5
+[2026-11-24 11:29:58 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-24 11:29:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-24 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df78d8f47d5b0ac60f9cadedaa
+[2026-11-24 11:29:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-24 11:29:59 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df7cdda484d8e04535b43f8a4c
+[2026-11-24 11:29:59 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 101/300 chars, resolved=True): The murder of JonBenét Ramsey on Netflix: Release date, cast, episode 
+[2026-11-24 11:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df7cdda484d8e04535b43f8a4c
+[2026-11-24 11:30:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Netflix's TV problem: 5 changes to fix the original series mess
+[2026-11-24 11:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df7cdda484d8e04535b43f8a4c
+[2026-11-24 11:30:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 92/300 chars, resolved=True): Netflix's Murder of JonBenét Ramsey Trailer: Melissa McCarthy, Clive O
+[2026-11-24 11:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df81e9a4b919d86f6da335cd8e
+[2026-11-24 11:30:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
+[2026-11-24 11:30:00 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061df81e9a4b919d86f6da335cd8e
+[2026-11-24 11:30:00 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 129/300 chars, resolved=True): Emotional Justin Timberlake hints at marital tension with Jessica Biel
+[2026-11-24 11:30:00 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 8}
