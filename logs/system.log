@@ -31041,3 +31041,17 @@
 [2026-11-24 11:32:27 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): A nearly 40-foot dinosaur towers over visitors less than 10 miles from
 [2026-11-24 11:32:44 AM] [HISTORY_BOT] [SUCCESS] Published: Spain may have uncovered Europe’s biggest dinosaur as 18-tonne fossil is recovered
 [2026-11-24 11:32:45 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1476 in / 509 out tokens
+[2026-11-24 03:29:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-24 03:30:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-24 03:30:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-24 03:30:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-24 03:30:54 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-24 03:31:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 03:31:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 03:33:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 03:33:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 03:34:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 03:34:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 03:35:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-24 03:39:17 PM] [NEWS_BOT] [SUCCESS] Published: PM Shehbaz assures KP governor of continued support to eliminate terrorism
+[2026-11-24 03:39:19 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 751 in / 485 out tokens
