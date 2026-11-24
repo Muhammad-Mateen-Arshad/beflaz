@@ -30862,3 +30862,5 @@
 [2026-11-23 07:41:45 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0496f834994989ad371181eea57cc
 [2026-11-23 07:41:45 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 171/400 chars, resolved=True): Israeli researchers uncover 15,000-year-old clay figurines, the earlie
 [2026-11-23 07:41:45 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 10}
+[2026-11-24 03:30:03 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan’s Zeeshan Ali among crew of China’s Shenzhou-24 mission; liftoff scheduled for Nov 25
+[2026-11-24 03:30:04 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 931 in / 515 out tokens
