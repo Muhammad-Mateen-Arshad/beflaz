@@ -30880,3 +30880,18 @@
 [2026-11-24 03:31:44 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-24 03:32:22 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: MuSkLE PhD Scholarships 2027: Second Call for Applications
 [2026-11-24 03:32:23 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1558 in / 573 out tokens
+[2026-11-24 03:32:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-24 03:32:24 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-24 03:32:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05054803a1450e94d845158f4e72c
+[2026-11-24 03:32:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-24 03:32:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05054803a1450e94d845158f4e72c
+[2026-11-24 03:32:25 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 31/800 chars, resolved=True): Are Cranberries Good for You? Experts Explain What They Can and Can’t 
+[2026-11-24 03:32:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05054803a1450e94d845158f4e72c
+[2026-11-24 03:32:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
+[2026-11-24 03:32:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0505597cfe4598914ad3750969f1a
+[2026-11-24 03:32:41 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-24 03:32:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0505597cfe4598914ad3750969f1a
+[2026-11-24 03:32:42 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Yoga improves strength and balance, but can it actually slow aging?
+[2026-11-24 03:32:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0505597cfe4598914ad3750969f1a
+[2026-11-24 03:32:42 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Influential Women: Kathleen Potempa, Turns Decades of Aging Science In
+[2026-11-24 03:32:42 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
