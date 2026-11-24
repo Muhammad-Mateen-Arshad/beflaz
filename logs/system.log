@@ -31094,3 +31094,19 @@
 [2026-11-24 07:09:43 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-24 07:10:18 PM] [JOBS_BOT] [SUCCESS] Published: Federal Jobs Provincial Share Updates for Candidates
 [2026-11-24 07:10:19 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1499 in / 595 out tokens
+[2026-11-24 07:10:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-24 07:10:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e11daf4b4d10b4f3409f9a9b596
+[2026-11-24 07:10:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-24 07:10:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e11daf4b4d10b4f3409f9a9b596
+[2026-11-24 07:10:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 66/300 chars, resolved=True): Who slept worst last night? Charles Leclerc
+[2026-11-24 07:10:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e11dde0445cd9c89da108165214
+[2026-11-24 07:10:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 143/300 chars, resolved=True): Netflix’s new 8-part psychological thriller series passes major stream
+[2026-11-24 07:10:22 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e11dde0445cd9c89da108165214
+[2026-11-24 07:10:22 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Netflix's TV problem: 5 changes to fix the original series mess
+[2026-11-24 07:10:32 PM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (146 words, need 150)): AICWA urges PM Modi to stop Netflix release of Pakistani series 'Bacha
+[2026-11-24 07:10:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e11dde0445cd9c89da108165214
+[2026-11-24 07:10:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 92/300 chars, resolved=True): Netflix's Murder of JonBenét Ramsey Trailer: Melissa McCarthy, Clive O
+[2026-11-24 07:10:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e1296e4340ab897fa93a1c1019e
+[2026-11-24 07:10:33 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
+[2026-11-24 07:10:33 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 597 in / 266 out tokens
+[2026-11-24 07:10:33 PM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 6, 'rejected': 1}
