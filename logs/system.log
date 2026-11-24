@@ -30935,3 +30935,16 @@
 [2026-11-24 04:32:43 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-24 04:33:37 AM] [HEALTH_BOT] [SUCCESS] Published: Researchers Studied 314 Adults Over 70 and Challenged a Common Belief About Strength
 [2026-11-24 04:33:37 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 972 in / 490 out tokens
+[2026-11-24 04:33:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0513a2ae134bd886d40cb1980fa04
+[2026-11-24 04:33:39 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): A nearly 40-foot dinosaur towers over visitors less than 10 miles from
+[2026-11-24 04:33:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0513a2ae134bd886d40cb1980fa04
+[2026-11-24 04:33:39 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): How did intact dinosaur cells survive 75 million years?
+[2026-11-24 04:33:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0513a391324bb58c990c104e4e0a1
+[2026-11-24 04:33:39 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-24 04:33:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0513a41c5e459c8fc91f44af7fa9b
+[2026-11-24 04:33:40 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
+[2026-11-24 04:33:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0513a41c5e459c8fc91f44af7fa9b
+[2026-11-24 04:33:40 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Mind-blowing ancient inscriptions unveiled in recent archaeological di
+[2026-11-24 04:34:22 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-24 04:34:22 AM] [HISTORY_BOT] [SUCCESS] Published: New study reveals how modern humans may have driven Neanderthals to extinction
+[2026-11-24 04:34:23 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1085 in / 475 out tokens
