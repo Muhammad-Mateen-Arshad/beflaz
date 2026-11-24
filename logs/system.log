@@ -31117,3 +31117,8 @@
 [2026-11-24 07:11:08 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-24 07:11:48 PM] [HEALTH_BOT] [SUCCESS] Published: This Diet May Help Build Cognitive Resilience As You Age, Study Shows
 [2026-11-24 07:11:49 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1565 in / 518 out tokens
+[2026-11-24 07:11:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05e176294747079f9749719038f79
+[2026-11-24 07:11:51 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 126/400 chars, resolved=True): Scientists Discover 156-Million-Year-Old ‘Dragon’ Hidden Inside Rock a
+[2026-11-24 07:11:51 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 07:12:52 PM] [HISTORY_BOT] [SUCCESS] Published: Getting blood out of bone
+[2026-11-24 07:12:53 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1000 in / 493 out tokens
