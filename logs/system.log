@@ -30924,3 +30924,14 @@
 [2026-11-24 04:32:35 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-24 04:32:36 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Newmont Ghana Mining Jobs: Vacancies and Application Guide
 [2026-11-24 04:32:37 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1486 in / 516 out tokens
+[2026-11-24 04:32:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-24 04:32:39 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-24 04:32:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0513676661451a8998713f0699f01
+[2026-11-24 04:32:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-24 04:32:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0513676661451a8998713f0699f01
+[2026-11-24 04:32:40 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 82/800 chars, resolved=True): Plenty of healthy people are low on iron. Here’s why it gets missed
+[2026-11-24 04:32:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b051368db5342b0a0fd3947618fd81
+[2026-11-24 04:32:42 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-24 04:32:43 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-24 04:33:37 AM] [HEALTH_BOT] [SUCCESS] Published: Researchers Studied 314 Adults Over 70 and Challenged a Common Belief About Strength
+[2026-11-24 04:33:37 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 972 in / 490 out tokens
