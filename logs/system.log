@@ -30864,3 +30864,6 @@
 [2026-11-23 07:41:45 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 10}
 [2026-11-24 03:30:03 AM] [NEWS_BOT] [SUCCESS] Published: Pakistan’s Zeeshan Ali among crew of China’s Shenzhou-24 mission; liftoff scheduled for Nov 25
 [2026-11-24 03:30:04 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 931 in / 515 out tokens
+[2026-11-24 03:30:57 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-24 03:30:57 AM] [JOBS_BOT] [SUCCESS] Published: Federal Secretariat Grade 22 Jobs Quota and Share Details
+[2026-11-24 03:30:58 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1766 in / 701 out tokens
