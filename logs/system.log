@@ -31450,3 +31450,5 @@
 [2026-11-25 11:31:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c7282e75470287e34b5c438dbd4
 [2026-11-25 11:31:53 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
 [2026-11-25 11:31:53 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-25 01:40:28 PM] [NEWS_BOT] [SUCCESS] Published: At least 1 dead, 10 injured after under-construction building collapses near Karachi's Baloch Colony
+[2026-11-25 01:40:29 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1407 in / 461 out tokens
