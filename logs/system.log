@@ -31274,3 +31274,6 @@
 [2026-11-25 03:15:08 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0652bc634b4e9ea4a96ff937afd48
 [2026-11-25 03:15:08 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Greek archaeological mission uncovers massive limestone foundations in
 [2026-11-25 03:15:08 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 4}
+[2026-11-25 03:30:18 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-25 03:30:19 AM] [NEWS_BOT] [SUCCESS] Published: 'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft
+[2026-11-25 03:30:20 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1658 in / 580 out tokens
