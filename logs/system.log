@@ -31313,3 +31313,10 @@
 [2026-11-25 03:32:08 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-25 03:32:39 AM] [HEALTH_BOT] [SUCCESS] Published: Hungry Florida college students lean on campus food pantries
 [2026-11-25 03:32:40 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1648 in / 438 out tokens
+[2026-11-25 03:32:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0656d96d98424c8ec8b6419d55a46
+[2026-11-25 03:32:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 126/400 chars, resolved=True): Scientists Discover 156-Million-Year-Old ‘Dragon’ Hidden Inside Rock a
+[2026-11-25 03:32:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0656d96d98424c8ec8b6419d55a46
+[2026-11-25 03:32:41 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Chinese farmer discovered a 159-million-year-old dinosaur with bat-lik
+[2026-11-25 03:32:42 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-25 03:33:18 AM] [HISTORY_BOT] [SUCCESS] Published: Extinct, long-legged grasshoppers walked on water alongside dinosaurs
+[2026-11-25 03:33:19 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 845 in / 471 out tokens
