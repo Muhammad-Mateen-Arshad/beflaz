@@ -31562,3 +31562,12 @@
 [2026-11-25 07:30:55 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Doctors sue to prevent UofL, foundation from revising scholarship
 [2026-11-25 07:31:11 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Artist Grants and Residencies 2026 Open Calls
 [2026-11-25 07:31:12 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1936 in / 589 out tokens
+[2026-11-25 07:31:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-25 07:31:13 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-25 07:31:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b073781ad0041269c4689d9b9bbc82
+[2026-11-25 07:31:13 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-25 07:31:13 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b073781ad0041269c4689d9b9bbc82
+[2026-11-25 07:31:13 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Can Your Diet Slow Aging? Researchers Examine Popular Eating Patterns
+[2026-11-25 07:31:14 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-25 07:31:32 PM] [HEALTH_BOT] [SUCCESS] Published: 21 Ways Men Can Make Their Orgasms Even Better
+[2026-11-25 07:31:34 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1657 in / 582 out tokens
