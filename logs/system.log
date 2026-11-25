@@ -31488,3 +31488,9 @@
 [2026-11-25 01:45:16 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 143/800 chars, resolved=True): Why do older adults get sleepy so early in the evening?
 [2026-11-25 01:45:31 PM] [HEALTH_BOT] [SUCCESS] Published: Creatine is popular with bodybuilders – could it help older adults stay independent?
 [2026-11-25 01:45:31 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1433 in / 528 out tokens
+[2026-11-25 01:45:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e67c24d8456387013578546eb6a
+[2026-11-25 01:45:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): 55 tons of fossils and 64 armed guards: Scientists discovered a new sp
+[2026-11-25 01:45:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e67c24d8456387013578546eb6a
+[2026-11-25 01:45:33 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Chinese farmer discovered a 159-million-year-old dinosaur with bat-lik
+[2026-11-25 01:45:51 PM] [HISTORY_BOT] [SUCCESS] Published: Overlooked Fossil Palm Flower Shines Light on Evolution of Flowering Plants
+[2026-11-25 01:45:52 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1542 in / 491 out tokens
