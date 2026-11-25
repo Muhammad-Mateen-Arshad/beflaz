@@ -31239,3 +31239,6 @@
 [2026-11-25 03:13:47 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-25 03:14:09 AM] [DRAMAS_BOT] [SUCCESS] Published: Doha and Ankara Unmasked: How Qatar and Turkey Export Islamism From Europe to Kashmir
 [2026-11-25 03:14:10 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1742 in / 464 out tokens
+[2026-11-25 03:14:11 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-25 03:14:48 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PKLI Nursing Admissions 2026: Scholarships & Eligibility
+[2026-11-25 03:14:48 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1320 in / 639 out tokens
