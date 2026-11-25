@@ -31361,3 +31361,16 @@
 [2026-11-25 07:30:26 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-25 07:30:54 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab CM Laptop Scheme & Honhaar Scholarship Expansion
 [2026-11-25 07:30:55 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1020 in / 575 out tokens
+[2026-11-25 07:30:57 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-25 07:30:57 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-25 07:30:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb142da42fdbe69789c24d3009
+[2026-11-25 07:30:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-25 07:30:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb142da42fdbe69789c24d3009
+[2026-11-25 07:30:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 31/800 chars, resolved=True): Are Cranberries Good for You? Experts Explain What They Can and Can’t 
+[2026-11-25 07:30:58 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb238fe4e3b972b68d5b251f65
+[2026-11-25 07:30:58 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
+[2026-11-25 07:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb238fe4e3b972b68d5b251f65
+[2026-11-25 07:30:59 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-25 07:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb238fe4e3b972b68d5b251f65
+[2026-11-25 07:30:59 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Influential Women: Kathleen Potempa, Turns Decades of Aging Science In
+[2026-11-25 07:30:59 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
