@@ -31356,3 +31356,8 @@
 [2026-11-25 07:30:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8f529a40f2ab422e2b58d4af2
 [2026-11-25 07:30:23 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
 [2026-11-25 07:30:23 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
+[2026-11-25 07:30:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e90c95b4c52a8383ad91c0b48d
+[2026-11-25 07:30:24 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Maryam Nawaz Distributes Laptops and Scholarships to Rawalpindi Studen
+[2026-11-25 07:30:26 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-25 07:30:54 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Punjab CM Laptop Scheme & Honhaar Scholarship Expansion
+[2026-11-25 07:30:55 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1020 in / 575 out tokens
