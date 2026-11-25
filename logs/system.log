@@ -31393,3 +31393,18 @@
 [2026-11-25 07:31:04 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
 [2026-11-25 11:30:12 AM] [NEWS_BOT] [SUCCESS] Published: At least 1 dead, 6 injured after under-construction building collapses near Karachi's Baloch Colony
 [2026-11-25 11:30:13 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1395 in / 465 out tokens
+[2026-11-25 11:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6c593434fa896bfa29b96a8b00
+[2026-11-25 11:30:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-25 11:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6c593434fa896bfa29b96a8b00
+[2026-11-25 11:30:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Who is Muhammad Zeeshan Ali, Pakistani astronaut launched into orbit o
+[2026-11-25 11:30:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6c593434fa896bfa29b96a8b00
+[2026-11-25 11:30:14 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 11:30:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6c686d24aeda8d36fa011b7726
+[2026-11-25 11:30:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Provinces denied their constitutional share in Rs3.6tr oil, gas profit
+[2026-11-25 11:30:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6c686d24aeda8d36fa011b7726
+[2026-11-25 11:30:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 11:30:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 294/400 chars, resolved=True): Pakistan, Portugal seal investment protection pact to unlock trade, in
+[2026-11-25 11:30:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6c732f94ce28376ed055460217
+[2026-11-25 11:30:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 11:30:36 AM] [JOBS_BOT] [SUCCESS] Published: Sindh Youth Card 2026: Application Process and Benefits
+[2026-11-25 11:30:37 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1648 in / 632 out tokens
