@@ -31468,3 +31468,8 @@
 [2026-11-25 01:43:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan wants public help to hunt down BLA's top two commanders: Why 
 [2026-11-25 01:43:48 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1148 in / 539 out tokens
 [2026-11-25 01:43:48 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 3, 'rejected': 1}
+[2026-11-25 01:43:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e614932548618fc88d592b8630f
+[2026-11-25 01:43:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-25 01:43:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-25 01:44:08 PM] [DRAMAS_BOT] [SUCCESS] Published: Who is Cemre Baysel, star of International Emmy-winning Turkish series 'Leyla'
+[2026-11-25 01:44:09 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 930 in / 701 out tokens
