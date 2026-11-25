@@ -31293,3 +31293,13 @@
 [2026-11-25 03:30:42 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-25 03:31:11 AM] [JOBS_BOT] [SUCCESS] Published: Paretabad Blast Compensation and Job Demand Updates
 [2026-11-25 03:31:12 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1807 in / 1036 out tokens
+[2026-11-25 03:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0656802211419d8880bd10037ea8d
+[2026-11-25 03:31:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-25 03:31:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-25 03:31:14 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065682f2cb44d19bec4583700460a
+[2026-11-25 03:31:14 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-25 03:31:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065682a2234bd2ba9a8ae49355d2e
+[2026-11-25 03:31:15 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 101/300 chars, resolved=True): The murder of JonBenét Ramsey on Netflix: Release date, cast, episode 
+[2026-11-25 03:31:15 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-25 03:31:40 AM] [DRAMAS_BOT] [SUCCESS] Published: ‘The Murder of Jonbenét Ramsey’: Cast, Plot, Release Date and More to Know About Netflix’s New Series on the Unsolved Case
+[2026-11-25 03:31:41 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1320 in / 541 out tokens
