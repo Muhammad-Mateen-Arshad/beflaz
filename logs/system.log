@@ -31534,3 +31534,14 @@
 [2026-11-25 03:31:48 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1566 in / 567 out tokens
 [2026-11-25 07:29:46 PM] [NEWS_BOT] [SUCCESS] Published: Diesel price dips below Rs350 after 4 months; petrol rate down by Rs4
 [2026-11-25 07:29:47 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 974 in / 608 out tokens
+[2026-11-25 07:29:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07372c74be4439b405b2201898835
+[2026-11-25 07:29:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Who is Muhammad Zeeshan Ali, Pakistani astronaut launched into orbit o
+[2026-11-25 07:29:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07372c74be4439b405b2201898835
+[2026-11-25 07:29:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Unemployed youth to receive a monthly allowance of ₹2000; application 
+[2026-11-25 07:29:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07372c74be4439b405b2201898835
+[2026-11-25 07:29:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 07:29:49 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07372ca5fd4a0188a8b9a6c18a49e
+[2026-11-25 07:29:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 07:29:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 256/400 chars, resolved=True): Punjab cabinet clears 3,080 prison jobs, 50 AI police vehicles; reaffi
+[2026-11-25 07:30:07 PM] [JOBS_BOT] [SUCCESS] Published: Iowa Army Ammunition Plant Update 2026: Notice Details
+[2026-11-25 07:30:08 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1322 in / 431 out tokens
