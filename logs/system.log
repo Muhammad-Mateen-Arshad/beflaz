@@ -31579,3 +31579,7 @@
 [2026-11-25 07:31:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 78/400 chars, resolved=True): Of Course Trump Found a Way to Plug His Big, Ugly Ballroom When Partak
 [2026-11-25 07:31:52 PM] [HISTORY_BOT] [SUCCESS] Published: A baby T. rex was kitten-sized and one of 25 to 100 siblings, tiny fossils suggest
 [2026-11-25 07:31:53 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 818 in / 465 out tokens
+[2026-11-25 11:45:33 PM] [NEWS_BOT] [ERROR] Bangladesh ties of 'great importance' to Pakistan, President and PM te -> RemoteProtocolError: Server disconnected without sending a response.
+[2026-11-25 11:47:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-25 11:51:14 PM] [NEWS_BOT] [SUCCESS] Published: PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension
+[2026-11-25 11:51:15 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1538 in / 518 out tokens
