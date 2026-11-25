@@ -31425,3 +31425,11 @@
 [2026-11-25 11:30:59 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1361 in / 546 out tokens
 [2026-11-25 11:31:29 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: ANSO-CAS-TWAS/UNESCO PhD Scholarship 2027 Details
 [2026-11-25 11:31:30 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1616 in / 666 out tokens
+[2026-11-25 11:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-25 11:31:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-25 11:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c714371847f5858a3a3c6902e1b
+[2026-11-25 11:31:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-25 11:31:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c714371847f5858a3a3c6902e1b
+[2026-11-25 11:31:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 31/800 chars, resolved=True): Are Cranberries Good for You? Experts Explain What They Can and Can’t 
+[2026-11-25 11:31:48 AM] [HEALTH_BOT] [SUCCESS] Published: Oat sales soar as shoppers seek 'nature's Ozempic' products that keep you fuller for longer
+[2026-11-25 11:31:49 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1100 in / 546 out tokens
