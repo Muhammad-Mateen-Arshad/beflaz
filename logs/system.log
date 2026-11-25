@@ -31496,3 +31496,11 @@
 [2026-11-25 01:45:52 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1542 in / 491 out tokens
 [2026-11-25 03:29:50 PM] [NEWS_BOT] [SUCCESS] Published: At least 3 killed, 14 injured after under-construction building collapses near Karachi's Baloch Colony
 [2026-11-25 03:29:51 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1452 in / 454 out tokens
+[2026-11-25 03:29:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fef000024770864e5e7d160419c
+[2026-11-25 03:29:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Sneako asked who created the Taliban. He should have asked who pays fo
+[2026-11-25 03:29:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fef000024770864e5e7d160419c
+[2026-11-25 03:29:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Who is Muhammad Zeeshan Ali, Pakistani astronaut launched into orbit o
+[2026-11-25 03:29:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fef000024770864e5e7d160419c
+[2026-11-25 03:29:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Unemployed youth to receive a monthly allowance of ₹2000; application 
+[2026-11-25 03:30:15 PM] [JOBS_BOT] [SUCCESS] Published: Kenyan Medical Fellows Specialist Training in Pakistan
+[2026-11-25 03:30:15 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1553 in / 497 out tokens
