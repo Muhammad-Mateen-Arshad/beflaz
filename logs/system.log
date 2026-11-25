@@ -31524,3 +31524,11 @@
 [2026-11-25 03:31:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff34aab14971bf0ad169fc01145
 [2026-11-25 03:31:16 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 143/800 chars, resolved=True): Why do older adults get sleepy so early in the evening?
 [2026-11-25 03:31:16 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-25 03:31:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff44d14046e087cba8826a59e44
+[2026-11-25 03:31:16 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): 55 tons of fossils and 64 armed guards: Scientists discovered a new sp
+[2026-11-25 03:31:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff44d14046e087cba8826a59e44
+[2026-11-25 03:31:17 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 95/400 chars, resolved=True): A baby T rex was kitten-sized and one of 25 to 100 siblings, tiny foss
+[2026-11-25 03:31:32 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff44d14046e087cba8826a59e44
+[2026-11-25 03:31:32 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 150/400 chars, resolved=True): 16 Kid-Friendly Holiday Destinations Near SG To Get Away During The Sc
+[2026-11-25 03:31:47 PM] [HISTORY_BOT] [SUCCESS] Published: Insects once had 24 legs
+[2026-11-25 03:31:48 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1566 in / 567 out tokens
