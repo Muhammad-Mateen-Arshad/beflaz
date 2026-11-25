@@ -31545,3 +31545,16 @@
 [2026-11-25 07:29:49 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 256/400 chars, resolved=True): Punjab cabinet clears 3,080 prison jobs, 50 AI police vehicles; reaffi
 [2026-11-25 07:30:07 PM] [JOBS_BOT] [SUCCESS] Published: Iowa Army Ammunition Plant Update 2026: Notice Details
 [2026-11-25 07:30:08 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1322 in / 431 out tokens
+[2026-11-25 07:30:10 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-25 07:30:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b073742fab1482e85c438db7d42464
+[2026-11-25 07:30:10 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-25 07:30:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07374216994b96a282798e0bea584
+[2026-11-25 07:30:10 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Netflix releases new Peter Berg-directed spot inspired by 'Friday Nigh
+[2026-11-25 07:30:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07374216994b96a282798e0bea584
+[2026-11-25 07:30:10 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 123/300 chars, resolved=True): 10 great Netflix shows that became divisive after their release
+[2026-11-25 07:30:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07374216994b96a282798e0bea584
+[2026-11-25 07:30:10 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 102/300 chars, resolved=True): What time does The Hunting Wives season 2 release on Netflix? Global r
+[2026-11-25 07:30:10 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07374216994b96a282798e0bea584
+[2026-11-25 07:30:10 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 93/300 chars, resolved=True): What’s new on Netflix UK in December 2026
+[2026-11-25 07:30:45 PM] [DRAMAS_BOT] [SUCCESS] Published: Harlan Coben’s Myron Bolitar series officially wraps filming on season 1
+[2026-11-25 07:30:54 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1108 in / 465 out tokens
