@@ -31340,3 +31340,19 @@
 [2026-11-25 07:30:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8b3d9d4d62a8e3e673d8e3b2f
 [2026-11-25 07:30:19 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
 [2026-11-25 07:30:20 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
+[2026-11-25 07:30:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8cd13a4fee9c3f52bf6ba3252
+[2026-11-25 07:30:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-25 07:30:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-25 07:30:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8d607343139e1632813c0657b
+[2026-11-25 07:30:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-25 07:30:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8e07554abe8c2117992fae5d1
+[2026-11-25 07:30:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 101/300 chars, resolved=True): The murder of JonBenét Ramsey on Netflix: Release date, cast, episode 
+[2026-11-25 07:30:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8e07554abe8c2117992fae5d1
+[2026-11-25 07:30:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 169/300 chars, resolved=True): AICWA urges PM Modi to ban Fawad Khan's Netflix series 'Jo Bachay Hain
+[2026-11-25 07:30:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8e07554abe8c2117992fae5d1
+[2026-11-25 07:30:22 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 193/300 chars, resolved=True): OTT Releases This Week: Spider-Man To Drishyam - 10 Movies To Series O
+[2026-11-25 07:30:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8e07554abe8c2117992fae5d1
+[2026-11-25 07:30:23 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Netflix's TV Problem: 5 Changes to Fix the Original Series Mess
+[2026-11-25 07:30:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8f529a40f2ab422e2b58d4af2
+[2026-11-25 07:30:23 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
+[2026-11-25 07:30:23 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 7}
