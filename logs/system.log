@@ -31324,3 +31324,19 @@
 [2026-11-25 07:30:15 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-25 07:30:16 AM] [NEWS_BOT] [SUCCESS] Published: ‘A new era begins’: Pakistan’s Zeeshan Ali enters new frontier as Shenzhou-24 docks with space station
 [2026-11-25 07:30:16 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1492 in / 530 out tokens
+[2026-11-25 07:30:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8941e24ddb8cb7587f969ef05
+[2026-11-25 07:30:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-25 07:30:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8941e24ddb8cb7587f969ef05
+[2026-11-25 07:30:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Unemployed youth to receive a monthly allowance of ₹2000; application 
+[2026-11-25 07:30:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8941e24ddb8cb7587f969ef05
+[2026-11-25 07:30:17 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 07:30:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e89420d4ab9822efb449d4e71f
+[2026-11-25 07:30:18 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Provinces denied their constitutional share in Rs3.6tr oil, gas profit
+[2026-11-25 07:30:18 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e89420d4ab9822efb449d4e71f
+[2026-11-25 07:30:18 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 07:30:19 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 294/400 chars, resolved=True): Pakistan, Portugal seal investment protection pact to unlock trade, in
+[2026-11-25 07:30:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8b6914436b807f8d3df00cdd7
+[2026-11-25 07:30:19 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 172/400 chars, resolved=True): Asim Munir gets Hall of Fame honour in Malaysia; Pak PM congratulates 
+[2026-11-25 07:30:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068e8b3d9d4d62a8e3e673d8e3b2f
+[2026-11-25 07:30:19 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 07:30:20 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 6}
