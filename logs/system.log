@@ -31225,3 +31225,7 @@
 [2026-11-24 11:30:36 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b061e1cffea4a89aa1ebbce4aa6a17
 [2026-11-24 11:30:36 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
 [2026-11-24 11:30:36 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-25 03:12:46 AM] [NEWS_BOT] [WARN] Feed HTTP 403: https://www.dawn.com/feeds/home
+[2026-11-25 03:12:47 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-25 03:13:10 AM] [NEWS_BOT] [SUCCESS] Published: US attorney general dodges questions about Nvidia investigation
+[2026-11-25 03:13:11 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1134 in / 468 out tokens
