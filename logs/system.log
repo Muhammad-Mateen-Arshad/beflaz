@@ -31229,3 +31229,8 @@
 [2026-11-25 03:12:47 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-25 03:13:10 AM] [NEWS_BOT] [SUCCESS] Published: US attorney general dodges questions about Nvidia investigation
 [2026-11-25 03:13:11 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1134 in / 468 out tokens
+[2026-11-25 03:13:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06524749b94aa587bbef43af207f4
+[2026-11-25 03:13:12 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-25 03:13:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-25 03:13:46 AM] [JOBS_BOT] [SUCCESS] Published: Bengal Bharosa Scheme Monthly Allowance for Youth
+[2026-11-25 03:13:46 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1107 in / 617 out tokens
