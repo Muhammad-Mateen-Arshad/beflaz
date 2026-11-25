@@ -31504,3 +31504,8 @@
 [2026-11-25 03:29:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Unemployed youth to receive a monthly allowance of ₹2000; application 
 [2026-11-25 03:30:15 PM] [JOBS_BOT] [SUCCESS] Published: Kenyan Medical Fellows Specialist Training in Pakistan
 [2026-11-25 03:30:15 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1553 in / 497 out tokens
+[2026-11-25 03:30:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff08a1024251a5804e1b0c704aa
+[2026-11-25 03:30:16 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-25 03:30:17 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-25 03:30:37 PM] [DRAMAS_BOT] [SUCCESS] Published: İstanbul police detain 24 in latest celebrity drug investigation
+[2026-11-25 03:30:38 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 821 in / 482 out tokens
