@@ -31452,3 +31452,19 @@
 [2026-11-25 11:31:53 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
 [2026-11-25 01:40:28 PM] [NEWS_BOT] [SUCCESS] Published: At least 1 dead, 10 injured after under-construction building collapses near Karachi's Baloch Colony
 [2026-11-25 01:40:29 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1407 in / 461 out tokens
+[2026-11-25 01:40:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e54dc0044609b68ee816f9d0178
+[2026-11-25 01:40:30 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Who is Muhammad Zeeshan Ali, Pakistani astronaut launched into orbit o
+[2026-11-25 01:40:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e54dc0044609b68ee816f9d0178
+[2026-11-25 01:40:30 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan wants public help to hunt down BLA's top two commanders: Why 
+[2026-11-25 01:40:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e54dc0044609b68ee816f9d0178
+[2026-11-25 01:40:30 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Unemployed youth to receive a monthly allowance of ₹2000; application 
+[2026-11-25 01:43:46 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Bangladesh: uprising, unrest and a promised return
+[2026-11-25 01:43:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e612b19845b399b5373bebd6a3b
+[2026-11-25 01:43:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Provinces denied their constitutional share in Rs3.6tr oil, gas profit
+[2026-11-25 01:43:47 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e612b19845b399b5373bebd6a3b
+[2026-11-25 01:43:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 01:43:47 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 294/400 chars, resolved=True): Pakistan, Portugal seal investment protection pact to unlock trade, in
+[2026-11-25 01:43:48 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e6148a6645f1a9ece2259655f87
+[2026-11-25 01:43:48 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan wants public help to hunt down BLA's top two commanders: Why 
+[2026-11-25 01:43:48 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1148 in / 539 out tokens
+[2026-11-25 01:43:48 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 7, 'already_seen': 3, 'rejected': 1}
