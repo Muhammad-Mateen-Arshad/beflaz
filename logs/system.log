@@ -31408,3 +31408,18 @@
 [2026-11-25 11:30:15 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
 [2026-11-25 11:30:36 AM] [JOBS_BOT] [SUCCESS] Published: Sindh Youth Card 2026: Application Process and Benefits
 [2026-11-25 11:30:37 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1648 in / 632 out tokens
+[2026-11-25 11:30:37 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6dd7cda4ea7bfdc12fda73973d
+[2026-11-25 11:30:37 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-25 11:30:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-25 11:30:39 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6df7f0b4626b9b7735fd10e370
+[2026-11-25 11:30:39 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-25 11:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6df25f14ff39ff3d6344ca1a5f
+[2026-11-25 11:30:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 101/300 chars, resolved=True): The murder of JonBenét Ramsey on Netflix: Release date, cast, episode 
+[2026-11-25 11:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6df25f14ff39ff3d6344ca1a5f
+[2026-11-25 11:30:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 121/300 chars, resolved=True): Pakistani shows spark fresh outrage in India: Netflix series, Delhi sc
+[2026-11-25 11:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6df25f14ff39ff3d6344ca1a5f
+[2026-11-25 11:30:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Netflix's TV Problem: 5 Changes to Fix the Original Series Mess
+[2026-11-25 11:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6df25f14ff39ff3d6344ca1a5f
+[2026-11-25 11:30:40 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 169/300 chars, resolved=True): AICWA urges PM Modi to ban Fawad Khan's Netflix series 'Jo Bachay Hain
+[2026-11-25 11:30:58 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix to release star-studded Pakistani show – but Indian viewers may miss out
+[2026-11-25 11:30:59 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1361 in / 546 out tokens
