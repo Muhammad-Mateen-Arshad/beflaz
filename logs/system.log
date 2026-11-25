@@ -31242,3 +31242,18 @@
 [2026-11-25 03:14:11 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-25 03:14:48 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: PKLI Nursing Admissions 2026: Scholarships & Eligibility
 [2026-11-25 03:14:48 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1320 in / 639 out tokens
+[2026-11-25 03:14:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-25 03:14:49 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-25 03:14:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0652a9cb214a69ab2fc48b1a8d402
+[2026-11-25 03:14:50 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-25 03:14:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0652a9cb214a69ab2fc48b1a8d402
+[2026-11-25 03:14:50 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 31/800 chars, resolved=True): Are Cranberries Good for You? Experts Explain What They Can and Can’t 
+[2026-11-25 03:15:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0652a9cb214a69ab2fc48b1a8d402
+[2026-11-25 03:15:05 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 188/800 chars, resolved=True): Fluoridated Water Doesn't Increase Risk Of Later-Life Dementia, Study 
+[2026-11-25 03:15:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0652b9902948cdbd163b8a8a38ccf
+[2026-11-25 03:15:05 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
+[2026-11-25 03:15:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0652b9902948cdbd163b8a8a38ccf
+[2026-11-25 03:15:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): Physical Exercise Linked to Lower Relative Health Disadvantage Among O
+[2026-11-25 03:15:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0652b9902948cdbd163b8a8a38ccf
+[2026-11-25 03:15:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Influential Women: Kathleen Potempa, Turns Decades of Aging Science In
+[2026-11-25 03:15:06 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
