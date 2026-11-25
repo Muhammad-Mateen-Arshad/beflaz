@@ -31583,3 +31583,19 @@
 [2026-11-25 11:47:05 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-25 11:51:14 PM] [NEWS_BOT] [SUCCESS] Published: PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension
 [2026-11-25 11:51:15 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1538 in / 518 out tokens
+[2026-11-25 11:51:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b077473309e43c686ac3f8959f7a0e
+[2026-11-25 11:51:16 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Who is Muhammad Zeeshan Ali, Pakistani astronaut launched into orbit o
+[2026-11-25 11:51:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b077473309e43c686ac3f8959f7a0e
+[2026-11-25 11:51:16 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): Pakistan wants public help to hunt down BLA's top two commanders: Why 
+[2026-11-25 11:51:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b077473309e43c686ac3f8959f7a0e
+[2026-11-25 11:51:16 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Unemployed youth to receive a monthly allowance of ₹2000; application 
+[2026-11-25 11:51:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b077473309e43c686ac3f8959f7a0e
+[2026-11-25 11:51:16 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): 'Awami League will never be allowed to do politics': Bangladesh's stro
+[2026-11-25 11:51:16 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b077473309e43c686ac3f8959f7a0e
+[2026-11-25 11:51:16 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 11:51:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07747477c943df9680508a5b7758b
+[2026-11-25 11:51:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): FIA arrests two agents for overseas job fraud
+[2026-11-25 11:51:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07747477c943df9680508a5b7758b
+[2026-11-25 11:51:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 11:51:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 273/400 chars, resolved=True): Karak reports first polio case in six years as countrywide 2026 tally 
+[2026-11-25 11:51:17 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
