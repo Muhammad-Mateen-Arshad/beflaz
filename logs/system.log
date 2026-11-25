@@ -31571,3 +31571,11 @@
 [2026-11-25 07:31:14 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-25 07:31:32 PM] [HEALTH_BOT] [SUCCESS] Published: 21 Ways Men Can Make Their Orgasms Even Better
 [2026-11-25 07:31:34 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1657 in / 582 out tokens
+[2026-11-25 07:31:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0737977cd64888977a8a42cc808d2
+[2026-11-25 07:31:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 174/400 chars, resolved=True): Winners of museum contest will have dinosaur artwork displayed on bill
+[2026-11-25 07:31:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0737977cd64888977a8a42cc808d2
+[2026-11-25 07:31:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): 55 tons of fossils and 64 armed guards: Scientists discovered a new sp
+[2026-11-25 07:31:35 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0737977cd64888977a8a42cc808d2
+[2026-11-25 07:31:35 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 78/400 chars, resolved=True): Of Course Trump Found a Way to Plug His Big, Ugly Ballroom When Partak
+[2026-11-25 07:31:52 PM] [HISTORY_BOT] [SUCCESS] Published: A baby T. rex was kitten-sized and one of 25 to 100 siblings, tiny fossils suggest
+[2026-11-25 07:31:53 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 818 in / 465 out tokens
