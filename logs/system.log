@@ -31277,3 +31277,19 @@
 [2026-11-25 03:30:18 AM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [2026-11-25 03:30:19 AM] [NEWS_BOT] [SUCCESS] Published: 'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft
 [2026-11-25 03:30:20 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1658 in / 580 out tokens
+[2026-11-25 03:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06564c1c284f32964ed9502f845a3
+[2026-11-25 03:30:21 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): Sindh CM launches youth card offering scholarships, jobs, loansPublish
+[2026-11-25 03:30:40 AM] [JOBS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 300): 300 Google career scholarships up for grabs for Fijians
+[2026-11-25 03:30:40 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06564c1c284f32964ed9502f845a3
+[2026-11-25 03:30:40 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065660dc07424b967172363ec6f41
+[2026-11-25 03:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Provinces denied their constitutional share in Rs3.6tr oil, gas profit
+[2026-11-25 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065660dc07424b967172363ec6f41
+[2026-11-25 03:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065661700043d79f0d3887c982cec
+[2026-11-25 03:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 172/400 chars, resolved=True): Asim Munir gets Hall of Fame honour in Malaysia; Pak PM congratulates 
+[2026-11-25 03:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0656616ff340029d98fb7f3986d96
+[2026-11-25 03:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-25 03:30:42 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-25 03:31:11 AM] [JOBS_BOT] [SUCCESS] Published: Paretabad Blast Compensation and Job Demand Updates
+[2026-11-25 03:31:12 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 1807 in / 1036 out tokens
