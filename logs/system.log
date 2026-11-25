@@ -31374,3 +31374,20 @@
 [2026-11-25 07:30:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb238fe4e3b972b68d5b251f65
 [2026-11-25 07:30:59 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Influential Women: Kathleen Potempa, Turns Decades of Aging Science In
 [2026-11-25 07:30:59 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-25 07:31:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb402f940098de17db6c6cf5ac
+[2026-11-25 07:31:00 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 126/400 chars, resolved=True): Scientists Discover 156-Million-Year-Old ‘Dragon’ Hidden Inside Rock a
+[2026-11-25 07:31:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb402f940098de17db6c6cf5ac
+[2026-11-25 07:31:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Chinese farmer discovered a 159-million-year-old dinosaur with bat-lik
+[2026-11-25 07:31:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb402f940098de17db6c6cf5ac
+[2026-11-25 07:31:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 194/400 chars, resolved=True): Traces of blood heme survived 115 million years inside a Brazilian din
+[2026-11-25 07:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb402f940098de17db6c6cf5ac
+[2026-11-25 07:31:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): The first dinosaur fossils found in Hong Kong are now on display
+[2026-11-25 07:31:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb6f29345d1adcda66e7153c3d
+[2026-11-25 07:31:02 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-25 07:31:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb6f29345d1adcda66e7153c3d
+[2026-11-25 07:31:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Latest Research and News
+[2026-11-25 07:31:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb6f29345d1adcda66e7153c3d
+[2026-11-25 07:31:03 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Los primeros dinosaurios eran del tamaño de un perro – millones de año
+[2026-11-25 07:31:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068eb792294a9ba6a87e6fccc339b
+[2026-11-25 07:31:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
+[2026-11-25 07:31:04 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
