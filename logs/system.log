@@ -31558,3 +31558,7 @@
 [2026-11-25 07:30:10 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 93/300 chars, resolved=True): What’s new on Netflix UK in December 2026
 [2026-11-25 07:30:45 PM] [DRAMAS_BOT] [SUCCESS] Published: Harlan Coben’s Myron Bolitar series officially wraps filming on season 1
 [2026-11-25 07:30:54 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1108 in / 465 out tokens
+[2026-11-25 07:30:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07376f6c0c479c81a904e4d96f49d
+[2026-11-25 07:30:55 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 105/400 chars, resolved=True): Doctors sue to prevent UofL, foundation from revising scholarship
+[2026-11-25 07:31:11 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Artist Grants and Residencies 2026 Open Calls
+[2026-11-25 07:31:12 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1936 in / 589 out tokens
