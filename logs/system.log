@@ -31473,3 +31473,6 @@
 [2026-11-25 01:43:49 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-25 01:44:08 PM] [DRAMAS_BOT] [SUCCESS] Published: Who is Cemre Baysel, star of International Emmy-winning Turkish series 'Leyla'
 [2026-11-25 01:44:09 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 930 in / 701 out tokens
+[2026-11-25 01:44:16 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 217/400 chars, resolved=True): Eight teams eye Chapa Dimba Nairobi regional crown
+[2026-11-25 01:45:12 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: IST HEC Need-Based Scholarships 2026-27: How to Apply
+[2026-11-25 01:45:13 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1217 in / 518 out tokens
