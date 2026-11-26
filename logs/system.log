@@ -31640,3 +31640,13 @@
 [2026-11-26 03:30:00 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1503 in / 589 out tokens
 [2026-11-26 03:30:15 AM] [JOBS_BOT] [SUCCESS] Published: Saima Saleem Takes New Diplomatic Role in Islamabad
 [2026-11-26 03:30:16 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1084 in / 563 out tokens
+[2026-11-26 03:30:17 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07a7c8e777441899195b81142fb1d
+[2026-11-26 03:30:17 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-26 03:30:18 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-26 03:30:19 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07a7caf7fc464daed17bb329cbe2b
+[2026-11-26 03:30:19 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-26 03:30:20 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 03:30:22 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-26 03:30:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-26 03:31:02 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix's New Crime Series Officially Becomes No. 1 TV Show Just One Day After Release
+[2026-11-26 03:31:03 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 801 in / 447 out tokens
