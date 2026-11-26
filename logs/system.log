@@ -31812,3 +31812,13 @@
 [2026-11-26 08:01:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7485cc04a608d8b90588e79c94
 [2026-11-26 08:01:12 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Greek archaeological mission uncovers massive limestone foundations in
 [2026-11-26 08:01:12 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'thin': 8}
+[2026-11-26 11:29:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-26 11:29:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-26 11:30:00 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-26 11:30:32 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-26 11:30:52 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-26 11:31:18 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 11:31:57 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 11:32:35 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 11:48:19 AM] [NEWS_BOT] [SUCCESS] Published: SBCA chief removed as CM Murad orders sweeping action over building collapse in Karachi's Baloch Colony
+[2026-11-26 11:48:19 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1501 in / 529 out tokens
