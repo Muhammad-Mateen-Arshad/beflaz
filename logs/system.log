@@ -31916,3 +31916,16 @@
 [2026-11-26 04:05:14 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-26 04:05:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-26 04:06:15 PM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-26 04:06:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-26 04:06:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-26 04:06:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0858f9a9f642a488635ba9feefa93
+[2026-11-26 04:06:18 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-26 04:06:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0858fac9cb495cb4ca568e696ebfe
+[2026-11-26 04:06:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): Neighborhood Socioeconomic Status Links to Afternoon Physical Activity
+[2026-11-26 04:06:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0858fac9cb495cb4ca568e696ebfe
+[2026-11-26 04:06:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): What Happens When You Add Creatine to a Retirement-Age Workout Routine
+[2026-11-26 04:06:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0858fac9cb495cb4ca568e696ebfe
+[2026-11-26 04:06:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 169/800 chars, resolved=True): Why do older adults feel cold when it’s hot?
+[2026-11-26 04:06:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0858fac9cb495cb4ca568e696ebfe
+[2026-11-26 04:06:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
+[2026-11-26 04:06:19 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
