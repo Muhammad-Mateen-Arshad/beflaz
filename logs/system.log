@@ -31878,3 +31878,6 @@
 [2026-11-26 03:37:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-26 03:38:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-26 03:38:33 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-26 03:39:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-26 03:46:09 PM] [JOBS_BOT] [SUCCESS] Published: KPPSC Government Jobs 2026: Apply for 176 Vacancies
+[2026-11-26 03:46:10 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1673 in / 846 out tokens
