@@ -31613,3 +31613,16 @@
 [2026-11-26 12:00:11 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1722 in / 480 out tokens
 [2026-11-26 12:03:07 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Global Scholarship Opportunities 2026 and 2027 Guide
 [2026-11-26 12:03:07 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1637 in / 708 out tokens
+[2026-11-26 12:03:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-26 12:03:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-26 12:03:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07773dd3914c2d938e0b0e6cb6b18
+[2026-11-26 12:03:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-26 12:03:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07773dd3914c2d938e0b0e6cb6b18
+[2026-11-26 12:03:10 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Why are training facilities so important for women's sports teams?
+[2026-11-26 12:03:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07773e7df74c4a8c301df1e789cd9
+[2026-11-26 12:03:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): Neighborhood Socioeconomic Status Links to Afternoon Physical Activity
+[2026-11-26 12:03:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07773e7df74c4a8c301df1e789cd9
+[2026-11-26 12:03:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 143/800 chars, resolved=True): Why do older adults get sleepy so early in the evening?
+[2026-11-26 12:03:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07773e7df74c4a8c301df1e789cd9
+[2026-11-26 12:03:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
+[2026-11-26 12:03:12 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
