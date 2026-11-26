@@ -31840,3 +31840,5 @@
 [2026-11-26 11:48:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081c9b385a4e23914f97e2327affd
 [2026-11-26 11:48:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
 [2026-11-26 11:48:43 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-11-26 11:48:59 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Romanian Government Scholarship for Nigerian Students
+[2026-11-26 11:49:00 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1657 in / 637 out tokens
