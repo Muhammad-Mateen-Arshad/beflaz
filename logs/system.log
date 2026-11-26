@@ -32012,3 +32012,20 @@
 [2026-11-26 11:34:29 PM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-11-26 11:40:12 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: LEH Parish America 250 Mini Grant Details 2026
 [2026-11-26 11:40:13 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1752 in / 485 out tokens
+[2026-11-26 11:40:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-26 11:40:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-26 11:40:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c35fbe1043e4a7911540c45efcb
+[2026-11-26 11:40:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-26 11:40:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c35fbe1043e4a7911540c45efcb
+[2026-11-26 11:40:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 31/800 chars, resolved=True): Are Cranberries Good for You? Experts Explain What They Can and Can’t 
+[2026-11-26 11:40:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c360408f4f15b85bb049ececdcc
+[2026-11-26 11:40:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): Neighborhood Socioeconomic Status Links to Afternoon Physical Activity
+[2026-11-26 11:40:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c360408f4f15b85bb049ececdcc
+[2026-11-26 11:40:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 148/800 chars, resolved=True): Why are older adults often happier than younger people?
+[2026-11-26 11:40:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c360408f4f15b85bb049ececdcc
+[2026-11-26 11:40:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): What Happens When You Add Creatine to a Retirement-Age Workout Routine
+[2026-11-26 11:40:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c360408f4f15b85bb049ececdcc
+[2026-11-26 11:40:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 151/800 chars, resolved=True): Walking is great exercise. Here's how to get more out of it
+[2026-11-26 11:40:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c360408f4f15b85bb049ececdcc
+[2026-11-26 11:40:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Influential Women: Kathleen Potempa, Turns Decades of Aging Science In
+[2026-11-26 11:40:17 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
