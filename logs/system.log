@@ -31650,3 +31650,6 @@
 [2026-11-26 03:30:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
 [2026-11-26 03:31:02 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix's New Crime Series Officially Becomes No. 1 TV Show Just One Day After Release
 [2026-11-26 03:31:03 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 801 in / 447 out tokens
+[2026-11-26 03:31:05 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 03:31:24 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: British Council GREAT Scholarship for Nigerian Students
+[2026-11-26 03:31:25 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1659 in / 729 out tokens
