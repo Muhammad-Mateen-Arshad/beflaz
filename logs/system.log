@@ -31753,3 +31753,25 @@
 [2026-11-26 07:43:52 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-26 07:44:22 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-11-26 07:44:24 AM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-26 07:44:27 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e35b3d7c4b1cbd827c0e004e1d9
+[2026-11-26 07:44:27 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-26 07:44:28 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-26 07:44:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e35c84404617a19080964cb1f31
+[2026-11-26 07:44:28 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-26 07:44:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e35cbddf45d9b6a7e308c9b63d3
+[2026-11-26 07:44:29 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): 'The Trials of Karen Read' Becomes the Top Show on Netflix in America
+[2026-11-26 07:44:31 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-26 07:44:36 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 07:44:38 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-26 07:44:54 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-26 07:45:42 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-26 07:46:07 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-26 07:46:10 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-26 07:46:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 07:46:43 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 07:47:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 07:47:49 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 07:48:19 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 07:49:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 07:51:03 AM] [DRAMAS_BOT] [SUCCESS] Published: This Week OTT Releases – New Movies and Series on Netflix, Prime Video, Aha, ZEE5 and Others – 27 November 2026
+[2026-11-26 07:51:04 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1677 in / 702 out tokens
