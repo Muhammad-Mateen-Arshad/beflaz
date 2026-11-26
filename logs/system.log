@@ -31959,3 +31959,6 @@
 [2026-11-26 06:00:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-26 06:01:12 PM] [NEWS_BOT] [SUCCESS] Published: Makkah pact nations to discuss conflict between Saudi Arabia and Yemen's Houthis in Islamabad meeting, Asif says
 [2026-11-26 06:01:14 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 826 in / 474 out tokens
+[2026-11-26 06:01:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 06:01:55 PM] [JOBS_BOT] [SUCCESS] Published: Ministry of Science and Technology Jobs: 29 Vacancies
+[2026-11-26 06:01:56 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1552 in / 803 out tokens
