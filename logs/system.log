@@ -31626,3 +31626,12 @@
 [2026-11-26 12:03:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07773e7df74c4a8c301df1e789cd9
 [2026-11-26 12:03:12 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
 [2026-11-26 12:03:12 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-26 12:03:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07774048bf475ebe0356201427d70
+[2026-11-26 12:03:13 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): 55 tons of fossils and 64 armed guards: Scientists discovered a new sp
+[2026-11-26 12:03:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07774048bf475ebe0356201427d70
+[2026-11-26 12:03:13 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): The first dinosaur fossils found in Hong Kong are now on display
+[2026-11-26 12:03:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07774048bf475ebe0356201427d70
+[2026-11-26 12:03:13 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 78/400 chars, resolved=True): Of Course Trump Found a Way to Plug His Big, Ugly Ballroom When Partak
+[2026-11-26 12:03:14 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 12:05:27 AM] [HISTORY_BOT] [SUCCESS] Published: 16 Kid-Friendly Holiday Destinations Near SG To Get Away During The School Holidays
+[2026-11-26 12:05:28 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1689 in / 385 out tokens
