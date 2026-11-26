@@ -31782,3 +31782,16 @@
 [2026-11-26 07:51:09 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-26 08:01:04 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Russian State-Funded Scholarships for Pakistani Students
 [2026-11-26 08:01:05 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1701 in / 401 out tokens
+[2026-11-26 08:01:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-26 08:01:06 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-26 08:01:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e742c3c84f3b9ce79a1b2497fd2
+[2026-11-26 08:01:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-26 08:01:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e742c3c84f3b9ce79a1b2497fd2
+[2026-11-26 08:01:07 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Why are training facilities so important for women's sports teams?
+[2026-11-26 08:01:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e743871143e998a05858505a2ba
+[2026-11-26 08:01:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): Neighborhood Socioeconomic Status Links to Afternoon Physical Activity
+[2026-11-26 08:01:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e743871143e998a05858505a2ba
+[2026-11-26 08:01:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 143/800 chars, resolved=True): Why do older adults get sleepy so early in the evening?
+[2026-11-26 08:01:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e743871143e998a05858505a2ba
+[2026-11-26 08:01:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
+[2026-11-26 08:01:09 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
