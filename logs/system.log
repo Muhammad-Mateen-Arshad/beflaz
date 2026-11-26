@@ -31692,3 +31692,7 @@
 [2026-11-26 05:40:59 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
 [2026-11-26 05:41:20 AM] [DRAMAS_BOT] [SUCCESS] Published: What is Dr. Mehmet Oz's Net Worth and Salary?
 [2026-11-26 05:41:21 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1809 in / 599 out tokens
+[2026-11-26 05:41:23 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 05:41:28 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-26 05:41:58 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Japan New Higher Education Study Support System Guide
+[2026-11-26 05:41:59 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1921 in / 633 out tokens
