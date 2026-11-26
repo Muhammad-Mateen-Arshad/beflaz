@@ -31986,3 +31986,7 @@
 [2026-11-26 06:03:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08748b6d0a404d9e5d5241d9b010c
 [2026-11-26 06:03:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): What Happens When You Add Creatine to a Retirement-Age Workout Routine
 [2026-11-26 06:03:57 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-26 06:03:59 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 06:05:07 PM] [IMAGES_BOT] [WARN] Openverse failed: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[2026-11-26 06:05:08 PM] [HISTORY_BOT] [SUCCESS] Published: A new fossil from South Africa offers clues to how giant plant‑eating dinosaurs evolved
+[2026-11-26 06:05:09 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1296 in / 568 out tokens
