@@ -31929,3 +31929,20 @@
 [2026-11-26 04:06:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0858fac9cb495cb4ca568e696ebfe
 [2026-11-26 04:06:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
 [2026-11-26 04:06:19 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-26 04:06:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0858fc93344322b820fb4676dde47
+[2026-11-26 04:06:20 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Apex fossil sale: Stegosaurus fetched $44.6 million; researchers can s
+[2026-11-26 04:06:21 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 04:06:23 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-26 04:06:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-26 04:06:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-26 04:07:16 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-26 04:07:41 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 04:08:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 04:10:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 04:11:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 04:12:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 04:12:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 04:13:17 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 04:13:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 04:14:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 04:14:52 PM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
