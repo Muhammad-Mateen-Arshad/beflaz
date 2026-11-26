@@ -31824,3 +31824,19 @@
 [2026-11-26 11:48:19 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1501 in / 529 out tokens
 [2026-11-26 11:48:40 AM] [JOBS_BOT] [SUCCESS] Published: ECP Khyber Pakhtunkhwa Jobs: 53 Vacancies Announced
 [2026-11-26 11:48:41 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1510 in / 743 out tokens
+[2026-11-26 11:48:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081c994a4842be83fc35a900fdd84
+[2026-11-26 11:48:41 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-26 11:48:42 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-26 11:48:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081c9aa88349108d13d33d2ccf8b6
+[2026-11-26 11:48:42 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Vir Das and Real Kashmir Football Club miss out on wins at Internation
+[2026-11-26 11:48:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081c9aa88349108d13d33d2ccf8b6
+[2026-11-26 11:48:42 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 66/300 chars, resolved=True): Who slept worst last night? Charles Leclerc
+[2026-11-26 11:48:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081c9b3b7d424597a7ff067c0c924
+[2026-11-26 11:48:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): New Friday OTT Releases (November 27, 2026): 6 New Movies, Shows To Wa
+[2026-11-26 11:48:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081c9b3b7d424597a7ff067c0c924
+[2026-11-26 11:48:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): I&B Ministry asks Netflix to block Pakistan-origin content in India am
+[2026-11-26 11:48:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081c9b3b7d424597a7ff067c0c924
+[2026-11-26 11:48:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 151/300 chars, resolved=True): 'The Trials of Karen Read' Becomes the Top Show on Netflix in America
+[2026-11-26 11:48:43 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081c9b385a4e23914f97e2327affd
+[2026-11-26 11:48:43 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
+[2026-11-26 11:48:43 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
