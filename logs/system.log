@@ -31666,3 +31666,6 @@
 [2026-11-26 03:31:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07a80f0f2349d096ac89fe0413385
 [2026-11-26 03:31:29 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
 [2026-11-26 03:31:29 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-26 03:31:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 03:31:47 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur blockbuster show features fresh sauropod find
+[2026-11-26 03:31:48 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1059 in / 528 out tokens
