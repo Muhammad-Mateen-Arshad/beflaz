@@ -31690,3 +31690,5 @@
 [2026-11-26 05:40:59 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c66a47ec4979b52dd5201be3fbd
 [2026-11-26 05:40:59 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 173/400 chars, resolved=True): Iran Reports Fresh Tanker Explosions as Hormuz Attacks Intensify
 [2026-11-26 05:40:59 AM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 3}
+[2026-11-26 05:41:20 AM] [DRAMAS_BOT] [SUCCESS] Published: What is Dr. Mehmet Oz's Net Worth and Salary?
+[2026-11-26 05:41:21 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1809 in / 599 out tokens
