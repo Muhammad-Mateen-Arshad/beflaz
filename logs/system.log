@@ -31775,3 +31775,10 @@
 [2026-11-26 07:49:04 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-26 07:51:03 AM] [DRAMAS_BOT] [SUCCESS] Published: This Week OTT Releases – New Movies and Series on Netflix, Prime Video, Aha, ZEE5 and Others – 27 November 2026
 [2026-11-26 07:51:04 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1677 in / 702 out tokens
+[2026-11-26 07:51:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e4e9f87642a79104c1e31c193de
+[2026-11-26 07:51:05 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Zardari seeks new momentum in Pakistan-Bangladesh tiesPublished on: No
+[2026-11-26 07:51:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e4e9b753494cac4c2ba0e3dc7b1
+[2026-11-26 07:51:05 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Zardari seeks new momentum in Pakistan-Bangladesh tiesPublished on: No
+[2026-11-26 07:51:09 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 08:01:04 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Russian State-Funded Scholarships for Pakistani Students
+[2026-11-26 08:01:05 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1701 in / 401 out tokens
