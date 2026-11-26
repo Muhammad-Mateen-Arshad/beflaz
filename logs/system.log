@@ -31946,3 +31946,16 @@
 [2026-11-26 04:13:49 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-26 04:14:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-26 04:14:52 PM] [HISTORY_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-26 05:55:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-26 05:56:08 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-26 05:56:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-26 05:56:36 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 05:56:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-26 05:57:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 05:57:40 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 05:58:10 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-26 05:58:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 05:58:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 06:00:19 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 06:01:12 PM] [NEWS_BOT] [SUCCESS] Published: Makkah pact nations to discuss conflict between Saudi Arabia and Yemen's Houthis in Islamabad meeting, Asif says
+[2026-11-26 06:01:14 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 826 in / 474 out tokens
