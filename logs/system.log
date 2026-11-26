@@ -31795,3 +31795,20 @@
 [2026-11-26 08:01:09 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e743871143e998a05858505a2ba
 [2026-11-26 08:01:09 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
 [2026-11-26 08:01:09 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-26 08:01:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e745461f42e1a5b56388c2fc9c8
+[2026-11-26 08:01:10 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): 55 tons of fossils and 64 armed guards: Scientists discovered a new sp
+[2026-11-26 08:01:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e745461f42e1a5b56388c2fc9c8
+[2026-11-26 08:01:10 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 174/400 chars, resolved=True): Winners of museum contest will have dinosaur artwork displayed on bill
+[2026-11-26 08:01:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e745461f42e1a5b56388c2fc9c8
+[2026-11-26 08:01:11 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): The first dinosaur fossils found in Hong Kong are now on display
+[2026-11-26 08:01:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7477cb24386856b570a30aafbc
+[2026-11-26 08:01:11 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-26 08:01:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7477cb24386856b570a30aafbc
+[2026-11-26 08:01:12 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 199/400 chars, resolved=True): Latest Research and News
+[2026-11-26 08:01:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7477cb24386856b570a30aafbc
+[2026-11-26 08:01:12 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): Los primeros dinosaurios eran del tamaño de un perro – millones de año
+[2026-11-26 08:01:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7485cc04a608d8b90588e79c94
+[2026-11-26 08:01:12 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
+[2026-11-26 08:01:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7485cc04a608d8b90588e79c94
+[2026-11-26 08:01:12 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Greek archaeological mission uncovers massive limestone foundations in
+[2026-11-26 08:01:12 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'thin': 8}
