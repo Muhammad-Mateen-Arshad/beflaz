@@ -31863,3 +31863,18 @@
 [2026-11-26 11:49:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Ancient flower fossil from dinosaur age found inside a rock
 [2026-11-26 11:49:37 AM] [HISTORY_BOT] [SUCCESS] Published: Golden Week Guide to the Fukui Prefectural Dinosaur Museum! Key Reservation and Parking Tips Learned from Mistakes Made Across Two Family Trips
 [2026-11-26 11:49:38 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1579 in / 470 out tokens
+[2026-11-26 03:29:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-26 03:30:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-26 03:30:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-26 03:30:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-26 03:32:23 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-26 03:33:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:33:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:34:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:34:52 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 03:34:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:35:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:36:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:37:21 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:38:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:38:33 PM] [NEWS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
