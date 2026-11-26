@@ -31859,3 +31859,7 @@
 [2026-11-26 11:49:20 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
 [2026-11-26 11:49:20 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1437 in / 514 out tokens
 [2026-11-26 11:49:20 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 7, 'rejected': 1}
+[2026-11-26 11:49:20 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cc03baa412bbe1b8e324aab4d6
+[2026-11-26 11:49:20 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Ancient flower fossil from dinosaur age found inside a rock
+[2026-11-26 11:49:37 AM] [HISTORY_BOT] [SUCCESS] Published: Golden Week Guide to the Fukui Prefectural Dinosaur Museum! Key Reservation and Parking Tips Learned from Mistakes Made Across Two Family Trips
+[2026-11-26 11:49:38 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1579 in / 470 out tokens
