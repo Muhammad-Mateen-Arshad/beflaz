@@ -31669,3 +31669,8 @@
 [2026-11-26 03:31:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-26 03:31:47 AM] [HISTORY_BOT] [SUCCESS] Published: Dinosaur blockbuster show features fresh sauropod find
 [2026-11-26 03:31:48 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1059 in / 528 out tokens
+[2026-11-26 05:40:13 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-26 05:40:18 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 05:40:25 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-26 05:40:55 AM] [NEWS_BOT] [SUCCESS] Published: PM stresses IT potential for economic growth
+[2026-11-26 05:40:56 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1381 in / 516 out tokens
