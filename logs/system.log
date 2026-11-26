@@ -31706,3 +31706,20 @@
 [2026-11-26 05:42:05 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
 [2026-11-26 05:42:29 AM] [HEALTH_BOT] [SUCCESS] Published: Creatine Is Moving Beyond the Weight Room, Especially Among Adults 55 and Older
 [2026-11-26 05:42:30 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1060 in / 581 out tokens
+[2026-11-26 05:42:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c6c65271464ea3292d1cbcf3609
+[2026-11-26 05:42:31 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): 55 tons of fossils and 64 armed guards: Scientists discovered a new sp
+[2026-11-26 05:42:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c6c65271464ea3292d1cbcf3609
+[2026-11-26 05:42:31 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): The first dinosaur fossils found in Hong Kong are now on display
+[2026-11-26 05:42:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c6c65271464ea3292d1cbcf3609
+[2026-11-26 05:42:31 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 78/400 chars, resolved=True): Of Course Trump Found a Way to Plug His Big, Ugly Ballroom When Partak
+[2026-11-26 05:42:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c6c7a2da4cf6a904c99e73883fb
+[2026-11-26 05:42:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Top toy gifts: The best toys for kids of all ages - Technobubble toy g
+[2026-11-26 05:42:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c6c7a2da4cf6a904c99e73883fb
+[2026-11-26 05:42:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 121/400 chars, resolved=True): How To Build A Dinosaur: A 67-Million-Year-Old T. Rex Is Coming To UK 
+[2026-11-26 05:42:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c6c887c04d2eb18ae20a5211d9f
+[2026-11-26 05:42:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
+[2026-11-26 05:42:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c6c887c04d2eb18ae20a5211d9f
+[2026-11-26 05:42:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Greek archaeological mission uncovers massive limestone foundations in
+[2026-11-26 05:42:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c6c887c04d2eb18ae20a5211d9f
+[2026-11-26 05:42:32 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 127/400 chars, resolved=True): Review: ‘The Four Heavens: A New History Of The Ancient Maya’ By David
+[2026-11-26 05:42:32 AM] [HISTORY_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 5}
