@@ -31881,3 +31881,21 @@
 [2026-11-26 03:39:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-26 03:46:09 PM] [JOBS_BOT] [SUCCESS] Published: KPPSC Government Jobs 2026: Apply for 176 Vacancies
 [2026-11-26 03:46:10 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1673 in / 846 out tokens
+[2026-11-26 03:46:11 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085442a43645b9b0b52b5c0b78d3c
+[2026-11-26 03:46:11 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-26 03:46:11 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-26 03:47:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-26 03:48:00 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 03:48:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-26 03:48:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-26 03:48:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-26 03:49:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:49:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:50:04 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:50:35 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:51:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:51:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:52:17 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:53:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:53:32 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-26 03:54:02 PM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
