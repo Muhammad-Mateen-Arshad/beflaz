@@ -31969,3 +31969,20 @@
 [2026-11-26 06:02:34 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 729 in / 593 out tokens
 [2026-11-26 06:03:51 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Overseas Scholarships in Asia for South African Students
 [2026-11-26 06:03:53 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1133 in / 507 out tokens
+[2026-11-26 06:03:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-26 06:03:54 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-26 06:03:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08748a850a4671baf7acf9b1e5309
+[2026-11-26 06:03:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-26 06:03:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08748a850a4671baf7acf9b1e5309
+[2026-11-26 06:03:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 31/800 chars, resolved=True): Are Cranberries Good for You? Experts Explain What They Can and Can’t 
+[2026-11-26 06:03:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08748a850a4671baf7acf9b1e5309
+[2026-11-26 06:03:55 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Why are training facilities so important for women's sports teams?
+[2026-11-26 06:03:56 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08748b6d0a404d9e5d5241d9b010c
+[2026-11-26 06:03:56 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 162/800 chars, resolved=True): Why do older adults bruise so easily?
+[2026-11-26 06:03:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08748b6d0a404d9e5d5241d9b010c
+[2026-11-26 06:03:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): Neighborhood Socioeconomic Status Links to Afternoon Physical Activity
+[2026-11-26 06:03:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08748b6d0a404d9e5d5241d9b010c
+[2026-11-26 06:03:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 171/800 chars, resolved=True): Why do older adults’ legs suddenly give out?
+[2026-11-26 06:03:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08748b6d0a404d9e5d5241d9b010c
+[2026-11-26 06:03:57 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): What Happens When You Add Creatine to a Retirement-Age Workout Routine
+[2026-11-26 06:03:57 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
