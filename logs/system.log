@@ -31599,3 +31599,15 @@
 [2026-11-25 11:51:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
 [2026-11-25 11:51:17 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 273/400 chars, resolved=True): Karak reports first polio case in six years as countrywide 2026 tally 
 [2026-11-25 11:51:17 PM] [JOBS_BOT] [INFO] Nothing published this run: {'tried': 8, 'thin': 8, 'already_seen': 2}
+[2026-11-25 11:51:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b077476fcf346ccafd05804a8afe64
+[2026-11-25 11:51:18 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-25 11:51:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-25 11:51:20 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07747820fd4bf7a2978d39609fbec
+[2026-11-25 11:51:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 202/300 chars, resolved=True): Netflix releases new Peter Berg-directed spot inspired by 'Friday Nigh
+[2026-11-25 11:51:21 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07747820fd4bf7a2978d39609fbec
+[2026-11-25 11:51:21 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 204/300 chars, resolved=True): Netflix's Pakistani show stirs storm before release: calls for ban in 
+[2026-11-25 11:53:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-25 11:54:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-25 11:55:06 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-26 12:00:10 AM] [DRAMAS_BOT] [SUCCESS] Published: The Night Agent Season 4: Expected Netflix Release Date & Everything We Know
+[2026-11-26 12:00:11 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1722 in / 480 out tokens
