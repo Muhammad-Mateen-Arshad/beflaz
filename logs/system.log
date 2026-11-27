@@ -32368,3 +32368,18 @@
 [2026-11-27 11:31:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-27 11:32:37 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Queen Elizabeth Commonwealth Scholarships 2027: Apply
 [2026-11-27 11:32:38 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 904 in / 547 out tokens
+[2026-11-27 11:32:39 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-27 11:32:39 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-27 11:32:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a1317f76f4e08a6e59395d497a8b
+[2026-11-27 11:32:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-27 11:32:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a1317f76f4e08a6e59395d497a8b
+[2026-11-27 11:32:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 31/800 chars, resolved=True): Are Cranberries Good for You? Experts Explain What They Can and Can’t 
+[2026-11-27 11:32:40 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a1317f76f4e08a6e59395d497a8b
+[2026-11-27 11:32:40 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Why are training facilities so important for women's sports teams?
+[2026-11-27 11:32:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a1318a17e49799ec61d3349deaf1
+[2026-11-27 11:32:42 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): Neighborhood Socioeconomic Status Links to Afternoon Physical Activity
+[2026-11-27 11:32:42 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a1318a17e49799ec61d3349deaf1
+[2026-11-27 11:32:42 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 167/800 chars, resolved=True): Is it safe for older adults to walk in cold weather?
+[2026-11-27 11:32:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a1318a17e49799ec61d3349deaf1
+[2026-11-27 11:32:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Nationwide Multimodal Program Reduced Frailty and Disability Risk in O
+[2026-11-27 11:32:43 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
