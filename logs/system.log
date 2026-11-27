@@ -32196,3 +32196,14 @@
 [2026-11-27 11:29:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
 [2026-11-27 11:30:38 AM] [NEWS_BOT] [SUCCESS] Published: Islamabad set to host Makkah Defence Alliance meeting today; Yemen conflict also on agenda
 [2026-11-27 11:30:39 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1428 in / 523 out tokens
+[2026-11-27 11:30:41 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0969e0eaf1452886b92d767c3212a
+[2026-11-27 11:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 11:30:41 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 218/400 chars, resolved=True): Pakistan-China cooperation reaches new heights with historic space mis
+[2026-11-27 11:30:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0969e1aa9b4c0393c1ffc42ae77ba
+[2026-11-27 11:30:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 131/400 chars, resolved=True): Who is Umair Bangash? Ex-Pakistan Army officer once preached 'Ghazwa-e
+[2026-11-27 11:30:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0969e2da764a038dbbd2567c7ad3a
+[2026-11-27 11:30:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 11:30:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0969e24ea340d2bd0560f18b1a783
+[2026-11-27 11:30:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 11:31:07 AM] [JOBS_BOT] [SUCCESS] Published: Punjab Government 3,080 Prison Posts Recruitment
+[2026-11-27 11:31:10 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1399 in / 382 out tokens
