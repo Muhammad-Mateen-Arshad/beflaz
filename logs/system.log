@@ -32126,3 +32126,11 @@
 [2026-11-27 03:31:00 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f9735a264addafa526011dca349
 [2026-11-27 03:31:00 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Influential Women: Kathleen Potempa, Turns Decades of Aging Science In
 [2026-11-27 03:31:00 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-27 03:31:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f97516134197a95fee437e9f08a
+[2026-11-27 03:31:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 195/400 chars, resolved=True): Apex fossil sale: Stegosaurus fetched $44.6 million; researchers can s
+[2026-11-27 03:31:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f97516134197a95fee437e9f08a
+[2026-11-27 03:31:01 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Ancient flower fossil from dinosaur age found inside a rock
+[2026-11-27 03:31:02 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 03:31:04 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-27 03:31:36 AM] [HISTORY_BOT] [SUCCESS] Published: Scientists Discover Strange Dinosaur That Evolved To Eat Fruit
+[2026-11-27 03:31:37 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1347 in / 590 out tokens
