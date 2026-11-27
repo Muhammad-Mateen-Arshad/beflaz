@@ -32187,3 +32187,9 @@
 [2026-11-27 07:31:53 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-27 07:32:10 AM] [HEALTH_BOT] [SUCCESS] Published: What Is Sarcopenia? Its Relationship with Aging and Simple Checks You Can Do at Home
 [2026-11-27 07:32:11 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1721 in / 469 out tokens
+[2026-11-27 07:32:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0931fcbf064f7d98803c71e657ee7
+[2026-11-27 07:32:12 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-27 07:32:13 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 07:32:15 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-27 07:32:34 AM] [HISTORY_BOT] [SUCCESS] Published: New Dinosaur Nyana rooiwalensis Found in South Africa Adds Clue to Origin of Giant Sauropods
+[2026-11-27 07:32:34 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1630 in / 589 out tokens
