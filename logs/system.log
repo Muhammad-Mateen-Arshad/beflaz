@@ -32039,3 +32039,16 @@
 [2026-11-26 11:40:51 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1501 in / 541 out tokens
 [2026-11-27 02:30:10 AM] [NEWS_BOT] [SUCCESS] Published: Amid talk of new provinces, Sindh CM announces consultations on local govt empowerment
 [2026-11-27 02:30:11 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1113 in / 460 out tokens
+[2026-11-27 02:30:27 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): OPINION | Hasina Question Must Be Settled For India, Bangladesh To Mov
+[2026-11-27 02:30:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08eb34c32b4fda93feab0fce9303b
+[2026-11-27 02:30:28 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 204/400 chars, resolved=True): 2026, the Year of Protests: Hundreds of Millions of People Said “Enoug
+[2026-11-27 02:30:28 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08eb44a4ee4d3d9871c3bc0092f34
+[2026-11-27 02:30:28 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 02:30:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 218/400 chars, resolved=True): Pakistan-China cooperation reaches new heights with historic space mis
+[2026-11-27 02:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08eb4523fc402eb8ba0f67df51b38
+[2026-11-27 02:30:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 167/400 chars, resolved=True): Uncovering the 'Major General Sahab' from 26/11
+[2026-11-27 02:30:29 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08eb4523fc402eb8ba0f67df51b38
+[2026-11-27 02:30:29 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 131/400 chars, resolved=True): Who is Umair Bangash? Ex-Pakistan Army officer once preached 'Ghazwa-e
+[2026-11-27 02:30:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 02:30:54 AM] [JOBS_BOT] [SUCCESS] Published: UK Strategic Reservists Readiness and Training Notice
+[2026-11-27 02:30:55 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2762 in / 903 out tokens
