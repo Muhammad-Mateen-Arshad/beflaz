@@ -32332,3 +32332,7 @@
 [2026-11-27 07:32:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-27 07:32:55 PM] [DRAMAS_BOT] [SUCCESS] Published: New shows & movies to watch this weekend: Netflix’s ‘The Hunting Wives’ + more
 [2026-11-27 07:32:56 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1423 in / 499 out tokens
+[2026-11-27 07:32:57 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09dae8fd564fe295e335e9f71a269
+[2026-11-27 07:32:57 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Fully funded UK master's scholarships: What Rwandan applicants need to
+[2026-11-27 07:35:16 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Leo XIV Scholarship 2026: Overview and Eligibility
+[2026-11-27 07:35:16 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1013 in / 555 out tokens
