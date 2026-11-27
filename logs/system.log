@@ -32336,3 +32336,11 @@
 [2026-11-27 07:32:57 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Fully funded UK master's scholarships: What Rwandan applicants need to
 [2026-11-27 07:35:16 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Leo XIV Scholarship 2026: Overview and Eligibility
 [2026-11-27 07:35:16 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1013 in / 555 out tokens
+[2026-11-27 07:35:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-27 07:35:18 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-27 07:35:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09db7655b44cb5b3441ed25d56d43
+[2026-11-27 07:35:18 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 41/800 chars, resolved=True): New Nutrition Guidelines for Older Adults Reveal the Key Nutrient for 
+[2026-11-27 07:35:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09db7655b44cb5b3441ed25d56d43
+[2026-11-27 07:35:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-27 07:36:22 PM] [HEALTH_BOT] [SUCCESS] Published: Experts Say Older Adults Should Know About This Version of the Flu Shot—It's Linked to a Lower Alzheimer's Risk
+[2026-11-27 07:36:23 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1719 in / 560 out tokens
