@@ -32134,3 +32134,8 @@
 [2026-11-27 03:31:04 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-27 03:31:36 AM] [HISTORY_BOT] [SUCCESS] Published: Scientists Discover Strange Dinosaur That Evolved To Eat Fruit
 [2026-11-27 03:31:37 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1347 in / 590 out tokens
+[2026-11-27 07:29:31 AM] [NEWS_BOT] [WARN] Feed HTTP 403: https://www.dawn.com/feeds/home
+[2026-11-27 07:29:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 07:29:34 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-27 07:29:51 AM] [NEWS_BOT] [SUCCESS] Published: US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
+[2026-11-27 07:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1502 in / 470 out tokens
