@@ -32421,3 +32421,8 @@
 [2026-11-27 11:51:33 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a17839df84fa9854c4863204bbb3
 [2026-11-27 11:51:33 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Nationwide Multimodal Program Reduced Frailty and Disability Risk in O
 [2026-11-27 11:51:33 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-27 11:51:34 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a178503284adf8b61f65904b7b1a
+[2026-11-27 11:51:34 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-27 11:51:35 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 11:51:55 PM] [HISTORY_BOT] [SUCCESS] Published: With Just One Pair of Nippers, a Dinosaur Stood Up in 5 Minutes: Building Tamiya's "Fukuiraptor" and Wanting to Display It at Our Local Summer Festival
+[2026-11-27 11:51:56 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 895 in / 486 out tokens
