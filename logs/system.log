@@ -32149,3 +32149,18 @@
 [2026-11-27 07:29:58 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
 [2026-11-27 07:30:17 AM] [JOBS_BOT] [SUCCESS] Published: Samajwadi Party Jan-Man Manifesto Employment Schemes
 [2026-11-27 07:30:18 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1814 in / 405 out tokens
+[2026-11-27 07:30:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-27 07:30:20 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 286/300 chars, resolved=True): Mourinho considering bold Real Madrid midfield experiment after stunni
+[2026-11-27 07:30:21 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09318ce85642dfbae53290d8f648c
+[2026-11-27 07:30:21 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 124/300 chars, resolved=True): Latest OTT releases this week (November 27,2026): Latest shows and mov
+[2026-11-27 07:30:21 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 07:30:23 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-27 07:30:33 AM] [DRAMAS_BOT] [INFO] Rejected by quality gate (too short (135 words, need 150)): New Friday OTT releases (November 27, 2026): 6 new movies and shows to
+[2026-11-27 07:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09318ce85642dfbae53290d8f648c
+[2026-11-27 07:30:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): I&B Ministry asks Netflix to block Pakistan-origin content in India am
+[2026-11-27 07:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09318ce85642dfbae53290d8f648c
+[2026-11-27 07:30:34 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 111/300 chars, resolved=True): Netflix's new (very) R-rated 8-part thriller remains the No. 1 streami
+[2026-11-27 07:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09319a009240f5a9976085a3e0c95
+[2026-11-27 07:30:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
+[2026-11-27 07:30:47 AM] [DRAMAS_BOT] [SUCCESS] Published: Become an Independent member to bookmark this article
+[2026-11-27 07:30:48 AM] [DRAMAS_BOT] [INFO] AI usage: 2 calls, 1766 in / 831 out tokens
