@@ -32052,3 +32052,9 @@
 [2026-11-27 02:30:30 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-27 02:30:54 AM] [JOBS_BOT] [SUCCESS] Published: UK Strategic Reservists Readiness and Training Notice
 [2026-11-27 02:30:55 AM] [JOBS_BOT] [INFO] AI usage: 2 calls, 2762 in / 903 out tokens
+[2026-11-27 02:30:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08eb5f0f714833ba3c01d4895aaa7
+[2026-11-27 02:30:56 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-27 02:30:57 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-27 02:30:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 02:31:29 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s New ‘Squid Game’ Replacement Officially Premieres in 1 Month
+[2026-11-27 02:31:30 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1557 in / 579 out tokens
