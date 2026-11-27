@@ -32365,3 +32365,6 @@
 [2026-11-27 11:31:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-27 11:31:42 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Pride and Prejudice’ Netflix Series (2026) Cast & Characters, Episode Release Schedule & Where to Watch
 [2026-11-27 11:31:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1589 in / 560 out tokens
+[2026-11-27 11:31:46 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 11:32:37 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Queen Elizabeth Commonwealth Scholarships 2027: Apply
+[2026-11-27 11:32:38 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 904 in / 547 out tokens
