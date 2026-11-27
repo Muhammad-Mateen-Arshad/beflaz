@@ -32102,3 +32102,8 @@
 [2026-11-27 03:29:44 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1431 in / 524 out tokens
 [2026-11-27 03:30:05 AM] [JOBS_BOT] [SUCCESS] Published: Pakistan Auto Industry Employment and Policy Updates 2026
 [2026-11-27 03:30:06 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1688 in / 630 out tokens
+[2026-11-27 03:30:07 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f93ea1364932afd5938b8df4a57
+[2026-11-27 03:30:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-27 03:30:07 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-27 03:30:30 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s New Jane Austen Adaptation Officially Debuts in 1 Week
+[2026-11-27 03:30:31 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1615 in / 504 out tokens
