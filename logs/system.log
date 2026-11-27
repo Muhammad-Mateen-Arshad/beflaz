@@ -32276,3 +32276,8 @@
 [2026-11-27 03:29:59 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1418 in / 559 out tokens
 [2026-11-27 03:30:26 PM] [JOBS_BOT] [SUCCESS] Published: Supreme Court of Pakistan Jobs 2026: Apply by Dec 10
 [2026-11-27 03:30:28 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1564 in / 681 out tokens
+[2026-11-27 03:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09a2141875410ea0338665b51cc6f
+[2026-11-27 03:30:29 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-27 03:30:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-27 03:31:27 PM] [DRAMAS_BOT] [SUCCESS] Published: Netflix is rebooting One Piece from the start, so what’s changed and when is it releasing?
+[2026-11-27 03:31:28 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1267 in / 540 out tokens
