@@ -32383,3 +32383,5 @@
 [2026-11-27 11:32:43 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a1318a17e49799ec61d3349deaf1
 [2026-11-27 11:32:43 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Nationwide Multimodal Program Reduced Frailty and Disability Risk in O
 [2026-11-27 11:32:43 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-27 11:33:21 PM] [HISTORY_BOT] [SUCCESS] Published: Oldest dinosaur fossil in Iberian Peninsula discovered in Portugal
+[2026-11-27 11:33:21 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 690 in / 410 out tokens
