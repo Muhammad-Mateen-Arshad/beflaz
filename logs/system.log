@@ -32268,3 +32268,7 @@
 [2026-11-27 01:19:02 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
 [2026-11-27 01:20:49 PM] [HEALTH_BOT] [SUCCESS] Published: ETHealthworld Nutrition and Wellness Awards celebrates India’s nutrition and wellness leaders
 [2026-11-27 01:20:50 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 834 in / 523 out tokens
+[2026-11-27 01:20:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0983b32b884161a800b0eb420191b
+[2026-11-27 01:20:52 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-27 01:21:44 PM] [HISTORY_BOT] [SUCCESS] Published: Fossil of Iberian Peninsula’s oldest-known dinosaur found in Algarve
+[2026-11-27 01:21:45 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1516 in / 541 out tokens
