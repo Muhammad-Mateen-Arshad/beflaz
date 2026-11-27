@@ -32058,3 +32058,9 @@
 [2026-11-27 02:30:58 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-27 02:31:29 AM] [DRAMAS_BOT] [SUCCESS] Published: Netflix’s New ‘Squid Game’ Replacement Officially Premieres in 1 Month
 [2026-11-27 02:31:30 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1557 in / 579 out tokens
+[2026-11-27 02:31:31 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08eb82f26b436aa1962359191374d
+[2026-11-27 02:31:31 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Zardari seeks new momentum in Pakistan-Bangladesh tiesPublished on: No
+[2026-11-27 02:31:32 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 02:31:34 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-27 02:32:08 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: 500 Pakistan Bangladesh Knowledge Corridor Scholarships
+[2026-11-27 02:32:09 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1673 in / 498 out tokens
