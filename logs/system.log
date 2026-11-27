@@ -32387,3 +32387,12 @@
 [2026-11-27 11:33:21 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 690 in / 410 out tokens
 [2026-11-27 11:47:51 PM] [NEWS_BOT] [SUCCESS] Published: Petrol price reduced by Re1 per litre, diesel price kept unchanged
 [2026-11-27 11:47:52 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 980 in / 542 out tokens
+[2026-11-27 11:47:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a16a972de4debbf3c7542c78e98d
+[2026-11-27 11:47:53 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 11:47:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a16a91f474858bc97cd1c7191c65
+[2026-11-27 11:47:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 11:47:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a16a91f474858bc97cd1c7191c65
+[2026-11-27 11:47:55 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 80/400 chars, resolved=True): Radio Pakistan’s mobile app connects you with the world of information
+[2026-11-27 11:47:57 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 11:48:28 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Army Recruitment Update and Notice Details
+[2026-11-27 11:48:29 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 864 in / 419 out tokens
