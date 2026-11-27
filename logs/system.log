@@ -32264,3 +32264,7 @@
 [2026-11-27 01:16:37 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1662 in / 540 out tokens
 [2026-11-27 01:18:59 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: California Schools Chief Priorities and Funding Plans
 [2026-11-27 01:19:00 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1711 in / 440 out tokens
+[2026-11-27 01:19:02 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-27 01:19:02 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-27 01:20:49 PM] [HEALTH_BOT] [SUCCESS] Published: ETHealthworld Nutrition and Wellness Awards celebrates India’s nutrition and wellness leaders
+[2026-11-27 01:20:50 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 834 in / 523 out tokens
