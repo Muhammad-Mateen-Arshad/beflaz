@@ -32351,3 +32351,12 @@
 [2026-11-27 07:36:59 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1005 in / 493 out tokens
 [2026-11-27 11:30:04 PM] [NEWS_BOT] [SUCCESS] Published: Man buried under rubble rescued alive 2 days after building collapse in Karachi’s Baloch Colony
 [2026-11-27 11:30:05 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1514 in / 477 out tokens
+[2026-11-27 11:30:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a127d68b94f1d93696c0dc4e4b7b
+[2026-11-27 11:30:06 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 11:30:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a127e91074628a80bfe055c89bb9
+[2026-11-27 11:30:07 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Newspaper - Karachi - November 27, 2026
+[2026-11-27 11:30:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a127e91074628a80bfe055c89bb9
+[2026-11-27 11:30:08 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Newspaper - Front Page - November 26, 2026
+[2026-11-27 11:30:08 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 291/400 chars, resolved=True): PM reaffirms Pakistan’s firm commitment to Makkah defence alliance
+[2026-11-27 11:31:02 PM] [JOBS_BOT] [SUCCESS] Published: Lahore Garrison Education System Teaching Jobs 2026
+[2026-11-27 11:31:03 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1422 in / 741 out tokens
