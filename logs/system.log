@@ -32402,3 +32402,7 @@
 [2026-11-27 11:48:34 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-27 11:51:04 PM] [DRAMAS_BOT] [SUCCESS] Published: New on Netflix in December 2026: 5 best movies and shows to stream, plus full release list
 [2026-11-27 11:51:06 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1668 in / 610 out tokens
+[2026-11-27 11:51:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a176a5c264b89bc48ed47cfb3a6a
+[2026-11-27 11:51:07 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Fully funded UK master's scholarships: What Rwandan applicants need to
+[2026-11-27 11:51:27 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Dollywood Foundation Educational Scholarships Overview
+[2026-11-27 11:51:28 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1716 in / 559 out tokens
