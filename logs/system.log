@@ -32241,3 +32241,19 @@
 [2026-11-27 11:32:53 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1488 in / 405 out tokens
 [2026-11-27 01:15:49 PM] [NEWS_BOT] [SUCCESS] Published: Makkah Defence Alliance meeting in Islamabad begins with Yemen conflict also on agenda
 [2026-11-27 01:15:50 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1419 in / 519 out tokens
+[2026-11-27 01:15:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b098287575e4513b801f6b45da6d63
+[2026-11-27 01:15:51 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 01:15:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 218/400 chars, resolved=True): Pakistan-China cooperation reaches new heights with historic space mis
+[2026-11-27 01:15:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b098288639845839a037f2dd10fa60
+[2026-11-27 01:15:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 131/400 chars, resolved=True): Who is Umair Bangash? Ex-Pakistan Army officer once preached 'Ghazwa-e
+[2026-11-27 01:15:52 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09828814e54805857f58aa66b177c
+[2026-11-27 01:15:52 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 01:15:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0982881df9453c806f36112a5e316
+[2026-11-27 01:15:53 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 01:15:53 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0982892ebc438ebd09600b959ed84
+[2026-11-27 01:15:53 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): ASF Jobs 2026 Apply Online for 1036+ ASI, Corporals, Drivers & Others 
+[2026-11-27 01:15:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0982892ebc438ebd09600b959ed84
+[2026-11-27 01:15:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-27 01:15:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0982892ebc438ebd09600b959ed84
+[2026-11-27 01:15:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Today's Latest Chandigarh News - Page 2
+[2026-11-27 01:15:54 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
