@@ -32171,3 +32171,19 @@
 [2026-11-27 07:30:49 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-27 07:31:46 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Federal Scholarship Tax Credit Program: Eligibility
 [2026-11-27 07:31:47 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1668 in / 498 out tokens
+[2026-11-27 07:31:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-27 07:31:47 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-27 07:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0931e4bb904c898fc628361ae4c8d
+[2026-11-27 07:31:48 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-27 07:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0931e4bb904c898fc628361ae4c8d
+[2026-11-27 07:31:48 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Can Your Diet Slow Aging? Researchers Examine Popular Eating Patterns
+[2026-11-27 07:31:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0931e4bb904c898fc628361ae4c8d
+[2026-11-27 07:31:48 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 203/800 chars, resolved=True): Is Saquon Barkley Injured? Exploring Stinger Injury Update And What We
+[2026-11-27 07:31:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0931e4e3f9400f8c4f62d1e2082b9
+[2026-11-27 07:31:50 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): Neighborhood Socioeconomic Status Links to Afternoon Physical Activity
+[2026-11-27 07:31:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0931e4e3f9400f8c4f62d1e2082b9
+[2026-11-27 07:31:50 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): What Happens When You Add Creatine to a Retirement-Age Workout Routine
+[2026-11-27 07:31:51 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 07:31:53 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-27 07:32:10 AM] [HEALTH_BOT] [SUCCESS] Published: What Is Sarcopenia? Its Relationship with Aging and Simple Checks You Can Do at Home
+[2026-11-27 07:32:11 AM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1721 in / 469 out tokens
