@@ -32360,3 +32360,8 @@
 [2026-11-27 11:30:08 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 291/400 chars, resolved=True): PM reaffirms Pakistan’s firm commitment to Makkah defence alliance
 [2026-11-27 11:31:02 PM] [JOBS_BOT] [SUCCESS] Published: Lahore Garrison Education System Teaching Jobs 2026
 [2026-11-27 11:31:03 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1422 in / 741 out tokens
+[2026-11-27 11:31:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a12b78afd4d558d55cf786520846
+[2026-11-27 11:31:04 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-27 11:31:05 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-27 11:31:42 PM] [DRAMAS_BOT] [SUCCESS] Published: ‘Pride and Prejudice’ Netflix Series (2026) Cast & Characters, Episode Release Schedule & Where to Watch
+[2026-11-27 11:31:43 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1589 in / 560 out tokens
