@@ -32306,3 +32306,24 @@
 [2026-11-27 03:32:36 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 444 in / 322 out tokens
 [2026-11-27 07:30:23 PM] [NEWS_BOT] [SUCCESS] Published: Makkah pact nations review regional security, condemn Houthi attacks on Saudi Arabia
 [2026-11-27 07:30:24 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1438 in / 564 out tokens
+[2026-11-27 07:30:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09da5188164a0080ada1a5ce2710d
+[2026-11-27 07:30:26 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 07:30:26 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09da520963468e895edec53387949
+[2026-11-27 07:30:26 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 07:30:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09da520963468e895edec53387949
+[2026-11-27 07:30:28 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 80/400 chars, resolved=True): Radio Pakistan’s mobile app connects you with the world of information
+[2026-11-27 07:30:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09da54f7b641e9b2126c6359a849c
+[2026-11-27 07:30:28 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 07:30:28 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09da5435ae4089888dd7b528a3784
+[2026-11-27 07:30:28 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 07:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09da547ee5460dbce822edb0d694f
+[2026-11-27 07:30:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): ASF Jobs 2026 Apply Online for 1036+ ASI, Corporals, Drivers & Others 
+[2026-11-27 07:30:29 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09da547ee5460dbce822edb0d694f
+[2026-11-27 07:30:29 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-27 07:30:38 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-27 07:30:53 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-27 07:31:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-27 07:31:19 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 07:32:19 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Public services
+[2026-11-27 07:32:19 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 940 in / 413 out tokens
+[2026-11-27 07:32:19 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 7, 'rejected': 1}
