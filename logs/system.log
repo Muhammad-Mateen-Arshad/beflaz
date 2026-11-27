@@ -32344,3 +32344,8 @@
 [2026-11-27 07:35:19 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
 [2026-11-27 07:36:22 PM] [HEALTH_BOT] [SUCCESS] Published: Experts Say Older Adults Should Know About This Version of the Flu Shot—It's Linked to a Lower Alzheimer's Risk
 [2026-11-27 07:36:23 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1719 in / 560 out tokens
+[2026-11-27 07:36:24 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09dbb84fa84af4a3fc3017babefa2
+[2026-11-27 07:36:24 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-27 07:36:25 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 07:36:59 PM] [HISTORY_BOT] [SUCCESS] Published: Portugal discovers 227-million-year-old dinosaur fossil in Loulé
+[2026-11-27 07:36:59 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1005 in / 493 out tokens
