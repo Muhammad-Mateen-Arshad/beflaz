@@ -32235,3 +32235,7 @@
 [2026-11-27 11:32:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a5089954fc4a8191b807a0409c
 [2026-11-27 11:32:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Nationwide Multimodal Program Reduced Frailty and Disability Risk in O
 [2026-11-27 11:32:35 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
+[2026-11-27 11:32:36 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a5393d0451d8431fd3b579450a
+[2026-11-27 11:32:36 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-27 11:32:53 AM] [HISTORY_BOT] [SUCCESS] Published: You Can Retire Comfortably On Social Security Alone In This Wonderfully Affordable Colorado Town
+[2026-11-27 11:32:53 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1488 in / 405 out tokens
