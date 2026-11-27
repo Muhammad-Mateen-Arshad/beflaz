@@ -32139,3 +32139,13 @@
 [2026-11-27 07:29:34 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-27 07:29:51 AM] [NEWS_BOT] [SUCCESS] Published: US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
 [2026-11-27 07:29:52 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1502 in / 470 out tokens
+[2026-11-27 07:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093170755c406ea55e67cedc7a985
+[2026-11-27 07:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-27 07:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 218/400 chars, resolved=True): Pakistan-China cooperation reaches new heights with historic space mis
+[2026-11-27 07:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0931718b1a45959bdff138777e3fd
+[2026-11-27 07:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 131/400 chars, resolved=True): Who is Umair Bangash? Ex-Pakistan Army officer once preached 'Ghazwa-e
+[2026-11-27 07:29:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 07:29:56 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-27 07:29:58 AM] [AI_BOT] [INFO] Switched to Gemini key 4 of 5
+[2026-11-27 07:30:17 AM] [JOBS_BOT] [SUCCESS] Published: Samajwadi Party Jan-Man Manifesto Employment Schemes
+[2026-11-27 07:30:18 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1814 in / 405 out tokens
