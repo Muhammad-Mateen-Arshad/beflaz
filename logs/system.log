@@ -32396,3 +32396,9 @@
 [2026-11-27 11:47:57 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-27 11:48:28 PM] [JOBS_BOT] [SUCCESS] Published: Pakistan Army Recruitment Update and Notice Details
 [2026-11-27 11:48:29 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 864 in / 419 out tokens
+[2026-11-27 11:48:30 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a16ce93ad4d508a48b92988bff8d
+[2026-11-27 11:48:30 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-27 11:48:32 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-27 11:48:34 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 11:51:04 PM] [DRAMAS_BOT] [SUCCESS] Published: New on Netflix in December 2026: 5 best movies and shows to stream, plus full release list
+[2026-11-27 11:51:06 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1668 in / 610 out tokens
