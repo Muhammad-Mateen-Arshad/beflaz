@@ -32222,3 +32222,16 @@
 [2026-11-27 11:32:14 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1367 in / 570 out tokens
 [2026-11-27 11:32:30 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Sindh CSS Scholarships for Children of Industrial Workers
 [2026-11-27 11:32:30 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 952 in / 446 out tokens
+[2026-11-27 11:32:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-27 11:32:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-27 11:32:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a508f30410c9f1133cfede73ed
+[2026-11-27 11:32:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-27 11:32:32 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a5089954fc4a8191b807a0409c
+[2026-11-27 11:32:32 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 141/800 chars, resolved=True): Why do older adults get hand cramps?
+[2026-11-27 11:32:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a5089954fc4a8191b807a0409c
+[2026-11-27 11:32:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): Neighborhood Socioeconomic Status Links to Afternoon Physical Activity
+[2026-11-27 11:32:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a5089954fc4a8191b807a0409c
+[2026-11-27 11:32:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 175/800 chars, resolved=True): Why do older adults get chills without a fever?
+[2026-11-27 11:32:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a5089954fc4a8191b807a0409c
+[2026-11-27 11:32:35 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 204/800 chars, resolved=True): Nationwide Multimodal Program Reduced Frailty and Disability Risk in O
+[2026-11-27 11:32:35 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 14, 'tried': 6, 'thin': 6}
