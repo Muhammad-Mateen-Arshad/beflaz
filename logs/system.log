@@ -32164,3 +32164,10 @@
 [2026-11-27 07:30:35 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
 [2026-11-27 07:30:47 AM] [DRAMAS_BOT] [SUCCESS] Published: Become an Independent member to bookmark this article
 [2026-11-27 07:30:48 AM] [DRAMAS_BOT] [INFO] AI usage: 2 calls, 1766 in / 831 out tokens
+[2026-11-27 07:30:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0931a828174f46bf67c8b96a5a604
+[2026-11-27 07:30:49 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 155/400 chars, resolved=True): From legal aid to Oxford: Jyotika Tomar and Dhruv Singhal win Rhodes S
+[2026-11-27 07:30:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0931a828174f46bf67c8b96a5a604
+[2026-11-27 07:30:49 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Zardari seeks new momentum in Pakistan-Bangladesh tiesPublished on: No
+[2026-11-27 07:30:49 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-27 07:31:46 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Federal Scholarship Tax Credit Program: Eligibility
+[2026-11-27 07:31:47 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1668 in / 498 out tokens
