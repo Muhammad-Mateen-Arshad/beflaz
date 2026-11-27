@@ -32327,3 +32327,8 @@
 [2026-11-27 07:32:19 PM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Public services
 [2026-11-27 07:32:19 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 940 in / 413 out tokens
 [2026-11-27 07:32:19 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 7, 'rejected': 1}
+[2026-11-27 07:32:19 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09dac331a6437192e928f9bb7eb7a
+[2026-11-27 07:32:19 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-27 07:32:20 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-27 07:32:55 PM] [DRAMAS_BOT] [SUCCESS] Published: New shows & movies to watch this weekend: Netflix’s ‘The Hunting Wives’ + more
+[2026-11-27 07:32:56 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1423 in / 499 out tokens
