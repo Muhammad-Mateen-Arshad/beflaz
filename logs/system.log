@@ -32300,3 +32300,7 @@
 [2026-11-27 03:32:17 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09a27f882b428b998809f49a340be
 [2026-11-27 03:32:17 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 156/800 chars, resolved=True): From lifting weights to Tai Chi, which exercises help aging bones?
 [2026-11-27 03:32:17 PM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 12, 'tried': 8, 'thin': 8}
+[2026-11-27 03:32:18 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09a281a7f24f63a50ae153389583e
+[2026-11-27 03:32:18 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-27 03:32:35 PM] [HISTORY_BOT] [SUCCESS] Published: Apex Fossil Sale: Stegosaurus fetched $44.6 million; researchers can study fossil
+[2026-11-27 03:32:36 PM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 444 in / 322 out tokens
