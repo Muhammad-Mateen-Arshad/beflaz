@@ -32257,3 +32257,8 @@
 [2026-11-27 01:15:54 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0982892ebc438ebd09600b959ed84
 [2026-11-27 01:15:54 PM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Today's Latest Chandigarh News - Page 2
 [2026-11-27 01:15:54 PM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 11, 'tried': 8, 'thin': 8}
+[2026-11-27 01:15:55 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09828b8fd84e3d9c805a1c6a1494b
+[2026-11-27 01:15:55 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-27 01:15:56 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-27 01:16:36 PM] [DRAMAS_BOT] [SUCCESS] Published: The best books of the year: from crime to contemporary, prizewinners to spine-tinglers our Daily Mail critics pick the top books of 2026
+[2026-11-27 01:16:37 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1662 in / 540 out tokens
