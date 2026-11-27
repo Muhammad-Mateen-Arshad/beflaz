@@ -32207,3 +32207,16 @@
 [2026-11-27 11:30:42 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
 [2026-11-27 11:31:07 AM] [JOBS_BOT] [SUCCESS] Published: Punjab Government 3,080 Prison Posts Recruitment
 [2026-11-27 11:31:10 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1399 in / 382 out tokens
+[2026-11-27 11:31:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0969fe7d1048fcbc1abb8ee015429
+[2026-11-27 11:31:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): Jim Osman
+[2026-11-27 11:31:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-27 11:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a00f5d54d6e92e515a196c2bcc
+[2026-11-27 11:31:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 124/300 chars, resolved=True): Latest OTT releases this week (November 27,2026): Latest shows and mov
+[2026-11-27 11:31:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a00f5d54d6e92e515a196c2bcc
+[2026-11-27 11:31:12 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 203/300 chars, resolved=True): I&B Ministry asks Netflix to block Pakistan-origin content in India am
+[2026-11-27 11:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a00f5d54d6e92e515a196c2bcc
+[2026-11-27 11:31:13 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): The Hunting Wives season 2 is streaming on Netflix; critics are divide
+[2026-11-27 11:31:13 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096a011afb4322a4bf0536f260b0f
+[2026-11-27 11:31:13 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
+[2026-11-27 11:32:13 AM] [DRAMAS_BOT] [SUCCESS] Published: Every New and Returning Face in ‘Another Self’ Season 3 as Netflix’s Turkish Drama Heads Into Its Final Chapter
+[2026-11-27 11:32:14 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1367 in / 570 out tokens
