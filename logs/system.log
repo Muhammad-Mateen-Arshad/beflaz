@@ -32193,3 +32193,6 @@
 [2026-11-27 07:32:15 AM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
 [2026-11-27 07:32:34 AM] [HISTORY_BOT] [SUCCESS] Published: New Dinosaur Nyana rooiwalensis Found in South Africa Adds Clue to Origin of Giant Sauropods
 [2026-11-27 07:32:34 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1630 in / 589 out tokens
+[2026-11-27 11:29:33 AM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-27 11:30:38 AM] [NEWS_BOT] [SUCCESS] Published: Islamabad set to host Makkah Defence Alliance meeting today; Yemen conflict also on agenda
+[2026-11-27 11:30:39 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1428 in / 523 out tokens
