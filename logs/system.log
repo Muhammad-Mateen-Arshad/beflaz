@@ -32491,3 +32491,8 @@
 [2026-11-28 05:11:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a627b42f94f4aa88850f5155c045
 [2026-11-28 05:11:24 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Today's Latest Chandigarh News - Page 2
 [2026-11-28 05:11:25 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'thin': 8}
+[2026-11-28 05:11:25 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a627d03394d7aa3147261544dd1f
+[2026-11-28 05:11:25 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-28 05:11:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
+[2026-11-28 05:11:40 AM] [DRAMAS_BOT] [SUCCESS] Published: 10 Netflix Series To Watch Before Kicking the Bucket (#1 Is Actually Flawless)
+[2026-11-28 05:11:41 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1491 in / 485 out tokens
