@@ -32758,3 +32758,12 @@
 [2026-11-28 04:27:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
 [2026-11-28 04:28:03 PM] [DRAMAS_BOT] [SUCCESS] Published: Fatih: Sultan of Conquests Season 3 is coming to STARZPLAY
 [2026-11-28 04:28:04 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 998 in / 405 out tokens
+[2026-11-28 04:28:05 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0b011572bd4937a8d3acf218b4557
+[2026-11-28 04:28:05 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Fully funded UK master's scholarships: What Rwandan applicants need to
+[2026-11-28 04:28:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0b011572bd4937a8d3acf218b4557
+[2026-11-28 04:28:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 147/400 chars, resolved=True): The Civil-Rights Law That Activists Say Prohibits Civil-Rights Program
+[2026-11-28 04:28:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0b011572bd4937a8d3acf218b4557
+[2026-11-28 04:28:06 PM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): He’s telling the story of his people, the history of California’s Nati
+[2026-11-28 04:28:08 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-28 04:28:30 PM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: USP Fall 2026 Nursing Admissions and Scholarships
+[2026-11-28 04:28:31 PM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1510 in / 689 out tokens
