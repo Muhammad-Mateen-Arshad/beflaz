@@ -32612,3 +32612,12 @@
 [2026-11-28 11:30:09 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Central Texas Public Safety Commission
 [2026-11-28 11:30:09 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1829 in / 411 out tokens
 [2026-11-28 11:30:09 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 7, 'rejected': 1}
+[2026-11-28 11:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb41bd3b430b94cec1b3dce07d2
+[2026-11-28 11:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-28 11:30:10 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb4273554b49af155fbbc4396ee
+[2026-11-28 11:30:10 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 136/300 chars, resolved=True): 'Dark Winds' next Netflix release will officially face a major issue i
+[2026-11-28 11:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb429e494f99980fc2a515ac281
+[2026-11-28 11:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
+[2026-11-28 11:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb429e494f99980fc2a515ac281
+[2026-11-28 11:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): I'm A Celeb's Wayne Rooney opens up on 2018 public intoxication arrest
+[2026-11-28 11:30:11 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 4, 'thin': 4}
