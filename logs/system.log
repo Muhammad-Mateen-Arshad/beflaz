@@ -32642,3 +32642,15 @@
 [2026-11-28 11:30:33 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb577aad4fdcb1e27bc5020c7e0
 [2026-11-28 11:30:33 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 179/800 chars, resolved=True): Exercise Interventions Show Broad Potential for Older Adults With Cogn
 [2026-11-28 11:30:33 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-28 11:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb5a48d24c19972f68518abeb7b
+[2026-11-28 11:30:34 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-28 11:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb5a48d24c19972f68518abeb7b
+[2026-11-28 11:30:34 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): 44 intriguing facts and real-life tales collected from around the worl
+[2026-11-28 11:30:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb5a48d24c19972f68518abeb7b
+[2026-11-28 11:30:34 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 137/400 chars, resolved=True): Would You Exercise in an Art Gallery? This Museum Specifically Wants Y
+[2026-11-28 11:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb5b4255432e8daebeabc2b7ccd
+[2026-11-28 11:30:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
+[2026-11-28 11:30:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb5b4255432e8daebeabc2b7ccd
+[2026-11-28 11:30:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 100/400 chars, resolved=True): Discovery of an Egyptian structure hidden for 2,600 years offers clues
+[2026-11-28 11:30:49 AM] [HISTORY_BOT] [SUCCESS] Published: Road Construction in Greece Reveals a Monumental 3,200-Year-Old Mycenaean Tomb
+[2026-11-28 11:30:50 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1328 in / 473 out tokens
