@@ -32496,3 +32496,9 @@
 [2026-11-28 05:11:26 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-28 05:11:40 AM] [DRAMAS_BOT] [SUCCESS] Published: 10 Netflix Series To Watch Before Kicking the Bucket (#1 Is Actually Flawless)
 [2026-11-28 05:11:41 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1491 in / 485 out tokens
+[2026-11-28 05:11:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a628d69cc4521ba951656b615978
+[2026-11-28 05:11:42 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Fully funded UK master's scholarships: What Rwandan applicants need to
+[2026-11-28 05:11:42 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a628d69cc4521ba951656b615978
+[2026-11-28 05:11:42 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): He’s telling the story of his people, the history of California’s Nati
+[2026-11-28 05:11:59 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Honhaar Scholarship and Laptop Scheme: Eligibility Guide
+[2026-11-28 05:12:00 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1316 in / 452 out tokens
