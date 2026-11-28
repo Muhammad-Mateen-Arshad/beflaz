@@ -32555,3 +32555,15 @@
 [2026-11-28 07:29:57 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-28 07:30:13 AM] [DRAMAS_BOT] [SUCCESS] Published: Mike Tyson’s Turkish TV cameo takes him to İstanbul in search of pigeons
 [2026-11-28 07:30:14 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 944 in / 510 out tokens
+[2026-11-28 07:30:15 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a83079e244e4db60d1e8461ed619
+[2026-11-28 07:30:15 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Fully funded UK master's scholarships: What Rwandan applicants need to
+[2026-11-28 07:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a83079e244e4db60d1e8461ed619
+[2026-11-28 07:30:16 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): He’s telling the story of his people, the history of California’s Nati
+[2026-11-28 07:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a83086cdd4c73a68f8d225512914
+[2026-11-28 07:30:16 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): CM Maryam Nawaz welcomes participants to Pakistan's first paragliding 
+[2026-11-28 07:30:16 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a83086cdd4c73a68f8d225512914
+[2026-11-28 07:30:16 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): CM vows to make Talagang fully functional districtPublished on: Novemb
+[2026-11-28 07:30:17 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-28 07:30:31 AM] [SCHOLARSHIPS_BOT] [INFO] Rejected by quality gate (numbers not found in source: 500): CM Maryam welcomes participants of first paragliding championship in C
+[2026-11-28 07:30:45 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: HEC Degree Attestation Portal Integrates MOFA Option
+[2026-11-28 07:30:46 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 2 calls, 2269 in / 849 out tokens
