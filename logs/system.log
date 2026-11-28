@@ -32718,3 +32718,18 @@
 [2026-11-28 03:58:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-28 03:58:42 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-28 03:59:12 PM] [SCHOLARSHIPS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-28 03:59:14 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-28 03:59:14 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-28 03:59:15 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afa53a7e84acd92b9fa9e09901a5
+[2026-11-28 03:59:15 PM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 41/800 chars, resolved=True): New Nutrition Guidelines for Older Adults Reveal the Key Nutrient for 
+[2026-11-28 03:59:16 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-28 03:59:19 PM] [AI_BOT] [INFO] Switched to Gemini key 3 of 5
+[2026-11-28 03:59:59 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-28 04:00:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-28 04:00:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-28 04:01:02 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 04:01:33 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 04:03:07 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 04:03:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 04:14:03 PM] [HEALTH_BOT] [SUCCESS] Published: Drinking Three Glasses of Milk a Week? Study Examines a Possible Link With Liver Cancer Risk
+[2026-11-28 04:14:04 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1408 in / 553 out tokens
