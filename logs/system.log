@@ -32582,3 +32582,14 @@
 [2026-11-28 07:30:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a832954874ea1a05ed9f6eb3f79d
 [2026-11-28 07:30:51 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 179/800 chars, resolved=True): Exercise Interventions Show Broad Potential for Older Adults With Cogn
 [2026-11-28 07:30:51 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-28 07:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a832bc1e34128acf6153304aac1f
+[2026-11-28 07:30:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-28 07:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a832bc1e34128acf6153304aac1f
+[2026-11-28 07:30:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 128/400 chars, resolved=True): Tiny Alabama fossil reveals an early relative of modern scorpions
+[2026-11-28 07:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a832bc1e34128acf6153304aac1f
+[2026-11-28 07:30:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 137/400 chars, resolved=True): Would You Exercise in an Art Gallery? This Museum Specifically Wants Y
+[2026-11-28 07:30:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a832bc1e34128acf6153304aac1f
+[2026-11-28 07:30:52 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): How Sandstone Classification Works and What Labels Really Tell You
+[2026-11-28 07:30:54 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-28 07:32:43 AM] [HISTORY_BOT] [SUCCESS] Published: ‘Looking at the stuff that hasn’t been looked at before’
+[2026-11-28 07:32:44 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1571 in / 510 out tokens
