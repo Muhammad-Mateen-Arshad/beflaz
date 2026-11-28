@@ -32595,3 +32595,20 @@
 [2026-11-28 07:32:44 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1571 in / 510 out tokens
 [2026-11-28 11:29:45 AM] [NEWS_BOT] [SUCCESS] Published: ‘Beacon of light’: PM Shehbaz, CDF Munir speak with astronaut Zeeshan Ali aboard China’s space station
 [2026-11-28 11:29:46 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1527 in / 477 out tokens
+[2026-11-28 11:29:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb2ae34d4ff3b92a33c282a28c8
+[2026-11-28 11:29:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 11:29:47 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb2be97b438d9ee700bb36e1b40
+[2026-11-28 11:29:47 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 11:29:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb2be97b438d9ee700bb36e1b40
+[2026-11-28 11:29:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 80/400 chars, resolved=True): Radio Pakistan’s mobile app connects you with the world of information
+[2026-11-28 11:29:49 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb2d8be3497da7c134f5ea94ad4
+[2026-11-28 11:29:49 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 11:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb2d6ebc471b9d1d455e2a9eb7c
+[2026-11-28 11:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 11:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb2e117d40ca88d6d5af8b8ca9a
+[2026-11-28 11:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): ASF Jobs 2026 Apply Online for 1036+ ASI, Corporals, Drivers & Others 
+[2026-11-28 11:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb2e117d40ca88d6d5af8b8ca9a
+[2026-11-28 11:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-28 11:30:09 AM] [JOBS_BOT] [INFO] Rejected by quality gate (too many 'not specified' (source too thin)): Central Texas Public Safety Commission
+[2026-11-28 11:30:09 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1829 in / 411 out tokens
+[2026-11-28 11:30:09 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 7, 'rejected': 1}
