@@ -32654,3 +32654,14 @@
 [2026-11-28 11:30:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 100/400 chars, resolved=True): Discovery of an Egyptian structure hidden for 2,600 years offers clues
 [2026-11-28 11:30:49 AM] [HISTORY_BOT] [SUCCESS] Published: Road Construction in Greece Reveals a Monumental 3,200-Year-Old Mycenaean Tomb
 [2026-11-28 11:30:50 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1328 in / 473 out tokens
+[2026-11-28 03:30:29 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-28 03:30:46 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-28 03:31:03 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-28 03:31:18 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-28 03:31:39 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-28 03:32:12 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:32:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:33:13 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:34:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:37:30 PM] [NEWS_BOT] [SUCCESS] Published: Govt, PPP discuss upcoming Parliament session and 'potential legislatives agendas'
+[2026-11-28 03:37:30 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 695 in / 388 out tokens
