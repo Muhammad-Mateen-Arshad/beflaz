@@ -32517,3 +32517,12 @@
 [2026-11-28 05:12:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a28a304dbe976ac06c02be927
 [2026-11-28 05:12:04 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
 [2026-11-28 05:12:04 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-28 05:12:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a449cd4f9ca3f2291a0f2c67b
+[2026-11-28 05:12:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-28 05:12:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a449cd4f9ca3f2291a0f2c67b
+[2026-11-28 05:12:04 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): 44 intriguing facts and real-life tales collected from around the worl
+[2026-11-28 05:12:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a449cd4f9ca3f2291a0f2c67b
+[2026-11-28 05:12:05 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 137/400 chars, resolved=True): Would You Exercise in an Art Gallery? This Museum Specifically Wants Y
+[2026-11-28 05:12:06 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-28 05:12:33 AM] [HISTORY_BOT] [SUCCESS] Published: These bizarre prehistoric mammals may have been misunderstood for 150 years
+[2026-11-28 05:12:33 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1496 in / 510 out tokens
