@@ -32750,3 +32750,5 @@
 [2026-11-28 04:14:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afdcf0cf94373916c7e9277bbf0f
 [2026-11-28 04:14:08 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Greek archaeological mission uncovers massive limestone foundations in
 [2026-11-28 04:14:08 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
+[2026-11-28 04:27:22 PM] [NEWS_BOT] [SUCCESS] Published: 2 injured as building collapses in Karachi due to ‘gas explosion’
+[2026-11-28 04:27:23 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1487 in / 467 out tokens
