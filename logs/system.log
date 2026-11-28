@@ -32475,3 +32475,19 @@
 [2026-11-28 03:32:08 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1573 in / 512 out tokens
 [2026-11-28 05:11:20 AM] [NEWS_BOT] [SUCCESS] Published: Death toll in Baloch Colony building collapse rises to 11 as rescuers recover three more bodies
 [2026-11-28 05:11:21 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1543 in / 505 out tokens
+[2026-11-28 05:11:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62792c0a40f996ff4824fd84a19
+[2026-11-28 05:11:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 05:11:22 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a627a6f924083bfa621e5ec4cf87
+[2026-11-28 05:11:22 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 05:11:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 291/400 chars, resolved=True): PM reaffirms Pakistan’s firm commitment to Makkah defence alliance
+[2026-11-28 05:11:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a627bbccd41bfa006c4f25da2de6
+[2026-11-28 05:11:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 05:11:23 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a627b23814952b865113b8d3b33e
+[2026-11-28 05:11:23 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 05:11:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a627b42f94f4aa88850f5155c045
+[2026-11-28 05:11:24 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): ASF Jobs 2026 Apply Online for 1036+ ASI, Corporals, Drivers & Others 
+[2026-11-28 05:11:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a627b42f94f4aa88850f5155c045
+[2026-11-28 05:11:24 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-28 05:11:24 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a627b42f94f4aa88850f5155c045
+[2026-11-28 05:11:24 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): Today's Latest Chandigarh News - Page 2
+[2026-11-28 05:11:25 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 4, 'tried': 8, 'thin': 8}
