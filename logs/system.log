@@ -32754,3 +32754,7 @@
 [2026-11-28 04:27:23 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1487 in / 467 out tokens
 [2026-11-28 04:27:49 PM] [JOBS_BOT] [SUCCESS] Published: PIMS Islamabad Jobs 2026: 183 Vacancies Announced
 [2026-11-28 04:27:50 PM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1535 in / 746 out tokens
+[2026-11-28 04:27:51 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0b0106d21c40a5b39b2da099c24ac
+[2026-11-28 04:27:51 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-28 04:28:03 PM] [DRAMAS_BOT] [SUCCESS] Published: Fatih: Sultan of Conquests Season 3 is coming to STARZPLAY
+[2026-11-28 04:28:04 PM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 998 in / 405 out tokens
