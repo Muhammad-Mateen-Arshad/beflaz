@@ -32680,3 +32680,20 @@
 [2026-11-28 03:45:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-28 03:45:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-28 03:46:01 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
+[2026-11-28 03:46:04 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0af73b7a9f402b8882b2add9dcf1d
+[2026-11-28 03:46:04 PM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-28 03:46:05 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-28 03:46:30 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-28 03:46:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-28 03:47:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-28 03:47:47 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-28 03:48:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:48:45 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:49:15 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:49:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:50:25 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:50:56 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:51:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:51:57 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:52:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:52:58 PM] [DRAMAS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
