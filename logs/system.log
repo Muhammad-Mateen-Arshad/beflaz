@@ -32529,3 +32529,20 @@
 [2026-11-28 07:29:29 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-28 07:29:49 AM] [NEWS_BOT] [SUCCESS] Published: PM calls for stronger Pak-Oman ties
 [2026-11-28 07:29:49 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1342 in / 555 out tokens
+[2026-11-28 07:29:51 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82ee2f7d4bd5aa7fbf42355d337
+[2026-11-28 07:29:51 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 198/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 07:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82efc06c482283bf19e0279bba5
+[2026-11-28 07:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Newspaper - Karachi - November 27, 2026
+[2026-11-28 07:29:52 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82efc06c482283bf19e0279bba5
+[2026-11-28 07:29:52 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Newspaper - Front Page - November 26, 2026
+[2026-11-28 07:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82f052b6455f9c67ad3be87fc45
+[2026-11-28 07:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Newspaper - Karachi - November 27, 2026
+[2026-11-28 07:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82f127ed431f92ffef6cb238247
+[2026-11-28 07:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 139/400 chars, resolved=True): Newspaper - Karachi - November 27, 2026
+[2026-11-28 07:29:53 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82f127ed431f92ffef6cb238247
+[2026-11-28 07:29:53 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): Newspaper - Front Page - November 26, 2026
+[2026-11-28 07:29:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82f1c70847328e085617d77659d
+[2026-11-28 07:29:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 196/400 chars, resolved=True): ASF Jobs 2026 Apply Online for 1036+ ASI, Corporals, Drivers & Others 
+[2026-11-28 07:29:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82f1c70847328e085617d77659d
+[2026-11-28 07:29:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
+[2026-11-28 07:29:54 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
