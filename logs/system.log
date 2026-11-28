@@ -32546,3 +32546,12 @@
 [2026-11-28 07:29:54 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82f1c70847328e085617d77659d
 [2026-11-28 07:29:54 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 193/400 chars, resolved=True): PPSC announces final results for vacanciesPublished on: November 22, 2
 [2026-11-28 07:29:54 AM] [JOBS_BOT] [INFO] Nothing published this run: {'already_seen': 6, 'tried': 8, 'thin': 8}
+[2026-11-28 07:29:55 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82f3436a4b4d8e7881f51996df0
+[2026-11-28 07:29:55 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 201/300 chars, resolved=True): Jim Osman
+[2026-11-28 07:29:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82f38fe342009c0285f304a7897
+[2026-11-28 07:29:56 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 181/300 chars, resolved=True): The Hunting Wives season 2 is streaming on Netflix; critics are divide
+[2026-11-28 07:29:56 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a82f4c4fb4884b34aad8f77c4423
+[2026-11-28 07:29:56 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 97/300 chars, resolved=True): Below Deck brings back divisive former star in shock season 13 twist
+[2026-11-28 07:29:57 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-28 07:30:13 AM] [DRAMAS_BOT] [SUCCESS] Published: Mike Tyson’s Turkish TV cameo takes him to İstanbul in search of pigeons
+[2026-11-28 07:30:14 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 944 in / 510 out tokens
