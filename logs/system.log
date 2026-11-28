@@ -32469,3 +32469,7 @@
 [2026-11-28 03:31:34 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4b15bc2945cf9752f9d2f934f45
 [2026-11-28 03:31:34 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
 [2026-11-28 03:31:34 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
+[2026-11-28 03:31:35 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4b17b2c94fce8e5d4c70412cdd8
+[2026-11-28 03:31:35 AM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 186/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant-eating di
+[2026-11-28 03:32:08 AM] [HISTORY_BOT] [SUCCESS] Published: NMSU geologists shake up understanding of tyrannosaur ancestry
+[2026-11-28 03:32:08 AM] [HISTORY_BOT] [INFO] AI usage: 1 calls, 1573 in / 512 out tokens
