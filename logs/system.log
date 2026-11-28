@@ -32621,3 +32621,9 @@
 [2026-11-28 11:30:11 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb429e494f99980fc2a515ac281
 [2026-11-28 11:30:11 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 145/300 chars, resolved=True): I'm A Celeb's Wayne Rooney opens up on 2018 public intoxication arrest
 [2026-11-28 11:30:11 AM] [DRAMAS_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 4, 'thin': 4}
+[2026-11-28 11:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb43980d40f6b5f6fb166c699e2
+[2026-11-28 11:30:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Fully funded UK master's scholarships: What Rwandan applicants need to
+[2026-11-28 11:30:12 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abb43980d40f6b5f6fb166c699e2
+[2026-11-28 11:30:12 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): He’s telling the story of his people, the history of California’s Nati
+[2026-11-28 11:30:27 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: California Public School Funding: Priorities and Overview
+[2026-11-28 11:30:29 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1710 in / 365 out tokens
