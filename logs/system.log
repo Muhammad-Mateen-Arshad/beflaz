@@ -32429,3 +32429,17 @@
 [2026-11-28 03:29:28 AM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
 [2026-11-28 03:29:47 AM] [NEWS_BOT] [SUCCESS] Published: AJK PM extends olive branch to protesters in Rawalakot
 [2026-11-28 03:29:47 AM] [NEWS_BOT] [INFO] AI usage: 1 calls, 1435 in / 495 out tokens
+[2026-11-28 03:29:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4aabb7a94770a1531db0f8b849b
+[2026-11-28 03:29:48 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 03:29:48 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4aac79cc4603ae4a2c40ea14f1d
+[2026-11-28 03:29:48 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 130/400 chars, resolved=True): Convert United States Dollar To Pakistani Rupee
+[2026-11-28 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4aac79cc4603ae4a2c40ea14f1d
+[2026-11-28 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 80/400 chars, resolved=True): Radio Pakistan’s mobile app connects you with the world of information
+[2026-11-28 03:29:50 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4aae167d4ea593aa2d722aeb8e0
+[2026-11-28 03:29:50 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 110/400 chars, resolved=True): Vast Mineral Wealth Promises Economic Growth, Job Creation For Pakista
+[2026-11-28 03:30:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4aae167d4ea593aa2d722aeb8e0
+[2026-11-28 03:30:05 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 179/400 chars, resolved=True): From Taliban tracking to working with Newsom, Afghan interpreter’s new
+[2026-11-28 03:30:06 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4aae167d4ea593aa2d722aeb8e0
+[2026-11-28 03:30:06 AM] [JOBS_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): India's post-Sindoor outreach gets bigger: 33 foreign defence journali
+[2026-11-28 03:30:31 AM] [JOBS_BOT] [SUCCESS] Published: NHM Punjab Contractual Staff Regularisation Updates
+[2026-11-28 03:30:32 AM] [JOBS_BOT] [INFO] AI usage: 1 calls, 1231 in / 462 out tokens
