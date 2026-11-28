@@ -32665,3 +32665,18 @@
 [2026-11-28 03:34:36 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-28 03:37:30 PM] [NEWS_BOT] [SUCCESS] Published: Govt, PPP discuss upcoming Parliament session and 'potential legislatives agendas'
 [2026-11-28 03:37:30 PM] [NEWS_BOT] [INFO] AI usage: 1 calls, 695 in / 388 out tokens
+[2026-11-28 03:39:11 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 5s
+[2026-11-28 03:39:17 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 10s
+[2026-11-28 03:39:50 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 15s
+[2026-11-28 03:40:06 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 20s
+[2026-11-28 03:40:26 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 25s
+[2026-11-28 03:40:52 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:41:22 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:41:55 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:42:25 PM] [AI_BOT] [INFO] Switched to Gemini key 2 of 5
+[2026-11-28 03:42:27 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:42:58 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:43:28 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:45:01 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:45:31 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
+[2026-11-28 03:46:01 PM] [JOBS_BOT] [ERROR] AI unavailable: Gemini did not answer after several retries
