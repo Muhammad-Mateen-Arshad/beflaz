@@ -32448,3 +32448,9 @@
 [2026-11-28 03:30:33 AM] [DRAMAS_BOT] [INFO] Skipped (source text too thin, 292/300 chars, resolved=True): Osmanlı Devleti
 [2026-11-28 03:31:03 AM] [DRAMAS_BOT] [SUCCESS] Published: Bridgerton Season 5: Expected Netflix Release Date & Everything We Know So Far
 [2026-11-28 03:31:04 AM] [DRAMAS_BOT] [INFO] AI usage: 1 calls, 1628 in / 481 out tokens
+[2026-11-28 03:31:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4af8608448899c949c475775269
+[2026-11-28 03:31:05 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 192/400 chars, resolved=True): Fully funded UK master's scholarships: What Rwandan applicants need to
+[2026-11-28 03:31:05 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4af8608448899c949c475775269
+[2026-11-28 03:31:05 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): He’s telling the story of his people, the history of California’s Nati
+[2026-11-28 03:31:30 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: NJUST Bachelor Programs 2027: Eligibility and Application
+[2026-11-28 03:31:30 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1365 in / 596 out tokens
