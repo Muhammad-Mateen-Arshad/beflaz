@@ -32502,3 +32502,18 @@
 [2026-11-28 05:11:42 AM] [SCHOLARSHIPS_BOT] [INFO] Skipped (source text too thin, 203/400 chars, resolved=True): He’s telling the story of his people, the history of California’s Nati
 [2026-11-28 05:11:59 AM] [SCHOLARSHIPS_BOT] [SUCCESS] Published: Honhaar Scholarship and Laptop Scheme: Eligibility Guide
 [2026-11-28 05:12:00 AM] [SCHOLARSHIPS_BOT] [INFO] AI usage: 1 calls, 1316 in / 452 out tokens
+[2026-11-28 05:12:01 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: https://www.harvardhealth.org/blog/whats-good-for-the-heart-is-good-for-the-mind-201811231
+[2026-11-28 05:12:01 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 0/800 chars, resolved=True): Brain health rests on heart health: Guidelines for lifestyle changes
+[2026-11-28 05:12:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a189754ca9a39708012db91a3
+[2026-11-28 05:12:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 202/800 chars, resolved=True): A Massive Study Links The Time You Eat Breakfast to How Long You'll Li
+[2026-11-28 05:12:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a189754ca9a39708012db91a3
+[2026-11-28 05:12:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 31/800 chars, resolved=True): Are Cranberries Good for You? Experts Explain What They Can and Can’t 
+[2026-11-28 05:12:02 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a189754ca9a39708012db91a3
+[2026-11-28 05:12:02 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 149/800 chars, resolved=True): Why are training facilities so important for women's sports teams?
+[2026-11-28 05:12:03 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a28a304dbe976ac06c02be927
+[2026-11-28 05:12:03 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 152/800 chars, resolved=True): Neighborhood Socioeconomic Status Links to Afternoon Physical Activity
+[2026-11-28 05:12:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a28a304dbe976ac06c02be927
+[2026-11-28 05:12:04 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 179/800 chars, resolved=True): Exercise Interventions Show Broad Potential for Older Adults With Cogn
+[2026-11-28 05:12:04 AM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62a28a304dbe976ac06c02be927
+[2026-11-28 05:12:04 AM] [HEALTH_BOT] [INFO] Skipped (source text too thin, 182/800 chars, resolved=True): 24 common aging myths and the facts behind them
+[2026-11-28 05:12:04 AM] [HEALTH_BOT] [INFO] Nothing published this run: {'already_seen': 13, 'tried': 7, 'thin': 7}
