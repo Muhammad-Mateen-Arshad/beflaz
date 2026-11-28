@@ -32733,3 +32733,20 @@
 [2026-11-28 04:03:43 PM] [AI_BOT] [WARN] Gemini server busy, retrying in 30s
 [2026-11-28 04:14:03 PM] [HEALTH_BOT] [SUCCESS] Published: Drinking Three Glasses of Milk a Week? Study Examines a Possible Link With Liver Cancer Risk
 [2026-11-28 04:14:04 PM] [HEALTH_BOT] [INFO] AI usage: 1 calls, 1408 in / 553 out tokens
+[2026-11-28 04:14:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afdcdda4f4ea8835544d233d7208
+[2026-11-28 04:14:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 152/400 chars, resolved=True): New fossil from South Africa offers clues to how giant plant‑eating di
+[2026-11-28 04:14:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afdcdda4f4ea8835544d233d7208
+[2026-11-28 04:14:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 201/400 chars, resolved=True): 44 intriguing facts and real-life tales collected from around the worl
+[2026-11-28 04:14:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afdcdda4f4ea8835544d233d7208
+[2026-11-28 04:14:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 137/400 chars, resolved=True): Would You Exercise in an Art Gallery? This Museum Specifically Wants Y
+[2026-11-28 04:14:06 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afdcdda4f4ea8835544d233d7208
+[2026-11-28 04:14:06 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 128/400 chars, resolved=True): Tiny Alabama fossil reveals an early relative of modern scorpions
+[2026-11-28 04:14:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afdce1ecf4413838a8d510a3efad
+[2026-11-28 04:14:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 197/400 chars, resolved=True): Scientists compared Purussaurus with Tyrannosaurus rex, the ancient ca
+[2026-11-28 04:14:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afdcf0cf94373916c7e9277bbf0f
+[2026-11-28 04:14:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 200/400 chars, resolved=True): 54 remarkable archaeological discoveries from ancient civilizations
+[2026-11-28 04:14:07 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afdcf0cf94373916c7e9277bbf0f
+[2026-11-28 04:14:07 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 100/400 chars, resolved=True): Discovery of an Egyptian structure hidden for 2,600 years offers clues
+[2026-11-28 04:14:08 PM] [SOURCES_BOT] [WARN] Resolved but could not extract page text: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0afdcf0cf94373916c7e9277bbf0f
+[2026-11-28 04:14:08 PM] [HISTORY_BOT] [INFO] Skipped (source text too thin, 202/400 chars, resolved=True): Greek archaeological mission uncovers massive limestone foundations in
+[2026-11-28 04:14:08 PM] [HISTORY_BOT] [INFO] Nothing published this run: {'already_seen': 7, 'tried': 8, 'thin': 8}
